@@ -1,0 +1,61 @@
+{
+  "company_name": "Bajaj Finserv",
+  "batch_number": 8,
+  "total_employees": 8,
+  "departments_included": [
+    "general"
+  ],
+  "department_counts": {
+    "general": 8
+  },
+  "employees": [
+    {
+      "employee_id": "BAJ_0057",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "BAJ_0058",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "BAJ_0059",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "BAJ_0060",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "BAJ_0061",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "BAJ_0062",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "BAJ_0063",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "BAJ_0064",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "company_name": "Iifl Finance",
+  "batch_number": 4,
+  "total_employees": 10,
+  "departments_included": [
+    "general"
+  ],
+  "department_counts": {
+    "general": 10
+  },
+  "employees": [
+    {
+      "employee_id": "IIF_0341",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "IIF_0342",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "IIF_0343",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "IIF_0344",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "IIF_0345",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "IIF_0346",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "IIF_0347",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "IIF_0348",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "IIF_0349",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "IIF_0350",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    }
+  ]
+}

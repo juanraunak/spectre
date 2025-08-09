@@ -1,0 +1,86 @@
+[
+  {
+    "department": "data",
+    "employee_count": 21,
+    "critical_gaps_count": 0,
+    "most_missing_skills": []
+  },
+  {
+    "department": "management",
+    "employee_count": 59,
+    "critical_gaps_count": 0,
+    "most_missing_skills": []
+  },
+  {
+    "department": "general",
+    "employee_count": 7,
+    "critical_gaps_count": 0,
+    "most_missing_skills": []
+  },
+  {
+    "department": "marketing",
+    "employee_count": 6,
+    "critical_gaps_count": 0,
+    "most_missing_skills": []
+  },
+  {
+    "department": "hr",
+    "employee_count": 13,
+    "critical_gaps_count": 0,
+    "most_missing_skills": []
+  },
+  {
+    "department": "product",
+    "employee_count": 7,
+    "critical_gaps_count": 0,
+    "most_missing_skills": []
+  },
+  {
+    "department": "technology",
+    "employee_count": 19,
+    "critical_gaps_count": 0,
+    "most_missing_skills": []
+  },
+  {
+    "department": "finance",
+    "employee_count": 152,
+    "critical_gaps_count": 0,
+    "most_missing_skills": []
+  },
+  {
+    "department": "engineering",
+    "employee_count": 11,
+    "critical_gaps_count": 0,
+    "most_missing_skills": []
+  },
+  {
+    "department": "design",
+    "employee_count": 4,
+    "critical_gaps_count": 0,
+    "most_missing_skills": []
+  },
+  {
+    "department": "operations",
+    "employee_count": 1,
+    "critical_gaps_count": 0,
+    "most_missing_skills": []
+  },
+  {
+    "department": "sales",
+    "employee_count": 8,
+    "critical_gaps_count": 0,
+    "most_missing_skills": []
+  },
+  {
+    "department": "risk",
+    "employee_count": 1,
+    "critical_gaps_count": 0,
+    "most_missing_skills": []
+  },
+  {
+    "department": "customer_success",
+    "employee_count": 1,
+    "critical_gaps_count": 0,
+    "most_missing_skills": []
+  }
+]

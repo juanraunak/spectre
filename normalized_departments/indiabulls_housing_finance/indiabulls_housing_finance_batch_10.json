@@ -1,0 +1,61 @@
+{
+  "company_name": "Indiabulls Housing Finance",
+  "batch_number": 10,
+  "total_employees": 8,
+  "departments_included": [
+    "general"
+  ],
+  "department_counts": {
+    "general": 8
+  },
+  "employees": [
+    {
+      "employee_id": "IND_0483",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "IND_0484",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "IND_0485",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "IND_0486",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "IND_0487",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "IND_0488",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "IND_0489",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "IND_0490",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    }
+  ]
+}

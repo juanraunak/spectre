@@ -1,0 +1,61 @@
+{
+  "company_name": "Hdfc Bank",
+  "batch_number": 8,
+  "total_employees": 8,
+  "departments_included": [
+    "general"
+  ],
+  "department_counts": {
+    "general": 8
+  },
+  "employees": [
+    {
+      "employee_id": "HDF_0197",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "HDF_0198",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "HDF_0199",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "HDF_0200",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "HDF_0201",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "HDF_0202",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "HDF_0203",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "HDF_0204",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "overall_statistics": {
+    "target_company": "Manipal Fintech",
+    "total_target_employees": 100,
+    "total_competitor_employees": 810,
+    "employees_with_quick_matches": 100,
+    "employees_with_detailed_analysis": 100,
+    "match_rate": 100.0
+  },
+  "department_breakdown": {
+    "general": {
+      "employees": 100,
+      "with_matches": 100,
+      "total_matches": 81000
+    }
+  }
+}

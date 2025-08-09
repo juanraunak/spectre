@@ -1,0 +1,67 @@
+{
+  "company_name": "Icici Bank",
+  "batch_number": 6,
+  "total_employees": 9,
+  "departments_included": [
+    "general"
+  ],
+  "department_counts": {
+    "general": 9
+  },
+  "employees": [
+    {
+      "employee_id": "ICI_0266",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "ICI_0267",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "ICI_0268",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "ICI_0269",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "ICI_0270",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "ICI_0271",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "ICI_0272",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "ICI_0273",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "ICI_0274",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    }
+  ]
+}

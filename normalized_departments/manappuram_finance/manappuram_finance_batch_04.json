@@ -1,0 +1,73 @@
+{
+  "company_name": "Manappuram Finance",
+  "batch_number": 4,
+  "total_employees": 10,
+  "departments_included": [
+    "general"
+  ],
+  "department_counts": {
+    "general": 10
+  },
+  "employees": [
+    {
+      "employee_id": "MAN_0591",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0592",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0593",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0594",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0595",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0596",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0597",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0598",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0599",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0600",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    }
+  ]
+}

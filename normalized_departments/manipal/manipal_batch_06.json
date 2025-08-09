@@ -1,0 +1,73 @@
+{
+  "company_name": "Manipal",
+  "batch_number": 6,
+  "total_employees": 10,
+  "departments_included": [
+    "general"
+  ],
+  "department_counts": {
+    "general": 10
+  },
+  "employees": [
+    {
+      "employee_id": "MAN_0711",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0712",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0713",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0714",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0715",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0716",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0717",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0718",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0719",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAN_0720",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    }
+  ]
+}

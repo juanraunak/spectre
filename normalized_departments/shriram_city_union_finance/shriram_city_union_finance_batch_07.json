@@ -1,0 +1,49 @@
+{
+  "company_name": "Shriram City Union Finance",
+  "batch_number": 7,
+  "total_employees": 6,
+  "departments_included": [
+    "general"
+  ],
+  "department_counts": {
+    "general": 6
+  },
+  "employees": [
+    {
+      "employee_id": "SHR_0887",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "SHR_0888",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "SHR_0889",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "SHR_0890",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "SHR_0891",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "SHR_0892",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    }
+  ]
+}

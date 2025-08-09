@@ -1,0 +1,63 @@
+2025/07/22-21:55:57.105 5ce8 Reusing MANIFEST C:\Users\juanr\OneDrive\Desktop\hydra\linkedin_browser_profile\Default\Session Storage/MANIFEST-000001
+2025/07/22-21:55:57.110 5ce8 Recovering log #62
+2025/07/22-21:55:57.120 5ce8 Reusing old log C:\Users\juanr\OneDrive\Desktop\hydra\linkedin_browser_profile\Default\Session Storage/000062.log 
+2025/07/22-23:02:23.736 15dc Level-0 table #66: started
+2025/07/22-23:02:23.741 15dc Level-0 table #66: 25935 bytes OK
+2025/07/22-23:02:23.743 15dc Delete type=0 #62
+2025/07/22-23:16:12.937 15dc Level-0 table #68: started
+2025/07/22-23:16:12.943 15dc Level-0 table #68: 27039 bytes OK
+2025/07/22-23:16:12.945 15dc Delete type=0 #65
+2025/07/23-00:34:14.291 5ce8 Level-0 table #70: started
+2025/07/23-00:34:14.296 5ce8 Level-0 table #70: 25892 bytes OK
+2025/07/23-00:34:14.298 5ce8 Delete type=0 #67
+2025/07/23-00:34:14.298 5ce8 Compacting 4@0 + 1@1 files
+2025/07/23-00:34:14.304 5ce8 Generated table #71@0: 275 keys, 6328 bytes
+2025/07/23-00:34:14.304 5ce8 Compacted 4@0 + 1@1 files => 6328 bytes
+2025/07/23-00:34:14.305 5ce8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/23-00:34:14.306 5ce8 Delete type=2 #61
+2025/07/23-00:34:14.306 5ce8 Delete type=2 #63
+2025/07/23-00:34:14.306 5ce8 Delete type=2 #66
+2025/07/23-00:34:14.306 5ce8 Delete type=2 #68
+2025/07/23-00:34:14.306 5ce8 Delete type=2 #70
+2025/07/23-01:37:57.049 15dc Level-0 table #73: started
+2025/07/23-01:37:57.054 15dc Level-0 table #73: 23992 bytes OK
+2025/07/23-01:37:57.055 15dc Delete type=0 #69
+2025/07/23-01:46:42.954 15dc Level-0 table #75: started
+2025/07/23-01:46:42.959 15dc Level-0 table #75: 37355 bytes OK
+2025/07/23-01:46:42.960 15dc Delete type=0 #72
+2025/07/23-01:49:26.933 15dc Level-0 table #77: started
+2025/07/23-01:49:26.938 15dc Level-0 table #77: 35683 bytes OK
+2025/07/23-01:49:26.940 15dc Delete type=0 #74
+2025/07/23-01:51:12.940 15dc Level-0 table #79: started
+2025/07/23-01:51:12.945 15dc Level-0 table #79: 32596 bytes OK
+2025/07/23-01:51:12.947 15dc Delete type=0 #76
+2025/07/23-01:51:12.947 15dc Compacting 4@0 + 1@1 files
+2025/07/23-01:51:12.952 15dc Generated table #80@0: 308 keys, 7578 bytes
+2025/07/23-01:51:12.952 15dc Compacted 4@0 + 1@1 files => 7578 bytes
+2025/07/23-01:51:12.953 15dc compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/23-01:51:12.954 15dc Delete type=2 #71
+2025/07/23-01:51:12.954 15dc Delete type=2 #73
+2025/07/23-01:51:12.954 15dc Delete type=2 #75
+2025/07/23-01:51:12.954 15dc Delete type=2 #77
+2025/07/23-01:51:12.954 15dc Delete type=2 #79
+2025/07/23-02:55:56.873 15dc Level-0 table #82: started
+2025/07/23-02:55:56.878 15dc Level-0 table #82: 34239 bytes OK
+2025/07/23-02:55:56.879 15dc Delete type=0 #78
+2025/07/23-03:06:43.929 15dc Level-0 table #84: started
+2025/07/23-03:06:43.934 15dc Level-0 table #84: 32218 bytes OK
+2025/07/23-03:06:43.935 15dc Delete type=0 #81
+2025/07/23-03:08:38.924 15dc Level-0 table #86: started
+2025/07/23-03:08:38.929 15dc Level-0 table #86: 34904 bytes OK
+2025/07/23-03:08:38.930 15dc Delete type=0 #83
+2025/07/23-03:10:02.549 5ce8 Level-0 table #88: started
+2025/07/23-03:10:02.554 5ce8 Level-0 table #88: 32891 bytes OK
+2025/07/23-03:10:02.556 5ce8 Delete type=0 #85
+2025/07/23-03:10:02.556 5ce8 Compacting 4@0 + 1@1 files
+2025/07/23-03:10:02.562 5ce8 Generated table #89@0: 325 keys, 8140 bytes
+2025/07/23-03:10:02.562 5ce8 Compacted 4@0 + 1@1 files => 8140 bytes
+2025/07/23-03:10:02.562 5ce8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/23-03:10:02.564 5ce8 Delete type=2 #80
+2025/07/23-03:10:02.564 5ce8 Delete type=2 #82
+2025/07/23-03:10:02.564 5ce8 Delete type=2 #84
+2025/07/23-03:10:02.564 5ce8 Delete type=2 #86
+2025/07/23-03:10:02.564 5ce8 Delete type=2 #88

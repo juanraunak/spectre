@@ -1,0 +1,67 @@
+{
+  "company_name": "Muthoot Finance",
+  "batch_number": 5,
+  "total_employees": 9,
+  "departments_included": [
+    "general"
+  ],
+  "department_counts": {
+    "general": 9
+  },
+  "employees": [
+    {
+      "employee_id": "MUT_0797",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MUT_0798",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MUT_0799",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MUT_0800",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MUT_0801",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MUT_0802",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MUT_0803",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MUT_0804",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MUT_0805",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    }
+  ]
+}

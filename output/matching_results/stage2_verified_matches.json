@@ -1,0 +1,9 @@
+{
+  "summary": {
+    "target_company": "Manipal",
+    "verified_pairs": 0,
+    "gpt_enabled": false,
+    "gpt_match_threshold": 0.55
+  },
+  "verified_matches": []
+}

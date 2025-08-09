@@ -1,0 +1,725 @@
+{
+  "company_name": "Shriram City Union Finance",
+  "employees": [
+    {
+      "name": "Firoz Shaikh",
+      "position": "Division Manager at Shriram City Union Finance Limited",
+      "employee_id": "Shr_001",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sandhya Srikanth",
+      "position": "Head Information Systems at Shriram City Union Finance",
+      "employee_id": "Shr_002",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Jasmine Shethia",
+      "position": "Manager - Administration at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_003",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "rohit Na",
+      "position": "Assistant recovery manager at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_004",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Akanksha Sharma",
+      "position": "Manager specializing in Financial Planning at Shriram City Union Finance Limited",
+      "employee_id": "Shr_005",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Pradeep Desai",
+      "position": "HR Head at Shriram City Union Finance",
+      "employee_id": "Shr_006",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Dheeraj Kumar Srivastava",
+      "position": "Senior Vice President & Head - Collections at Vertelo India",
+      "employee_id": "Shr_007",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Jai Ponde",
+      "position": "Vice President - Investor Relations at Shriram City Union Finance Ltd.",
+      "employee_id": "Shr_008",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "SUSHANTH PUTHRAN",
+      "position": "Executive Assistant at Shriram City Union Finance Limited",
+      "employee_id": "Shr_009",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Hemanth Kumar n",
+      "position": "HR & MARKETING PROFESSIONAL",
+      "employee_id": "Shr_010",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Srikanth Nalla",
+      "position": "Shriram city union finance ltd at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_011",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Rajarajan vedanayagam",
+      "position": "Asst general manager at shriram city union finance",
+      "employee_id": "Shr_012",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Phani Babu Vemuri",
+      "position": "Deputy General Manager at Shriram Finance Limited",
+      "employee_id": "Shr_013",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Megha Mali",
+      "position": "SHRIRAM CITY UNION FINANCE LTD",
+      "employee_id": "Shr_014",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sripathi Rangineni",
+      "position": "Sr.Manager,Shriram CIty Union Finance Ltd,Chennai",
+      "employee_id": "Shr_015",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Agnew Chacko",
+      "position": "Sr. Vice President at Shriram City Union Finance Limited",
+      "employee_id": "Shr_016",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Arul Mozhi",
+      "position": "PRODUCT EXECUTIVE SHRIRAM CITY UNION FINANCE TIRUCHY",
+      "employee_id": "Shr_017",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "sujay keskar",
+      "position": "Executive at SHRIRAM CITY UNION FINANCE LTD",
+      "employee_id": "Shr_018",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "SOMASUNDARAM CHANDRASEKARAN",
+      "position": "scuf at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_019",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "RAJESH TIWARI",
+      "position": "Senior. Vice President at SHRIRAM CITY UNION FINANCE LTD.",
+      "employee_id": "Shr_020",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Srinivasarao Bhrugumalla",
+      "position": "Senior Vice President(Accounts) at Shriram Finance Ltd.",
+      "employee_id": "Shr_021",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Manjula L",
+      "position": "--",
+      "employee_id": "Shr_022",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "kalyan pothineni",
+      "position": "Marketing Executive at shriram city union finance",
+      "employee_id": "Shr_023",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Revathi Hariharan",
+      "position": "Senior Manager - HR at Shriram City Union Finance Limited",
+      "employee_id": "Shr_024",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Suresh Subramaniam",
+      "position": "ASST.GENERAL MANAGER, SHRIRAM CITY UNION FINANCE LTD",
+      "employee_id": "Shr_025",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "v. shivakrishna",
+      "position": "Marketing Executive at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_026",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "BALAJI KOTTAWAR",
+      "position": "SR EXECUTIVE at SHRIRAM CITY UNION FINANCE LTD",
+      "employee_id": "Shr_027",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "NITIN INGLE",
+      "position": "--",
+      "employee_id": "Shr_028",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Dolly Rana",
+      "position": "Executive at Shriram city union finance ltd",
+      "employee_id": "Shr_029",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Prafulla Mohanty",
+      "position": "Chief Internal Auditor at Shriram City Union Finance Limited",
+      "employee_id": "Shr_030",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Rayapati Manohar",
+      "position": "Regional Manager at Shriram City Union Finance Ltd",
+      "employee_id": "Shr_031",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Deepak Prakash",
+      "position": "Asst manager at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_032",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Suresh Kumar",
+      "position": "Credit Officer at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_033",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "khushboo khosla taneja",
+      "position": "Software Engineer at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_034",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "kodali durgababu",
+      "position": "Recovery Officer at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_035",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Prashant patil Patil",
+      "position": "Business Development Manager at Shriram city union finance ltd",
+      "employee_id": "Shr_036",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sadu Naveen Kumar",
+      "position": "Marketing executive",
+      "employee_id": "Shr_037",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Gouse Mohiddin Jilani",
+      "position": "Joint Managing Director at Shriram Finance Limited | In the Finance Industry for over 30+ Years",
+      "employee_id": "Shr_038",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Malathi Sekar",
+      "position": "Lawyer at shriram city union finance ltd",
+      "employee_id": "Shr_039",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Vaibhav Deokar",
+      "position": "finance at shriram city union finance ltd",
+      "employee_id": "Shr_040",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Santhosh narayanan",
+      "position": "credit underwriter Mortgage Business Loan and Housing loan KYC Shriram City Union financial limited",
+      "employee_id": "Shr_041",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "VIJAY PHULSOUNADR",
+      "position": "Regional Manager at SHRIRAM CITY UNION FINANCE LTD",
+      "employee_id": "Shr_042",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "srikanth masula",
+      "position": "accountant at shriram city union finance ltd",
+      "employee_id": "Shr_043",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Kumaran C",
+      "position": "Relationship Manager at Shriram City Union Finance ltd",
+      "employee_id": "Shr_044",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "SHRUTHI KEERTHI",
+      "position": "AM at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_045",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Atul Bhintade",
+      "position": "Branch Manager at Shriram city union finance ltd.",
+      "employee_id": "Shr_046",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "TRUSHAL PALEKAR",
+      "position": "Senior System Officer at Shriram City Union Finance Ltd",
+      "employee_id": "Shr_047",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "MANISH GAUTAM",
+      "position": "at Shriram city union Finance Ltd",
+      "employee_id": "Shr_048",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "joson joseph",
+      "position": "Business Development Manager at Shriram City Union Finance Limited",
+      "employee_id": "Shr_049",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Vasanthi Palani",
+      "position": "SHRIRAM GROUP at SHRIRAM CITY UNION FINANCE LTD",
+      "employee_id": "Shr_050",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Palukuri Vijay Bhaskar",
+      "position": "Finance Intern at Shriram city Union finance ltd",
+      "employee_id": "Shr_051",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sneha Ahire",
+      "position": "SYSTEM EXECUTIVE at SHRIRAM CITY UNION FINANCE LTD",
+      "employee_id": "Shr_052",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sunil Mankar",
+      "position": "Sales And Marketing Specialist at Shriram City Union Finance Limited",
+      "employee_id": "Shr_053",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "SUNDARARAJAN SRINIVASAN",
+      "position": "Sr General Manager Shriram Finance Limited",
+      "employee_id": "Shr_054",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sameeruddin Sayed",
+      "position": "Executive Trainee at Shriram City Union Finance Ltd",
+      "employee_id": "Shr_055",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Dnyaneshwar Gore",
+      "position": "--",
+      "employee_id": "Shr_056",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sonali Dubey",
+      "position": "Human Resources Manager at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_057",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Murugappan Vellayappan",
+      "position": "--",
+      "employee_id": "Shr_058",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Govind Singh",
+      "position": "Salesperson at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_059",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Pravin Parkhe",
+      "position": "Deputy Credit Manager at Shriram Finance Ltd",
+      "employee_id": "Shr_060",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    }
+  ]
+}

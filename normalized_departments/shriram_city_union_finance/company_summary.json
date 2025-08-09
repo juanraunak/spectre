@@ -1,0 +1,20 @@
+{
+  "company_name": "Shriram City Union Finance",
+  "total_employees": 60,
+  "total_files_created": 10,
+  "overall_department_distribution": {
+    "general": 60
+  },
+  "files_created": [
+    "shriram_city_union_finance_batch_01.json",
+    "shriram_city_union_finance_batch_02.json",
+    "shriram_city_union_finance_batch_03.json",
+    "shriram_city_union_finance_batch_04.json",
+    "shriram_city_union_finance_batch_05.json",
+    "shriram_city_union_finance_batch_06.json",
+    "shriram_city_union_finance_batch_07.json",
+    "shriram_city_union_finance_batch_08.json",
+    "shriram_city_union_finance_batch_09.json",
+    "shriram_city_union_finance_batch_10.json"
+  ]
+}

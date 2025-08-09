@@ -1,0 +1,20 @@
+{
+  "company_name": "Hdfc Bank",
+  "total_employees": 80,
+  "total_files_created": 10,
+  "overall_department_distribution": {
+    "general": 80
+  },
+  "files_created": [
+    "hdfc_bank_batch_01.json",
+    "hdfc_bank_batch_02.json",
+    "hdfc_bank_batch_03.json",
+    "hdfc_bank_batch_04.json",
+    "hdfc_bank_batch_05.json",
+    "hdfc_bank_batch_06.json",
+    "hdfc_bank_batch_07.json",
+    "hdfc_bank_batch_08.json",
+    "hdfc_bank_batch_09.json",
+    "hdfc_bank_batch_10.json"
+  ]
+}

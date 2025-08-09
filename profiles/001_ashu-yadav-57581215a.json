@@ -1,0 +1,15 @@
+{
+  "url": "https://in.linkedin.com/in/ashu-yadav-57581215a",
+  "raw_text": "LinkedIn\nJoin LinkedIn\nEmail\nPassword (6+ characters)\nBy clicking Agree & Join, you agree to the LinkedIn User Agreement, Privacy Policy, and Cookie Policy.\nAgree & Join\nor\nAlready on Linkedin? Sign in\nLinkedIn\n© 2025\nAbout\nAccessibility\nUser Agreement\nPrivacy Policy\nCookie Policy\nCopyright Policy\nBrand Policy\nGuest Controls\nCommunity Guidelines\nLanguage",
+  "skills_text": "LinkedIn\nSign in\nEmail or phone\nPassword\nShow\nForgot password?\nSign in\nor\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.\nNew to Linkedin? Join now\nLinkedIn\n© 2025\nAbout\nAccessibility\nUser Agreement\nPrivacy Policy\nCookie Policy\nCopyright Policy\nBrand Policy\nGuest Controls\nCommunity Guidelines\nLanguage",
+  "scraped_at": "2025-07-22 21:56:23",
+  "has_skills": true,
+  "cleaned_profile": {
+    "profile_url": "https://in.linkedin.com/in/ashu-yadav-57581215a"
+  },
+  "tokens_used": {
+    "prompt_tokens": 332,
+    "completion_tokens": 30,
+    "total_tokens": 362
+  }
+}

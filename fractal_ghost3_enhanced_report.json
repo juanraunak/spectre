@@ -1,0 +1,522 @@
+{
+  "fractal_metadata": {
+    "version": "ghost_3_enhanced",
+    "timestamp": "2025-08-01T19:09:34.093871",
+    "target_company": "Bajaj Finserv",
+    "total_employees_analyzed": 11,
+    "target_employees": 1,
+    "competitor_employees": 10,
+    "companies_analyzed": 11
+  },
+  "company_analysis": {
+    "Bajaj Finserv": {
+      "employee_count": 1,
+      "departments": [
+        "general"
+      ],
+      "roles": [
+        "Professional"
+      ],
+      "is_target": true
+    },
+    "Capital First": {
+      "employee_count": 1,
+      "departments": [
+        "finance"
+      ],
+      "roles": [
+        "Professional"
+      ],
+      "is_target": false
+    },
+    "Hdfc Bank": {
+      "employee_count": 1,
+      "departments": [
+        "finance"
+      ],
+      "roles": [
+        "Professional"
+      ],
+      "is_target": false
+    },
+    "Icici Bank": {
+      "employee_count": 1,
+      "departments": [
+        "finance"
+      ],
+      "roles": [
+        "Professional"
+      ],
+      "is_target": false
+    },
+    "Iifl Finance": {
+      "employee_count": 1,
+      "departments": [
+        "finance"
+      ],
+      "roles": [
+        "Professional"
+      ],
+      "is_target": false
+    },
+    "Indiabulls Housing Finance": {
+      "employee_count": 1,
+      "departments": [
+        "finance"
+      ],
+      "roles": [
+        "Professional"
+      ],
+      "is_target": false
+    },
+    "Magma Fincorp": {
+      "employee_count": 1,
+      "departments": [
+        "general"
+      ],
+      "roles": [
+        "Professional"
+      ],
+      "is_target": false
+    },
+    "Manappuram Finance": {
+      "employee_count": 1,
+      "departments": [
+        "finance"
+      ],
+      "roles": [
+        "Professional"
+      ],
+      "is_target": false
+    },
+    "Manipal": {
+      "employee_count": 1,
+      "departments": [
+        "general"
+      ],
+      "roles": [
+        "Professional"
+      ],
+      "is_target": false
+    },
+    "Muthoot Finance": {
+      "employee_count": 1,
+      "departments": [
+        "finance"
+      ],
+      "roles": [
+        "Professional"
+      ],
+      "is_target": false
+    },
+    "Shriram City Union Finance": {
+      "employee_count": 1,
+      "departments": [
+        "finance"
+      ],
+      "roles": [
+        "Professional"
+      ],
+      "is_target": false
+    }
+  },
+  "department_summary": {
+    "general": {
+      "total_employees": 3,
+      "target_employees": 1,
+      "competitor_employees": 2,
+      "roles": [
+        "Professional"
+      ],
+      "avg_skills_per_employee": 0.0
+    },
+    "finance": {
+      "total_employees": 8,
+      "target_employees": 0,
+      "competitor_employees": 8,
+      "roles": [
+        "Professional"
+      ],
+      "avg_skills_per_employee": 3.0
+    }
+  },
+  "talent_gaps": [
+    {
+      "employee": "Unknown",
+      "current_role": "Professional",
+      "department": "general",
+      "current_skills": [],
+      "missing_skills": [
+        "credit assessment",
+        "Excel",
+        "risk management",
+        "strategic planning",
+        "Tableau",
+        "SAP",
+        "Microsoft Excel",
+        "CRM software",
+        "SQL",
+        "communication"
+      ],
+      "suggested_upskilling": [
+        "Professional Development",
+        "Industry Certifications",
+        "Skill Enhancement"
+      ],
+      "competitor_benchmarks": [
+        {
+          "name": "Unknown",
+          "company": "Capital First",
+          "role": "Professional",
+          "skills": [
+            "financial analysis",
+            "risk management",
+            "strategic planning",
+            "Excel",
+            "Tableau",
+            "SQL",
+            "leadership",
+            "communication"
+          ],
+          "skill_count": 8
+        },
+        {
+          "name": "Unknown",
+          "company": "Hdfc Bank",
+          "role": "Professional",
+          "skills": [],
+          "skill_count": 0
+        },
+        {
+          "name": "Unknown",
+          "company": "Icici Bank",
+          "role": "Professional",
+          "skills": [],
+          "skill_count": 0
+        },
+        {
+          "name": "Unknown",
+          "company": "Iifl Finance",
+          "role": "Professional",
+          "skills": [
+            "financial analysis",
+            "risk management",
+            "investment strategies",
+            "Excel",
+            "SAP",
+            "Tableau",
+            "communication",
+            "leadership"
+          ],
+          "skill_count": 8
+        },
+        {
+          "name": "Unknown",
+          "company": "Indiabulls Housing Finance",
+          "role": "Professional",
+          "skills": [],
+          "skill_count": 0
+        }
+      ],
+      "priority_score": 2.4
+    }
+  ],
+  "competitive_insights": {
+    "skill_benchmarking": {},
+    "top_missing_skills": [
+      {
+        "skill": "credit assessment",
+        "frequency": 1,
+        "percentage": 100.0
+      },
+      {
+        "skill": "Excel",
+        "frequency": 1,
+        "percentage": 100.0
+      },
+      {
+        "skill": "risk management",
+        "frequency": 1,
+        "percentage": 100.0
+      },
+      {
+        "skill": "strategic planning",
+        "frequency": 1,
+        "percentage": 100.0
+      },
+      {
+        "skill": "Tableau",
+        "frequency": 1,
+        "percentage": 100.0
+      },
+      {
+        "skill": "SAP",
+        "frequency": 1,
+        "percentage": 100.0
+      },
+      {
+        "skill": "Microsoft Excel",
+        "frequency": 1,
+        "percentage": 100.0
+      },
+      {
+        "skill": "CRM software",
+        "frequency": 1,
+        "percentage": 100.0
+      },
+      {
+        "skill": "SQL",
+        "frequency": 1,
+        "percentage": 100.0
+      },
+      {
+        "skill": "communication",
+        "frequency": 1,
+        "percentage": 100.0
+      }
+    ],
+    "department_strengths": {},
+    "department_weaknesses": {
+      "general": [
+        {
+          "skill": "credit assessment",
+          "frequency": 1
+        },
+        {
+          "skill": "Excel",
+          "frequency": 1
+        },
+        {
+          "skill": "risk management",
+          "frequency": 1
+        },
+        {
+          "skill": "strategic planning",
+          "frequency": 1
+        },
+        {
+          "skill": "Tableau",
+          "frequency": 1
+        },
+        {
+          "skill": "SAP",
+          "frequency": 1
+        },
+        {
+          "skill": "Microsoft Excel",
+          "frequency": 1
+        },
+        {
+          "skill": "CRM software",
+          "frequency": 1
+        }
+      ]
+    },
+    "role_comparisons": {
+      "Professional": {
+        "total_skills": 24,
+        "unique_skills": 13,
+        "top_skills": [
+          {
+            "skill": "financial analysis",
+            "frequency": 3
+          },
+          {
+            "skill": "risk management",
+            "frequency": 3
+          },
+          {
+            "skill": "leadership",
+            "frequency": 3
+          },
+          {
+            "skill": "communication",
+            "frequency": 3
+          },
+          {
+            "skill": "Excel",
+            "frequency": 2
+          },
+          {
+            "skill": "Tableau",
+            "frequency": 2
+          },
+          {
+            "skill": "SAP",
+            "frequency": 2
+          },
+          {
+            "skill": "strategic planning",
+            "frequency": 1
+          },
+          {
+            "skill": "SQL",
+            "frequency": 1
+          },
+          {
+            "skill": "investment strategies",
+            "frequency": 1
+          }
+        ]
+      }
+    },
+    "company_comparisons": {
+      "Bajaj Finserv": {
+        "total_skills": 0,
+        "unique_skills": 0,
+        "avg_skills_per_employee": 0.0
+      },
+      "Capital First": {
+        "total_skills": 8,
+        "unique_skills": 8,
+        "avg_skills_per_employee": 8.0
+      },
+      "Hdfc Bank": {
+        "total_skills": 0,
+        "unique_skills": 0,
+        "avg_skills_per_employee": 0.0
+      },
+      "Icici Bank": {
+        "total_skills": 0,
+        "unique_skills": 0,
+        "avg_skills_per_employee": 0.0
+      },
+      "Iifl Finance": {
+        "total_skills": 8,
+        "unique_skills": 8,
+        "avg_skills_per_employee": 8.0
+      },
+      "Indiabulls Housing Finance": {
+        "total_skills": 0,
+        "unique_skills": 0,
+        "avg_skills_per_employee": 0.0
+      },
+      "Magma Fincorp": {
+        "total_skills": 0,
+        "unique_skills": 0,
+        "avg_skills_per_employee": 0.0
+      },
+      "Manappuram Finance": {
+        "total_skills": 0,
+        "unique_skills": 0,
+        "avg_skills_per_employee": 0.0
+      },
+      "Manipal": {
+        "total_skills": 0,
+        "unique_skills": 0,
+        "avg_skills_per_employee": 0.0
+      },
+      "Muthoot Finance": {
+        "total_skills": 0,
+        "unique_skills": 0,
+        "avg_skills_per_employee": 0.0
+      },
+      "Shriram City Union Finance": {
+        "total_skills": 8,
+        "unique_skills": 8,
+        "avg_skills_per_employee": 8.0
+      }
+    }
+  },
+  "recommendations": {
+    "immediate_actions": [
+      {
+        "employee": "Unknown",
+        "department": "general",
+        "role": "Professional",
+        "priority_score": 2.4,
+        "action": "Focus on: credit assessment, Excel, risk management",
+        "training_suggestions": [
+          "Professional Development",
+          "Industry Certifications",
+          "Skill Enhancement"
+        ]
+      }
+    ],
+    "strategic_initiatives": [],
+    "training_programs": [
+      {
+        "program": "Professional Development",
+        "demand": 1,
+        "priority": "Medium"
+      },
+      {
+        "program": "Industry Certifications",
+        "demand": 1,
+        "priority": "Medium"
+      },
+      {
+        "program": "Skill Enhancement",
+        "demand": 1,
+        "priority": "Medium"
+      }
+    ],
+    "hiring_priorities": [],
+    "department_specific": {
+      "general": {
+        "top_missing_skills": [
+          {
+            "skill": "credit assessment",
+            "count": 1
+          },
+          {
+            "skill": "Excel",
+            "count": 1
+          },
+          {
+            "skill": "risk management",
+            "count": 1
+          },
+          {
+            "skill": "strategic planning",
+            "count": 1
+          },
+          {
+            "skill": "Tableau",
+            "count": 1
+          }
+        ],
+        "recommended_training": [
+          "Credit Assessment Training",
+          "Excel Training",
+          "Risk Management Training"
+        ],
+        "hiring_focus": "Prioritize candidates with credit assessment skills"
+      }
+    },
+    "role_specific": {}
+  },
+  "skill_analysis": {
+    "skill_distribution": {
+      "financial analysis": 3,
+      "risk management": 3,
+      "leadership": 3,
+      "communication": 3,
+      "Excel": 2,
+      "Tableau": 2,
+      "SAP": 2,
+      "strategic planning": 1,
+      "SQL": 1,
+      "investment strategies": 1,
+      "credit assessment": 1,
+      "Microsoft Excel": 1,
+      "CRM software": 1
+    },
+    "skill_gaps_by_level": {
+      "Professional": {
+        "credit assessment": 1,
+        "Excel": 1,
+        "risk management": 1,
+        "strategic planning": 1,
+        "Tableau": 1,
+        "SAP": 1,
+        "Microsoft Excel": 1,
+        "CRM software": 1,
+        "SQL": 1,
+        "communication": 1
+      }
+    },
+    "emerging_skills": [],
+    "critical_skills": []
+  }
+}

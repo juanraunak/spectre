@@ -1,0 +1,55 @@
+{
+  "company_name": "Magma Fincorp",
+  "batch_number": 8,
+  "total_employees": 7,
+  "departments_included": [
+    "general"
+  ],
+  "department_counts": {
+    "general": 7
+  },
+  "employees": [
+    {
+      "employee_id": "MAG_0540",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAG_0541",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAG_0542",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAG_0543",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAG_0544",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAG_0545",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "MAG_0546",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    }
+  ]
+}

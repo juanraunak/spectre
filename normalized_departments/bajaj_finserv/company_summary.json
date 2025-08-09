@@ -1,0 +1,20 @@
+{
+  "company_name": "Bajaj Finserv",
+  "total_employees": 80,
+  "total_files_created": 10,
+  "overall_department_distribution": {
+    "general": 80
+  },
+  "files_created": [
+    "bajaj_finserv_batch_01.json",
+    "bajaj_finserv_batch_02.json",
+    "bajaj_finserv_batch_03.json",
+    "bajaj_finserv_batch_04.json",
+    "bajaj_finserv_batch_05.json",
+    "bajaj_finserv_batch_06.json",
+    "bajaj_finserv_batch_07.json",
+    "bajaj_finserv_batch_08.json",
+    "bajaj_finserv_batch_09.json",
+    "bajaj_finserv_batch_10.json"
+  ]
+}

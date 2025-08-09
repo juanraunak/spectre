@@ -1,0 +1,32 @@
+0:00:04 UserEducation.MessageNotShown.IPH_ExtensionsZeroStatePromo
+0:00:04 UserEducation.MessageNotShown.FeatureDisabled
+0:00:04 Tab1 StartNav6 #renderer-script #auto_subframe
+0:00:04 Tab1 FinishNav6
+0:00:04 Tab1 PageLoad
+0:00:04 Tab1 StartNav7 #renderer-script #auto_subframe
+0:00:04 Tab1 StartNav8 #renderer-script #auto_subframe
+0:00:04 Tab1 FinishNav8
+0:00:04 Tab1 PageLoad
+0:00:04 Tab1 StartNav9 #renderer-script #auto_subframe
+0:00:04 Tab1 FinishNav9
+0:00:04 Tab1 PageLoad
+0:00:04 Tab1 StartNav10 #google #renderer-script #auto_subframe
+0:00:04 Tab1 StartNav11 #renderer-script #auto_subframe
+0:00:04 Tab1 FinishNav11
+0:00:04 UserEducation.MessageNotShown
+0:00:04 UserEducation.MessageNotShown.IPH_ExtensionsZeroStatePromo
+0:00:04 UserEducation.MessageNotShown.FeatureDisabled
+0:00:04 Tab1 PageLoad
+0:00:05 Tab1 FinishNav10
+0:00:05 Tab1 PageLoad #google
+0:00:05 Tab1 StartNav12 #renderer-script #auto_subframe
+0:00:05 Tab1 FinishNav12
+0:00:05 Tab1 PageLoad
+0:00:05 Tab1 FinishNav7
+0:00:05 Tab1 PageLoad
+0:00:06 Tab1 StartNav13 #renderer-script #auto_subframe
+0:00:06 Tab1 FinishNav13
+0:00:06 Tab1 PageLoad
+0:00:24 Memory Pressure: Moderate
+0:40:57 TextSelectionChanged
+0:41:01 Browser1 Close Tab1 at 0

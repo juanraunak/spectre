@@ -1,0 +1,49 @@
+{
+  "company_name": "Capital First",
+  "batch_number": 2,
+  "total_employees": 6,
+  "departments_included": [
+    "general"
+  ],
+  "department_counts": {
+    "general": 6
+  },
+  "employees": [
+    {
+      "employee_id": "CAP_0087",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "CAP_0088",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "CAP_0089",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "CAP_0090",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "CAP_0091",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    },
+    {
+      "employee_id": "CAP_0092",
+      "name": "",
+      "position": "Staff",
+      "department": "general"
+    }
+  ]
+}

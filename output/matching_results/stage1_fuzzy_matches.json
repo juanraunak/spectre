@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "target_company": "Manipal",
+    "target_employees": 0,
+    "competitor_employees": 910,
+    "candidate_pairs": 0,
+    "fuzzy_min_score": 0.42,
+    "max_candidates_per_target": 5
+  },
+  "matches": []
+}

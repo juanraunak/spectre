@@ -1,0 +1,97 @@
+{
+  "url": "https://in.linkedin.com/in/ashish27mishra",
+  "raw_text": "0 notifications total\nnew feed updates notifications\nHome\n1\n1 new network update notification\nMy Network\nJobs\nMessaging\nNotifications\nMe\nFor Business\nTry Premium for ₹0\nAshish Mishra\nSenior Software Engineer, Full stack developer\nxto10x\nSRM University\nBengaluru, Karnataka, India Contact info\n500+ connections\nMessage\nFollow\nMore\nOpen to work\nSenior Software Engineer, Senior Frontend Developer, Lead Software Developer and Lead Software Engineer roles\nShow details\nAbout\nAbout\nFull stack software developer\nFull stack software developer\nActivity\nActivity\n833 followers\n833 followers\nPosts\nComments\nLoaded 9 Posts posts\nAshish Mishra\nAshish Mishra\n   • 3rd+\nVerified • 3rd+\nSenior Software Engineer, Full stack developer\nSenior Software Engineer, Full stack developer\n1w • \n 1 week ago • Visible to anyone on or off LinkedIn\nThrilled to help drive Angel One’s performance review transformation through PeopleCues, delivering faster and smarter AI-powered feedback.\nPeopleCues\nPeopleCues\n735 followers\n735 followers\n6-week review cycles were the norm. Until now.\n\nAt Angel One, performance reviews that once took 4–6 weeks now wrap up in just 2–4, and that shift means everything. Huge thanks to Angel One team for the kind words, and for recognizing what we truly care about:\n📈 “You’ve moved the needle on the metrics that matter in a performance review.” –\n🤖 “The AI-led SBI feedback engine has completely changed the quality of feedback.” –\n\nIt’s a reminder that meaningful change at work doesn’t need to be loud, just well-designed.\nIf a better review experience helps employees feel heard and managers make sharper decisions, we’re doing our job right.\n\nWhat’s one underrated shift that’s made a big difference in your org? Comment below.\n\n\n\n…more\n2\nAshish Mishra reposted this\nArchit Singh\nArchit Singh\n   • 3rd+\nPremium • 3rd+\nSenior Backend Engineer | 8+ YOE | GenAI • LLMs • Distributed Systems | Infra & System Design @ Scale | Kafka · Redis · Python · Postgres |\nSenior Backend Engineer | 8+ YOE | GenAI • LLMs • Distributed Systems | Infra & System Design @ Scale | Kafka · Redis · Python · Postgres |\n1mo • \n 1 month ago • Visible to anyone on or off LinkedIn\n🧠 What if your code could write its own tests, just by running?\n\nI’ve been exploring a feedback loop between runtime behavior and AI-powered test generation, and I think it’s worth building out.\n\n🔍 The idea\nI use snoop (https://lnkd.in/gThk5c7c), a lightweight Python tracer, to log every line of code execution, variables, control flow, and function calls.\n\nThen I feed those logs into an LLM like Claude Opus 4.\n\nThe AI reads the trace and starts:\n🧪 Suggesting test cases based on real execution paths\n🧠 Spotting assertion gaps and missing invariants\n❗ Flagging logic bugs buried in branching logic\n\n🔥 Why this matters\nMost bugs don’t show up in CI.\nThey emerge when real users hit real systems under real conditions.\n\nThink:\n🔄 Feed-ranking APIs where cache invalidation races with updates\n🧵 Retry logic that silently breaks idempotency\n🎛️ Feature-flagged branches no one thought to test\n\nRuntime is the truth. Tests are just guesses.\n\nSo I’m flipping the model: Let the system tell me what I forgot to validate.\n\n⚙️ The pipeline I'm testing\n➕ Add @snoop to core infra modules\n📦 Capture logs from real or test runs\n\n🧠 Run a small Python script that:\nParses the trace\nReconstructs execution flow\nEmits test suggestions in Markdown or JSON\n🛠️ (Optional) Plug into CI to flag missed test coverage\n\n➡️ Runtime → Trace → Test\n\nEvery execution becomes a learning artifact.\n\n🌱 The long-term vision\n\n🤖 An AI observability agent that flags missing test cases live\n📈 A test suite that evolves with real traffic\n🔁 A tighter loop between dev, runtime, and QA\n💬 Want to jam on this over the weekend?\n\nIf you're into systems, tracing, test automation, or AI-for-engineering, let’s pair.\n\nJust enough time to sketch a working POC or shape it into a tiny OSS tool.\n\n…more\n17\n1 comment\n2 reposts\nShow all posts\nExperience\nExperience\nxto10x\nxto10x\nFull-time · 5 yrs 7 mos\nFull-time · 5 yrs 7 mos\nSenior Software Engineer\nSenior Software Engineer\nMar 2022 - Present · 3 yrs 5 mos\nMar 2022 to Present · 3 yrs 5 mos\nReact.js, Front-End Development and +6 skills\nSoftware Engineer\nSoftware Engineer\nJan 2020 - Mar 2022 · 2 yrs 3 mos\nJan 2020 to Mar 2022 · 2 yrs 3 mos\nHashedIn\nHashedIn\n2 yrs\n2 yrs\nSoftware Developer\nSoftware Developer\nFull-time\nFull-time\nFeb 2018 - Jan 2020 · 2 yrs\nFeb 2018 to Jan 2020 · 2 yrs\nGreater Bengaluru Area\nGreater Bengaluru Area\nMy interest is in learning new things , and reaching out to different opportunities to gain experience.\nMy interest is in learning new things , and reaching out to different opportunities to gain experience.\nSoftware Developer\nSoftware Developer\nFeb 2018 - Jan 2020 · 2 yrs\nFeb 2018 to Jan 2020 · 2 yrs\nBengaluru, Karnataka, India\nBengaluru, Karnataka, India\nTechnical Analyst intern\nTechnical Analyst intern\nFeb 2018 - Jul 2018 · 6 mos\nFeb 2018 to Jul 2018 · 6 mos\nBangalore\nBangalore\nEducation\nEducation\nSRM IST Chennai\nSRM IST Chennai\nBachelor’s Degree, Electrical, Electronics and Communications Engineering\nBachelor’s Degree, Electrical, Electronics and Communications Engineering\n2014 - 2018\n2014 - 2018\nfreeCodeCamp\nfreeCodeCamp\nFull Stack Web Development Certification, Computer Software Engineering\nFull Stack Web Development Certification, Computer Software Engineering\n2016 - 2017\n2016 - 2017\nLearnt about Front End and Back End Development of websites and gained experience in the same\nLearnt about Front End and Back End Development of websites and gained experience in the same\nShow all 3 educations\nLicenses & certifications\nLicenses & certifications\nComplete JavaScript\nComplete JavaScript\nUdemy\nUdemy\nIssued Nov 2016\nIssued Nov 2016\nIntroduction to algorithms\nIntroduction to algorithms\nCoursera\nCoursera\nIssued Aug 2016\nIssued Aug 2016\nShow all 6 licenses & certifications\nSkills\nSkills\nFront-End Development\nFront-End Development\nSenior Software Engineer at xto10x\nSenior Software Engineer at xto10x\nFront-End Design\nFront-End Design\nSenior Software Engineer at xto10x\nSenior Software Engineer at xto10x\nShow all 25 skills\nRecommendations\nRecommendations\nReceived\nReceived\nGiven\nGiven\nNothing to see for now\nNothing to see for now\nRecommendations that Ashish receives will appear here.\nRecommendations thatAshishreceives will appear here.\nCourses\nCourses\nAdvanced Algorithms And Complexity\nAdvanced Algorithms And Complexity\nAlgorithms on Graphs\nAlgorithms on Graphs\nShow all 6 courses\nLanguages\nLanguages\nEnglish\nEnglish\nHindi\nHindi\nShow all 3 languages\nOrganizations\nOrganizations\nHashedin Technologies\nHashedin Technologies\nTechnical Analyst · Feb 2018 - Dec 2019\nTechnical Analyst · Feb 2018 - Dec 2019\nAssociated with HashedIn Technologies Pvt Ltd\nAssociated with HashedIn Technologies Pvt Ltd\nInterests\nInterests\nTop Voices\nTop Voices\nCompanies\nCompanies\nGroups\nGroups\nSchools\nSchools\nGary Shapiro\nGary Shapiro\nCEO and Vice Chair of the Consumer Technology Association, owner and producer of CES\nCEO and Vice Chair of the Consumer Technology Association, owner and producer of CES\n313,690 followers\n313,690 followers\nFollow\nShubham Rastogi\nShubham Rastogi\nFounder & CEO @ Recro | Stanford Seed | Building AI + Data Teams\nFounder & CEO @ Recro | Stanford Seed | Building AI + Data Teams\n26,653 followers\n26,653 followers\nFollow\nShow all Top Voices\nMore profiles for you\nMore profiles for you\nSurabhi Kedia\nSurabhi Kedia\n· 3rd+\n3rd+ degree connection\nEngineering @Wayfair | xTo10x | Informatica | Backend Developer\nMessage\nAshish Kumar\nAshish Kumar\n· 3rd+\n3rd+ degree connection\nTravel Content Creator | 400K+ followers on Instagram & Youtube | IIT Roorkee\nMessage\nManu Sharma\nManu Sharma\n· 3rd+\n3rd+ degree connection\nEngineering @ xto10x | ReactJs, JavaScript, Typescript, Node.js\nEngineering @ xto10x | ReactJs, JavaScript, Typescript, Node.js\nMessage\nRama Bhat\nRama Bhat\n· 3rd+\n3rd+ degree connection\nCHROs & HRBPs trust me to fix ENPS & OKRs | Xto10X\nCHROs & HRBPs trust me to fix ENPS & OKRs | Xto10X\nMessage\nSaikiran Krishnamurthy\nSaikiran Krishnamurthy\n· 3rd+\n3rd+ degree connection\nCo-founder & CEO, xto10x Technologies \nCo-founder & CEO, xto10x Technologies\nMessage\nShow all\nPeople you may know\nPeople you may know\nFrom Ashish 's school\nFrom Ashish 's school\nSaniya Sharma\nSaniya Sharma\nStudent at SRM IST Chennai\nStudent at SRM IST Chennai\nConnect\nChitradeep Bhattacharjee\nChitradeep Bhattacharjee\nTour Organizer at Yes Tourism India\nTour Organizer at Yes Tourism India\nConnect\nG Mannan\nG Mannan\nStudent at SRM IST Chennai | Emerging Supply Chain Professional | MBA (Logistics & SCM) | Keen on Strategic Sourcing, Inventory Optimization, and Logistics Planning\nConnect\nSumnesh Sumnesh yadav\nSumnesh Sumnesh yadav\nAttended SRM IST Chennai\nAttended SRM IST Chennai\nConnect\nBharath Simha Reddy Dadanapu\nBharath Simha Reddy Dadanapu\nPassionate Software Developer | Proficient in Python, Java, SQL, HTML, CSS | Seeking Opportunities to Leverage My Skills in Tech Industry\nConnect\nShow all\nYou might like\nYou might like\nPages for you\nPages for you\nAcademic Careers - Engineering Faculty jobs\nAcademic Careers - Engineering Faculty jobs\nEducation\nEducation\n11,593 followers\n11,593 followers\nFollow\nGlobal Airline Jobs\nGlobal Airline Jobs\nStaffing and Recruiting\nStaffing and Recruiting\n20,140 followers\n20,140 followers\nFollow\nShow all\nAbout\nAccessibility\nTalent Solutions\nProfessional Community Policies\nCareers\nMarketing Solutions\nPrivacy & Terms\nAd Choices\nAdvertising\nSales Solutions\nMobile\nSmall Business\nSafety Center\nQuestions?\nVisit our Help Center.\nManage your account and privacy\nGo to your Settings.\nRecommendation transparency\nLearn more about Recommended Content.\nSelect Language\n         العربية (Arabic)\n         বাংলা (Bangla)\n         Čeština (Czech)\n         Dansk (Danish)\n         Deutsch (German)\n         Ελληνικά (Greek)\n         English (English)\n         Español (Spanish)\n         فارسی (Persian)\n         Suomi (Finnish)\n         Français (French)\n         हिंदी (Hindi)\n         Magyar (Hungarian)\n         Bahasa Indonesia (Indonesian)\n         Italiano (Italian)\n         עברית (Hebrew)\n         日本語 (Japanese)\n         한국어 (Korean)\n         मराठी (Marathi)\n         Bahasa Malaysia (Malay)\n         Nederlands (Dutch)\n         Norsk (Norwegian)\n         ਪੰਜਾਬੀ (Punjabi)\n         Polski (Polish)\n         Português (Portuguese)\n         Română (Romanian)\n         Русский (Russian)\n         Svenska (Swedish)\n         తెలుగు (Telugu)\n         ภาษาไทย (Thai)\n         Tagalog (Tagalog)\n         Türkçe (Turkish)\n         Українська (Ukrainian)\n         Tiếng Việt (Vietnamese)\n         简体中文 (Chinese (Simplified))\n         正體中文 (Chinese (Traditional))\n     LinkedIn Corporation © 2025\nStatus is online\nMessaging\nYou are on the messaging overlay. Press enter to open the list of conversations.\nCompose message\nYou are on the messaging overlay. Press enter to open the list of conversations.",
+  "skills_text": "0 notifications total\nnew feed updates notifications\nHome\n1\n1 new network update notification\nMy Network\nJobs\nMessaging\nNotifications\nMe\nFor Business\nTry Premium for ₹0\nAshish Mishra\nSenior Software Engineer, Full stack developer\nMore\nFollow\nMessage\nSkills\nAll\nIndustry Knowledge\nTools & Technologies\nInterpersonal Skills\nFront-End Development\nFront-End Development\nSenior Software Engineer at xto10x\nSenior Software Engineer at xto10x\nFront-End Design\nFront-End Design\nSenior Software Engineer at xto10x\nSenior Software Engineer at xto10x\nNext.js\nNext.js\nSenior Software Engineer at xto10x\nSenior Software Engineer at xto10x\nAmazon Web Services (AWS)\nAmazon Web Services (AWS)\nSenior Software Engineer at xto10x\nSenior Software Engineer at xto10x\nSoftware as a Service (SaaS)\nSoftware as a Service (SaaS)\nSenior Software Engineer at xto10x\nSenior Software Engineer at xto10x\nAnalytical Skills\nAnalytical Skills\nSenior Software Engineer at xto10x\nSenior Software Engineer at xto10x\nWeb Development\nWeb Development\n2 endorsements\n2 endorsements\nDjango\nDjango\n1 endorsement\n1 endorsement\nReact.js\nReact.js\nSenior Software Engineer at xto10x\nSenior Software Engineer at xto10x\n2 endorsements\n2 endorsements\nData Structures\nData Structures\n1 endorsement\n1 endorsement\nAlgorithms\nAlgorithms\n1 endorsement\n1 endorsement\nFront-end Development\nFront-end Development\nProgramming\nProgramming\nAndroid Development\nAndroid Development\nPython\nPython\nHTML\nHTML\nCascading Style Sheets (CSS)\nCascading Style Sheets (CSS)\nJavaScript\nJavaScript\nSASS\nSASS\nReact Native\nReact Native\nNode.js\nNode.js\nSenior Software Engineer at xto10x\nSenior Software Engineer at xto10x\nMongoDB\nMongoDB\nCompetitive programming\nCompetitive programming\n1 endorsement\n1 endorsement\nRedis\nRedis\nExpress.js\nExpress.js\nMore profiles for you\nMore profiles for you\nSurabhi Kedia\nSurabhi Kedia\n· 3rd+\n3rd+ degree connection\nEngineering @Wayfair | xTo10x | Informatica | Backend Developer\nMessage\nAshish Kumar\nAshish Kumar\n· 3rd+\n3rd+ degree connection\nTravel Content Creator | 400K+ followers on Instagram & Youtube | IIT Roorkee\nMessage\nManu Sharma\nManu Sharma\n· 3rd+\n3rd+ degree connection\nEngineering @ xto10x | ReactJs, JavaScript, Typescript, Node.js\nEngineering @ xto10x | ReactJs, JavaScript, Typescript, Node.js\nMessage\nRama Bhat\nRama Bhat\n· 3rd+\n3rd+ degree connection\nCHROs & HRBPs trust me to fix ENPS & OKRs | Xto10X\nCHROs & HRBPs trust me to fix ENPS & OKRs | Xto10X\nMessage\nSaikiran Krishnamurthy\nSaikiran Krishnamurthy\n· 3rd+\n3rd+ degree connection\nCo-founder & CEO, xto10x Technologies \nCo-founder & CEO, xto10x Technologies\nMessage\nShow more\nAbout\nAccessibility\nTalent Solutions\nProfessional Community Policies\nCareers\nMarketing Solutions\nPrivacy & Terms\nAd Choices\nAdvertising\nSales Solutions\nMobile\nSmall Business\nSafety Center\nQuestions?\nVisit our Help Center.\nManage your account and privacy\nGo to your Settings.\nRecommendation transparency\nLearn more about Recommended Content.\nSelect Language\n         العربية (Arabic)\n         বাংলা (Bangla)\n         Čeština (Czech)\n         Dansk (Danish)\n         Deutsch (German)\n         Ελληνικά (Greek)\n         English (English)\n         Español (Spanish)\n         فارسی (Persian)\n         Suomi (Finnish)\n         Français (French)\n         हिंदी (Hindi)\n         Magyar (Hungarian)\n         Bahasa Indonesia (Indonesian)\n         Italiano (Italian)\n         עברית (Hebrew)\n         日本語 (Japanese)\n         한국어 (Korean)\n         मराठी (Marathi)\n         Bahasa Malaysia (Malay)\n         Nederlands (Dutch)\n         Norsk (Norwegian)\n         ਪੰਜਾਬੀ (Punjabi)\n         Polski (Polish)\n         Português (Portuguese)\n         Română (Romanian)\n         Русский (Russian)\n         Svenska (Swedish)\n         తెలుగు (Telugu)\n         ภาษาไทย (Thai)\n         Tagalog (Tagalog)\n         Türkçe (Turkish)\n         Українська (Ukrainian)\n         Tiếng Việt (Vietnamese)\n         简体中文 (Chinese (Simplified))\n         正體中文 (Chinese (Traditional))\n     LinkedIn Corporation © 2025\nStatus is online\nMessaging\nYou are on the messaging overlay. Press enter to open the list of conversations.\nCompose message\nYou are on the messaging overlay. Press enter to open the list of conversations.",
+  "scraped_at": "2025-07-23 03:10:45",
+  "has_skills": true,
+  "cleaned_profile": {
+    "name": "Ashish Mishra",
+    "profile_url": "https://in.linkedin.com/in/ashish27mishra",
+    "current_position": {
+      "title": "Senior Software Engineer",
+      "company": "xto10x",
+      "location": "Bengaluru, Karnataka, India",
+      "start_date": "Mar 2022",
+      "end_date": "Present",
+      "duration": "3 yrs 5 mos"
+    },
+    "previous_positions": [
+      {
+        "title": "Software Engineer",
+        "company": "xto10x",
+        "location": "Bengaluru, Karnataka, India",
+        "start_date": "Jan 2020",
+        "end_date": "Mar 2022",
+        "duration": "2 yrs 3 mos"
+      },
+      {
+        "title": "Software Developer",
+        "company": "HashedIn",
+        "location": "Greater Bengaluru Area",
+        "start_date": "Feb 2018",
+        "end_date": "Jan 2020",
+        "duration": "2 yrs"
+      },
+      {
+        "title": "Technical Analyst intern",
+        "company": "HashedIn",
+        "location": "Bangalore",
+        "start_date": "Feb 2018",
+        "end_date": "Jul 2018",
+        "duration": "6 mos"
+      }
+    ],
+    "education": [
+      {
+        "institution": "SRM IST Chennai",
+        "degree": "Bachelor’s Degree",
+        "field_of_study": "Electrical, Electronics and Communications Engineering",
+        "years_attended": "2014 - 2018"
+      },
+      {
+        "institution": "freeCodeCamp",
+        "degree": "Full Stack Web Development Certification",
+        "field_of_study": "Computer Software Engineering",
+        "years_attended": "2016 - 2017"
+      }
+    ],
+    "connections": "500+",
+    "followers": "833",
+    "skills": [
+      "Front-End Development",
+      "Front-End Design",
+      "Next.js",
+      "Amazon Web Services (AWS)",
+      "Software as a Service (SaaS)",
+      "Analytical Skills",
+      "Web Development",
+      "Django",
+      "React.js",
+      "Data Structures",
+      "Algorithms",
+      "Front-end Development",
+      "Programming",
+      "Android Development",
+      "Python",
+      "HTML",
+      "Cascading Style Sheets (CSS)",
+      "JavaScript",
+      "SASS",
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "Competitive programming",
+      "Redis",
+      "Express.js"
+    ],
+    "interests": [
+      "Gary Shapiro",
+      "Shubham Rastogi"
+    ]
+  },
+  "tokens_used": {
+    "prompt_tokens": 3946,
+    "completion_tokens": 594,
+    "total_tokens": 4540
+  }
+}

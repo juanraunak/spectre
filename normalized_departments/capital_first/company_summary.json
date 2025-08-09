@@ -1,0 +1,20 @@
+{
+  "company_name": "Capital First",
+  "total_employees": 60,
+  "total_files_created": 10,
+  "overall_department_distribution": {
+    "general": 60
+  },
+  "files_created": [
+    "capital_first_batch_01.json",
+    "capital_first_batch_02.json",
+    "capital_first_batch_03.json",
+    "capital_first_batch_04.json",
+    "capital_first_batch_05.json",
+    "capital_first_batch_06.json",
+    "capital_first_batch_07.json",
+    "capital_first_batch_08.json",
+    "capital_first_batch_09.json",
+    "capital_first_batch_10.json"
+  ]
+}

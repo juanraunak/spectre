@@ -1,0 +1,38 @@
+
+🎯 FRACTAL ghost_3 Enhanced Executive Summary - Multiple Companies
+
+📊 Analysis Overview:
+• Total employees analyzed: 10
+• Companies analyzed: 10
+• Target company employees: 0
+• Competitor employees: 10
+• Talent gaps identified: 5
+• Departments covered: 2
+
+🚨 Critical Findings:
+Top Missing Skills:
+  1. credit management - affects 5 employees (100.0%)
+  2. risk assessment - affects 5 employees (100.0%)
+  3. Oracle - affects 5 employees (100.0%)
+  4. SAP - affects 4 employees (80.0%)
+  5. Microsoft Excel - affects 4 employees (80.0%)
+
+🎯 Priority Actions:
+• 5 employees need immediate attention
+• 10 strategic initiatives recommended
+• 4 training programs suggested
+
+📈 Key Recommendations:
+  1. Organization-wide credit management capability development (Priority: Critical)
+  2. Organization-wide risk assessment capability development (Priority: Critical)
+  3. Organization-wide Oracle capability development (Priority: Critical)
+
+🏢 Department Insights:
+  • General: 2 employees, avg 8.0 skills each
+  • Finance: 8 employees, avg 3.0 skills each
+
+💡 Next Steps: 
+1. Implement high-priority training programs
+2. Focus strategic hiring on critical skill gaps
+3. Develop department-specific capability building plans
+4. Monitor progress through quarterly skill assessments

@@ -1,0 +1,6 @@
+2025/07/22-21:55:56.975 5ce8 Reusing MANIFEST C:\Users\juanr\OneDrive\Desktop\hydra\linkedin_browser_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2025/07/22-21:55:56.982 5ce8 Recovering log #4
+2025/07/22-21:55:56.986 5ce8 Reusing old log C:\Users\juanr\OneDrive\Desktop\hydra\linkedin_browser_profile\Default\Local Storage\leveldb/000004.log 
+2025/07/23-00:29:59.826 15dc Level-0 table #8: started
+2025/07/23-00:29:59.831 15dc Level-0 table #8: 12632 bytes OK
+2025/07/23-00:29:59.833 15dc Delete type=0 #4

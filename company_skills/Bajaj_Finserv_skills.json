@@ -1,0 +1,965 @@
+{
+  "company_name": "Bajaj Finserv",
+  "employees": [
+    {
+      "name": "Prerna Bajaj",
+      "position": "Product Designer- Dezerv | Prev- Bajaj Finserv Health | BigBasket | NIFT Alumni",
+      "employee_id": "Baj_001",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Anurag Vohra",
+      "position": "",
+      "employee_id": "Baj_002",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Purav A Jhaveri, CFA",
+      "position": "",
+      "employee_id": "Baj_003",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Royston Netto",
+      "position": "",
+      "employee_id": "Baj_004",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Mukul Jain",
+      "position": "",
+      "employee_id": "Baj_005",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Prerna Kapoor",
+      "position": "Product Manager @ Lenskart | ex Bajaj Finserv Health | E-commerce | HealthTech | InsurTech |",
+      "employee_id": "Baj_006",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Anurag Jain",
+      "position": "",
+      "employee_id": "Baj_007",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Ramandeep Singh Sahni",
+      "position": "",
+      "employee_id": "Baj_008",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Devang Mody",
+      "position": "Putting Data to use to improve Health Outcomes",
+      "employee_id": "Baj_009",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sanjiv Bajaj",
+      "position": "",
+      "employee_id": "Baj_010",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Tejas Mulay",
+      "position": "",
+      "employee_id": "Baj_011",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sachin Sahni",
+      "position": "",
+      "employee_id": "Baj_012",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Freeda D'souza",
+      "position": "",
+      "employee_id": "Baj_013",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Megha Saluja",
+      "position": "Senior Lead - Human Resource Partner",
+      "employee_id": "Baj_014",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Prasad Oommen Kurian",
+      "position": "",
+      "employee_id": "Baj_015",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Siddharth Chaudhary",
+      "position": "at Bajaj Finserv Asset Management",
+      "employee_id": "Baj_016",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Vaibhav Date",
+      "position": "",
+      "employee_id": "Baj_017",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Niranjan Vaidya",
+      "position": "",
+      "employee_id": "Baj_018",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sorbh Gupta",
+      "position": "",
+      "employee_id": "Baj_019",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Pradeep Narayan",
+      "position": "National Head - Information Technology at Bajaj Finserv Passionate Leader having more than 25 Years of experience in the field of IT HRMS | HCM | HRIS | Core Lending | IT Infrastructure | CTO | Implementation",
+      "employee_id": "Baj_020",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Ganesh Mohan",
+      "position": "",
+      "employee_id": "Baj_021",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sidharath Bansal",
+      "position": "DevOps Engineer @ Bajaj Finserv Health | Toastmaster | Curious",
+      "employee_id": "Baj_022",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Soham Dixit",
+      "position": "Sr. Engineering Manager @ Bajaj Finserv Health | 30 under 30 - Bajaj Finserv | Ex American Express | Hackathons | Solutioning | Creating the impact :)",
+      "employee_id": "Baj_023",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Mudit Mehrish",
+      "position": "",
+      "employee_id": "Baj_024",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Praveen Bhatia",
+      "position": "",
+      "employee_id": "Baj_025",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Rutinder Negi",
+      "position": "",
+      "employee_id": "Baj_026",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Pravin Patil",
+      "position": "",
+      "employee_id": "Baj_027",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "N Kiran Kumar",
+      "position": "Fin.AI | Prompt to Impact | Challenger & Cheer Leader | Ex Co-Founder | Enterprise Architect | <Hands On/>",
+      "employee_id": "Baj_028",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Manjunath BR",
+      "position": "Sr.Regional Manager at Bajaj Finserv",
+      "employee_id": "Baj_029",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Dipti Saraf",
+      "position": "National Lead - Human Resources at Bajaj Finserv",
+      "employee_id": "Baj_030",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Paritosh Jauhari",
+      "position": "",
+      "employee_id": "Baj_031",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Dr. Amarjit S Kapoor",
+      "position": "Senior Head - Digital Platforms at Bajaj Finserv",
+      "employee_id": "Baj_032",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sathyasiddha Pattanaik",
+      "position": "UX Designer @Bajaj Finserv Health",
+      "employee_id": "Baj_033",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Swapna Wazalwar",
+      "position": "Senior Lead - CSR Communication at Bajaj Finserv",
+      "employee_id": "Baj_034",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Ami Jagani",
+      "position": "Bajaj Finserv | IIM Bangalore | Kearney | ZS",
+      "employee_id": "Baj_035",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Maninder Gill",
+      "position": "",
+      "employee_id": "Baj_036",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sabyasachi Mukerji, CFA",
+      "position": "Bajaj Finserv AMC || Buy side Analyst || MBA IIM Ranchi, B.E Jadavpur University",
+      "employee_id": "Baj_037",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Abhishek Prakash",
+      "position": "",
+      "employee_id": "Baj_038",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Leena Rajan",
+      "position": "National Lead- CSR",
+      "employee_id": "Baj_039",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Harish Iyer",
+      "position": "Head - Compliance, Legal & Secretarial at Bajaj Finserv Asset Management Limited",
+      "employee_id": "Baj_040",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Ankit Chugh",
+      "position": "",
+      "employee_id": "Baj_041",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Nitish Asthana",
+      "position": "",
+      "employee_id": "Baj_042",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Kajal Rana",
+      "position": "SSE @Valuelabs | Ex-Bajaj Finserv Health | AWS Solutions Architect, Databricks Lakehouse",
+      "employee_id": "Baj_043",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Mangesh Anaokar",
+      "position": "",
+      "employee_id": "Baj_044",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Archit Raj",
+      "position": "Senior Data Scientist at Bajaj Finserv Health",
+      "employee_id": "Baj_045",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Rajeev Malhotra",
+      "position": "National Sales Manager@Bajaj Finserv|Ex Vivo|Ex Apple",
+      "employee_id": "Baj_046",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Venkat Raman",
+      "position": "Reputation Architect | Strategic Communications | Building Trust Through Storytelling",
+      "employee_id": "Baj_047",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Saurabh Sharma",
+      "position": "",
+      "employee_id": "Baj_048",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Shubham Mittal",
+      "position": "DGM- Corporate Social Responsibility at Bajaj Finserv",
+      "employee_id": "Baj_049",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Anshuman Mishra",
+      "position": "Chief Financial Officer at Bajaj Finserv Direct Limited",
+      "employee_id": "Baj_050",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Ravinder B.",
+      "position": "Program Manager, Digital Platform @ Bajaj Finserv | PMP, Executive Management Program",
+      "employee_id": "Baj_051",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Prashant Dave",
+      "position": "VP - Data Engineering, IT at Bajaj Finserv with 18+ years in Data Engineering, BI, Analytics, and Data Architecture across BFSI, e-commerce, and shipping. Experienced with Bajaj Finserv, Amazon, Maersk, and HDFC.",
+      "employee_id": "Baj_052",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Nitin Neema",
+      "position": "Executive Vice President Operations and Service at Bajaj Finserv",
+      "employee_id": "Baj_053",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Tejasri Bhaskar",
+      "position": "Unit Manager | Bajaj Finserv | Insurance Marketplace",
+      "employee_id": "Baj_054",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Manav Mianwal",
+      "position": "",
+      "employee_id": "Baj_055",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Mrunali Mishra",
+      "position": "Manager - Human Resources at Bajaj Finserv Health",
+      "employee_id": "Baj_056",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Chintan Sanan",
+      "position": "Business Head at Bajaj Finserv",
+      "employee_id": "Baj_057",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sayani Mukherjee",
+      "position": "Chief Manager @ Bajaj Finserv AMC || Product Manager for Passive Mutual Funds || ETFs & Index Funds || PMO || Digital Product Development",
+      "employee_id": "Baj_058",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Nitin Verma",
+      "position": "",
+      "employee_id": "Baj_059",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Prasanna Jain",
+      "position": "",
+      "employee_id": "Baj_060",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Babu Rao P",
+      "position": "",
+      "employee_id": "Baj_061",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Faraz Khan",
+      "position": "Deputy National Lead - Digital Planning & Acquisition @ Bajaj Finserv | Driving Data-Driven Business Growth",
+      "employee_id": "Baj_062",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Natasha Liberatus",
+      "position": "Leading IT Applications @ Bajaj Finserv Asset Management Ltd | Driving IT Strategy | TOGAF 10.0 Certified | NISM 5A Certified",
+      "employee_id": "Baj_063",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Parag Kulkarni",
+      "position": "",
+      "employee_id": "Baj_064",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sreejesh S Nair",
+      "position": "Innovation, Emerging Tech & Gen AI ll Bajaj Finserv ll Ex-Microsoft",
+      "employee_id": "Baj_065",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Himank Jain",
+      "position": "Senior Data Scientist @Bajaj Finserv Health | Translating complex data into simpler solutions for Healthcare | Problem Solver | Learner",
+      "employee_id": "Baj_066",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Ashish Zope",
+      "position": "Senior Data Engineer | Databricks | PySpark | SQL | Delta Lake | Big Data | Cloud | FinTech",
+      "employee_id": "Baj_067",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Namrath Shetty",
+      "position": "",
+      "employee_id": "Baj_068",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Supraja Battula",
+      "position": "Lead - Tech and Business Process Re-engineering | GYLP - Bajaj Finserv",
+      "employee_id": "Baj_069",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Shubham Gupta",
+      "position": "Pocket FM | Bajaj Finserv | IIM Bangalore | IIT Delhi",
+      "employee_id": "Baj_070",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Aashish Ranjan",
+      "position": "",
+      "employee_id": "Baj_071",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Gunjan Grover",
+      "position": "",
+      "employee_id": "Baj_072",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Aditya Bhuyan",
+      "position": "Senior Risk Head - Bajaj Finserv I Ex-Amex I Ex-SBI Card",
+      "employee_id": "Baj_073",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Anushree Patankar",
+      "position": "Strategic Business Architect & Product Manager at Bajaj Finserv | MarTech & Gen AI | AEM Business Practitioner | MBA Marketing & Finance- Symbiosis Institute of Business Management",
+      "employee_id": "Baj_074",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Gurvinder Singh Lamba",
+      "position": "Regional Manager Administration at Bajaj Finserv",
+      "employee_id": "Baj_075",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Jay Jain",
+      "position": "Quant | Board of Studies | Prev - Dolat Capital HFT, Bajaj Finserv and Baker Hughes",
+      "employee_id": "Baj_076",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Dhruv Bisht",
+      "position": "",
+      "employee_id": "Baj_077",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Manish Pathania",
+      "position": "Deputy CBO- Unsecured Loans - Bajaj Finserv Markets",
+      "employee_id": "Baj_078",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Prasad Deshpande",
+      "position": "",
+      "employee_id": "Baj_079",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Tejas Sharma",
+      "position": "Regional Sales Manager @ Bajaj Finserv | MBA-PGDM in Marketing",
+      "employee_id": "Baj_080",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    }
+  ]
+}

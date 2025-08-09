@@ -1,0 +1,487 @@
+{
+  "ghost_mirage_metadata": {
+    "operation_id": "MIRAGE_1753894528",
+    "target_company": "Manipal Fintech",
+    "operation_timestamp": "2025-07-30T16:55:28.291285",
+    "analysis_source": "data/manipal_fintech_complete_intelligence_report.json",
+    "total_competitors_detected": 10,
+    "ghost_shade_agents_deployed": 10
+  },
+  "competitor_analysis": {
+    "detection_summary": {
+      "total_competitors_found": 10,
+      "ai_detected": 10,
+      "industry_detected": 0,
+      "employee_background_detected": 0
+    },
+    "competitor_profiles": [
+      {
+        "name": "Muthoot Finance",
+        "industry": "Financial Services",
+        "similarity_score": 9.0,
+        "priority_level": 9,
+        "detection_method": "AI Analysis",
+        "market_position": "Market leader",
+        "key_differentiators": [
+          "Established brand",
+          "Extensive branch network"
+        ],
+        "employee_count_estimate": 25000
+      },
+      {
+        "name": "Manappuram Finance",
+        "industry": "Financial Services",
+        "similarity_score": 8.8,
+        "priority_level": 8,
+        "detection_method": "AI Analysis",
+        "market_position": "Market leader",
+        "key_differentiators": [
+          "High disbursement rate",
+          "Wide customer base"
+        ],
+        "employee_count_estimate": 20000
+      },
+      {
+        "name": "IIFL Finance",
+        "industry": "Financial Services",
+        "similarity_score": 8.5,
+        "priority_level": 8,
+        "detection_method": "AI Analysis",
+        "market_position": "Challenger",
+        "key_differentiators": [
+          "Diversified financial products",
+          "Strong technology integration"
+        ],
+        "employee_count_estimate": 10000
+      },
+      {
+        "name": "HDFC Bank",
+        "industry": "Financial Services",
+        "similarity_score": 8.3,
+        "priority_level": 8,
+        "detection_method": "AI Analysis",
+        "market_position": "Market leader",
+        "key_differentiators": [
+          "Reputation for reliability",
+          "Wide range of financial services"
+        ],
+        "employee_count_estimate": 120000
+      },
+      {
+        "name": "ICICI Bank",
+        "industry": "Financial Services",
+        "similarity_score": 8.2,
+        "priority_level": 8,
+        "detection_method": "AI Analysis",
+        "market_position": "Market leader",
+        "key_differentiators": [
+          "Strong digital presence",
+          "Comprehensive financial solutions"
+        ],
+        "employee_count_estimate": 100000
+      },
+      {
+        "name": "Bajaj Finserv",
+        "industry": "Financial Services",
+        "similarity_score": 8.0,
+        "priority_level": 8,
+        "detection_method": "AI Analysis",
+        "market_position": "Challenger",
+        "key_differentiators": [
+          "Innovative financial products",
+          "Strong customer service"
+        ],
+        "employee_count_estimate": 20000
+      },
+      {
+        "name": "Indiabulls Housing Finance",
+        "industry": "Financial Services",
+        "similarity_score": 7.8,
+        "priority_level": 7,
+        "detection_method": "AI Analysis",
+        "market_position": "Challenger",
+        "key_differentiators": [
+          "Specialized in housing finance",
+          "Strong market presence"
+        ],
+        "employee_count_estimate": 8000
+      },
+      {
+        "name": "Magma Fincorp",
+        "industry": "Financial Services",
+        "similarity_score": 7.5,
+        "priority_level": 7,
+        "detection_method": "AI Analysis",
+        "market_position": "Niche player",
+        "key_differentiators": [
+          "Focus on rural and semi-urban areas",
+          "Diverse financial products"
+        ],
+        "employee_count_estimate": 5000
+      },
+      {
+        "name": "Capital First",
+        "industry": "Financial Services",
+        "similarity_score": 7.3,
+        "priority_level": 7,
+        "detection_method": "AI Analysis",
+        "market_position": "Niche player",
+        "key_differentiators": [
+          "Strong focus on consumer finance",
+          "Innovative lending solutions"
+        ],
+        "employee_count_estimate": 6000
+      },
+      {
+        "name": "Shriram City Union Finance",
+        "industry": "Financial Services",
+        "similarity_score": 7.2,
+        "priority_level": 7,
+        "detection_method": "AI Analysis",
+        "market_position": "Challenger",
+        "key_differentiators": [
+          "Focus on small businesses",
+          "Wide range of financial products"
+        ],
+        "employee_count_estimate": 15000
+      }
+    ]
+  },
+  "ghost_shade_operations": {
+    "mission_overview": {
+      "total_agents_deployed": 10,
+      "successful_missions": 10,
+      "failed_missions": 0,
+      "no_data_missions": 0,
+      "success_rate": 100.0
+    },
+    "agent_details": [
+      {
+        "agent_id": "GHOST_SHADE_01",
+        "target_company": "Muthoot Finance",
+        "status": "COMPLETED",
+        "priority": 9,
+        "competitor_similarity": 9.0,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_02",
+        "target_company": "Manappuram Finance",
+        "status": "COMPLETED",
+        "priority": 8,
+        "competitor_similarity": 8.8,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_03",
+        "target_company": "IIFL Finance",
+        "status": "COMPLETED",
+        "priority": 8,
+        "competitor_similarity": 8.5,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_04",
+        "target_company": "HDFC Bank",
+        "status": "COMPLETED",
+        "priority": 8,
+        "competitor_similarity": 8.3,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_05",
+        "target_company": "ICICI Bank",
+        "status": "COMPLETED",
+        "priority": 8,
+        "competitor_similarity": 8.2,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_06",
+        "target_company": "Bajaj Finserv",
+        "status": "COMPLETED",
+        "priority": 8,
+        "competitor_similarity": 8.0,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_07",
+        "target_company": "Indiabulls Housing Finance",
+        "status": "COMPLETED",
+        "priority": 7,
+        "competitor_similarity": 7.8,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_08",
+        "target_company": "Magma Fincorp",
+        "status": "COMPLETED",
+        "priority": 7,
+        "competitor_similarity": 7.5,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_09",
+        "target_company": "Capital First",
+        "status": "COMPLETED",
+        "priority": 7,
+        "competitor_similarity": 7.3,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_10",
+        "target_company": "Shriram City Union Finance",
+        "status": "COMPLETED",
+        "priority": 7,
+        "competitor_similarity": 7.2,
+        "detection_method": "AI Analysis"
+      }
+    ],
+    "intelligence_gathered": {
+      "total_competitor_companies": 10,
+      "total_employees_found": 810,
+      "total_detailed_profiles": 810
+    }
+  },
+  "executive_summary": "GHOST_MIRAGE competitive intelligence operation executed for Manipal Fintech. Detected 10 priority competitors using multi-method analysis: AI-powered detection, industry research, and employee background analysis. Primary threat identified: Muthoot Finance (similarity score: 9.0). Deployed 10 GHOST_SHADE agents for employee intelligence gathering. Successfully completed 10 intelligence missions. Gathered intelligence on 810 competitor employees across all targets. Operation provides comprehensive competitive landscape analysis and employee movement patterns.",
+  "advanced_analytics": {
+    "competitive_landscape": {
+      "threat_level_distribution": {
+        "high_threat_competitors": 6,
+        "medium_threat_competitors": 4,
+        "low_threat_competitors": 0
+      },
+      "market_position_analysis": {
+        "Market leader": 4,
+        "Challenger": 4,
+        "Niche player": 2
+      },
+      "detection_method_effectiveness": {
+        "AI Analysis": 10
+      },
+      "top_threats": [
+        {
+          "name": "Muthoot Finance",
+          "similarity_score": 9.0,
+          "threat_level": "HIGH"
+        },
+        {
+          "name": "Manappuram Finance",
+          "similarity_score": 8.8,
+          "threat_level": "HIGH"
+        },
+        {
+          "name": "IIFL Finance",
+          "similarity_score": 8.5,
+          "threat_level": "HIGH"
+        },
+        {
+          "name": "HDFC Bank",
+          "similarity_score": 8.3,
+          "threat_level": "HIGH"
+        },
+        {
+          "name": "ICICI Bank",
+          "similarity_score": 8.2,
+          "threat_level": "HIGH"
+        }
+      ]
+    },
+    "employee_movement_patterns": {
+      "employee_distribution": {
+        "Muthoot Finance": 90,
+        "Manappuram Finance": 100,
+        "IIFL Finance": 100,
+        "HDFC Bank": 80,
+        "ICICI Bank": 90,
+        "Bajaj Finserv": 80,
+        "Indiabulls Housing Finance": 80,
+        "Magma Fincorp": 70,
+        "Capital First": 60,
+        "Shriram City Union Finance": 60
+      },
+      "top_skills_across_competitors": [],
+      "common_positions": [
+        {
+          "position": "ICICI Bank",
+          "frequency": 29
+        },
+        {
+          "position": "Manappuram Finance Limited",
+          "frequency": 27
+        },
+        {
+          "position": "IIFL Finance",
+          "frequency": 24
+        },
+        {
+          "position": "HDFC Bank",
+          "frequency": 18
+        },
+        {
+          "position": "Bajaj Finserv",
+          "frequency": 17
+        },
+        {
+          "position": "Branch Manager",
+          "frequency": 15
+        },
+        {
+          "position": "Indiabulls Housing Finance Ltd",
+          "frequency": 12
+        },
+        {
+          "position": "Muthoot Finance Ltd. - India",
+          "frequency": 10
+        },
+        {
+          "position": "Magma Fincorp Ltd.",
+          "frequency": 7
+        },
+        {
+          "position": "Assistant Manager",
+          "frequency": 6
+        },
+        {
+          "position": "Regional Manager",
+          "frequency": 6
+        },
+        {
+          "position": "Manager",
+          "frequency": 6
+        },
+        {
+          "position": "IIFL (India Infoline Group)",
+          "frequency": 6
+        },
+        {
+          "position": "Capital First Trust Company",
+          "frequency": 6
+        },
+        {
+          "position": "Sales Manager",
+          "frequency": 5
+        }
+      ],
+      "talent_overlap_sources": {
+        "ICICI Bank": {
+          "competitor_count": 6,
+          "total_hires": 42,
+          "competitors": [
+            "HDFC Bank",
+            "Bajaj Finserv",
+            "ICICI Bank",
+            "Magma Fincorp",
+            "Muthoot Finance",
+            "Indiabulls Housing Finance"
+          ]
+        },
+        "HDFC Bank": {
+          "competitor_count": 7,
+          "total_hires": 19,
+          "competitors": [
+            "HDFC Bank",
+            "IIFL Finance",
+            "ICICI Bank",
+            "Capital First",
+            "Magma Fincorp",
+            "Muthoot Finance",
+            "Indiabulls Housing Finance"
+          ]
+        },
+        "Kotak Mahindra Bank": {
+          "competitor_count": 7,
+          "total_hires": 18,
+          "competitors": [
+            "HDFC Bank",
+            "IIFL Finance",
+            "Bajaj Finserv",
+            "ICICI Bank",
+            "Magma Fincorp",
+            "Muthoot Finance",
+            "Indiabulls Housing Finance"
+          ]
+        },
+        "Manappuram Finance Limited": {
+          "competitor_count": 3,
+          "total_hires": 18,
+          "competitors": [
+            "Muthoot Finance",
+            "Manappuram Finance",
+            "IIFL Finance"
+          ]
+        },
+        "Standard Chartered Bank": {
+          "competitor_count": 7,
+          "total_hires": 12,
+          "competitors": [
+            "HDFC Bank",
+            "IIFL Finance",
+            "Manappuram Finance",
+            "Bajaj Finserv",
+            "ICICI Bank",
+            "Muthoot Finance",
+            "Indiabulls Housing Finance"
+          ]
+        },
+        "Indiabulls Housing Finance Ltd": {
+          "competitor_count": 3,
+          "total_hires": 12,
+          "competitors": [
+            "IIFL Finance",
+            "ICICI Bank",
+            "Indiabulls Housing Finance"
+          ]
+        },
+        "Magma Fincorp Ltd.": {
+          "competitor_count": 4,
+          "total_hires": 11,
+          "competitors": [
+            "Magma Fincorp",
+            "IIFL Finance",
+            "Manappuram Finance",
+            "Bajaj Finserv"
+          ]
+        },
+        "Axis Bank": {
+          "competitor_count": 5,
+          "total_hires": 10,
+          "competitors": [
+            "IIFL Finance",
+            "ICICI Bank",
+            "Magma Fincorp",
+            "Muthoot Finance",
+            "Indiabulls Housing Finance"
+          ]
+        },
+        "HDB Financial Services Ltd.": {
+          "competitor_count": 5,
+          "total_hires": 9,
+          "competitors": [
+            "IIFL Finance",
+            "Manappuram Finance",
+            "Bajaj Finserv",
+            "ICICI Bank",
+            "Muthoot Finance"
+          ]
+        },
+        "Bajaj Finserv": {
+          "competitor_count": 3,
+          "total_hires": 9,
+          "competitors": [
+            "IIFL Finance",
+            "Bajaj Finserv",
+            "Indiabulls Housing Finance"
+          ]
+        }
+      },
+      "insights": {
+        "total_competitor_employees_analyzed": 800,
+        "companies_with_talent_overlap": 71,
+        "most_common_skill": "Unknown",
+        "talent_concentration_risk": 24
+      }
+    },
+    "analysis_timestamp": "2025-07-30T16:55:28.299801"
+  }
+}

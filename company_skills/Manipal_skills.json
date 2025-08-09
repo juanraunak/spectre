@@ -1,0 +1,1193 @@
+{
+  "company_name": "Manipal",
+  "employees": [
+    {
+      "name": "Puja Abhishek Singh",
+      "position": "",
+      "employee_id": "Man_001",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Anuj Arora",
+      "position": "CFO Manipal Fintech",
+      "employee_id": "Man_002",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Ankur Mathur",
+      "position": "Head HR in Manipal Fintech Pvt. Ltd. (The Manipal Group Company) | HR Partnering | HR Strategy | People Management | IIM Lucknow |",
+      "employee_id": "Man_003",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Shivam Gupta",
+      "position": "Business Strategy | CEO's Office | Manipal Fintech",
+      "employee_id": "Man_004",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Gaurav Srivastava",
+      "position": "Chief Sales Officer at Manipal Fintech- Gold Loans",
+      "employee_id": "Man_005",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Mukesh Bhatia",
+      "position": "Manipal Fintech (The Manipal Group)",
+      "employee_id": "Man_006",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Allan Fernandes",
+      "position": "IIM B | Ex PwC | Building the future of FinTech",
+      "employee_id": "Man_007",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Rahul Virmani",
+      "position": "Vice President & National Sales Head in Manipal Fintech Private Limited (A Manipal Group Company)",
+      "employee_id": "Man_008",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Amit Gupta",
+      "position": "",
+      "employee_id": "Man_009",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "HARIOM .",
+      "position": "Asst. Marketing Manager | SEO Strategist | Growth Marketing | Organic Marketing |",
+      "employee_id": "Man_010",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Manish Dhoundiyal",
+      "position": "Sr. Trainer at Manipal Fintech",
+      "employee_id": "Man_011",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Salman Ahmed",
+      "position": "Manager at Manipal Fintech Pvt. Ltd. (The Manipal Group) |Driving Sales & Strategy | Tele Sales | Fintech | InsureTech | Customer Support | BFSI |Financial Planning |Mutual Funds |",
+      "employee_id": "Man_012",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Tarun Singh",
+      "position": "senior sales officer at Reliance Retail",
+      "employee_id": "Man_013",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Akkama S.",
+      "position": "Manager - Human Resource at Manipal Fintech Pvt. Ltd. (The Manipal Group)",
+      "employee_id": "Man_014",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sateesh Pandhu",
+      "position": "Manipal at Manipal Fintech",
+      "employee_id": "Man_015",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Yati Singal",
+      "position": "",
+      "employee_id": "Man_016",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Purnima R.",
+      "position": "Software developer- Corporate actions, Ref data, Post Trade Compliance",
+      "employee_id": "Man_017",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Palash Srivastava",
+      "position": "",
+      "employee_id": "Man_018",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sufiyan .",
+      "position": "Manipal fintech",
+      "employee_id": "Man_019",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Amrit ViRk",
+      "position": "Assistant Manager Central Operations",
+      "employee_id": "Man_020",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "ABHISHEK KUMAR BAJAJ",
+      "position": "Regional Head",
+      "employee_id": "Man_021",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Abhinav Malhotra",
+      "position": "Android | Kotlin | Jetpack Compose | CMP | MVVM | MVI | Coroutine | Flow",
+      "employee_id": "Man_022",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Himanshu .",
+      "position": "Product Manager - Digital Lending at The Manipal Group (Manipal Fintech) | Prod-Man | Certified Product Manager |",
+      "employee_id": "Man_023",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Tushar Kulkarni",
+      "position": "Student at Devi Ahilya Vishwavidyalaya (DAVV), Indore",
+      "employee_id": "Man_024",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Rajesh Agrawal",
+      "position": "Regional Head at Manipal Fintech Private Limited",
+      "employee_id": "Man_025",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sahil Arora",
+      "position": "Manager at Manipal Fintech",
+      "employee_id": "Man_026",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sanskruti Sinha",
+      "position": "HR",
+      "employee_id": "Man_027",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Atul Shukla",
+      "position": "Gold Loan | Manipal Fintech ( The Manipal Group ) | BFSI Growth Strategist | 14+ Yrs in Retail Lending & Sales | Ex- IndiaGold | Ex-HDFC",
+      "employee_id": "Man_028",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "THE FUTURE Raj",
+      "position": "Manipal Fintech at Manipal Fintech",
+      "employee_id": "Man_029",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sumit verma",
+      "position": "Sr. UI/UX Designer",
+      "employee_id": "Man_030",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "MEHAK SRIVASTAVA",
+      "position": "Manipal FinTech- Head of Marketing & Branding",
+      "employee_id": "Man_031",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Saurabh Matholiya",
+      "position": "",
+      "employee_id": "Man_032",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Manish Baghel",
+      "position": "Tha Manipal Group",
+      "employee_id": "Man_033",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Roshan Baliar Singh",
+      "position": "Regional Head",
+      "employee_id": "Man_034",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Devendra Singh",
+      "position": "MANIPAL FINTECH CLUSTER HEAD",
+      "employee_id": "Man_035",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Puneet Sharma",
+      "position": "DVP - Software Development at Manipal Fontech Services Pvt. Ltd.",
+      "employee_id": "Man_036",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Nagendra singh",
+      "position": "Areal Head -Manipal FinTech Services Private Limited",
+      "employee_id": "Man_037",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Rozi Bisht",
+      "position": "",
+      "employee_id": "Man_038",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "GAURAV AGRAWAL",
+      "position": "Sales Manager",
+      "employee_id": "Man_039",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Alokit Nath Mishra",
+      "position": "Assistant Manager MIS",
+      "employee_id": "Man_040",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Aishwary Sinha",
+      "position": "Product Designer at Manipal Fintech | Product Thinker | ex-BuyUcoin",
+      "employee_id": "Man_041",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Badal Sona",
+      "position": "Quality Analyst Engineer Software Automation Test Engineer | Automation - Selenium | Manual Test Engineer | API Testing | QA Engineer",
+      "employee_id": "Man_042",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Nikhil Khandelwal",
+      "position": "Regional Head Sales at Manipal Fintech services private limited",
+      "employee_id": "Man_043",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Chhandamita D",
+      "position": "L&D and OD lead with 19 Years in BFSI/Fintech/(RealEstate in UAE) -expertise of LXP/LMS, Training Project Management, Sales & Sales Quality in B2C and B2B.",
+      "employee_id": "Man_045",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sandeep Yadav",
+      "position": "Relationship officer at Manipal Fintech",
+      "employee_id": "Man_046",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Rahul Gupta",
+      "position": "",
+      "employee_id": "Man_047",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sylvester Domingo",
+      "position": "Digital Transformation , CX, Process Excellence, Audit & Compliance",
+      "employee_id": "Man_048",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "muvva Gopinadh",
+      "position": "associate in Manipal Fintech services pvt LTD",
+      "employee_id": "Man_049",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Saurabh Jha",
+      "position": "Human Resources Professional | Driving People & Process Excellence | Passionate About Building Engaged, Productive Workforces",
+      "employee_id": "Man_050",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Saurabh Jha",
+      "position": "Human Resources Professional | Driving People & Process Excellence | Passionate About Building Engaged, Productive Workforces",
+      "employee_id": "Man_051",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Aditya Paswan",
+      "position": "Bachelor of Commerce with 1 year Experience",
+      "employee_id": "Man_052",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Vikas Saini",
+      "position": "Project coordinator at Manipal Business Solutions | Fintech & Banking | Financial Inclusion | Rural Extension Branches | Cross Sell-Asset & Liabilities Products | eGovernance | ex NBFC",
+      "employee_id": "Man_053",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Pramud Naidu",
+      "position": "Regional Head Gold loans at Manipal Fintech",
+      "employee_id": "Man_054",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Ravi Jadhav",
+      "position": "Manipal Fintech | Regional Head",
+      "employee_id": "Man_055",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "akshay jain",
+      "position": "Regional Head at Manipal Fintech",
+      "employee_id": "Man_056",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Nandkishor Bhoi",
+      "position": "Sales Executive at Manipal Fintech",
+      "employee_id": "Man_057",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "ANIL SEN",
+      "position": "Relationship Executive Gold Loan at Manipal Fintech Pvt Ltd",
+      "employee_id": "Man_058",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Pallavi Jain",
+      "position": "Recruitment Specialist / Corporate HR / Talent Acquisition / Head Hunting / Human Resource",
+      "employee_id": "Man_059",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Pushpendra dangi",
+      "position": "Cluster Head at Manipal Fintech-Gold Loan",
+      "employee_id": "Man_060",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sajeesh ko",
+      "position": "10+ year Experience in GOLD LOAN Industry (Kerala)",
+      "employee_id": "Man_061",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Adarsh Tiwari",
+      "position": "Gold loan",
+      "employee_id": "Man_062",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Vaishali Bhat",
+      "position": "Senior Manager, Digital Alliance Partnership & Telesales Strategy",
+      "employee_id": "Man_063",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Girish Kini",
+      "position": "Chief Executive Officer",
+      "employee_id": "Man_064",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Priyal Jadon",
+      "position": "Manipal Fintech || SDE || Flutter Developer || Android Developer",
+      "employee_id": "Man_065",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Kshitiz Agrawal",
+      "position": "Lead Full Stack Developer | Junior Solution Architect | Java \u2022 Spring Boot \u2022 React \u2022 System Design \u2022 Microservices",
+      "employee_id": "Man_066",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Rahul Kumar",
+      "position": "Manager-Manipal Fintech",
+      "employee_id": "Man_067",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Karan Chadha",
+      "position": "Assistant Manager at The Manipal Group AML Banking Operations/Financial Crime/Risk Management Specialist",
+      "employee_id": "Man_068",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Hari Prasad",
+      "position": "Area Head - Manipal Fintech -Gold Loan Mysore",
+      "employee_id": "Man_069",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Jyotika Satija",
+      "position": "",
+      "employee_id": "Man_070",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Ajit Kumar",
+      "position": "\"A Decade of Transformative Training Experiences\"| Elevating Teams and Driving Excellence in Sales, Soft Skills, and Customer Care | Expertise Across Diverse Industries -Banking, Finance, Telecom,Travel, and Insurance |",
+      "employee_id": "Man_071",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Prasanna Kumari",
+      "position": "Manipal Technologies Limited",
+      "employee_id": "Man_072",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "George Manachery",
+      "position": "Key Account Manager-BFSI+ FINTECH",
+      "employee_id": "Man_073",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Gokul Dev Gupta",
+      "position": "Digital Marketing I Marketing Strategy I Brand Development",
+      "employee_id": "Man_074",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Prachi Modi",
+      "position": "Key Accounts Manager| Corporate Relations |Business Development | Banking | Financial Services | BFSI | Fintech",
+      "employee_id": "Man_075",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Mahima Singh Chauhan",
+      "position": "Product Manager || Rupyy || Cardekho || Ex Manipal Group || Ex Utkarsh Sf Bank",
+      "employee_id": "Man_076",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Balram Sharma",
+      "position": "QA Manager at Sahibandhu Fintech Services Pvt Ltd.",
+      "employee_id": "Man_077",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sanjil Sharma",
+      "position": "Data Scientist",
+      "employee_id": "Man_078",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Shivi Gautam",
+      "position": "Generating revenue with Alliances |Cobranded Credit Card portfolio management| Strategic Partnership Specialist with 14+ work ex",
+      "employee_id": "Man_079",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Niranjan Bhat",
+      "position": "Chartered Accountant | Finance Leader | 14+ Yrs in Finance, Accounting, Treasury & Taxation | Expert in FP&A, Fin. Reporting, MIS, Treasury & Compliance | Mining, IT, FinTech Industry | Strategic Growth.",
+      "employee_id": "Man_080",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Niranjan Bhat",
+      "position": "Chartered Accountant | Finance Leader | 14+ Yrs in Finance, Accounting, Treasury & Taxation | Expert in FP&A, Fin. Reporting, MIS, Treasury & Compliance | Mining, IT, FinTech Industry | Strategic Growth.",
+      "employee_id": "Man_081",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Tapendra Sharma",
+      "position": "business",
+      "employee_id": "Man_082",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Rohit Naidu",
+      "position": "Area Head",
+      "employee_id": "Man_083",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Manoj Kumar",
+      "position": "Assistant General Manager at Manipal Technologies Limited",
+      "employee_id": "Man_084",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Arpit Kansal",
+      "position": "Data Analytics",
+      "employee_id": "Man_085",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Jaya Shrivastava",
+      "position": "Data Analyst | Power BI| 6+ Years of QA & Banking Experience |",
+      "employee_id": "Man_086",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Bhaktinath Jha",
+      "position": "MANIPAL FINTEC Sales Manager.",
+      "employee_id": "Man_087",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Rizwan ahmad",
+      "position": "Sr.Executive Helpdesk at Manipal Technologies Ltd. (formerly Manipal Press Ltd.)",
+      "employee_id": "Man_088",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "RAGHAVENDRA RAO SANNAYYA",
+      "position": "President at Primacy Industries Limited, The Manipal Group",
+      "employee_id": "Man_089",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Aniket Yadav",
+      "position": "--",
+      "employee_id": "Man_090",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sunil Jakhar",
+      "position": "Business Analyst | 12+ Years of experience| SAS - Python - SQL | Fintech & Credit card Professional| Marketing Analytics | Sales Analytics|Collection Analytics | Transaction Monitoring | Fraud Analytics",
+      "employee_id": "Man_091",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Gauri Jaiswal",
+      "position": "HR Professional",
+      "employee_id": "Man_092",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Senthilrajan Ganesan",
+      "position": "HR Head South",
+      "employee_id": "Man_093",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Shourabha Gupta",
+      "position": "Actively looking for a change | .Net Core| MVC | SQL",
+      "employee_id": "Man_094",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "T.R.Nagendra Rao",
+      "position": "EVP & Chief Growth Officer.",
+      "employee_id": "Man_095",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Vinod Kulkarni",
+      "position": "E-commerce Executive | Chief of Staff | Business Restructuring | Data Analytics | CPG | Engineering R&D",
+      "employee_id": "Man_096",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Mahesh Rotti",
+      "position": "Sales And Marketing Specialist at Jio",
+      "employee_id": "Man_097",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "SUJITH KULAL",
+      "position": "PLANNING & SCHEDULING | SAP HANA | SAP PP | MIS | PRODUCTION | TAT & MONITORING | |R&D | FORECASTING| TROUBLE SHOOTING | FINTECH | DOMESTIC & EXPORT | PVC , METAL , LED , STICKER , CARD TECHNOLOGY|",
+      "employee_id": "Man_098",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "arumugam mathavan",
+      "position": "--",
+      "employee_id": "Man_099",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Pramod Naidu",
+      "position": "Regional Head Sales Manipal Fintech",
+      "employee_id": "Man_100",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Python",
+        "Data Visualization",
+        "Regulatory Compliance"
+      ]
+    }
+  ]
+}

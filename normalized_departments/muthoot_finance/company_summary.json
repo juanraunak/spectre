@@ -1,0 +1,20 @@
+{
+  "company_name": "Muthoot Finance",
+  "total_employees": 90,
+  "total_files_created": 10,
+  "overall_department_distribution": {
+    "general": 90
+  },
+  "files_created": [
+    "muthoot_finance_batch_01.json",
+    "muthoot_finance_batch_02.json",
+    "muthoot_finance_batch_03.json",
+    "muthoot_finance_batch_04.json",
+    "muthoot_finance_batch_05.json",
+    "muthoot_finance_batch_06.json",
+    "muthoot_finance_batch_07.json",
+    "muthoot_finance_batch_08.json",
+    "muthoot_finance_batch_09.json",
+    "muthoot_finance_batch_10.json"
+  ]
+}

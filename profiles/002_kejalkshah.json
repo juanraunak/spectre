@@ -1,0 +1,15 @@
+{
+  "url": "https://in.linkedin.com/in/kejalkshah",
+  "raw_text": "Sign in\nSign in with Apple\nor\nEmail or phone\nPassword\nShow\nForgot password?\nKeep me logged in\nSign in\nNew to LinkedIn? Join now\nLinkedIn\n© 2025\nUser Agreement\nPrivacy Policy\nCommunity Guidelines\nCookie Policy\nCopyright Policy\nSend Feedback\nLanguage",
+  "skills_text": "Sign in Join now\nLet’s do a quick security check\nLinkedIn\n© 2025\nUser Agreement\nPrivacy Policy\nCommunity Guidelines\nCookie Policy\nCopyright Policy\nSend Feedback",
+  "scraped_at": "2025-07-22 21:56:49",
+  "has_skills": true,
+  "cleaned_profile": {
+    "profile_url": "https://in.linkedin.com/in/kejalkshah"
+  },
+  "tokens_used": {
+    "prompt_tokens": 257,
+    "completion_tokens": 25,
+    "total_tokens": 282
+  }
+}

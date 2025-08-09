@@ -1,0 +1,247 @@
+{
+  "ghost_mirage_metadata": {
+    "operation_id": "MIRAGE_1753894528",
+    "target_company": "Manipal Fintech",
+    "operation_timestamp": "2025-07-30T16:55:28.291285",
+    "analysis_source": "data/manipal_fintech_complete_intelligence_report.json",
+    "total_competitors_detected": 10,
+    "ghost_shade_agents_deployed": 10
+  },
+  "competitor_analysis": {
+    "detection_summary": {
+      "total_competitors_found": 10,
+      "ai_detected": 10,
+      "industry_detected": 0,
+      "employee_background_detected": 0
+    },
+    "competitor_profiles": [
+      {
+        "name": "Muthoot Finance",
+        "industry": "Financial Services",
+        "similarity_score": 9.0,
+        "priority_level": 9,
+        "detection_method": "AI Analysis",
+        "market_position": "Market leader",
+        "key_differentiators": [
+          "Established brand",
+          "Extensive branch network"
+        ],
+        "employee_count_estimate": 25000
+      },
+      {
+        "name": "Manappuram Finance",
+        "industry": "Financial Services",
+        "similarity_score": 8.8,
+        "priority_level": 8,
+        "detection_method": "AI Analysis",
+        "market_position": "Market leader",
+        "key_differentiators": [
+          "High disbursement rate",
+          "Wide customer base"
+        ],
+        "employee_count_estimate": 20000
+      },
+      {
+        "name": "IIFL Finance",
+        "industry": "Financial Services",
+        "similarity_score": 8.5,
+        "priority_level": 8,
+        "detection_method": "AI Analysis",
+        "market_position": "Challenger",
+        "key_differentiators": [
+          "Diversified financial products",
+          "Strong technology integration"
+        ],
+        "employee_count_estimate": 10000
+      },
+      {
+        "name": "HDFC Bank",
+        "industry": "Financial Services",
+        "similarity_score": 8.3,
+        "priority_level": 8,
+        "detection_method": "AI Analysis",
+        "market_position": "Market leader",
+        "key_differentiators": [
+          "Reputation for reliability",
+          "Wide range of financial services"
+        ],
+        "employee_count_estimate": 120000
+      },
+      {
+        "name": "ICICI Bank",
+        "industry": "Financial Services",
+        "similarity_score": 8.2,
+        "priority_level": 8,
+        "detection_method": "AI Analysis",
+        "market_position": "Market leader",
+        "key_differentiators": [
+          "Strong digital presence",
+          "Comprehensive financial solutions"
+        ],
+        "employee_count_estimate": 100000
+      },
+      {
+        "name": "Bajaj Finserv",
+        "industry": "Financial Services",
+        "similarity_score": 8.0,
+        "priority_level": 8,
+        "detection_method": "AI Analysis",
+        "market_position": "Challenger",
+        "key_differentiators": [
+          "Innovative financial products",
+          "Strong customer service"
+        ],
+        "employee_count_estimate": 20000
+      },
+      {
+        "name": "Indiabulls Housing Finance",
+        "industry": "Financial Services",
+        "similarity_score": 7.8,
+        "priority_level": 7,
+        "detection_method": "AI Analysis",
+        "market_position": "Challenger",
+        "key_differentiators": [
+          "Specialized in housing finance",
+          "Strong market presence"
+        ],
+        "employee_count_estimate": 8000
+      },
+      {
+        "name": "Magma Fincorp",
+        "industry": "Financial Services",
+        "similarity_score": 7.5,
+        "priority_level": 7,
+        "detection_method": "AI Analysis",
+        "market_position": "Niche player",
+        "key_differentiators": [
+          "Focus on rural and semi-urban areas",
+          "Diverse financial products"
+        ],
+        "employee_count_estimate": 5000
+      },
+      {
+        "name": "Capital First",
+        "industry": "Financial Services",
+        "similarity_score": 7.3,
+        "priority_level": 7,
+        "detection_method": "AI Analysis",
+        "market_position": "Niche player",
+        "key_differentiators": [
+          "Strong focus on consumer finance",
+          "Innovative lending solutions"
+        ],
+        "employee_count_estimate": 6000
+      },
+      {
+        "name": "Shriram City Union Finance",
+        "industry": "Financial Services",
+        "similarity_score": 7.2,
+        "priority_level": 7,
+        "detection_method": "AI Analysis",
+        "market_position": "Challenger",
+        "key_differentiators": [
+          "Focus on small businesses",
+          "Wide range of financial products"
+        ],
+        "employee_count_estimate": 15000
+      }
+    ]
+  },
+  "ghost_shade_operations": {
+    "mission_overview": {
+      "total_agents_deployed": 10,
+      "successful_missions": 10,
+      "failed_missions": 0,
+      "no_data_missions": 0,
+      "success_rate": 100.0
+    },
+    "agent_details": [
+      {
+        "agent_id": "GHOST_SHADE_01",
+        "target_company": "Muthoot Finance",
+        "status": "COMPLETED",
+        "priority": 9,
+        "competitor_similarity": 9.0,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_02",
+        "target_company": "Manappuram Finance",
+        "status": "COMPLETED",
+        "priority": 8,
+        "competitor_similarity": 8.8,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_03",
+        "target_company": "IIFL Finance",
+        "status": "COMPLETED",
+        "priority": 8,
+        "competitor_similarity": 8.5,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_04",
+        "target_company": "HDFC Bank",
+        "status": "COMPLETED",
+        "priority": 8,
+        "competitor_similarity": 8.3,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_05",
+        "target_company": "ICICI Bank",
+        "status": "COMPLETED",
+        "priority": 8,
+        "competitor_similarity": 8.2,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_06",
+        "target_company": "Bajaj Finserv",
+        "status": "COMPLETED",
+        "priority": 8,
+        "competitor_similarity": 8.0,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_07",
+        "target_company": "Indiabulls Housing Finance",
+        "status": "COMPLETED",
+        "priority": 7,
+        "competitor_similarity": 7.8,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_08",
+        "target_company": "Magma Fincorp",
+        "status": "COMPLETED",
+        "priority": 7,
+        "competitor_similarity": 7.5,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_09",
+        "target_company": "Capital First",
+        "status": "COMPLETED",
+        "priority": 7,
+        "competitor_similarity": 7.3,
+        "detection_method": "AI Analysis"
+      },
+      {
+        "agent_id": "GHOST_SHADE_10",
+        "target_company": "Shriram City Union Finance",
+        "status": "COMPLETED",
+        "priority": 7,
+        "competitor_similarity": 7.2,
+        "detection_method": "AI Analysis"
+      }
+    ],
+    "intelligence_gathered": {
+      "total_competitor_companies": 10,
+      "total_employees_found": 810,
+      "total_detailed_profiles": 810
+    }
+  },
+  "executive_summary": "GHOST_MIRAGE competitive intelligence operation executed for Manipal Fintech. Detected 10 priority competitors using multi-method analysis: AI-powered detection, industry research, and employee background analysis. Primary threat identified: Muthoot Finance (similarity score: 9.0). Deployed 10 GHOST_SHADE agents for employee intelligence gathering. Successfully completed 10 intelligence missions. Gathered intelligence on 810 competitor employees across all targets. Operation provides comprehensive competitive landscape analysis and employee movement patterns."
+}
