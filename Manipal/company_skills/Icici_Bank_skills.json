@@ -1,0 +1,1326 @@
+{
+  "company_name": "Icici Bank",
+  "employees": [
+    {
+      "name": "Sujit Ganguli",
+      "position": "",
+      "employee_id": "Ici_001",
+      "skills": []
+    },
+    {
+      "name": "Punit Sood",
+      "position": "",
+      "employee_id": "Ici_002",
+      "skills": []
+    },
+    {
+      "name": "Hitesh Sachdev",
+      "position": "",
+      "employee_id": "Ici_003",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Market Analysis",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Budgeting",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Prasanna Balachander",
+      "position": "",
+      "employee_id": "Ici_004",
+      "skills": []
+    },
+    {
+      "name": "Bijith Bhaskar",
+      "position": "",
+      "employee_id": "Ici_005",
+      "skills": []
+    },
+    {
+      "name": "Manish Kumar",
+      "position": "",
+      "employee_id": "Ici_006",
+      "skills": []
+    },
+    {
+      "name": "Gurpreet Singh",
+      "position": "Head Cloud COE, ICICI Bank",
+      "employee_id": "Ici_007",
+      "skills": [
+        "Cloud Computing",
+        "AWS",
+        "Azure",
+        "Google Cloud Platform",
+        "DevOps",
+        "Infrastructure Management",
+        "Security Compliance",
+        "Automation",
+        "Disaster Recovery",
+        "IT Strategy"
+      ]
+    },
+    {
+      "name": "Anagha Deodhar",
+      "position": "Senior Economist - India at ICICI Bank",
+      "employee_id": "Ici_008",
+      "skills": [
+        "Economic Analysis",
+        "Financial Modeling",
+        "Macroeconomic Research",
+        "Statistical Analysis",
+        "Data Interpretation",
+        "Risk Assessment",
+        "Forecasting",
+        "Market Trends Analysis",
+        "Policy Analysis",
+        "Excel"
+      ]
+    },
+    {
+      "name": "PRIYAM UPRETI",
+      "position": "Ex ICICI Bank",
+      "employee_id": "Ici_009",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Customer Relationship Management",
+        "Banking Operations",
+        "Sales Strategy",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Compliance",
+        "Investment Products"
+      ]
+    },
+    {
+      "name": "Akash Raghav",
+      "position": "State Head - Bengal & North East, ICICI Bank",
+      "employee_id": "Ici_010",
+      "skills": [
+        "Financial Management",
+        "Risk Assessment",
+        "Banking Operations",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Compliance",
+        "Credit Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Amarjit singh Walia",
+      "position": "HEAD CONSUMER AND COMMERCIAL CARDS at ICICI Bank",
+      "employee_id": "Ici_011",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Card Operations",
+        "Consumer Banking",
+        "Commercial Banking",
+        "Product Development",
+        "Market Strategy",
+        "Customer Relationship Management (CRM)",
+        "Data Analytics",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Jasminder Chahal",
+      "position": "President - Home Loans",
+      "employee_id": "Ici_012",
+      "skills": [
+        "Mortgage Lending",
+        "Risk Management",
+        "Financial Analysis",
+        "Credit Assessment",
+        "Loan Origination Systems",
+        "Regulatory Compliance",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Portfolio Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Arvind Shastri",
+      "position": "",
+      "employee_id": "Ici_013",
+      "skills": []
+    },
+    {
+      "name": "Himadar Maddipatla",
+      "position": "President and CEO ICICI Bank Canada",
+      "employee_id": "Ici_014",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Leadership",
+        "Banking Operations",
+        "Corporate Finance",
+        "Regulatory Compliance",
+        "Investment Management",
+        "Business Development",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Vishal Batra",
+      "position": "",
+      "employee_id": "Ici_015",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Machine Learning",
+        "SQL",
+        "R",
+        "Statistics",
+        "Data Visualization",
+        "Big Data",
+        "Predictive Modeling",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Anubhuti Sanghai",
+      "position": "",
+      "employee_id": "Ici_016",
+      "skills": []
+    },
+    {
+      "name": "John Joseph",
+      "position": "Zonal Head - Mortgages ICICI Bank IIM Indore Alumnus",
+      "employee_id": "Ici_017",
+      "skills": [
+        "Mortgage Lending",
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Customer Relationship Management (CRM)",
+        "Loan Processing",
+        "Regulatory Compliance",
+        "Sales Strategy",
+        "Market Analysis",
+        "Banking Operations"
+      ]
+    },
+    {
+      "name": "Neha Agarwal Arya",
+      "position": "Chief Data Officer | ICICI Bank",
+      "employee_id": "Ici_018",
+      "skills": [
+        "Data Analysis",
+        "Big Data",
+        "Machine Learning",
+        "Data Governance",
+        "SQL",
+        "Python",
+        "R",
+        "Risk Management",
+        "Business Intelligence",
+        "Financial Modeling"
+      ]
+    },
+    {
+      "name": "Anand Venkataraman",
+      "position": "",
+      "employee_id": "Ici_019",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "Agile Methodologies",
+        "Java",
+        "Python",
+        "SQL",
+        "Cloud Computing",
+        "Web Development",
+        "API Integration",
+        "Version Control"
+      ]
+    },
+    {
+      "name": "Jitesh Bawa",
+      "position": "",
+      "employee_id": "Ici_020",
+      "skills": []
+    },
+    {
+      "name": "Munish Blaggan",
+      "position": "Head Technology Infrastructure Group at ICICI Bank Ltd",
+      "employee_id": "Ici_021",
+      "skills": [
+        "Technology Infrastructure Management",
+        "IT Strategy",
+        "Network Security",
+        "Cloud Computing",
+        "Data Center Management",
+        "Disaster Recovery Planning",
+        "Vendor Management",
+        "Project Management",
+        "Cybersecurity",
+        "System Architecture"
+      ]
+    },
+    {
+      "name": "Puja Agarwal (Biyani)",
+      "position": "",
+      "employee_id": "Ici_022",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Financial Reporting",
+        "Microsoft Excel",
+        "Budgeting",
+        "Risk Management",
+        "Presentation Skills",
+        "Stakeholder Management",
+        "Strategic Planning",
+        "Business Analysis"
+      ]
+    },
+    {
+      "name": "Devender Maggo",
+      "position": "Ex ICICI Bank - Europe Retail Head | Indo-German think tank | Student and skilled labour ecosystem expert | Business strategy, Operations & Sales | New country setup | Financial Services | Fintech & Start-ups |",
+      "employee_id": "Ici_023",
+      "skills": [
+        "Business Strategy",
+        "Operations Management",
+        "Sales",
+        "New Country Setup",
+        "Financial Services",
+        "Fintech",
+        "Start-ups",
+        "Retail Banking",
+        "Student and Skilled Labour Ecosystem",
+        "Indo-German Relations"
+      ]
+    },
+    {
+      "name": "Suresh Mutyala",
+      "position": "",
+      "employee_id": "Ici_024",
+      "skills": []
+    },
+    {
+      "name": "Arati Ramakrishnan Kripalani",
+      "position": "Business Head - Global Clients Group West II at ICICI Bank",
+      "employee_id": "Ici_025",
+      "skills": [
+        "Financial Analysis",
+        "Client Relationship Management",
+        "Strategic Planning",
+        "Risk Management",
+        "Business Development",
+        "Market Analysis",
+        "Project Management",
+        "Sales Strategy",
+        "Negotiation",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Anubhav Srivastava",
+      "position": "",
+      "employee_id": "Ici_026",
+      "skills": []
+    },
+    {
+      "name": "Sidharatha Mishra",
+      "position": "",
+      "employee_id": "Ici_027",
+      "skills": []
+    },
+    {
+      "name": "KRISHAN ARORA",
+      "position": "Leadership Team at ICICI Bank",
+      "employee_id": "Ici_028",
+      "skills": [
+        "Leadership",
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Strategic Planning",
+        "Compliance",
+        "Corporate Finance",
+        "Investment Banking",
+        "Team Management",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Sriram Hariharan Iyer",
+      "position": "",
+      "employee_id": "Ici_029",
+      "skills": []
+    },
+    {
+      "name": "Gaurav Arora",
+      "position": "Business Head at ICICI Bank UK PLC",
+      "employee_id": "Ici_030",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Business Development",
+        "Banking Operations",
+        "Regulatory Compliance",
+        "Customer Relationship Management (CRM)",
+        "Leadership",
+        "Market Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Abbhay Nagrecha",
+      "position": "",
+      "employee_id": "Ici_031",
+      "skills": [
+        "Project Management",
+        "Supply Chain Management",
+        "Inventory Control",
+        "Logistics",
+        "ERP Systems",
+        "Data Analysis",
+        "Process Improvement",
+        "Vendor Management",
+        "Forecasting",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Shilpi Jain",
+      "position": "Product Head - Credit & Debit Cards",
+      "employee_id": "Ici_032",
+      "skills": [
+        "Product Management",
+        "Credit Card Processing",
+        "Debit Card Processing",
+        "Financial Services",
+        "Market Analysis",
+        "Strategic Planning",
+        "Project Management",
+        "Customer Relationship Management (CRM)",
+        "Data Analysis",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Arun Raghavendran",
+      "position": "Associate Leadership Team - Treasury & Funds | ICICI Bank, New York",
+      "employee_id": "Ici_033",
+      "skills": [
+        "Treasury Management",
+        "Funds Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Banking Operations",
+        "Financial Reporting",
+        "Excel",
+        "Financial Modeling",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Akash Chopra",
+      "position": "Head - Sales and Origination, Global Markets Group at ICICI Bank",
+      "employee_id": "Ici_034",
+      "skills": [
+        "Sales Strategy",
+        "Market Analysis",
+        "Financial Services",
+        "Client Relationship Management",
+        "Business Development",
+        "Negotiation",
+        "Team Leadership",
+        "CRM Software",
+        "Revenue Generation",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Mohit Bhatia",
+      "position": "ICICI Bank Canada, Halifax | Retail Banking | Financial Advisor | Business Development | MBA |",
+      "employee_id": "Ici_035",
+      "skills": [
+        "Retail Banking",
+        "Financial Advisory",
+        "Business Development",
+        "Customer Relationship Management",
+        "Financial Planning",
+        "Investment Strategies",
+        "Risk Assessment",
+        "Sales Techniques",
+        "Market Analysis",
+        "MBA"
+      ]
+    },
+    {
+      "name": "MADHAVI PURANDARE",
+      "position": "Joint General Manager at ICICI Bank",
+      "employee_id": "Ici_036",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Credit Analysis",
+        "Regulatory Compliance",
+        "Customer Relationship Management",
+        "Project Management",
+        "Financial Reporting",
+        "Data Analysis",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Richa Purohit",
+      "position": "Leadership Team (Data Science & Analytics Group) at ICICI Bank",
+      "employee_id": "Ici_037",
+      "skills": [
+        "Data Science",
+        "Analytics",
+        "Python",
+        "Machine Learning",
+        "Statistical Analysis",
+        "SQL",
+        "Big Data",
+        "Financial Modeling",
+        "Risk Management",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Niraj Tralshawala",
+      "position": "",
+      "employee_id": "Ici_038",
+      "skills": []
+    },
+    {
+      "name": "Deepa Balasubramanian",
+      "position": "at ICICI Bank",
+      "employee_id": "Ici_039",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Customer Relationship Management",
+        "Loan Processing",
+        "Compliance",
+        "Financial Reporting",
+        "Credit Analysis",
+        "Investment Banking",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Viral Rupani",
+      "position": "",
+      "employee_id": "Ici_040",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "SQL",
+        "Machine Learning",
+        "Statistics",
+        "R",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Sudipto Nag",
+      "position": "",
+      "employee_id": "Ici_041",
+      "skills": []
+    },
+    {
+      "name": "Prasanth Singh",
+      "position": "At ICICI Bank Ltd.",
+      "employee_id": "Ici_042",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Customer Relationship Management",
+        "Credit Analysis",
+        "Loan Processing",
+        "Compliance",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Investment Management"
+      ]
+    },
+    {
+      "name": "Dheemant Thacker",
+      "position": "",
+      "employee_id": "Ici_043",
+      "skills": []
+    },
+    {
+      "name": "Kiran Reddy",
+      "position": "",
+      "employee_id": "Ici_044",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving",
+        "Negotiation",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Gaurav K.",
+      "position": "Head - UPI, Digital Payments & API Banking, ICICI Bank",
+      "employee_id": "Ici_045",
+      "skills": [
+        "Digital Payments",
+        "API Banking",
+        "UPI",
+        "Fintech",
+        "Payment Systems",
+        "Banking Technology",
+        "Financial Services",
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Manish Jain",
+      "position": "State Head Rajasthan at ICICI Bank",
+      "employee_id": "Ici_046",
+      "skills": [
+        "Banking Operations",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Compliance",
+        "Credit Analysis",
+        "Market Research",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "PRAVEEN S.",
+      "position": "Corporate Banking - GIC | ICICI Bank | New York",
+      "employee_id": "Ici_047",
+      "skills": [
+        "Corporate Banking",
+        "GIC",
+        "Financial Analysis",
+        "Risk Management",
+        "Client Relationship Management",
+        "Credit Analysis",
+        "Investment Banking",
+        "Regulatory Compliance",
+        "Portfolio Management",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Abhijit Bhattacharya",
+      "position": "",
+      "employee_id": "Ici_048",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Performance Metrics",
+        "Process Improvement",
+        "Microsoft Office",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Anshuman ji",
+      "position": "Head of Retail Policy@ICICI Bank | MBA with 22 years exp in Retail & digital lending, Portfolio mgt and retail banking strategy | I write on Economics, finance, psychology, behavioural finance etc | 2 mn impressions",
+      "employee_id": "Ici_049",
+      "skills": [
+        "Retail Policy",
+        "Digital Lending",
+        "Portfolio Management",
+        "Retail Banking Strategy",
+        "Economics",
+        "Finance",
+        "Psychology",
+        "Behavioral Finance",
+        "Impression Management",
+        "Banking"
+      ]
+    },
+    {
+      "name": "Shreya Dev",
+      "position": "Retail Regional Head, Bilaspur, ICICI Bank.",
+      "employee_id": "Ici_050",
+      "skills": [
+        "Retail Management",
+        "Sales Strategy",
+        "Customer Relationship Management (CRM)",
+        "Team Leadership",
+        "Financial Analysis",
+        "Market Research",
+        "Budgeting",
+        "Performance Metrics",
+        "Branch Operations",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Rajneesh Gupta",
+      "position": "Zonal Head - North, Markets Group at ICICI Bank",
+      "employee_id": "Ici_051",
+      "skills": [
+        "Financial Analysis",
+        "Market Strategy",
+        "Risk Management",
+        "Team Leadership",
+        "Customer Relationship Management (CRM)",
+        "Sales Management",
+        "Business Development",
+        "Budgeting",
+        "Negotiation",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Harsh Vardhan Nathany",
+      "position": "Leadership Team Member, ICICI Bank",
+      "employee_id": "Ici_052",
+      "skills": [
+        "Leadership",
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Banking Operations",
+        "Business Development",
+        "Team Management",
+        "Project Management",
+        "Customer Relationship Management",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Anthony Coulthard",
+      "position": "Head Legal and Chief Compliance Officer at ICICI Bank Canada",
+      "employee_id": "Ici_053",
+      "skills": [
+        "Legal Compliance",
+        "Risk Management",
+        "Corporate Governance",
+        "Regulatory Affairs",
+        "Contract Negotiation",
+        "Anti-Money Laundering (AML)",
+        "Fraud Prevention",
+        "Legal Research",
+        "Policy Development",
+        "Financial Regulations"
+      ]
+    },
+    {
+      "name": "Satyakam Gautam",
+      "position": "Rates Trader, ICICI Bank",
+      "employee_id": "Ici_054",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Trading Strategies",
+        "Market Research",
+        "Bloomberg Terminal",
+        "Excel",
+        "Fixed Income Securities",
+        "Interest Rate Derivatives",
+        "Quantitative Analysis",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Anupam Verma",
+      "position": "",
+      "employee_id": "Ici_055",
+      "skills": []
+    },
+    {
+      "name": "Kishan Kunal",
+      "position": "Corporate Banking | Ind-US Corridor | ICICI Bank NY",
+      "employee_id": "Ici_056",
+      "skills": [
+        "Corporate Banking",
+        "Cross-Border Transactions",
+        "Financial Analysis",
+        "Client Relationship Management",
+        "Risk Assessment",
+        "Regulatory Compliance",
+        "Credit Analysis",
+        "Trade Finance",
+        "Investment Banking",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Richa Sharma",
+      "position": "",
+      "employee_id": "Ici_057",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Management",
+        "Stakeholder Communication",
+        "Microsoft Office",
+        "Data Analysis",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Sandipan Ray",
+      "position": "Practice Head at ICICI Bank",
+      "employee_id": "Ici_058",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Strategic Planning",
+        "Team Leadership",
+        "Customer Relationship Management (CRM)",
+        "Regulatory Compliance",
+        "Project Management",
+        "Data Analytics",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Sandeep Gupta",
+      "position": "Head- Deposits, Private Banking, Wealth, Family Office, Corp employee solutions and Micro market strategy",
+      "employee_id": "Ici_059",
+      "skills": [
+        "Private Banking",
+        "Wealth Management",
+        "Family Office Management",
+        "Corporate Employee Solutions",
+        "Micro Market Strategy",
+        "Deposits Management",
+        "Financial Planning",
+        "Investment Strategies",
+        "Client Relationship Management",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Paresh Goel",
+      "position": "",
+      "employee_id": "Ici_060",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "SQL",
+        "Machine Learning",
+        "Statistics",
+        "Business Intelligence",
+        "Predictive Analytics"
+      ]
+    },
+    {
+      "name": "Sumit Sanghai",
+      "position": "",
+      "employee_id": "Ici_061",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "Agile Methodologies",
+        "Java",
+        "Python",
+        "SQL",
+        "System Design",
+        "Cloud Computing",
+        "DevOps",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Saikat Mitra",
+      "position": "Regional Manager- Branch Banking ICICI BANK CANADA (CBCA)\u00ae",
+      "employee_id": "Ici_062",
+      "skills": [
+        "Branch Banking",
+        "Financial Services",
+        "Customer Relationship Management",
+        "Risk Management",
+        "Compliance",
+        "Sales Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Banking Operations",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Atul Agnihotri",
+      "position": "Head-Treasury IT Systems | ICICI Bank",
+      "employee_id": "Ici_063",
+      "skills": [
+        "Treasury Management",
+        "IT Systems",
+        "Financial Software",
+        "Risk Management",
+        "Data Analysis",
+        "Banking Operations",
+        "SQL",
+        "Project Management",
+        "System Integration",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "name": "Sunil Rola",
+      "position": "Regional Head - Large Corporate at ICICI Bank (Leadership Role)",
+      "employee_id": "Ici_064",
+      "skills": [
+        "Leadership",
+        "Corporate Finance",
+        "Risk Management",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Business Development",
+        "Client Relationship Management",
+        "Banking Operations",
+        "Market Analysis",
+        "Credit Assessment"
+      ]
+    },
+    {
+      "name": "Amit Vatsa",
+      "position": "Head HR - ICICI Bank UK PLC",
+      "employee_id": "Ici_065",
+      "skills": [
+        "Human Resources Management",
+        "Talent Acquisition",
+        "Employee Relations",
+        "Performance Management",
+        "Compensation and Benefits",
+        "HR Analytics",
+        "Labor Law Compliance",
+        "Organizational Development",
+        "Conflict Resolution",
+        "HR Software (e.g., SAP SuccessFactors)"
+      ]
+    },
+    {
+      "name": "Neeraj Sethi",
+      "position": "",
+      "employee_id": "Ici_066",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Client Relations",
+        "Market Analysis",
+        "Sales Strategy",
+        "Negotiation",
+        "CRM Software",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Shantanu Samaddar",
+      "position": "State Head of ICICI Bank",
+      "employee_id": "Ici_067",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Customer Relationship Management",
+        "Credit Analysis",
+        "Regulatory Compliance",
+        "Team Leadership",
+        "Strategic Planning",
+        "Sales Management",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Arun Puppala",
+      "position": "Head Business Solution Group",
+      "employee_id": "Ici_068",
+      "skills": [
+        "Business Strategy",
+        "Project Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Enterprise Solutions",
+        "CRM Software",
+        "Market Analysis",
+        "Process Improvement",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Anuj Bhargava",
+      "position": "Head Global Clients Group, MNCs, PSUs@ ICICI Bank | Financial Management",
+      "employee_id": "Ici_069",
+      "skills": [
+        "Financial Management",
+        "Client Relationship Management",
+        "Corporate Banking",
+        "Risk Assessment",
+        "Strategic Planning",
+        "Business Development",
+        "Market Analysis",
+        "Regulatory Compliance",
+        "Project Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Shaunak D. Joshi",
+      "position": "Marketing Head Business Banking & International Banking and Head Strategic Alliances",
+      "employee_id": "Ici_070",
+      "skills": [
+        "Marketing Strategy",
+        "Business Banking",
+        "International Banking",
+        "Strategic Alliances",
+        "Market Analysis",
+        "Customer Relationship Management (CRM)",
+        "Financial Services",
+        "Brand Management",
+        "Digital Marketing",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Pinky Modi",
+      "position": "",
+      "employee_id": "Ici_071",
+      "skills": []
+    },
+    {
+      "name": "Vanshika Shaw",
+      "position": "ICICI Bank Risk Group | IIM BG\u201924 | NMIMS'20",
+      "employee_id": "Ici_072",
+      "skills": [
+        "Risk Management",
+        "Financial Analysis",
+        "Credit Risk Assessment",
+        "Market Risk",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Financial Modeling",
+        "Quantitative Analysis"
+      ]
+    },
+    {
+      "name": "RAHUL GODSE",
+      "position": "Zonal Head - Unsecured Assets, ICICI Bank Limited",
+      "employee_id": "Ici_073",
+      "skills": [
+        "Risk Management",
+        "Financial Analysis",
+        "Credit Assessment",
+        "Portfolio Management",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Loan Processing",
+        "Regulatory Compliance",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Dharam Singla",
+      "position": "",
+      "employee_id": "Ici_074",
+      "skills": [
+        "Software Development",
+        "Programming",
+        "System Design",
+        "Project Management",
+        "Agile Methodologies",
+        "Technical Support",
+        "Troubleshooting",
+        "Quality Assurance",
+        "Database Management",
+        "Version Control"
+      ]
+    },
+    {
+      "name": "Murugamarikumar Paramasivan",
+      "position": "Chief Representative Officer at ICICI Bank California",
+      "employee_id": "Ici_075",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Regulatory Compliance",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Credit Analysis",
+        "Market Research",
+        "Business Development",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Rajesh Iyer",
+      "position": "",
+      "employee_id": "Ici_076",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Microsoft Office Suite",
+        "Negotiation",
+        "Problem Solving",
+        "Communication",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Mrinal Tirodkar",
+      "position": "Relationship Manager - Funds at ICICI Bank, USA",
+      "employee_id": "Ici_077",
+      "skills": [
+        "Fund Management",
+        "Client Relationship Management",
+        "Financial Analysis",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Risk Assessment",
+        "Market Research",
+        "Financial Reporting",
+        "Regulatory Compliance",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Abhijit Thosar",
+      "position": "Leadership Team at ICICI Bank",
+      "employee_id": "Ici_078",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Strategic Planning",
+        "Leadership",
+        "Regulatory Compliance",
+        "Credit Analysis",
+        "Investment Management",
+        "Business Development",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Vishesh Bansal",
+      "position": "Associate Leadership Team- Startup Engagement & Innovation at ICICI Bank | Innovation 40 under Forty | Artificial Intelligence | Gen AI",
+      "employee_id": "Ici_079",
+      "skills": [
+        "Artificial Intelligence",
+        "Gen AI",
+        "Startup Engagement",
+        "Innovation Management",
+        "Leadership",
+        "Financial Services",
+        "Strategic Planning",
+        "Project Management",
+        "Business Development",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Suresh Bokka",
+      "position": "Manager at ICICI Bank",
+      "employee_id": "Ici_080",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Compliance",
+        "Strategic Planning",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Suresh Bokka",
+      "position": "Manager at ICICI Bank",
+      "employee_id": "Ici_081",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Regulatory Compliance",
+        "Credit Analysis",
+        "Business Strategy",
+        "Project Management",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Deepak Mahaur",
+      "position": "Leadership Team at ICICI Bank",
+      "employee_id": "Ici_082",
+      "skills": [
+        "Leadership",
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Strategic Planning",
+        "Team Management",
+        "Customer Relationship Management",
+        "Compliance",
+        "Business Development",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Arpita Sharma",
+      "position": "Assistant General Manager at ICICI Bank",
+      "employee_id": "Ici_083",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Customer Relationship Management",
+        "Regulatory Compliance",
+        "Credit Analysis",
+        "Team Leadership",
+        "Project Management",
+        "Microsoft Excel",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Kaustav Bandyopadyay",
+      "position": "",
+      "employee_id": "Ici_084",
+      "skills": []
+    },
+    {
+      "name": "Vivian Varghese",
+      "position": "Assistant Manager, Human Resources - ICICI Bank Canada (CHRP in progress )",
+      "employee_id": "Ici_085",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Recruitment",
+        "Performance Management",
+        "HRIS",
+        "Talent Acquisition",
+        "Compensation and Benefits",
+        "Labor Law Compliance",
+        "Training and Development",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Kausik Datta",
+      "position": "Head of Corporate Communications at ICICI Bank",
+      "employee_id": "Ici_086",
+      "skills": [
+        "Corporate Communications",
+        "Public Relations",
+        "Crisis Management",
+        "Media Relations",
+        "Internal Communications",
+        "Content Creation",
+        "Brand Management",
+        "Stakeholder Engagement",
+        "Strategic Planning",
+        "Social Media Management"
+      ]
+    },
+    {
+      "name": "Manish Kumar",
+      "position": "",
+      "employee_id": "Ici_087",
+      "skills": []
+    },
+    {
+      "name": "Srinivasan Iyengar",
+      "position": "Head-Industry Academia @ ICICI Bank",
+      "employee_id": "Ici_088",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Industry Academia Collaboration",
+        "Strategic Planning",
+        "Project Management",
+        "Data Analytics",
+        "Business Development",
+        "Compliance",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Deepanjan Guha",
+      "position": "",
+      "employee_id": "Ici_089",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "SQL",
+        "Machine Learning",
+        "Statistics",
+        "Predictive Analytics",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Anmol Kothari",
+      "position": "Head IT - North Asia, at ICICI Bank",
+      "employee_id": "Ici_090",
+      "skills": [
+        "IT Management",
+        "Cybersecurity",
+        "Network Administration",
+        "Database Management",
+        "Project Management",
+        "Cloud Computing",
+        "System Integration",
+        "Vendor Management",
+        "IT Strategy",
+        "Technical Support"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,975 @@
+{
+  "company_name": "Capital First",
+  "employees": [
+    {
+      "name": "Erica Dresdow",
+      "position": "Senior Trust Case Manager at Capital First Trust Company",
+      "employee_id": "Cap_001",
+      "skills": [
+        "Trust Administration",
+        "Estate Planning",
+        "Fiduciary Services",
+        "Wealth Management",
+        "Client Relationship Management",
+        "Legal Compliance",
+        "Financial Reporting",
+        "Risk Assessment",
+        "Trust Accounting",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Adam Stern",
+      "position": "Senior Vice President at Capital First Trust Company",
+      "employee_id": "Cap_002",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Wealth Management",
+        "Regulatory Compliance",
+        "Financial Planning",
+        "Client Relationship Management",
+        "Business Development",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Matthew Albers",
+      "position": "Senior Trust Officer at Capital First Trust Company",
+      "employee_id": "Cap_003",
+      "skills": [
+        "Trust Administration",
+        "Estate Planning",
+        "Fiduciary Services",
+        "Wealth Management",
+        "Financial Planning",
+        "Risk Management",
+        "Regulatory Compliance",
+        "Client Relationship Management",
+        "Investment Management",
+        "Legal Documentation"
+      ]
+    },
+    {
+      "name": "Arjun Sawhney, JD",
+      "position": "Director of Trust Services at Capital First Trust Company",
+      "employee_id": "Cap_004",
+      "skills": [
+        "Trust Services Management",
+        "Estate Planning",
+        "Fiduciary Responsibility",
+        "Wealth Management",
+        "Compliance",
+        "Risk Management",
+        "Financial Analysis",
+        "Client Relationship Management",
+        "Legal Research",
+        "Regulatory Knowledge"
+      ]
+    },
+    {
+      "name": "Kristin Beres, CPA",
+      "position": "",
+      "employee_id": "Cap_005",
+      "skills": [
+        "Accounting",
+        "Financial Reporting",
+        "Tax Preparation",
+        "Auditing",
+        "GAAP",
+        "Financial Analysis",
+        "QuickBooks",
+        "Excel",
+        "Budgeting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Rhonda Burger",
+      "position": "Office Manager @ Capital First Trust / Professional Organizer at Help Me Rhonda",
+      "employee_id": "Cap_006",
+      "skills": [
+        "Office Management",
+        "Professional Organizing",
+        "Microsoft Office",
+        "Administrative Support",
+        "Customer Service",
+        "Scheduling",
+        "Event Planning",
+        "Records Management",
+        "Time Management",
+        "QuickBooks"
+      ]
+    },
+    {
+      "name": "Tiffany Roberts",
+      "position": "Arden Trust Company",
+      "employee_id": "Cap_007",
+      "skills": [
+        "Trust Administration",
+        "Financial Services",
+        "Risk Management",
+        "Compliance",
+        "Estate Planning",
+        "Wealth Management",
+        "Client Relations",
+        "Investment Strategies",
+        "Regulatory Knowledge",
+        "Account Management"
+      ]
+    },
+    {
+      "name": "Wyatt Zamzow",
+      "position": "",
+      "employee_id": "Cap_008",
+      "skills": [
+        "Project Management",
+        "Client Relations",
+        "Data Analysis",
+        "Microsoft Office",
+        "Strategic Planning",
+        "Market Research",
+        "Business Development",
+        "Problem Solving",
+        "Communication",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Emily Ockenga, PHR",
+      "position": "",
+      "employee_id": "Cap_009",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "HRIS",
+        "Performance Management",
+        "Compensation and Benefits",
+        "Training and Development",
+        "Compliance",
+        "Organizational Development",
+        "Recruitment"
+      ]
+    },
+    {
+      "name": "Chris Foregger",
+      "position": "President Capital First Trust Company",
+      "employee_id": "Cap_010",
+      "skills": [
+        "Financial Management",
+        "Trust Administration",
+        "Investment Strategies",
+        "Regulatory Compliance",
+        "Wealth Management",
+        "Risk Assessment",
+        "Portfolio Management",
+        "Client Relations",
+        "Strategic Planning",
+        "Corporate Governance"
+      ]
+    },
+    {
+      "name": "Maisee Yang",
+      "position": "Director of Personal Trust",
+      "employee_id": "Cap_011",
+      "skills": [
+        "Trust Administration",
+        "Estate Planning",
+        "Wealth Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Compliance",
+        "Client Relationship Management",
+        "Investment Strategies",
+        "Tax Planning",
+        "Legal Documentation"
+      ]
+    },
+    {
+      "name": "Tammie Flanders, CHSNC",
+      "position": "Director of Personal Trust Services",
+      "employee_id": "Cap_012",
+      "skills": [
+        "Trust Administration",
+        "Estate Planning",
+        "Wealth Management",
+        "Financial Planning",
+        "Tax Planning",
+        "Fiduciary Services",
+        "Client Relationship Management",
+        "Regulatory Compliance",
+        "Investment Management",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Rahul raghuraman",
+      "position": "Finance at Capital First Limited",
+      "employee_id": "Cap_013",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Excel",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Analysis",
+        "Accounting",
+        "SAP"
+      ]
+    },
+    {
+      "name": "Sarah Stawicki",
+      "position": "Trust Officer at Capital First Trust Company",
+      "employee_id": "Cap_014",
+      "skills": [
+        "Trust Administration",
+        "Estate Planning",
+        "Wealth Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Regulatory Compliance",
+        "Client Relationship Management",
+        "Fiduciary Services",
+        "Investment Strategies",
+        "Legal Documentation"
+      ]
+    },
+    {
+      "name": "Johanna Baker",
+      "position": "Senior Trust Officer at Capital First Trust Company",
+      "employee_id": "Cap_015",
+      "skills": [
+        "Trust Administration",
+        "Estate Planning",
+        "Fiduciary Services",
+        "Wealth Management",
+        "Risk Assessment",
+        "Compliance",
+        "Financial Planning",
+        "Client Relationship Management",
+        "Trust Accounting",
+        "Regulatory Knowledge"
+      ]
+    },
+    {
+      "name": "Jodi K. Wilde",
+      "position": "Trust Case Administrative Assistant at Capital First Trust Company",
+      "employee_id": "Cap_016",
+      "skills": [
+        "Trust Administration",
+        "Case Management",
+        "Microsoft Office",
+        "Document Management",
+        "Client Communication",
+        "Data Entry",
+        "Record Keeping",
+        "Financial Reporting",
+        "Compliance",
+        "Legal Documentation"
+      ]
+    },
+    {
+      "name": "Joyce Simon",
+      "position": "Managing Partner Human Capital First Associates",
+      "employee_id": "Cap_017",
+      "skills": [
+        "Human Resources Management",
+        "Talent Acquisition",
+        "Employee Relations",
+        "Performance Management",
+        "Organizational Development",
+        "HRIS (Human Resource Information System)",
+        "Compensation and Benefits",
+        "Leadership Development",
+        "Strategic Planning",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Daniel Schmidt",
+      "position": "Angel Investor at Capital First Limited",
+      "employee_id": "Cap_018",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Risk Management",
+        "Portfolio Management",
+        "Market Research",
+        "Business Development",
+        "Valuation",
+        "Negotiation",
+        "Due Diligence",
+        "Entrepreneurship"
+      ]
+    },
+    {
+      "name": "Sirisha Vallabhaneni",
+      "position": "Technical Recruiter at Capital First Limited",
+      "employee_id": "Cap_019",
+      "skills": [
+        "Recruitment",
+        "Talent Acquisition",
+        "Applicant Tracking Systems",
+        "Interviewing",
+        "Technical Screening",
+        "Sourcing",
+        "HR Software",
+        "Candidate Management",
+        "Job Posting",
+        "Networking"
+      ]
+    },
+    {
+      "name": "Mia Pali",
+      "position": "",
+      "employee_id": "Cap_020",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Microsoft Office",
+        "Negotiation",
+        "Problem Solving",
+        "Communication",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Shelly Adomaitis",
+      "position": "Trust Officer at Capital First Trust Company",
+      "employee_id": "Cap_021",
+      "skills": [
+        "Trust Administration",
+        "Estate Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Compliance",
+        "Wealth Management",
+        "Client Relations",
+        "Legal Documentation",
+        "Investment Strategies",
+        "Fiduciary Services"
+      ]
+    },
+    {
+      "name": "Richard Comp",
+      "position": "Trust Services / Relationship Manager | Investment Operations Professional | Finance Professional",
+      "employee_id": "Cap_023",
+      "skills": [
+        "Investment Management",
+        "Trust Services",
+        "Relationship Management",
+        "Financial Analysis",
+        "Portfolio Management",
+        "Risk Assessment",
+        "Client Communication",
+        "Investment Operations",
+        "Finance",
+        "Asset Allocation"
+      ]
+    },
+    {
+      "name": "Kimberly Cunningham, CTFA",
+      "position": "",
+      "employee_id": "Cap_024",
+      "skills": [
+        "Financial Planning",
+        "Trust Administration",
+        "Wealth Management",
+        "Estate Planning",
+        "Investment Strategies",
+        "Risk Assessment",
+        "Client Relationship Management",
+        "Regulatory Compliance",
+        "Tax Planning",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "MONIKA JOSHI",
+      "position": "Sales Manager(Capital First Ltd)",
+      "employee_id": "Cap_025",
+      "skills": [
+        "Sales Strategy",
+        "CRM Software",
+        "Market Analysis",
+        "Lead Generation",
+        "Customer Relationship Management",
+        "Sales Forecasting",
+        "Negotiation Skills",
+        "Data Analysis",
+        "Financial Services",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Eli Rodriguez, ATFA",
+      "position": "",
+      "employee_id": "Cap_026",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Tax Preparation",
+        "Auditing",
+        "Excel",
+        "Financial Reporting",
+        "Budgeting",
+        "QuickBooks",
+        "Compliance",
+        "Financial Planning"
+      ]
+    },
+    {
+      "name": "Denise L. Parrott",
+      "position": "--",
+      "employee_id": "Cap_027",
+      "skills": []
+    },
+    {
+      "name": "Jake Lewis",
+      "position": "Consumer Investor at Capital First Limited",
+      "employee_id": "Cap_028",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Market Research",
+        "Portfolio Management",
+        "Risk Assessment",
+        "Equity Research",
+        "Valuation Techniques",
+        "Excel",
+        "Financial Reporting",
+        "Data Interpretation"
+      ]
+    },
+    {
+      "name": "Christopher Visich",
+      "position": "Senior Mortgage Loan Originator at Capital First Mortgage, LLC, NMLS 342014",
+      "employee_id": "Cap_029",
+      "skills": [
+        "Mortgage Lending",
+        "Loan Origination",
+        "Credit Analysis",
+        "Financial Analysis",
+        "Customer Service",
+        "Sales",
+        "Regulatory Compliance",
+        "Underwriting",
+        "Mortgage Software",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Debbie Phillips",
+      "position": "Trust Officer at Capital First Trust Company",
+      "employee_id": "Cap_030",
+      "skills": [
+        "Trust Administration",
+        "Estate Planning",
+        "Wealth Management",
+        "Fiduciary Services",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Compliance",
+        "Client Relationship Management",
+        "Investment Management",
+        "Legal Documentation"
+      ]
+    },
+    {
+      "name": "David Steed",
+      "position": "Sr Trust Officer at Capital First Trust Company",
+      "employee_id": "Cap_031",
+      "skills": [
+        "Trust Administration",
+        "Estate Planning",
+        "Wealth Management",
+        "Risk Assessment",
+        "Financial Analysis",
+        "Regulatory Compliance",
+        "Client Relationship Management",
+        "Investment Strategies",
+        "Tax Planning",
+        "Fiduciary Services"
+      ]
+    },
+    {
+      "name": "Vinu Raj Radhakrishna",
+      "position": "Cluster Credit Manager at Capital First Limited",
+      "employee_id": "Cap_032",
+      "skills": [
+        "Credit Analysis",
+        "Risk Management",
+        "Financial Modeling",
+        "Loan Processing",
+        "Customer Relationship Management (CRM)",
+        "Data Analysis",
+        "Portfolio Management",
+        "Regulatory Compliance",
+        "Financial Reporting",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "stanly cruz",
+      "position": "MARKETING at Capital First Limited",
+      "employee_id": "Cap_033",
+      "skills": [
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Social Media Management",
+        "Email Marketing",
+        "Google Analytics",
+        "PPC Advertising",
+        "Marketing Strategy",
+        "Brand Management",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Jill Gevaart",
+      "position": "Assistant Trust Officer at Capital First Trust Company",
+      "employee_id": "Cap_034",
+      "skills": [
+        "Trust Administration",
+        "Estate Planning",
+        "Fiduciary Services",
+        "Wealth Management",
+        "Legal Compliance",
+        "Client Relationship Management",
+        "Financial Reporting",
+        "Trust Accounting Software",
+        "Risk Assessment",
+        "Investment Management"
+      ]
+    },
+    {
+      "name": "Rachel Carter",
+      "position": "Property Manager at Capital First Realty",
+      "employee_id": "Cap_035",
+      "skills": [
+        "Property Management",
+        "Tenant Relations",
+        "Lease Administration",
+        "Budgeting",
+        "Maintenance Coordination",
+        "Real Estate Software",
+        "Contract Negotiation",
+        "Market Analysis",
+        "Facility Management",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Dave Armstrong",
+      "position": "Vice President of Trust Operations at Capital First Trust Company",
+      "employee_id": "Cap_036",
+      "skills": [
+        "Trust Operations Management",
+        "Financial Services",
+        "Risk Management",
+        "Compliance",
+        "Regulatory Knowledge",
+        "Team Leadership",
+        "Strategic Planning",
+        "Client Relations",
+        "Process Improvement",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Gina Crespo",
+      "position": "Sales Associate Realtor en Capital First Realty, Inc",
+      "employee_id": "Cap_037",
+      "skills": [
+        "Real Estate Sales",
+        "Customer Relationship Management",
+        "Property Management",
+        "Market Analysis",
+        "Negotiation",
+        "Contract Management",
+        "MLS Software",
+        "Lead Generation",
+        "Sales Strategy",
+        "Client Communication"
+      ]
+    },
+    {
+      "name": "Kelvin Leonard",
+      "position": "Civil Engineer at Capital First Trust Company",
+      "employee_id": "Cap_038",
+      "skills": [
+        "Structural Analysis",
+        "AutoCAD",
+        "Civil Engineering Design",
+        "Project Management",
+        "Construction Management",
+        "Geotechnical Engineering",
+        "Surveying",
+        "Building Information Modeling (BIM)",
+        "Hydraulics",
+        "Environmental Engineering"
+      ]
+    },
+    {
+      "name": "Mike Pashawitz",
+      "position": "Manager, Treasury at Capital First Realty, Inc.",
+      "employee_id": "Cap_039",
+      "skills": [
+        "Financial Analysis",
+        "Treasury Management",
+        "Cash Flow Management",
+        "Risk Management",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Excel",
+        "SAP",
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Jaspreet Singh",
+      "position": "Sales And Marketing Specialist at Capital First Limited",
+      "employee_id": "Cap_040",
+      "skills": [
+        "Sales Strategy",
+        "Marketing Campaigns",
+        "Customer Relationship Management (CRM)",
+        "Market Research",
+        "Digital Marketing",
+        "Lead Generation",
+        "Salesforce",
+        "Email Marketing",
+        "SEO",
+        "Content Marketing"
+      ]
+    },
+    {
+      "name": "TIRUMANI SRIKANTH",
+      "position": "Finance Manager at Capital First Limited",
+      "employee_id": "Cap_041",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Risk Management",
+        "Accounting",
+        "Excel",
+        "SAP",
+        "Financial Planning",
+        "Variance Analysis"
+      ]
+    },
+    {
+      "name": "Kathy Eimer",
+      "position": "",
+      "employee_id": "Cap_042",
+      "skills": []
+    },
+    {
+      "name": "Christopher Visich",
+      "position": "Senior Loan Originator at Capital First Mortgage LLC",
+      "employee_id": "Cap_043",
+      "skills": [
+        "Loan Origination",
+        "Mortgage Lending",
+        "Financial Analysis",
+        "Credit Analysis",
+        "Customer Service",
+        "Sales",
+        "Underwriting",
+        "Loan Processing",
+        "Regulatory Compliance",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Joseph Krapf",
+      "position": "",
+      "employee_id": "Cap_044",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Microsoft Office",
+        "Team Leadership",
+        "Communication Skills",
+        "Problem Solving",
+        "Stakeholder Management",
+        "Budget Management",
+        "Risk Assessment",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Vaidyanathan V",
+      "position": "",
+      "employee_id": "Cap_045",
+      "skills": [
+        "Project Management",
+        "Client Relations",
+        "Business Analysis",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Strategic Planning",
+        "Team Leadership",
+        "Requirements Gathering",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Venkatesh Potru",
+      "position": "Credit Officer at Capital First Limited",
+      "employee_id": "Cap_046",
+      "skills": [
+        "Credit Analysis",
+        "Risk Management",
+        "Financial Reporting",
+        "Loan Processing",
+        "Customer Relationship Management (CRM)",
+        "Microsoft Excel",
+        "Financial Modeling",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Ankita Mote",
+      "position": "Sales Staff at Capital First Limited",
+      "employee_id": "Cap_047",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management (CRM)",
+        "Market Analysis",
+        "Negotiation",
+        "Lead Generation",
+        "Sales Forecasting",
+        "Microsoft Excel",
+        "Communication Skills",
+        "Product Knowledge",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Eduardo Saverin",
+      "position": "Co-Founder, Facebook Inc.",
+      "employee_id": "Cap_048",
+      "skills": [
+        "Entrepreneurship",
+        "Business Strategy",
+        "Social Media Platforms",
+        "Startups",
+        "Investment Management",
+        "Fundraising",
+        "Corporate Development",
+        "Venture Capital",
+        "Financial Analysis",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "John Blunt",
+      "position": "Venture Capitalist at Capital First Limited",
+      "employee_id": "Cap_049",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Market Research",
+        "Due Diligence",
+        "Portfolio Management",
+        "Valuation",
+        "Risk Assessment",
+        "Business Development",
+        "Negotiation",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Leslie Bright",
+      "position": "Managing Consultan at Capital First Consulting",
+      "employee_id": "Cap_050",
+      "skills": [
+        "Project Management",
+        "Business Strategy",
+        "Financial Analysis",
+        "Risk Management",
+        "Client Relationship Management",
+        "Data Analysis",
+        "Consulting",
+        "Market Research",
+        "Process Improvement",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Vincent Tunnero",
+      "position": "Senior Mortgage Loan Advisor at Capital First Mortgage NMLS 1303043",
+      "employee_id": "Cap_051",
+      "skills": [
+        "Mortgage Lending",
+        "Loan Origination",
+        "Credit Analysis",
+        "Financial Assessment",
+        "Customer Relationship Management (CRM)",
+        "Regulatory Compliance",
+        "Risk Management",
+        "Underwriting",
+        "Loan Processing",
+        "Mortgage Software"
+      ]
+    },
+    {
+      "name": "Daryl D'Souza",
+      "position": "Recyclink - A Consumer Centric Climate Fintech",
+      "employee_id": "Cap_052",
+      "skills": [
+        "Climate Finance",
+        "Sustainable Investing",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Environmental Impact Assessment",
+        "Carbon Accounting",
+        "Renewable Energy Economics",
+        "ESG Reporting",
+        "Fintech Solutions"
+      ]
+    },
+    {
+      "name": "Nate Bloom",
+      "position": "CFIRS, Trust Operations Specialist at Capital First Trust Company",
+      "employee_id": "Cap_053",
+      "skills": [
+        "Trust Operations",
+        "Financial Services",
+        "Risk Management",
+        "Compliance",
+        "Account Reconciliation",
+        "Client Relationship Management",
+        "Investment Management",
+        "Regulatory Reporting",
+        "Trust Accounting",
+        "Financial Analysis"
+      ]
+    },
+    {
+      "name": "capital first",
+      "position": "--",
+      "employee_id": "Cap_054",
+      "skills": []
+    },
+    {
+      "name": "Neeraj Chuhan",
+      "position": "financial at Capital First Limited",
+      "employee_id": "Cap_055",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Budgeting",
+        "Financial Reporting",
+        "Excel",
+        "Risk Management",
+        "Data Analysis",
+        "Investment Strategies",
+        "Financial Modeling",
+        "Forecasting"
+      ]
+    },
+    {
+      "name": "Levi Dax",
+      "position": "Marketing and Business Development",
+      "employee_id": "Cap_056",
+      "skills": [
+        "Market Research",
+        "SEO",
+        "Content Marketing",
+        "Google Analytics",
+        "Social Media Management",
+        "CRM Software",
+        "Email Marketing",
+        "Business Strategy",
+        "Lead Generation",
+        "Competitive Analysis"
+      ]
+    },
+    {
+      "name": "Curtis Black",
+      "position": "Initialized Capital at Capital First Limited",
+      "employee_id": "Cap_057",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Risk Assessment",
+        "Market Research",
+        "Capital Allocation",
+        "Financial Modeling",
+        "Excel",
+        "Data Analysis",
+        "Economic Forecasting"
+      ]
+    },
+    {
+      "name": "Antoine Martin",
+      "position": "Strategic Investment at Capital First Limited",
+      "employee_id": "Cap_058",
+      "skills": [
+        "Strategic Planning",
+        "Investment Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Portfolio Management",
+        "Market Research",
+        "Data Analysis",
+        "Capital Allocation",
+        "Economic Forecasting",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Mehul Bhuva",
+      "position": "Senior Project Manager at IDFC FIRST Bank Limited",
+      "employee_id": "Cap_059",
+      "skills": [
+        "Project Management",
+        "Risk Management",
+        "Financial Analysis",
+        "Budgeting",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "Team Leadership",
+        "Process Improvement",
+        "Strategic Planning",
+        "Banking Operations"
+      ]
+    },
+    {
+      "name": "BHANUSHRI DWIVEDI",
+      "position": "Manager at Capital First Trust Company",
+      "employee_id": "Cap_060",
+      "skills": [
+        "Financial Management",
+        "Risk Assessment",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Regulatory Compliance",
+        "Financial Analysis",
+        "Client Relationship Management",
+        "Wealth Management",
+        "Microsoft Excel",
+        "Financial Reporting"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1150 @@
+{
+  "company_name": "Magma Fincorp",
+  "employees": [
+    {
+      "name": "Lakshmi Narasimhan",
+      "position": "Chief Financial Officer at Magma Fincorp Ltd",
+      "employee_id": "Mag_001",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Financial Reporting",
+        "Risk Management",
+        "Strategic Planning",
+        "Corporate Finance",
+        "Investment Management",
+        "Regulatory Compliance",
+        "Accounting",
+        "Forecasting"
+      ]
+    },
+    {
+      "name": "Prabal Moitra",
+      "position": "National Head Buisness HR at Magma Fincorp Ltd.",
+      "employee_id": "Mag_002",
+      "skills": [
+        "Human Resources Management",
+        "Talent Acquisition",
+        "Employee Relations",
+        "Performance Management",
+        "Compensation and Benefits",
+        "HR Analytics",
+        "Organizational Development",
+        "Labor Law Compliance",
+        "Leadership Development",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "shahzad khan",
+      "position": "finance at Magma Fincorp Ltd.",
+      "employee_id": "Mag_003",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Accounting",
+        "Financial Reporting",
+        "Excel",
+        "SAP",
+        "Risk Management",
+        "Taxation",
+        "Auditing",
+        "Investment Analysis"
+      ]
+    },
+    {
+      "name": "Himmat Singh",
+      "position": "Software Engineer at Magma Fincorp Ltd.",
+      "employee_id": "Mag_004",
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Software Development",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "Web Development",
+        "API Integration",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Adam Federico",
+      "position": "Information Technology Specialist at Magma Fincorp Ltd.",
+      "employee_id": "Mag_005",
+      "skills": [
+        "Network Security",
+        "System Administration",
+        "Database Management",
+        "IT Support",
+        "Cybersecurity",
+        "Cloud Computing",
+        "Windows Server",
+        "Linux",
+        "Technical Troubleshooting",
+        "Virtualization"
+      ]
+    },
+    {
+      "name": "Manish Sharma",
+      "position": "--",
+      "employee_id": "Mag_006",
+      "skills": []
+    },
+    {
+      "name": "Pratyush Dasgupta",
+      "position": "AVP Marketing and Corp. Comm. at Magma Fincorp Ltd.",
+      "employee_id": "Mag_007",
+      "skills": [
+        "Marketing Strategy",
+        "Corporate Communications",
+        "Brand Management",
+        "Digital Marketing",
+        "Content Creation",
+        "Public Relations",
+        "Social Media Management",
+        "Market Research",
+        "SEO",
+        "Advertising"
+      ]
+    },
+    {
+      "name": "Deepak Dugar",
+      "position": "Regional Product Manager at Magma Fincorp Ltd.",
+      "employee_id": "Mag_008",
+      "skills": [
+        "Product Management",
+        "Market Analysis",
+        "Financial Services",
+        "Project Management",
+        "Business Strategy",
+        "Customer Relationship Management (CRM)",
+        "Data Analysis",
+        "Sales Forecasting",
+        "Budget Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Arindam Mukherjee",
+      "position": "Sr. Manager - IT at Magma Fincorp Limited",
+      "employee_id": "Mag_009",
+      "skills": [
+        "IT Management",
+        "Project Management",
+        "Network Security",
+        "System Administration",
+        "Database Management",
+        "Cloud Computing",
+        "IT Strategy",
+        "Cybersecurity",
+        "Vendor Management",
+        "Software Development"
+      ]
+    },
+    {
+      "name": "Ramasubramanian B",
+      "position": "Zonal Collection Head @ Magma Fincorp Ltd. | LLB",
+      "employee_id": "Mag_010",
+      "skills": [
+        "Debt Collection",
+        "Risk Management",
+        "Financial Analysis",
+        "Legal Knowledge",
+        "Team Leadership",
+        "Customer Relationship Management (CRM)",
+        "Negotiation",
+        "Compliance",
+        "Credit Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "faraz jamal",
+      "position": "Location Product Head at Magma Fincorp Ltd",
+      "employee_id": "Mag_011",
+      "skills": [
+        "Product Management",
+        "Financial Services",
+        "Market Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Business Development",
+        "Data Analysis",
+        "Risk Management",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Antim Bhadouria",
+      "position": "Legal Executive at Magma Fincorp Ltd",
+      "employee_id": "Mag_012",
+      "skills": [
+        "Legal Research",
+        "Contract Management",
+        "Compliance",
+        "Regulatory Affairs",
+        "Corporate Law",
+        "Legal Writing",
+        "Document Review",
+        "Risk Assessment",
+        "Legal Documentation",
+        "Case Management"
+      ]
+    },
+    {
+      "name": "MANOJ AJITSARIA",
+      "position": "IT at Poonawalla Fincorp Ltd",
+      "employee_id": "Mag_013",
+      "skills": [
+        "IT Management",
+        "Network Security",
+        "System Administration",
+        "Database Management",
+        "Technical Support",
+        "Software Development",
+        "Cybersecurity",
+        "Cloud Computing",
+        "IT Infrastructure",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Shripal Meena",
+      "position": "Senior Manager at Magma Fincorp Ltd.",
+      "employee_id": "Mag_014",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Project Management",
+        "Leadership",
+        "Budgeting",
+        "Compliance",
+        "Business Development",
+        "Team Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Vijith P",
+      "position": "Branch Head at Magma Fincorp Ltd.",
+      "employee_id": "Mag_015",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Branch Operations",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Sales Strategy",
+        "Credit Assessment",
+        "Loan Processing",
+        "Compliance",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "vipin sharma",
+      "position": "collection at Magma Fincorp Ltd.",
+      "employee_id": "Mag_016",
+      "skills": [
+        "Collections Management",
+        "Customer Relationship Management (CRM)",
+        "Debt Recovery",
+        "Financial Analysis",
+        "Negotiation",
+        "Credit Risk Assessment",
+        "Payment Processing",
+        "Data Entry",
+        "Compliance",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Vamsi Kiran",
+      "position": "Ex-Zonal Head-South at Magma Fincorp Ltd",
+      "employee_id": "Mag_017",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Sales Strategy",
+        "Customer Relationship Management (CRM)",
+        "Market Research",
+        "Business Development",
+        "Budgeting",
+        "Performance Management",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Rashmin Desai",
+      "position": "Markting Exe at Magma Fincorp Ltd.",
+      "employee_id": "Mag_018",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Social Media Management",
+        "Email Marketing",
+        "Market Research",
+        "Analytics",
+        "Brand Management",
+        "Campaign Management"
+      ]
+    },
+    {
+      "name": "Jigar Raval",
+      "position": "Deputy Manager - Magma Fincorp Limited",
+      "employee_id": "Mag_019",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Analysis",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Amrita Dasgupta",
+      "position": "Senior Legal executive at Magma Fincorp Ltd.",
+      "employee_id": "Mag_020",
+      "skills": [
+        "Legal Research",
+        "Contract Management",
+        "Compliance",
+        "Corporate Law",
+        "Regulatory Affairs",
+        "Legal Writing",
+        "Risk Assessment",
+        "Case Management",
+        "Legal Documentation",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Sumit Singh",
+      "position": "Regional Sales Manager at Magma Fincorp Ltd.",
+      "employee_id": "Mag_021",
+      "skills": [
+        "Sales Strategy",
+        "CRM Software",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Business Development",
+        "Negotiation",
+        "Financial Services",
+        "Sales Forecasting",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Chiranjib Basak",
+      "position": "Risk Specialist at Magma Fincorp",
+      "employee_id": "Mag_022",
+      "skills": [
+        "Risk Management",
+        "Financial Analysis",
+        "Credit Risk Assessment",
+        "Data Analysis",
+        "Regulatory Compliance",
+        "Quantitative Analysis",
+        "Excel",
+        "SQL",
+        "VBA",
+        "Stress Testing"
+      ]
+    },
+    {
+      "name": "Niladri Ghosh",
+      "position": "Operations at Magma Fincorp Ltd.",
+      "employee_id": "Mag_023",
+      "skills": [
+        "Operations Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Project Management",
+        "Customer Relationship Management (CRM)",
+        "Business Strategy",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sandeep Patil",
+      "position": "Data Analysis at Magma Fincorp Ltd.",
+      "employee_id": "Mag_024",
+      "skills": [
+        "Data Analysis",
+        "Python",
+        "SQL",
+        "Excel",
+        "R",
+        "Financial Modeling",
+        "Statistical Analysis",
+        "Machine Learning",
+        "Data Visualization",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "vaibhav yevale",
+      "position": "INSURANCE at Magma Fincorp Ltd.",
+      "employee_id": "Mag_025",
+      "skills": [
+        "Risk Management",
+        "Insurance Underwriting",
+        "Claims Processing",
+        "Customer Relationship Management (CRM)",
+        "Financial Analysis",
+        "Regulatory Compliance",
+        "Policy Administration",
+        "Data Entry",
+        "Microsoft Excel",
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "name": "Sushmita Seal",
+      "position": "Marketing executive at Magma Fincorp Ltd.",
+      "employee_id": "Mag_026",
+      "skills": [
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Social Media Marketing",
+        "Google Analytics",
+        "Email Marketing",
+        "Marketing Strategy",
+        "Campaign Management",
+        "Market Research",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Naik Juhi",
+      "position": "Summer internship programme at Magma Fincorp Ltd.",
+      "employee_id": "Mag_027",
+      "skills": [
+        "Financial Analysis",
+        "Excel",
+        "Data Entry",
+        "Report Generation",
+        "Market Research",
+        "Communication Skills",
+        "Time Management",
+        "Team Collaboration",
+        "Customer Service",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Anagh Sengupta",
+      "position": "Sales Manager at Magma Fincorp Ltd.",
+      "employee_id": "Mag_028",
+      "skills": [
+        "Sales Strategy",
+        "CRM Software",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Lead Generation",
+        "Sales Forecasting",
+        "Negotiation",
+        "Financial Services",
+        "Team Leadership",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Archana Singh",
+      "position": "finance at Magma Fincorp Ltd.",
+      "employee_id": "Mag_029",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Financial Reporting",
+        "Risk Management",
+        "Excel",
+        "Financial Modeling",
+        "Accounting",
+        "Forecasting",
+        "Data Analysis",
+        "SAP"
+      ]
+    },
+    {
+      "name": "ramasamy subramanian",
+      "position": "STATE ACCOUNTS MANAGER at Magma Fincorp Ltd.",
+      "employee_id": "Mag_030",
+      "skills": [
+        "Financial Analysis",
+        "Account Management",
+        "Budgeting",
+        "Financial Reporting",
+        "Risk Management",
+        "Compliance",
+        "Team Leadership",
+        "Customer Relationship Management (CRM)",
+        "Microsoft Excel",
+        "SAP"
+      ]
+    },
+    {
+      "name": "Narendra Joshi",
+      "position": "General Counsel at Magma Fincorp Ltd.",
+      "employee_id": "Mag_031",
+      "skills": [
+        "Legal Research",
+        "Contract Negotiation",
+        "Compliance Management",
+        "Corporate Governance",
+        "Risk Assessment",
+        "Regulatory Affairs",
+        "Litigation Management",
+        "Legal Documentation",
+        "Intellectual Property Law",
+        "Mergers and Acquisitions"
+      ]
+    },
+    {
+      "name": "Upendra Choudhary",
+      "position": "State Head Admin at Magma Fincorp Ltd.",
+      "employee_id": "Mag_032",
+      "skills": [
+        "Administrative Management",
+        "Team Leadership",
+        "Financial Services",
+        "Risk Management",
+        "Compliance",
+        "Budgeting",
+        "Strategic Planning",
+        "Operations Management",
+        "Customer Relationship Management (CRM)",
+        "Microsoft Office Suite"
+      ]
+    },
+    {
+      "name": "sachin pachori",
+      "position": "ARD at Magma Fincorp Ltd.",
+      "employee_id": "Mag_033",
+      "skills": [
+        "Risk Management",
+        "Financial Analysis",
+        "Credit Assessment",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Compliance",
+        "Debt Recovery"
+      ]
+    },
+    {
+      "name": "Janardhan Srinivas",
+      "position": "Associate at Magma Fincorp Ltd.",
+      "employee_id": "Mag_034",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Analysis",
+        "Excel",
+        "Financial Modeling",
+        "Data Analysis",
+        "Accounting",
+        "Budgeting",
+        "Investment Strategies",
+        "Report Generation"
+      ]
+    },
+    {
+      "name": "Giriraj Sharma",
+      "position": "Sales Regional Manager at Magma Fincorp Ltd.",
+      "employee_id": "Mag_035",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "CRM Software",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Business Development",
+        "Financial Services",
+        "Performance Metrics",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "RENU KARKI",
+      "position": "Senior Executive at Magma Fincorp Ltd.",
+      "employee_id": "Mag_036",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Analysis",
+        "Loan Processing",
+        "Customer Relationship Management (CRM)",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "Vadapalli Manohar",
+      "position": "Associate Vice President at Magma Fincorp Ltd.",
+      "employee_id": "Mag_037",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Leadership",
+        "Credit Analysis",
+        "Portfolio Management",
+        "Business Development",
+        "Market Research",
+        "Data Interpretation",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sharad Dixit",
+      "position": "Manager Sales & Marketing at Magma Fincorp Ltd.",
+      "employee_id": "Mag_038",
+      "skills": [
+        "Sales Strategy",
+        "Marketing Strategy",
+        "Customer Relationship Management",
+        "Market Research",
+        "Lead Generation",
+        "Sales Forecasting",
+        "Digital Marketing",
+        "Negotiation",
+        "Team Leadership",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Ekta Kedia",
+      "position": "Manager Treasury at Magma Fincorp Ltd.",
+      "employee_id": "Mag_039",
+      "skills": [
+        "Treasury Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Cash Flow Management",
+        "Investment Strategies",
+        "Liquidity Management",
+        "Budgeting",
+        "Forecasting",
+        "Excel",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Karan Singh Parmar",
+      "position": "Associate Vice President at Magma Fincorp Ltd.",
+      "employee_id": "Mag_040",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Portfolio Management",
+        "Credit Analysis",
+        "Business Development",
+        "Market Research",
+        "Data Analysis",
+        "Financial Reporting",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Sudhir Kachave",
+      "position": "Executive to at Magma Fincorp Ltd.",
+      "employee_id": "Mag_041",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Portfolio Management",
+        "Excel",
+        "Financial Reporting",
+        "Data Analysis",
+        "Market Research",
+        "Customer Relationship Management",
+        "Business Strategy"
+      ]
+    },
+    {
+      "name": "Shashank Singh",
+      "position": "recovery at magma fincorp ltd",
+      "employee_id": "Mag_042",
+      "skills": [
+        "Debt Recovery",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Credit Management",
+        "Legal Compliance",
+        "Data Management",
+        "Microsoft Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "ADITYA BOSE",
+      "position": "Senior Legal Executive at Magma Fincorp Limited",
+      "employee_id": "Mag_043",
+      "skills": [
+        "Legal Research",
+        "Contract Management",
+        "Compliance",
+        "Corporate Law",
+        "Regulatory Affairs",
+        "Legal Writing",
+        "Risk Management",
+        "Litigation",
+        "Document Review",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Sanjay Bhatia",
+      "position": "Head Legal at Magma Fincorp Ltd.",
+      "employee_id": "Mag_044",
+      "skills": [
+        "Legal Compliance",
+        "Corporate Law",
+        "Contract Management",
+        "Risk Management",
+        "Regulatory Affairs",
+        "Litigation",
+        "Legal Research",
+        "Negotiation",
+        "Legal Documentation",
+        "Dispute Resolution"
+      ]
+    },
+    {
+      "name": "prasad mallampati",
+      "position": "marketing executive at Magma Fincorp Ltd.",
+      "employee_id": "Mag_045",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Social Media Management",
+        "Email Marketing",
+        "Google Analytics",
+        "Market Research",
+        "CRM Software",
+        "Advertising"
+      ]
+    },
+    {
+      "name": "Sanjay Katiyar",
+      "position": "Collection Executive at Magma Fincorp Ltd.",
+      "employee_id": "Mag_046",
+      "skills": [
+        "Debt Collection",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Financial Analysis",
+        "Credit Risk Assessment",
+        "Payment Processing",
+        "Account Management",
+        "Microsoft Excel",
+        "Data Entry",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Poonam Verma",
+      "position": "Receivable Department at Magma Fincorp Ltd.",
+      "employee_id": "Mag_047",
+      "skills": [
+        "Accounts Receivable Management",
+        "Financial Reporting",
+        "Invoicing",
+        "Credit Control",
+        "SAP",
+        "Oracle Financials",
+        "Excel",
+        "Reconciliation",
+        "Cash Flow Management",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "prateek shukla",
+      "position": "Credit Analyst at Magma Fincorp Ltd.",
+      "employee_id": "Mag_048",
+      "skills": [
+        "Credit Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Financial Reporting",
+        "Loan Underwriting",
+        "Market Research",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Kalyan Saha",
+      "position": "RBI Compliance at Magma Fincorp Ltd.",
+      "employee_id": "Mag_049",
+      "skills": [
+        "RBI Regulations",
+        "Compliance Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Regulatory Reporting",
+        "Audit Management",
+        "Policy Implementation",
+        "Data Management",
+        "Financial Services",
+        "Legal Compliance"
+      ]
+    },
+    {
+      "name": "Kailash Baheti",
+      "position": "Chief Strategy Officer, Ambuja Neotia Group, Kolkata, Ex-Group CFO, Magma Fincorp Limited, Ex-CEO, Century Extrusions Limited",
+      "employee_id": "Mag_050",
+      "skills": [
+        "Strategic Planning",
+        "Financial Analysis",
+        "Corporate Finance",
+        "Risk Management",
+        "Business Development",
+        "Leadership",
+        "Mergers and Acquisitions",
+        "Budgeting",
+        "Financial Reporting",
+        "Operational Management"
+      ]
+    },
+    {
+      "name": "Dhaval Chaudhary",
+      "position": "Magma Fincorp Ltd. ( Snr Field Exe.)",
+      "employee_id": "Mag_051",
+      "skills": [
+        "Field Operations",
+        "Customer Relationship Management",
+        "Sales Strategies",
+        "Financial Services",
+        "Market Analysis",
+        "Client Acquisition",
+        "Team Leadership",
+        "Data Reporting",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Rajeev Bhatnagar",
+      "position": "manager",
+      "employee_id": "Mag_052",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Strategic Planning",
+        "Microsoft Office",
+        "Data Analysis",
+        "Risk Management",
+        "Performance Management",
+        "Business Development",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Narendra Sahu",
+      "position": "State Head @ Magma Fincorp",
+      "employee_id": "Mag_053",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Loan Processing",
+        "Team Leadership",
+        "Customer Relationship Management (CRM)",
+        "Market Research",
+        "Sales Strategy",
+        "Budgeting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Narendra Rathore",
+      "position": "Accounting work at Magma Fincorp Ltd.",
+      "employee_id": "Mag_054",
+      "skills": [
+        "Accounting",
+        "Financial Reporting",
+        "Taxation",
+        "Auditing",
+        "Budgeting",
+        "SAP",
+        "Microsoft Excel",
+        "QuickBooks",
+        "Financial Analysis",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Maheshwar subramani",
+      "position": "Product Head - Sr Manager, Suvidha Loans at Magma Fincorp Ltd.",
+      "employee_id": "Mag_055",
+      "skills": [
+        "Product Management",
+        "Loan Processing",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Project Management",
+        "Market Research",
+        "Credit Analysis",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "sandeep nair",
+      "position": "manager at Magma Fincorp Ltd.",
+      "employee_id": "Mag_056",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Budgeting",
+        "Team Leadership",
+        "Project Management",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Strategic Planning",
+        "Business Development",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Ajay Tendulkar",
+      "position": "SVP Finance at Magma Fincorp",
+      "employee_id": "Mag_057",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Financial Reporting",
+        "Strategic Planning",
+        "Corporate Finance",
+        "Excel",
+        "SAP",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "salma shaik",
+      "position": "Financial Services Professional",
+      "employee_id": "Mag_058",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Financial Reporting",
+        "Budgeting",
+        "Excel",
+        "Financial Planning",
+        "Market Research",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Debasis Chakraborty",
+      "position": "Human Resources Manager at Magma Fincorp Ltd.",
+      "employee_id": "Mag_059",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Recruitment",
+        "Talent Management",
+        "Performance Management",
+        "HRIS (Human Resource Information System)",
+        "Compensation and Benefits",
+        "Labor Law Compliance",
+        "Organizational Development",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Suryakanta Mishra",
+      "position": "Assistant Manager at Magma Fincorp Ltd.",
+      "employee_id": "Mag_060",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Microsoft Excel",
+        "Data Analysis",
+        "Credit Assessment",
+        "Loan Processing",
+        "Customer Relationship Management (CRM)",
+        "Financial Reporting",
+        "Budgeting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Venkatesh Natarajan",
+      "position": "Marketing Manager at Magma Fincorp Ltd.",
+      "employee_id": "Mag_061",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Marketing",
+        "Social Media Management",
+        "Analytics",
+        "CRM Software",
+        "Brand Management",
+        "Email Marketing",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Sandeep Bhalekar",
+      "position": "Collections Analyst at Magma Fincorp Ltd.",
+      "employee_id": "Mag_062",
+      "skills": [
+        "Collections Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Credit Analysis",
+        "Debt Recovery",
+        "Customer Relationship Management (CRM)",
+        "Excel",
+        "Data Entry",
+        "Negotiation",
+        "Reporting"
+      ]
+    },
+    {
+      "name": "TANVI GULATI",
+      "position": "Assistant at Magma Fincorp Ltd.",
+      "employee_id": "Mag_064",
+      "skills": [
+        "Financial Analysis",
+        "Customer Service",
+        "Microsoft Excel",
+        "Data Entry",
+        "Communication Skills",
+        "Time Management",
+        "Attention to Detail",
+        "Problem Solving",
+        "Team Collaboration",
+        "Administrative Support"
+      ]
+    },
+    {
+      "name": "Shyam Bakare",
+      "position": "Sr executive at Magma Fincorp Ltd.",
+      "employee_id": "Mag_066",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Analysis",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Business Strategy",
+        "Loan Processing",
+        "Customer Relationship Management (CRM)",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Umesh jaiswal",
+      "position": "senior executive at Magma Fincorp Ltd.",
+      "employee_id": "Mag_067",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Loan Processing",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Customer Relationship Management (CRM)",
+        "Data Analysis",
+        "Compliance Management",
+        "Business Strategy"
+      ]
+    },
+    {
+      "name": "girish chetal",
+      "position": "branch accountant at Magma Fincorp Ltd.",
+      "employee_id": "Mag_068",
+      "skills": [
+        "Accounting",
+        "Financial Reporting",
+        "Budgeting",
+        "Tax Compliance",
+        "Financial Analysis",
+        "Microsoft Excel",
+        "SAP",
+        "QuickBooks",
+        "Audit Management",
+        "Cash Flow Management"
+      ]
+    },
+    {
+      "name": "Rishabh Prakash",
+      "position": "Credit Analyst at Magma Fincorp Ltd.",
+      "employee_id": "Mag_069",
+      "skills": [
+        "Credit Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Financial Reporting",
+        "Loan Underwriting",
+        "Portfolio Management",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Raghavendra Rao",
+      "position": "Legal Manager at Magma Fincorp Ltd.",
+      "employee_id": "Mag_070",
+      "skills": [
+        "Legal Research",
+        "Contract Management",
+        "Compliance",
+        "Risk Assessment",
+        "Regulatory Knowledge",
+        "Legal Writing",
+        "Negotiation",
+        "Document Review",
+        "Corporate Law",
+        "Litigation"
+      ]
+    }
+  ]
+}

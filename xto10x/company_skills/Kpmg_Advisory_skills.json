@@ -1,0 +1,1671 @@
+{
+  "company_name": "Kpmg Advisory",
+  "employees": [
+    {
+      "name": "Tricia Harper",
+      "position": "KPMG Advisory Partner",
+      "employee_id": "Kpm_001",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Business Strategy",
+        "Project Management",
+        "Data Analytics",
+        "Consulting",
+        "Client Relationship Management",
+        "Regulatory Compliance",
+        "Performance Improvement",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Jeff King",
+      "position": "Partner, KPMG Advisory Market Leader - Midwest",
+      "employee_id": "Kpm_002",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Business Development",
+        "Market Research",
+        "Client Relationship Management",
+        "Project Management",
+        "Leadership",
+        "Consulting",
+        "Advisory Services"
+      ]
+    },
+    {
+      "name": "Jeff Potter",
+      "position": "Head of Advisory Insights - US Advisory",
+      "employee_id": "Kpm_003",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Business Strategy",
+        "Market Research",
+        "Consulting",
+        "Project Management",
+        "Client Relations",
+        "Excel",
+        "PowerPoint"
+      ]
+    },
+    {
+      "name": "DJ Wilkins",
+      "position": "Partner at KPMG Advisory",
+      "employee_id": "Kpm_004",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Business Strategy",
+        "Data Analytics",
+        "Corporate Finance",
+        "Project Management",
+        "Consulting",
+        "Regulatory Compliance",
+        "Performance Improvement",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Charles Cochran",
+      "position": "Dallas Advisory Market Leader at KPMG",
+      "employee_id": "Kpm_005",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Advisory Services",
+        "Market Strategy",
+        "Client Relationship Management",
+        "Business Development",
+        "Project Management",
+        "Leadership",
+        "Strategic Planning",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Jim Booth",
+      "position": "KPMG Advisory Managing Director focusing on the State & Local Government markets.",
+      "employee_id": "Kpm_006",
+      "skills": [
+        "Government Advisory",
+        "Strategic Planning",
+        "Public Sector Consulting",
+        "Project Management",
+        "Stakeholder Engagement",
+        "Policy Analysis",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Regulatory Compliance",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Douglas Baker",
+      "position": "Principal, KPMG Advisory",
+      "employee_id": "Kpm_007",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Business Strategy",
+        "Project Management",
+        "Data Analytics",
+        "Consulting",
+        "Corporate Finance",
+        "Regulatory Compliance",
+        "Performance Improvement",
+        "Stakeholder Engagement"
+      ]
+    },
+    {
+      "name": "Atif Zaim",
+      "position": "Deputy Chair and U.S. Managing Principal at KPMG US",
+      "employee_id": "Kpm_008",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Audit",
+        "Tax Advisory",
+        "Regulatory Compliance",
+        "Business Strategy",
+        "Corporate Governance",
+        "Financial Reporting",
+        "Client Relationship Management",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Linnea Garland",
+      "position": "Director, KPMG Advisory",
+      "employee_id": "Kpm_009",
+      "skills": [
+        "Risk Management",
+        "Financial Analysis",
+        "Business Strategy",
+        "Project Management",
+        "Consulting",
+        "Data Analytics",
+        "Regulatory Compliance",
+        "Change Management",
+        "Performance Improvement",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Sandy Torchia",
+      "position": "Vice Chair, Talent and Culture at KPMG * Passionate People Advocate * Champion for Workplace Culture and Experience * Future-Forward Talent Strategist",
+      "employee_id": "Kpm_010",
+      "skills": [
+        "Talent Management",
+        "Workplace Culture",
+        "Employee Engagement",
+        "Strategic Planning",
+        "Organizational Development",
+        "Leadership Development",
+        "Performance Management",
+        "Change Management",
+        "HR Analytics",
+        "Succession Planning"
+      ]
+    },
+    {
+      "name": "JOSHUA GALVAN",
+      "position": "",
+      "employee_id": "Kpm_011",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Taxation",
+        "Auditing",
+        "Excel",
+        "Financial Reporting",
+        "SAP",
+        "QuickBooks",
+        "Budgeting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Bob Gear",
+      "position": "Director at KPMG Advisory",
+      "employee_id": "Kpm_012",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Business Development",
+        "Project Management",
+        "Consulting",
+        "Leadership",
+        "Data Analysis",
+        "Corporate Finance",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Grace Rich",
+      "position": "KPMG Advisory Associate",
+      "employee_id": "Kpm_013",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Project Management",
+        "Business Strategy",
+        "Consulting",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Ryan McAllister",
+      "position": "KPMG Advisory Associate | Fairfield Dolan MBA",
+      "employee_id": "Kpm_014",
+      "skills": [
+        "Financial Analysis",
+        "Business Strategy",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "Project Management",
+        "Consulting",
+        "Market Research",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Chris Panek",
+      "position": "KPMG Advisory",
+      "employee_id": "Kpm_015",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Business Strategy",
+        "Project Management",
+        "Consulting",
+        "Excel",
+        "PowerPoint",
+        "Market Research",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Arienne Huskey",
+      "position": "KPMG Advisory Associate | Finance Transformation",
+      "employee_id": "Kpm_016",
+      "skills": [
+        "Financial Analysis",
+        "Process Improvement",
+        "Project Management",
+        "Data Analytics",
+        "ERP Systems",
+        "Change Management",
+        "Business Intelligence",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Gabriel Crane",
+      "position": "Technical Director, Advisory Data Organization at KPMG",
+      "employee_id": "Kpm_017",
+      "skills": [
+        "Data Analysis",
+        "Data Management",
+        "SQL",
+        "Python",
+        "Big Data",
+        "Machine Learning",
+        "Data Visualization",
+        "Project Management",
+        "Business Intelligence",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "name": "Anna Evans",
+      "position": "KPMG Advisory Market Relations | Helping clients optimize business operations | Passionate about yoga and promoting wellness in the workplace",
+      "employee_id": "Kpm_018",
+      "skills": [
+        "Business Optimization",
+        "Market Relations",
+        "Client Advisory",
+        "Operational Efficiency",
+        "Wellness Promotion",
+        "Strategic Planning",
+        "Consulting",
+        "Project Management",
+        "Stakeholder Engagement",
+        "Business Analysis"
+      ]
+    },
+    {
+      "name": "Dallas Hearon",
+      "position": "Strategy & Operations Leader | KPMG Advisory | Asset Management & Private Equity Focus | Driving Efficiency & Growth",
+      "employee_id": "Kpm_019",
+      "skills": [
+        "Strategic Planning",
+        "Operations Management",
+        "Asset Management",
+        "Private Equity",
+        "Efficiency Improvement",
+        "Growth Strategies",
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Kevin Espinoza",
+      "position": "KPMG Advisory Senior Associate | Transformation Delivery",
+      "employee_id": "Kpm_020",
+      "skills": [
+        "Project Management",
+        "Change Management",
+        "Business Process Improvement",
+        "Stakeholder Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Jena Matty",
+      "position": "Associate Director, Experienced Hire Recruiting at KPMG - Deal Advisory",
+      "employee_id": "Kpm_021",
+      "skills": [
+        "Recruiting",
+        "Talent Acquisition",
+        "Deal Advisory",
+        "Financial Analysis",
+        "Project Management",
+        "Client Relationship Management",
+        "Interviewing",
+        "Negotiation",
+        "Strategic Planning",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "David Goodwin",
+      "position": "",
+      "employee_id": "Kpm_022",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Tax Planning",
+        "Auditing",
+        "Excel",
+        "Financial Reporting",
+        "Budgeting",
+        "Compliance",
+        "Risk Assessment",
+        "SAP"
+      ]
+    },
+    {
+      "name": "Benjamin Aguero",
+      "position": "Director at KPMG Advisory",
+      "employee_id": "Kpm_023",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Business Development",
+        "Project Management",
+        "Consulting",
+        "Data Analytics",
+        "Corporate Finance",
+        "Regulatory Compliance",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Ansley Waller",
+      "position": "KPMG Advisory Manager",
+      "employee_id": "Kpm_024",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management",
+        "Data Analysis",
+        "Business Strategy",
+        "Consulting",
+        "Excel",
+        "PowerPoint",
+        "Client Relationship Management",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Cathy Pomanti",
+      "position": "Retired KPMG Advisory Principal",
+      "employee_id": "Kpm_025",
+      "skills": [
+        "Risk Management",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Business Advisory",
+        "Corporate Governance",
+        "Regulatory Compliance",
+        "Audit Management",
+        "Performance Improvement",
+        "Project Management",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Abraham Mohan",
+      "position": "Director at KPMG Advisory",
+      "employee_id": "Kpm_026",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Business Strategy",
+        "Project Management",
+        "Data Analytics",
+        "Consulting",
+        "Corporate Finance",
+        "Compliance",
+        "Leadership",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Lawrence Moriarty",
+      "position": "",
+      "employee_id": "Kpm_027",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Excel",
+        "Data Analysis",
+        "Accounting",
+        "Financial Reporting",
+        "Budgeting",
+        "Auditing",
+        "Taxation",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Ray Bu",
+      "position": "Technology Consultant, KPMG Advisory",
+      "employee_id": "Kpm_028",
+      "skills": [
+        "Technology Consulting",
+        "Project Management",
+        "Data Analysis",
+        "Risk Management",
+        "Business Process Improvement",
+        "Enterprise Architecture",
+        "IT Strategy",
+        "Cybersecurity",
+        "Cloud Computing",
+        "Digital Transformation"
+      ]
+    },
+    {
+      "name": "Genevieve Garland",
+      "position": "KPMG Advisory",
+      "employee_id": "Kpm_029",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Business Strategy",
+        "Data Analysis",
+        "Consulting",
+        "Project Management",
+        "Excel",
+        "PowerPoint",
+        "Financial Modeling",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Danielle Westerfield",
+      "position": "KPMG Advisory | Business Development | Financial Services Consulting | Banking",
+      "employee_id": "Kpm_030",
+      "skills": [
+        "Business Development",
+        "Financial Services Consulting",
+        "Banking",
+        "Risk Management",
+        "Financial Analysis",
+        "Client Relationship Management",
+        "Market Research",
+        "Strategic Planning",
+        "Project Management",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Genevieve Garland",
+      "position": "KPMG Advisory",
+      "employee_id": "Kpm_031",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Business Strategy",
+        "Project Management",
+        "Microsoft Excel",
+        "Power BI",
+        "SAP",
+        "Accounting",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Danielle Westerfield",
+      "position": "KPMG Advisory | Business Development | Financial Services Consulting | Banking",
+      "employee_id": "Kpm_032",
+      "skills": [
+        "Business Development",
+        "Financial Services Consulting",
+        "Banking",
+        "Risk Management",
+        "Financial Analysis",
+        "Client Relationship Management",
+        "Market Research",
+        "Strategic Planning",
+        "Project Management",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Amy Boyle",
+      "position": "KPMG Advisory Industries and Markets: Converting Data to Insights",
+      "employee_id": "Kpm_033",
+      "skills": [
+        "Data Analysis",
+        "Data Visualization",
+        "Business Intelligence",
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Tableau",
+        "Market Analysis",
+        "Industry Research",
+        "Insight Generation"
+      ]
+    },
+    {
+      "name": "Ivan Jones",
+      "position": "KPMG Advisory Services",
+      "employee_id": "Kpm_034",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Business Strategy",
+        "Project Management",
+        "Excel",
+        "PowerPoint",
+        "Consulting",
+        "Market Research",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "McKell B.",
+      "position": "KPMG Advisory | Banking & Capital Markets",
+      "employee_id": "Kpm_035",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Capital Markets",
+        "Banking Regulations",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Project Management",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Audrey Lopes",
+      "position": "KPMG Advisory Practice",
+      "employee_id": "Kpm_036",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Consulting",
+        "Business Strategy",
+        "Project Management",
+        "Excel",
+        "PowerPoint",
+        "Market Research",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Bryan Thomas",
+      "position": "Senior Managing Director at KPMG Valuation (Tax)",
+      "employee_id": "Kpm_037",
+      "skills": [
+        "Valuation",
+        "Taxation",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Strategy",
+        "Excel",
+        "Financial Modeling",
+        "Compliance",
+        "Corporate Finance",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Sanjay Sehgal",
+      "position": "Advisory Head of Markets",
+      "employee_id": "Kpm_038",
+      "skills": [
+        "Market Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Quantitative Analysis",
+        "Economic Forecasting",
+        "Data Analysis",
+        "Excel",
+        "Bloomberg Terminal"
+      ]
+    },
+    {
+      "name": "Suhail Imtiaz",
+      "position": "Director, KPMG Advisory",
+      "employee_id": "Kpm_040",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Business Development",
+        "Project Management",
+        "Consulting",
+        "Data Analytics",
+        "Corporate Finance",
+        "Compliance",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Richa Kumar",
+      "position": "Managing Director at KPMG Advisory",
+      "employee_id": "Kpm_041",
+      "skills": [
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Development",
+        "Project Management",
+        "Consulting",
+        "Leadership",
+        "Corporate Governance",
+        "Market Research",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Deb SoRelle",
+      "position": "KPMG Advisory, Executive Assistant",
+      "employee_id": "Kpm_042",
+      "skills": [
+        "Microsoft Office",
+        "Calendar Management",
+        "Travel Coordination",
+        "Expense Reporting",
+        "Client Communication",
+        "Document Preparation",
+        "Meeting Coordination",
+        "Project Management",
+        "Administrative Support",
+        "Confidentiality"
+      ]
+    },
+    {
+      "name": "Danielle Westerfield",
+      "position": "KPMG Advisory | Business Development | Financial Services Consulting | Banking",
+      "employee_id": "Kpm_043",
+      "skills": [
+        "Business Development",
+        "Financial Services Consulting",
+        "Banking",
+        "Risk Management",
+        "Financial Analysis",
+        "Client Relationship Management",
+        "Market Research",
+        "Strategic Planning",
+        "Project Management",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Srinivas Puppala",
+      "position": "Manager at KPMG, Advisory Services",
+      "employee_id": "Kpm_044",
+      "skills": [
+        "Risk Management",
+        "Financial Analysis",
+        "Business Strategy",
+        "Project Management",
+        "Data Analysis",
+        "Consulting",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Client Relationship Management",
+        "Advisory Services"
+      ]
+    },
+    {
+      "name": "Andy Whittington",
+      "position": "Director of Internal Audit & Enterprise Risk at KPMG Advisory",
+      "employee_id": "Kpm_045",
+      "skills": [
+        "Internal Audit",
+        "Enterprise Risk Management",
+        "Compliance",
+        "Financial Analysis",
+        "Governance",
+        "Risk Assessment",
+        "Audit Planning",
+        "Regulatory Reporting",
+        "Data Analytics",
+        "Fraud Detection"
+      ]
+    },
+    {
+      "name": "Sanjay Sehgal",
+      "position": "Advisory Head of Markets",
+      "employee_id": "Kpm_046",
+      "skills": [
+        "Market Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Economic Forecasting",
+        "Quantitative Analysis",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Jennifer Gomez",
+      "position": "Security Analyst III at Fanatics",
+      "employee_id": "Kpm_047",
+      "skills": [
+        "Network Security",
+        "Risk Assessment",
+        "Incident Response",
+        "Threat Analysis",
+        "Security Information and Event Management (SIEM)",
+        "Vulnerability Management",
+        "Firewall Management",
+        "Intrusion Detection Systems (IDS)",
+        "Penetration Testing",
+        "Security Policies and Procedures"
+      ]
+    },
+    {
+      "name": "Susan Pujari",
+      "position": "KPMG Advisory",
+      "employee_id": "Kpm_048",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Business Strategy",
+        "Excel",
+        "PowerPoint",
+        "Project Management",
+        "Consulting",
+        "Market Research",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Jeannette Peters, CAP, OM",
+      "position": "Executive Assistant, KPMG Advisory",
+      "employee_id": "Kpm_050",
+      "skills": [
+        "Calendar Management",
+        "Travel Coordination",
+        "Expense Reporting",
+        "Microsoft Office Suite",
+        "Project Management",
+        "Meeting Coordination",
+        "Document Preparation",
+        "Communication Skills",
+        "Time Management",
+        "Confidentiality"
+      ]
+    },
+    {
+      "name": "Travis Nguyen",
+      "position": "KPMG Advisory Associate",
+      "employee_id": "Kpm_051",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Business Strategy",
+        "Project Management",
+        "Consulting",
+        "Report Writing"
+      ]
+    },
+    {
+      "name": "Susan Pujari",
+      "position": "KPMG Advisory",
+      "employee_id": "Kpm_052",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Business Strategy",
+        "Project Management",
+        "Excel",
+        "PowerPoint",
+        "Client Relations",
+        "Consulting",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Kaylin Fry, CPA, MBA",
+      "position": "KPMG Advisory Services",
+      "employee_id": "Kpm_053",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Accounting",
+        "Auditing",
+        "Business Strategy",
+        "Tax Planning",
+        "Compliance",
+        "Financial Reporting",
+        "SAP",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Jeannette Peters, CAP, OM",
+      "position": "Executive Assistant, KPMG Advisory",
+      "employee_id": "Kpm_054",
+      "skills": [
+        "Calendar Management",
+        "Travel Coordination",
+        "Microsoft Office Suite",
+        "Expense Reporting",
+        "Meeting Planning",
+        "Document Preparation",
+        "Project Management",
+        "Communication Skills",
+        "Time Management",
+        "Confidentiality"
+      ]
+    },
+    {
+      "name": "Tasha Dorsey",
+      "position": "Manager at KPMG Advisory",
+      "employee_id": "Kpm_055",
+      "skills": [
+        "Project Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Strategy",
+        "Data Analysis",
+        "Consulting",
+        "Microsoft Excel",
+        "SAP",
+        "Client Relationship Management",
+        "Performance Improvement"
+      ]
+    },
+    {
+      "name": "David K.",
+      "position": "GCC Practice Leader Partner at KPMG Advisory",
+      "employee_id": "Kpm_056",
+      "skills": [
+        "Governance, Risk and Compliance (GRC)",
+        "Risk Management",
+        "Financial Advisory",
+        "Strategic Planning",
+        "Regulatory Compliance",
+        "Business Process Improvement",
+        "Enterprise Risk Management (ERM)",
+        "Audit and Assurance",
+        "Corporate Governance",
+        "Financial Analysis"
+      ]
+    },
+    {
+      "name": "Dan Kravitz",
+      "position": "Management Consulting | Strategy | Agile | Product Management | Tech Enablement | KPMG Advisory",
+      "employee_id": "Kpm_057",
+      "skills": [
+        "Management Consulting",
+        "Strategy",
+        "Agile",
+        "Product Management",
+        "Tech Enablement",
+        "Advisory",
+        "Business Analysis",
+        "Project Management",
+        "Change Management",
+        "Stakeholder Engagement"
+      ]
+    },
+    {
+      "name": "Bo Peng",
+      "position": "KPMG Advisory Lighthouse - LC&I",
+      "employee_id": "Kpm_058",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "Business Intelligence",
+        "Big Data",
+        "Statistics",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Rida Batool",
+      "position": "KPMG Advisory Analyst",
+      "employee_id": "Kpm_059",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Business Strategy",
+        "Market Research",
+        "Project Management",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Chris Sainsbury",
+      "position": "Partner, Infrastructure Advisory at KPMG Canada",
+      "employee_id": "Kpm_060",
+      "skills": [
+        "Infrastructure Advisory",
+        "Project Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Strategic Planning",
+        "Regulatory Compliance",
+        "Public-Private Partnerships",
+        "Contract Negotiation",
+        "Economic Analysis"
+      ]
+    },
+    {
+      "name": "Sydney Ingram",
+      "position": "KPMG Advisory | Solution Relations, Google Cloud Alliance",
+      "employee_id": "Kpm_061",
+      "skills": [
+        "Google Cloud Platform",
+        "Cloud Computing",
+        "Solution Architecture",
+        "Client Relations",
+        "Technical Advisory",
+        "Data Analytics",
+        "Project Management",
+        "Business Strategy",
+        "Enterprise Solutions",
+        "IT Consulting"
+      ]
+    },
+    {
+      "name": "Sidney Bohac",
+      "position": "KPMG Advisory | Market Relations",
+      "employee_id": "Kpm_062",
+      "skills": [
+        "Market Analysis",
+        "Client Relations",
+        "Financial Advisory",
+        "Risk Assessment",
+        "Business Strategy",
+        "Data Interpretation",
+        "Project Management",
+        "Report Generation",
+        "Stakeholder Communication",
+        "Industry Trends Analysis"
+      ]
+    },
+    {
+      "name": "Rachael Agwunobi",
+      "position": "KPMG Advisory",
+      "employee_id": "Kpm_063",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Business Strategy",
+        "Project Management",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Consulting",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Greg Finlay",
+      "position": "Director, KPMG Advisory",
+      "employee_id": "Kpm_064",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Business Development",
+        "Project Management",
+        "Consulting",
+        "Data Analytics",
+        "Corporate Finance",
+        "Compliance",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Maggie Hines, CPA",
+      "position": "Senior Associate Deal Advisory & Strategy at KPMG",
+      "employee_id": "Kpm_065",
+      "skills": [
+        "Financial Analysis",
+        "Due Diligence",
+        "Valuation",
+        "Mergers and Acquisitions",
+        "Strategic Planning",
+        "Financial Modeling",
+        "Risk Assessment",
+        "Excel",
+        "PowerPoint",
+        "Business Strategy"
+      ]
+    },
+    {
+      "name": "Diego Mu\u00f1oz",
+      "position": "KPMG Advisory | GenAI Champion | Technology Risk | Award Recipient",
+      "employee_id": "Kpm_066",
+      "skills": [
+        "Technology Risk Management",
+        "Artificial Intelligence",
+        "Data Analysis",
+        "Risk Assessment",
+        "Cybersecurity",
+        "Compliance",
+        "Advisory Services",
+        "GenAI Implementation",
+        "Award Recognition",
+        "Business Strategy"
+      ]
+    },
+    {
+      "name": "Christopher Eagar",
+      "position": "KPMG Advisory Intern, Technology",
+      "employee_id": "Kpm_067",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Business Intelligence",
+        "Project Management",
+        "Technology Consulting",
+        "Report Writing"
+      ]
+    },
+    {
+      "name": "Fran Shammo, MBA",
+      "position": "Manager, Capital Projects Advisory at KPMG US",
+      "employee_id": "Kpm_068",
+      "skills": [
+        "Project Management",
+        "Capital Projects",
+        "Financial Analysis",
+        "Risk Management",
+        "Budgeting",
+        "Stakeholder Management",
+        "Microsoft Excel",
+        "Data Analysis",
+        "Strategic Planning",
+        "Construction Management"
+      ]
+    },
+    {
+      "name": "Madison Jakositz, CSM\u00ae",
+      "position": "KPMG Advisory Associate, State & Local Solutions",
+      "employee_id": "Kpm_069",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Data Analysis",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Microsoft Excel",
+        "PowerPoint",
+        "SQL",
+        "Financial Reporting",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Kate Vandebunt",
+      "position": "Incoming KPMG Advisory Associate",
+      "employee_id": "Kpm_070",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Business Intelligence",
+        "Project Management",
+        "Consulting",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Ryan Dvornik",
+      "position": "KPMG Advisory | Cybersecurity & Tech Risk",
+      "employee_id": "Kpm_071",
+      "skills": [
+        "Cybersecurity",
+        "Tech Risk Management",
+        "Risk Assessment",
+        "Information Security",
+        "Compliance",
+        "Network Security",
+        "Incident Response",
+        "Threat Analysis",
+        "Security Audits",
+        "Vulnerability Management"
+      ]
+    },
+    {
+      "name": "Kate Vandebunt",
+      "position": "Incoming KPMG Advisory Associate",
+      "employee_id": "Kpm_072",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "Business Strategy",
+        "Consulting",
+        "Project Management",
+        "Presentation Skills",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Paul Bry",
+      "position": "Manager at KPMG",
+      "employee_id": "Kpm_073",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Business Strategy",
+        "Accounting",
+        "Leadership",
+        "Client Relations",
+        "Report Writing"
+      ]
+    },
+    {
+      "name": "Viktor Beletskiy",
+      "position": "Principal at KPMG Advisory",
+      "employee_id": "Kpm_074",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Business Strategy",
+        "Project Management",
+        "Data Analytics",
+        "Consulting",
+        "Corporate Finance",
+        "Regulatory Compliance",
+        "Performance Improvement",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Charles Heiser",
+      "position": "Director, KPMG Advisory",
+      "employee_id": "Kpm_075",
+      "skills": [
+        "Risk Management",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Business Development",
+        "Project Management",
+        "Consulting",
+        "Data Analytics",
+        "Performance Improvement",
+        "Change Management",
+        "Corporate Governance"
+      ]
+    },
+    {
+      "name": "Maxwell Thursam",
+      "position": "KPMG Advisory Associate | Forensics | State and Local Team",
+      "employee_id": "Kpm_076",
+      "skills": [
+        "Forensic Accounting",
+        "Fraud Investigation",
+        "Data Analysis",
+        "Risk Management",
+        "Financial Reporting",
+        "Audit Procedures",
+        "Compliance",
+        "Microsoft Excel",
+        "SQL",
+        "Case Management Software"
+      ]
+    },
+    {
+      "name": "Hunter Barr",
+      "position": "KPMG Advisory Associate",
+      "employee_id": "Kpm_077",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "Business Strategy",
+        "Project Management",
+        "Consulting",
+        "Market Research",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Jamie J. K.",
+      "position": "Manager at KPMG Advisory, Risk Management",
+      "employee_id": "Kpm_078",
+      "skills": [
+        "Risk Management",
+        "Financial Analysis",
+        "Internal Audit",
+        "Compliance",
+        "Regulatory Reporting",
+        "Enterprise Risk Management (ERM)",
+        "Operational Risk",
+        "Governance",
+        "Data Analytics",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Michael Lombardi, CPA",
+      "position": "Manager at KPMG Advisory",
+      "employee_id": "Kpm_079",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Auditing",
+        "Tax Planning",
+        "Financial Reporting",
+        "Business Strategy",
+        "Accounting Software",
+        "Compliance",
+        "Budgeting",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Ryan Cichy",
+      "position": "Senior Associate at KPMG Advisory",
+      "employee_id": "Kpm_080",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Business Strategy",
+        "Excel",
+        "PowerPoint",
+        "Project Management",
+        "Consulting",
+        "Financial Modeling",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Todd Durocher",
+      "position": "KPMG Advisory Partner | Enterprise Transformation Leader | Energy Orchestrator Visionary | Fortune 500 Digital Strategy Expert | SAP S/4HANA & AI Human Integration Pioneer",
+      "employee_id": "Kpm_081",
+      "skills": [
+        "Enterprise Transformation",
+        "Digital Strategy",
+        "SAP S/4HANA",
+        "AI Integration",
+        "Energy Sector Expertise",
+        "Advisory Services",
+        "Fortune 500 Consulting",
+        "Business Process Optimization",
+        "Technology Implementation",
+        "Human Integration"
+      ]
+    },
+    {
+      "name": "Lisa Counts",
+      "position": "Advisory Director - Internal Audit and Enterprise Risk at KPMG LLP",
+      "employee_id": "Kpm_082",
+      "skills": [
+        "Internal Audit",
+        "Enterprise Risk Management",
+        "Risk Assessment",
+        "Compliance",
+        "Financial Analysis",
+        "Governance",
+        "Regulatory Reporting",
+        "Audit Planning",
+        "Control Testing",
+        "Fraud Detection"
+      ]
+    },
+    {
+      "name": "Ananth Baru",
+      "position": "Manager, KPMG Advisory",
+      "employee_id": "Kpm_083",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management",
+        "Business Strategy",
+        "Data Analysis",
+        "Consulting",
+        "Excel",
+        "PowerPoint",
+        "Stakeholder Management",
+        "Report Writing"
+      ]
+    },
+    {
+      "name": "Enoch Zhu",
+      "position": "KPMG Advisory Associate",
+      "employee_id": "Kpm_084",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Business Strategy",
+        "Project Management",
+        "Consulting",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Udai Singh",
+      "position": "KPMG Advisory | Creating Scalable Solutions Using Emerging Technology",
+      "employee_id": "Kpm_085",
+      "skills": [
+        "Emerging Technology",
+        "Scalable Solutions",
+        "Advisory",
+        "Technology Consulting",
+        "Business Strategy",
+        "Project Management",
+        "Data Analysis",
+        "Risk Management",
+        "Financial Modeling",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Pedro Calado",
+      "position": "Managing Director at KPMG Advisory",
+      "employee_id": "Kpm_086",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Business Development",
+        "Project Management",
+        "Consulting",
+        "Leadership",
+        "Corporate Finance",
+        "Client Relationship Management",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Matthew Schwartz",
+      "position": "Partner, Sales Enablement Leader at KPMG",
+      "employee_id": "Kpm_087",
+      "skills": [
+        "Sales Enablement",
+        "CRM Systems",
+        "Sales Strategy",
+        "Business Development",
+        "Market Analysis",
+        "Client Relationship Management",
+        "Sales Operations",
+        "Revenue Growth",
+        "Sales Training",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Mike Curtin",
+      "position": "Director at KPMG Advisory",
+      "employee_id": "Kpm_088",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Business Strategy",
+        "Project Management",
+        "Data Analytics",
+        "Consulting",
+        "Corporate Finance",
+        "Regulatory Compliance",
+        "Stakeholder Management",
+        "Performance Improvement"
+      ]
+    },
+    {
+      "name": "Lenny Sabino",
+      "position": "Managing Director at KPMG",
+      "employee_id": "Kpm_089",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Business Development",
+        "Leadership",
+        "Project Management",
+        "Client Relationship Management",
+        "Corporate Governance",
+        "Budgeting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Jerimiah L. Arbertha",
+      "position": "KPMG Advisory Associate | ServiceNow-Platforms | Empowering Organizations with Digital Solutions",
+      "employee_id": "Kpm_090",
+      "skills": [
+        "ServiceNow",
+        "Digital Solutions",
+        "Advisory Services",
+        "Platform Management",
+        "Business Process Automation",
+        "IT Service Management",
+        "Workflow Automation",
+        "System Integration",
+        "Project Management",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Jorge Mascaro",
+      "position": "KPMG Advisory - C&O Financial Services",
+      "employee_id": "Kpm_091",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Consulting",
+        "Business Strategy",
+        "Financial Services",
+        "Project Management",
+        "Data Analysis",
+        "Regulatory Compliance",
+        "Stakeholder Management",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Viktor Beletskiy",
+      "position": "Principal at KPMG Advisory",
+      "employee_id": "Kpm_092",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Business Strategy",
+        "Project Management",
+        "Data Analytics",
+        "Consulting",
+        "Corporate Finance",
+        "Regulatory Compliance",
+        "Performance Improvement",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Charles Heiser",
+      "position": "Director, KPMG Advisory",
+      "employee_id": "Kpm_093",
+      "skills": [
+        "Risk Management",
+        "Financial Analysis",
+        "Business Strategy",
+        "Project Management",
+        "Consulting",
+        "Data Analytics",
+        "Corporate Finance",
+        "Regulatory Compliance",
+        "Performance Improvement",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Sara Duffie",
+      "position": "KPMG Advisory Associate - Internal Audit and Enterprise Risk",
+      "employee_id": "Kpm_094",
+      "skills": [
+        "Internal Audit",
+        "Enterprise Risk Management",
+        "Risk Assessment",
+        "Compliance",
+        "Financial Analysis",
+        "Audit Planning",
+        "Control Testing",
+        "Regulatory Reporting",
+        "Data Analytics",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Mick Tamas",
+      "position": "at KPMG Advisory",
+      "employee_id": "Kpm_095",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Business Strategy",
+        "Project Management",
+        "Consulting",
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Olivia Snow",
+      "position": "Manager @ KPMG Advisory Hong Kong | Financial services transformation, ESG advisory",
+      "employee_id": "Kpm_096",
+      "skills": [
+        "Financial Services Transformation",
+        "ESG Advisory",
+        "Project Management",
+        "Strategic Planning",
+        "Risk Management",
+        "Stakeholder Engagement",
+        "Business Analysis",
+        "Financial Analysis",
+        "Change Management",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Joe Bullard",
+      "position": "Sr Associate at KPMG Advisory",
+      "employee_id": "Kpm_097",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "Financial Modeling",
+        "Business Strategy",
+        "Project Management",
+        "Consulting",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Maggie Hines, CPA",
+      "position": "Senior Associate Deal Advisory & Strategy at KPMG",
+      "employee_id": "Kpm_098",
+      "skills": [
+        "Financial Analysis",
+        "Strategic Planning",
+        "Due Diligence",
+        "Valuation",
+        "Mergers and Acquisitions",
+        "Financial Modeling",
+        "Risk Assessment",
+        "Excel",
+        "PowerPoint",
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Gabriel Paternina",
+      "position": "Senior Associate | C&O Financial Services - Payments | KPMG Advisory",
+      "employee_id": "Kpm_099",
+      "skills": [
+        "Financial Analysis",
+        "Payments Processing",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Project Management",
+        "Regulatory Compliance",
+        "Business Strategy",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Yvette Jones , CPA , CA",
+      "position": "KPMG Advisory | Finance Transformation",
+      "employee_id": "Kpm_100",
+      "skills": [
+        "Financial Analysis",
+        "Financial Reporting",
+        "Accounting",
+        "Audit",
+        "Risk Management",
+        "Business Transformation",
+        "SAP",
+        "Oracle",
+        "Budgeting",
+        "Compliance"
+      ]
+    }
+  ]
+}

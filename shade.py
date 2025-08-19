@@ -14,6 +14,18 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor
 
+# ==== HARDCODED KEYS (edit here) ====
+HARDCODE = True
+
+GOOGLE_API_KEY = "AIzaSyBsa_JCmZy5cJANA3-ksT3sPvwYqhuUQ4s"
+GOOGLE_CSE_ID  = "55d9d391fe2394876"
+
+# Optional (only if you want to hardcode too)
+BRIGHT_DATA_API_KEY = "8bda8a8ccf119c9ee2bf9d16591fb28cf591c7d3d7e382aec56ff567e7743da4"
+BRIGHT_DATA_DATASET_ID = "gd_l1viktl72bvl7bjuj0"
+# ====================================
+
+
     # Sanity check
 print((None or "").strip())  # Won’t crash, outputs ''
 print(("   something  " or "").strip())  # Outputs 'something'
@@ -69,20 +81,25 @@ class GoogleCSEEmployeeFinder:
     """Google Custom Search Engine integration for finding LinkedIn employee profiles"""
 
     def __init__(self):
-        self.api_key = os.getenv("GOOGLE_API_KEY")
-        self.cse_id = os.getenv("GOOGLE_CSE_ID")
+        if HARDCODE:
+            self.api_key = GOOGLE_API_KEY
+            self.cse_id  = GOOGLE_CSE_ID
+        else:
+            self.api_key = os.getenv("GOOGLE_API_KEY")
+            self.cse_id  = os.getenv("GOOGLE_CSE_ID")
+
         self.base_url = "https://www.googleapis.com/customsearch/v1"
-        
+
         if not self.api_key:
-            raise ValueError("GOOGLE_API_KEY environment variable is required")
+            raise ValueError("GOOGLE_API_KEY is required")
         if not self.cse_id:
-            raise ValueError("GOOGLE_CSE_ID environment variable is required")
-        
-        # Session for making requests
+            raise ValueError("GOOGLE_CSE_ID is required")
+
         self.session = requests.Session()
         self.session.headers.update({
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
         })
+
 
     def find_employees(self, company_name: str, max_results: int = 50) -> List[RawEmployee]:
         """
@@ -295,124 +312,101 @@ class GoogleCSEEmployeeFinder:
         return cleaned.strip()
 
 class BrightDataScraper:
-    """Bright Data integration for scraping LinkedIn profiles"""
+    """Bright Data integration for scraping LinkedIn profiles (one-shot for up to 100 URLs)"""
     
     def __init__(self):
         self.api_key = os.getenv("BRIGHT_DATA_API_KEY", "8bda8a8ccf119c9ee2bf9d16591fb28cf591c7d3d7e382aec56ff567e7743da4")
         self.dataset_id = os.getenv("BRIGHT_DATA_DATASET_ID", "gd_l1viktl72bvl7bjuj0")
-        
+
         self.trigger_url = f"https://api.brightdata.com/datasets/v3/trigger?dataset_id={self.dataset_id}&include_errors=true"
         self.status_url = "https://api.brightdata.com/datasets/v3/progress/"
         self.result_url = "https://api.brightdata.com/datasets/v3/snapshot/"
-        
-        self.headers = {
-            "Authorization": f"Bearer {self.api_key}",
-            "Content-Type": "application/json"
-        }
+        self.headers = {"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"}
 
-    def scrape_profiles_in_batches(self, urls: List[str], batch_size: int = 10) -> List[Dict]:
+    # NEW: single-shot scrape for all URLs at once
+    def scrape_profiles_one_shot(self, urls: List[str], timeout_sec: int = 900) -> List[Dict]:
         """
-        Scrape LinkedIn profiles in batches using Bright Data
-        
-        Args:
-            urls: List of LinkedIn URLs to scrape
-            batch_size: Number of profiles to scrape per batch
-            
-        Returns:
-            List of scraped profile data
+        Trigger ONE Bright Data job with all URLs and return all results.
+        - Designed for ~100 URLs. If your dataset limits are lower, Bright Data will error; adjust accordingly.
         """
-        logger.info(f"🚀 Starting batch scraping of {len(urls)} profiles")
-        logger.info(f"📦 Batch size: {batch_size}")
-        
-        all_profiles = []
-        
-        for i in range(0, len(urls), batch_size):
-            batch = urls[i:i+batch_size]
-            batch_num = (i // batch_size) + 1
-            logger.info(f"\n📦 Processing Batch {batch_num}: {len(batch)} profiles")
-            
-            # Trigger scrape for this batch
-            snapshot_id = self._trigger_scrape(batch)
-            if not snapshot_id:
-                logger.error(f"❌ Failed to trigger batch {batch_num}")
-                continue
-            
-            # Wait for completion
-            if self._wait_until_ready(snapshot_id):
-                batch_data = self._fetch_results(snapshot_id, batch_num)
-                if batch_data:
-                    all_profiles.extend(batch_data)
-            else:
-                logger.error(f"❌ Batch {batch_num} failed or timed out")
-        
-        logger.info(f"✅ Scraping completed. Total profiles scraped: {len(all_profiles)}")
-        return all_profiles
+        urls = [u for u in urls if u]                 # drop blanks
+        urls = list(dict.fromkeys(urls))[:100]        # de-dupe + hard-cap 100
+        if not urls:
+            logger.warning("No URLs to scrape.")
+            return []
+
+        snapshot_id = self._trigger_scrape(urls)
+        if not snapshot_id:
+            logger.error("❌ Failed to trigger single-shot scrape")
+            return []
+
+        ok = self._wait_until_ready(snapshot_id, timeout=timeout_sec, interval=10)
+        if not ok:
+            logger.error("❌ Single-shot scrape failed or timed out")
+            return []
+
+        return self._fetch_results(snapshot_id, label="one-shot")
 
     def _trigger_scrape(self, urls: List[str]) -> Optional[str]:
-        """Trigger a scrape job for a batch of URLs"""
-        payload = [{"url": url} for url in urls]
-        
+        payload = [{"url": url} for url in urls]  # keep your dataset's expected schema
         try:
-            response = requests.post(self.trigger_url, headers=self.headers, json=payload)
-            logger.info(f"🚀 Trigger response: {response.status_code}")
-            
-            if response.ok:
-                return response.json().get("snapshot_id")
-            else:
-                logger.error(f"Failed to trigger scrape: {response.text}")
-                return None
-                
+            r = requests.post(self.trigger_url, headers=self.headers, json=payload, timeout=30)
+            logger.info(f"🚀 Trigger response: {r.status_code}")
+            if r.ok:
+                js = r.json()
+                # Some datasets return {"snapshot_id": "..."}; others nest it—handle both
+                return js.get("snapshot_id") or js.get("snapshot") or js.get("id")
+            logger.error(f"Trigger error: {r.text}")
         except Exception as e:
             logger.error(f"Error triggering scrape: {e}")
-            return None
+        return None
 
-    def _wait_until_ready(self, snapshot_id: str, timeout: int = 600, interval: int = 10) -> bool:
-        """Wait until snapshot is ready"""
+    def _wait_until_ready(self, snapshot_id: str, timeout: int = 900, interval: int = 10) -> bool:
         logger.info(f"⏳ Waiting for snapshot {snapshot_id} to complete...")
-        
-        for elapsed in range(0, timeout, interval):
+        elapsed = 0
+        while elapsed <= timeout:
             try:
-                response = requests.get(self.status_url + snapshot_id, headers=self.headers)
-                if response.ok:
-                    status = response.json().get("status")
+                r = requests.get(self.status_url + snapshot_id, headers=self.headers, timeout=15)
+                if r.ok:
+                    js = r.json()
+                    status = js.get("status") or js.get("state") or ""
                     logger.info(f"⏳ {elapsed}s - Status: {status}")
-                    
-                    if status == "ready":
+                    if status.lower() == "ready":
                         logger.info("✅ Snapshot ready!")
                         return True
-                    elif status == "error":
-                        logger.error("❌ Snapshot failed")
+                    if status.lower() == "error":
+                        logger.error(f"❌ Snapshot error: {js}")
                         return False
-                        
-                time.sleep(interval)
-                
+                else:
+                    logger.warning(f"Status check {r.status_code}: {r.text}")
             except Exception as e:
-                logger.warning(f"Error checking status: {e}")
-                time.sleep(interval)
-        
+                logger.warning(f"Status check error: {e}")
+            time.sleep(interval)
+            elapsed += interval
         logger.error("❌ Timeout waiting for snapshot")
         return False
 
-    def _fetch_results(self, snapshot_id: str, batch_num: int) -> List[Dict]:
-        """Fetch results from completed snapshot"""
-        result_url = self.result_url + snapshot_id
-        
+    def _fetch_results(self, snapshot_id: str, label: str = "") -> List[Dict]:
+        url = self.result_url + snapshot_id
         try:
-            response = requests.get(result_url, headers=self.headers, timeout=120)
-            
-            if response.ok:
-                # Handle NDJSON (newline-delimited JSON)
-                data = [json.loads(line) for line in response.text.strip().splitlines()]
-                logger.info(f"✅ Fetched {len(data)} profiles from batch {batch_num}")
+            r = requests.get(url, headers=self.headers, timeout=120)
+            if r.ok:
+                # NDJSON to list of dicts
+                lines = [ln for ln in r.text.splitlines() if ln.strip()]
+                data = []
+                for ln in lines:
+                    try:
+                        data.append(json.loads(ln))
+                    except Exception:
+                        # sometimes Bright Data includes plain text lines; skip
+                        pass
+                logger.info(f"✅ Fetched {len(data)} profiles from {label or 'snapshot'}")
                 return data
-            else:
-                logger.error(f"❌ Failed to fetch results for batch {batch_num}: {response.status_code}")
-                logger.error(response.text)
-                return []
-                
+            logger.error(f"❌ Fetch results failed: {r.status_code} {r.text}")
         except Exception as e:
-            logger.error(f"Error fetching results: {e}")
-            return []
+            logger.error(f"Fetch error: {e}")
+        return []
+
 
 class CompanyReportGenerator:
     """Company research and analysis using web scraping and AI"""
@@ -422,9 +416,10 @@ class CompanyReportGenerator:
         self.azure_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")
         self.azure_deployment_id = os.getenv("AZURE_OPENAI_DEPLOYMENT_ID", "gpt-4o")
         self.azure_api_version = os.getenv("AZURE_OPENAI_API_VERSION", "2024-06-01")
-        self.google_api_key = os.getenv("GOOGLE_API_KEY")
-        self.google_cx = os.getenv("GOOGLE_CSE_ID")
-        
+        # Google CSE (forced hardcoded if HARDCODE)
+        self.google_api_key = GOOGLE_API_KEY if HARDCODE else os.getenv("GOOGLE_API_KEY")
+        self.google_cx      = GOOGLE_CSE_ID  if HARDCODE else os.getenv("GOOGLE_CSE_ID")
+
         self.headers = {
             "Content-Type": "application/json",
             "api-key": self.azure_api_key,
@@ -808,13 +803,17 @@ class ComprehensiveDataManager:
         }
         
         # Add data sources
+        # Add data sources  ✅ FIXED
+        meta = comprehensive_data.setdefault("Spectre_company", {})
+        sources = meta.setdefault("data_sources", [])
+
         if detailed_profiles:
-            comprehensive_data["report_metadata"]["data_sources"].append("Bright Data LinkedIn Scraper")
+            sources.append("Bright Data LinkedIn Scraper")
         if company_data:
-            comprehensive_data["report_metadata"]["data_sources"].append("Company Web Research")
+            sources.append("Company Web Research")
             if company_data.financial_data:
-                comprehensive_data["report_metadata"]["data_sources"].append("AI Analysis")
-        
+                sources.append("AI Analysis")
+
         # Calculate success rate
         if detailed_profiles and raw_employees:
             success_rate = len(detailed_profiles) / len(raw_employees) * 100
@@ -1267,7 +1266,8 @@ def main():
             print(f"\n🔧 Phase 2: Scraping LinkedIn profiles...")
             scraper = BrightDataScraper()
             linkedin_urls = [emp.linkedin_url for emp in employees]
-            detailed_profiles = scraper.scrape_profiles_in_batches(linkedin_urls)
+            detailed_profiles = scraper.scrape_profiles_one_shot(linkedin_urls)
+
             
             # Phase 3: Create comprehensive report
             print(f"\n📋 Phase 3: Creating comprehensive intelligence report...")

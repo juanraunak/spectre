@@ -1,0 +1,1688 @@
+{
+  "company_name": "Capgemini",
+  "employees": [
+    {
+      "name": "Anirban Bose",
+      "position": "",
+      "employee_id": "Cap_001",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Client Relations",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Performance Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Rajnish Nath",
+      "position": "",
+      "employee_id": "Cap_002",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Scrum",
+        "Team Leadership",
+        "Budgeting",
+        "Risk Management",
+        "Stakeholder Communication",
+        "Resource Allocation",
+        "Microsoft Office",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Jim Bailey",
+      "position": "",
+      "employee_id": "Cap_003",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Management",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Joe Morris",
+      "position": "Global Digital Marketing Leader | Content, Branding, Connection | ex-Capgemini",
+      "employee_id": "Cap_004",
+      "skills": [
+        "Digital Marketing",
+        "Content Creation",
+        "Branding",
+        "Social Media Marketing",
+        "SEO",
+        "SEM",
+        "Marketing Analytics",
+        "Email Marketing",
+        "Campaign Management",
+        "Google Analytics"
+      ]
+    },
+    {
+      "name": "Shawn Brodersen",
+      "position": "",
+      "employee_id": "Cap_005",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Microsoft Office",
+        "Problem Solving",
+        "Decision Making",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Fernando Alvarez Tabio",
+      "position": "",
+      "employee_id": "Cap_006",
+      "skills": [
+        "Project Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Budgeting",
+        "Team Leadership",
+        "Microsoft Excel",
+        "Data Analysis",
+        "Risk Management",
+        "Business Development",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Samant Kumar",
+      "position": "",
+      "employee_id": "Cap_007",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "SQL",
+        "Machine Learning",
+        "Statistics",
+        "Predictive Analytics",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Ashley A. Miller",
+      "position": "",
+      "employee_id": "Cap_008",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Scrum",
+        "Stakeholder Management",
+        "Risk Management",
+        "Budgeting",
+        "Microsoft Project",
+        "JIRA",
+        "Resource Allocation",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Ted Levine",
+      "position": "",
+      "employee_id": "Cap_009",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Dan Ford",
+      "position": "",
+      "employee_id": "Cap_010",
+      "skills": [
+        "Project Management",
+        "Client Relations",
+        "Strategic Planning",
+        "Budgeting",
+        "Team Leadership",
+        "Negotiation",
+        "Microsoft Office",
+        "Problem Solving",
+        "Communication Skills",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Olaf Pietschner",
+      "position": "",
+      "employee_id": "Cap_011",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Strategic Planning",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Change Management",
+        "Leadership",
+        "Team Collaboration",
+        "Budgeting",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Keith Williams",
+      "position": "",
+      "employee_id": "Cap_012",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Management",
+        "Microsoft Office Suite",
+        "Communication Skills",
+        "Problem Solving",
+        "Negotiation",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Sheetal (Dingrani) Chawla",
+      "position": "",
+      "employee_id": "Cap_013",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Requirements Gathering",
+        "Risk Management",
+        "Microsoft Office Suite",
+        "Change Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Heather MacLeod",
+      "position": "",
+      "employee_id": "Cap_014",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Scrum",
+        "Stakeholder Management",
+        "Risk Assessment",
+        "Budgeting",
+        "Microsoft Office Suite",
+        "Team Leadership",
+        "Process Improvement",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Tikendra Pratap Deo,",
+      "position": "",
+      "employee_id": "Cap_015",
+      "skills": [
+        "Project Management",
+        "Software Development",
+        "Agile Methodologies",
+        "Scrum",
+        "Team Leadership",
+        "Technical Documentation",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Roshan Soorunsingh Gya",
+      "position": "",
+      "employee_id": "Cap_016",
+      "skills": [
+        "Project Management",
+        "Software Development",
+        "Agile Methodologies",
+        "Team Leadership",
+        "Problem Solving",
+        "Communication Skills",
+        "Client Relations",
+        "Technical Documentation",
+        "Quality Assurance",
+        "Business Analysis"
+      ]
+    },
+    {
+      "name": "Sandeep Kamath",
+      "position": "",
+      "employee_id": "Cap_017",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Software Development",
+        "Team Leadership",
+        "Risk Management",
+        "Stakeholder Communication",
+        "Budgeting",
+        "Resource Allocation",
+        "Quality Assurance",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Pradeep Sanyal",
+      "position": "",
+      "employee_id": "Cap_018",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Software Development",
+        "Team Leadership",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Risk Management",
+        "Process Improvement",
+        "Technical Documentation",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Steve Jones",
+      "position": "",
+      "employee_id": "Cap_019",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Engagement",
+        "Performance Analysis",
+        "Microsoft Office Suite",
+        "Resource Allocation",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Ramandeep Singh",
+      "position": "",
+      "employee_id": "Cap_020",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Scrum",
+        "Stakeholder Management",
+        "Risk Assessment",
+        "Budgeting",
+        "Resource Allocation",
+        "Microsoft Office Suite",
+        "Team Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Samantha Chow",
+      "position": "",
+      "employee_id": "Cap_021",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Performance Monitoring",
+        "Resource Allocation",
+        "Process Improvement",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Ravi Makhija",
+      "position": "",
+      "employee_id": "Cap_022",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "Agile Methodologies",
+        "Java",
+        "Python",
+        "SQL",
+        "Cloud Computing",
+        "DevOps",
+        "System Architecture",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Cedric Thevenet",
+      "position": "",
+      "employee_id": "Cap_023",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Software Development",
+        "Team Leadership",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Risk Assessment",
+        "Quality Assurance",
+        "Process Improvement",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Shashi Gupta",
+      "position": "VP and Global Head AWS CoE - Capgemini Financial Services",
+      "employee_id": "Cap_024",
+      "skills": [
+        "AWS",
+        "Cloud Computing",
+        "DevOps",
+        "Infrastructure Management",
+        "Financial Services",
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Agile Methodologies",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Allison Lambert",
+      "position": "",
+      "employee_id": "Cap_025",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Budgeting",
+        "Resource Allocation",
+        "Microsoft Office Suite",
+        "Team Leadership",
+        "Strategic Planning",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Marco Pereira",
+      "position": "",
+      "employee_id": "Cap_026",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Performance Monitoring",
+        "Resource Allocation",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Manish Chopra",
+      "position": "",
+      "employee_id": "Cap_027",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "Process Improvement",
+        "Change Management",
+        "Requirements Gathering",
+        "Microsoft Office Suite",
+        "Risk Assessment",
+        "Reporting"
+      ]
+    },
+    {
+      "name": "Steve Jones",
+      "position": "",
+      "employee_id": "Cap_028",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Management",
+        "Microsoft Office",
+        "Data Analysis",
+        "Communication",
+        "Problem Solving",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Jiani Zhang",
+      "position": "",
+      "employee_id": "Cap_029",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "SQL",
+        "Python",
+        "Business Intelligence",
+        "Financial Reporting",
+        "Risk Management",
+        "Tableau",
+        "Power BI"
+      ]
+    },
+    {
+      "name": "Franck Greverie",
+      "position": "Chief Technology & Portfolio Officer, Head of Global Business Lines at Capgemini | CX, Cloud, Data & AI, Cybersecurity",
+      "employee_id": "Cap_030",
+      "skills": [
+        "Cloud Computing",
+        "Data Analysis",
+        "Artificial Intelligence",
+        "Cybersecurity",
+        "Customer Experience (CX)",
+        "Portfolio Management",
+        "Business Strategy",
+        "Technology Leadership",
+        "Digital Transformation",
+        "Enterprise Architecture"
+      ]
+    },
+    {
+      "name": "Sanjay Gupta",
+      "position": "",
+      "employee_id": "Cap_031",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Performance Analysis",
+        "Resource Allocation",
+        "Quality Assurance",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Abhaya Gupta",
+      "position": "Chief Operating Officer, Executive VP, Global Financial Services SBU",
+      "employee_id": "Cap_032",
+      "skills": [
+        "Financial Modeling",
+        "Risk Management",
+        "Strategic Planning",
+        "Business Development",
+        "Operations Management",
+        "Leadership",
+        "Budgeting",
+        "Project Management",
+        "Market Analysis",
+        "Corporate Finance"
+      ]
+    },
+    {
+      "name": "Suresh Menon",
+      "position": "",
+      "employee_id": "Cap_033",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "Process Improvement",
+        "Change Management",
+        "Requirement Gathering",
+        "Risk Assessment",
+        "Microsoft Office",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Rajesh Sengamedu",
+      "position": "",
+      "employee_id": "Cap_034",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Software Development",
+        "Team Leadership",
+        "Quality Assurance",
+        "Risk Management",
+        "Stakeholder Communication",
+        "Budget Management",
+        "Problem Solving",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Rajashree Parida/Das",
+      "position": "",
+      "employee_id": "Cap_035",
+      "skills": [
+        "Project Management",
+        "Software Development",
+        "Agile Methodologies",
+        "Scrum",
+        "Java",
+        "SQL",
+        "Cloud Computing",
+        "Business Analysis",
+        "System Integration",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Andreas Sjostrom",
+      "position": "LinkedIn Top Voice | AI Agents | Robotics I Vice President at Capgemini's Applied Innovation Exchange | Author | Speaker | San Francisco | Palo Alto",
+      "employee_id": "Cap_036",
+      "skills": [
+        "AI Agents",
+        "Robotics",
+        "Innovation Management",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Technology Strategy",
+        "Software Development",
+        "Automation",
+        "Data Analysis",
+        "Digital Transformation"
+      ]
+    },
+    {
+      "name": "Dinesh Madne",
+      "position": "",
+      "employee_id": "Cap_037",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Software Development",
+        "Team Leadership",
+        "Client Communication",
+        "Requirement Analysis",
+        "Quality Assurance",
+        "Risk Management",
+        "Technical Documentation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Ashwin Yardi",
+      "position": "",
+      "employee_id": "Cap_038",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Software Development",
+        "Agile Methodologies",
+        "IT Strategy",
+        "Cloud Computing",
+        "Data Analytics",
+        "Cybersecurity",
+        "Enterprise Architecture",
+        "Digital Transformation"
+      ]
+    },
+    {
+      "name": "Dipali Dhumal",
+      "position": "",
+      "employee_id": "Cap_039",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Software Development Lifecycle",
+        "Team Leadership",
+        "Risk Management",
+        "Quality Assurance",
+        "Stakeholder Communication",
+        "Problem Solving",
+        "Process Improvement",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Nilesh Vaidya",
+      "position": "",
+      "employee_id": "Cap_040",
+      "skills": [
+        "Project Management",
+        "Software Development",
+        "Agile Methodologies",
+        "Scrum",
+        "Java",
+        "SQL",
+        "System Analysis",
+        "Business Analysis",
+        "Technical Documentation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Vince Crimaldi",
+      "position": "Executive Vice President at Capgemini",
+      "employee_id": "Cap_041",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Project Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Client Relations",
+        "Change Management",
+        "Operational Efficiency",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Brett Bonthron",
+      "position": "Strategic Advisor | Board Member | Ex-Capgemini Global Industry Leader | Startup Go-To-Market Advisor | Ex-Salesforce | USF Professor | Basketball Coach",
+      "employee_id": "Cap_042",
+      "skills": [
+        "Strategic Planning",
+        "Go-To-Market Strategy",
+        "Industry Analysis",
+        "Salesforce CRM",
+        "Leadership",
+        "Business Development",
+        "Market Research",
+        "Teaching",
+        "Coaching",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Dinaz Taylor (She/Her)",
+      "position": "",
+      "employee_id": "Cap_043",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Stakeholder Communication",
+        "Risk Assessment",
+        "Microsoft Office Suite",
+        "Agile Methodologies",
+        "Performance Analysis",
+        "Resource Allocation"
+      ]
+    },
+    {
+      "name": "Rajashree Parida/Das",
+      "position": "",
+      "employee_id": "Cap_044",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Scrum",
+        "Stakeholder Management",
+        "Risk Management",
+        "Budgeting",
+        "Resource Allocation",
+        "Microsoft Project",
+        "JIRA",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Sanjay Chalke",
+      "position": "",
+      "employee_id": "Cap_045",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Software Development",
+        "Team Leadership",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Risk Management",
+        "Process Improvement",
+        "Technical Documentation",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Dipali Dhumal",
+      "position": "",
+      "employee_id": "Cap_046",
+      "skills": [
+        "Project Management",
+        "Software Development",
+        "Agile Methodologies",
+        "Scrum",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Requirement Gathering",
+        "Technical Documentation",
+        "Quality Assurance",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Shiva B.",
+      "position": "",
+      "employee_id": "Cap_047",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Software Development",
+        "System Integration",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Technical Documentation",
+        "Quality Assurance",
+        "Team Leadership",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Dinesh Madne",
+      "position": "",
+      "employee_id": "Cap_048",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Software Development",
+        "Team Leadership",
+        "Client Communication",
+        "Problem Solving",
+        "Technical Documentation",
+        "Quality Assurance",
+        "Requirement Analysis",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Genevieve Chamard",
+      "position": "AWS Cloud Global Partnership Executive @Capgemini | Creating Successful Global Partnership Strategy for AWS | Partner Operations Specialist | Growth Strategy | Market Entry Strategy",
+      "employee_id": "Cap_049",
+      "skills": [
+        "AWS",
+        "Cloud Computing",
+        "Global Partnership Strategy",
+        "Partner Operations",
+        "Growth Strategy",
+        "Market Entry Strategy",
+        "Business Development",
+        "Strategic Planning",
+        "Enterprise Solutions",
+        "Technology Integration"
+      ]
+    },
+    {
+      "name": "Abhaya Gupta",
+      "position": "Chief Operating Officer, Executive VP, Global Financial Services SBU",
+      "employee_id": "Cap_050",
+      "skills": [
+        "Financial Modeling",
+        "Risk Management",
+        "Strategic Planning",
+        "Leadership",
+        "Global Financial Services",
+        "Business Development",
+        "Operational Management",
+        "Project Management",
+        "Data Analysis",
+        "Corporate Governance"
+      ]
+    },
+    {
+      "name": "Ashley Crandall",
+      "position": "",
+      "employee_id": "Cap_051",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Management",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Narayanan Balasubramaniam (Naru)",
+      "position": "",
+      "employee_id": "Cap_052",
+      "skills": [
+        "Project Management",
+        "Software Development",
+        "Agile Methodologies",
+        "Scrum",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Technical Documentation",
+        "Quality Assurance",
+        "Risk Management",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Josh Welle",
+      "position": "",
+      "employee_id": "Cap_053",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Process Improvement",
+        "Stakeholder Communication",
+        "Risk Assessment",
+        "Microsoft Office",
+        "Data Analysis",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Vamshi Rachakonda",
+      "position": "",
+      "employee_id": "Cap_054",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "Agile Methodologies",
+        "Java",
+        "Python",
+        "SQL",
+        "Cloud Computing",
+        "DevOps",
+        "System Architecture",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Satish Appanmurthy",
+      "position": "",
+      "employee_id": "Cap_055",
+      "skills": [
+        "Project Management",
+        "Software Development",
+        "Agile Methodologies",
+        "Scrum",
+        "Java",
+        "SQL",
+        "Cloud Computing",
+        "DevOps",
+        "System Architecture",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Jean-Marc Gaultier",
+      "position": "",
+      "employee_id": "Cap_056",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Change Management",
+        "Process Improvement",
+        "Requirements Gathering",
+        "Risk Assessment",
+        "Team Leadership",
+        "Microsoft Office Suite"
+      ]
+    },
+    {
+      "name": "James Forrest",
+      "position": "",
+      "employee_id": "Cap_057",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving",
+        "Negotiation",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Zenyk Matchyshyn",
+      "position": "",
+      "employee_id": "Cap_058",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "Agile Methodologies",
+        "Java",
+        "Python",
+        "SQL",
+        "Cloud Computing",
+        "DevOps",
+        "System Architecture",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "James Housteau",
+      "position": "",
+      "employee_id": "Cap_059",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Vendor Management",
+        "Process Improvement",
+        "Microsoft Office",
+        "Negotiation",
+        "Contract Management"
+      ]
+    },
+    {
+      "name": "Michael R. Mittelstadt",
+      "position": "",
+      "employee_id": "Cap_060",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "Process Improvement",
+        "Strategic Planning",
+        "Change Management",
+        "Microsoft Office Suite",
+        "Data Analysis",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Courtney Pace",
+      "position": "",
+      "employee_id": "Cap_061",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving",
+        "Negotiation",
+        "Risk Assessment",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Johnny Pak, MBA",
+      "position": "",
+      "employee_id": "Cap_062",
+      "skills": [
+        "Business Strategy",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Presentation Skills",
+        "Leadership",
+        "Budgeting",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Christine Stack",
+      "position": "",
+      "employee_id": "Cap_063",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Change Management",
+        "Microsoft Office Suite",
+        "Data Analysis",
+        "Risk Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Andrew Pham",
+      "position": "",
+      "employee_id": "Cap_064",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Performance Analysis",
+        "Resource Allocation",
+        "Process Improvement",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Dinand Tinholt",
+      "position": "",
+      "employee_id": "Cap_065",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "Process Improvement",
+        "Change Management",
+        "Requirements Gathering",
+        "Risk Assessment",
+        "Microsoft Office Suite",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Alexander Fleischer",
+      "position": "",
+      "employee_id": "Cap_066",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Management",
+        "Stakeholder Management",
+        "Performance Analysis",
+        "Microsoft Office",
+        "Negotiation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Roger Farrow MSc, MA, PGCE",
+      "position": "",
+      "employee_id": "Cap_067",
+      "skills": [
+        "Project Management",
+        "Educational Technology",
+        "Curriculum Development",
+        "Instructional Design",
+        "Data Analysis",
+        "Research Methods",
+        "Public Speaking",
+        "Report Writing",
+        "Team Leadership",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Mala Balakrishnan",
+      "position": "Vice President - Capgemini",
+      "employee_id": "Cap_068",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Business Development",
+        "Client Relations",
+        "Change Management",
+        "IT Consulting",
+        "Digital Transformation",
+        "Enterprise Solutions",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Marisa Slatter",
+      "position": "Director, Capgemini Research Institute at Capgemini",
+      "employee_id": "Cap_069",
+      "skills": [
+        "Research Analysis",
+        "Data Analytics",
+        "Market Research",
+        "Business Strategy",
+        "Project Management",
+        "Leadership",
+        "Quantitative Research",
+        "Qualitative Research",
+        "Report Writing",
+        "Industry Trends Analysis"
+      ]
+    },
+    {
+      "name": "Shiva Agolla",
+      "position": "",
+      "employee_id": "Cap_070",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Stakeholder Management",
+        "Risk Assessment",
+        "Performance Analysis",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Conor McGovern",
+      "position": "",
+      "employee_id": "Cap_071",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "Process Improvement",
+        "Change Management",
+        "Microsoft Office Suite",
+        "Data Analysis",
+        "Strategic Planning",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Robert Malone",
+      "position": "General Counsel Americas SBU at Capgemini",
+      "employee_id": "Cap_072",
+      "skills": [
+        "Corporate Law",
+        "Contract Negotiation",
+        "Compliance Management",
+        "Risk Assessment",
+        "Legal Research",
+        "Mergers and Acquisitions",
+        "Intellectual Property",
+        "Regulatory Affairs",
+        "Litigation",
+        "Legal Writing"
+      ]
+    },
+    {
+      "name": "Sajjad Ahmed Shaik",
+      "position": "Global Head of Learning - Capgemini Insights & Data",
+      "employee_id": "Cap_073",
+      "skills": [
+        "Data Analysis",
+        "Learning Management Systems",
+        "Project Management",
+        "Business Intelligence",
+        "Data Visualization",
+        "Training and Development",
+        "Leadership",
+        "Analytics",
+        "Big Data",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Lindsey Mazza",
+      "position": "",
+      "employee_id": "Cap_074",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "Process Improvement",
+        "Data Analysis",
+        "Microsoft Office",
+        "Change Management",
+        "Requirements Gathering",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Aftab Hussain",
+      "position": "",
+      "employee_id": "Cap_075",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "Agile Methodologies",
+        "Java",
+        "C++",
+        "SQL",
+        "System Design",
+        "Problem Solving",
+        "Team Leadership",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Juliette Fazekas",
+      "position": "Sustainable Business Transformation | Environmental & Social Impact @ Capgemini",
+      "employee_id": "Cap_076",
+      "skills": [
+        "Sustainable Business Transformation",
+        "Environmental Impact Assessment",
+        "Social Impact Analysis",
+        "Corporate Social Responsibility (CSR)",
+        "Stakeholder Engagement",
+        "Sustainability Reporting",
+        "Project Management",
+        "Data Analysis",
+        "ESG (Environmental, Social, Governance)",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Mona Ghadiri",
+      "position": "",
+      "employee_id": "Cap_077",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Microsoft Office",
+        "Negotiation",
+        "Performance Analysis"
+      ]
+    },
+    {
+      "name": "Elfije Lemaitre",
+      "position": "",
+      "employee_id": "Cap_078",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Change Management",
+        "Microsoft Office Suite",
+        "Team Leadership",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Claire Edgson",
+      "position": "",
+      "employee_id": "Cap_079",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Budgeting",
+        "Resource Allocation",
+        "Microsoft Office Suite",
+        "Team Leadership",
+        "Process Improvement",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Tara Radford",
+      "position": "",
+      "employee_id": "Cap_080",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Microsoft Office Suite",
+        "Stakeholder Communication",
+        "Process Improvement",
+        "Performance Metrics",
+        "Resource Allocation"
+      ]
+    },
+    {
+      "name": "Georgia Cross",
+      "position": "Senior Consultant at Capgemini | Currently completing Master of Data Science",
+      "employee_id": "Cap_081",
+      "skills": [
+        "Data Science",
+        "Python",
+        "Machine Learning",
+        "Data Analysis",
+        "Statistical Modeling",
+        "Big Data",
+        "SQL",
+        "R",
+        "Consulting",
+        "Business Analytics"
+      ]
+    },
+    {
+      "name": "Shiva Agolla",
+      "position": "",
+      "employee_id": "Cap_082",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Stakeholder Communication",
+        "Risk Assessment",
+        "Performance Analysis",
+        "Microsoft Office Suite",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Andy Kuhn",
+      "position": "",
+      "employee_id": "Cap_083",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Management",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving",
+        "Negotiation",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Andy Forbes",
+      "position": "",
+      "employee_id": "Cap_084",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "Scrum",
+        "Microsoft Office Suite",
+        "Data Analysis",
+        "Process Improvement",
+        "Risk Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Andrew Kemp",
+      "position": "",
+      "employee_id": "Cap_085",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Microsoft Office",
+        "Negotiation",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Michael Lehman",
+      "position": "Solutions Architect at Capgemini",
+      "employee_id": "Cap_087",
+      "skills": [
+        "Cloud Computing",
+        "AWS",
+        "Azure",
+        "Solution Design",
+        "Enterprise Architecture",
+        "DevOps",
+        "Microservices",
+        "API Management",
+        "Agile Methodologies",
+        "Technical Leadership"
+      ]
+    },
+    {
+      "name": "Aaron Aude",
+      "position": "",
+      "employee_id": "Cap_088",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Engagement",
+        "Performance Monitoring",
+        "Process Improvement",
+        "Resource Allocation",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Ajay Walgude",
+      "position": "",
+      "employee_id": "Cap_089",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Scrum",
+        "Stakeholder Management",
+        "Risk Management",
+        "Microsoft Office Suite",
+        "Team Leadership",
+        "Budgeting",
+        "Resource Allocation",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Luisa Baldino",
+      "position": "",
+      "employee_id": "Cap_090",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Microsoft Office",
+        "Negotiation",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Luisa Baldino",
+      "position": "",
+      "employee_id": "Cap_091",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "Process Improvement",
+        "Change Management",
+        "Microsoft Office Suite",
+        "Data Analysis",
+        "Requirements Gathering",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Jonathan Chadwick",
+      "position": "",
+      "employee_id": "Cap_092",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Performance Analysis",
+        "Stakeholder Communication",
+        "Process Improvement",
+        "Microsoft Office",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Jeff Hebert",
+      "position": "",
+      "employee_id": "Cap_093",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Microsoft Office",
+        "Negotiation",
+        "Risk Assessment",
+        "Performance Analysis",
+        "Stakeholder Management",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Lanny Cohen",
+      "position": "",
+      "employee_id": "Cap_094",
+      "skills": [
+        "Project Management",
+        "IT Strategy",
+        "Digital Transformation",
+        "Business Analysis",
+        "Enterprise Architecture",
+        "Agile Methodologies",
+        "Cloud Computing",
+        "Cybersecurity",
+        "Software Development",
+        "Data Analytics"
+      ]
+    },
+    {
+      "name": "Pritpal Bumrah",
+      "position": "Senior Director at Capgemini America Inc.",
+      "employee_id": "Cap_095",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Business Strategy",
+        "IT Consulting",
+        "Client Relations",
+        "Change Management",
+        "Enterprise Architecture",
+        "Digital Transformation",
+        "Software Development",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Kundan Kumar",
+      "position": "",
+      "employee_id": "Cap_096",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "Agile Methodologies",
+        "Java",
+        "Python",
+        "SQL",
+        "Cloud Computing",
+        "DevOps",
+        "System Design",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Thomas Bressler",
+      "position": "",
+      "employee_id": "Cap_097",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Analysis",
+        "Microsoft Office",
+        "Budgeting",
+        "Negotiation",
+        "Risk Management",
+        "Stakeholder Management",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Nafiri Kusumakaulika",
+      "position": "",
+      "employee_id": "Cap_098",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Scrum",
+        "Stakeholder Management",
+        "Risk Assessment",
+        "Budgeting",
+        "Team Leadership",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Miguel Sossa-Mardomingo",
+      "position": "",
+      "employee_id": "Cap_099",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Strategic Planning",
+        "Process Improvement",
+        "Change Management",
+        "Risk Assessment",
+        "Microsoft Office Suite",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Priya Marsonia",
+      "position": "",
+      "employee_id": "Cap_100",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Requirement Gathering",
+        "Change Management",
+        "Microsoft Office Suite",
+        "Risk Assessment",
+        "Team Leadership"
+      ]
+    }
+  ]
+}

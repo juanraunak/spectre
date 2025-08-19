@@ -1,0 +1,1452 @@
+{
+  "company_name": "Bain   Company",
+  "employees": [
+    {
+      "name": "Karen Harris",
+      "position": "",
+      "employee_id": "Bai_001",
+      "skills": []
+    },
+    {
+      "name": "Erin Wallace",
+      "position": "",
+      "employee_id": "Bai_002",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Microsoft Office",
+        "Data Analysis",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Manny Maceda",
+      "position": "Partner and Chairman at Bain & Company",
+      "employee_id": "Bai_003",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Development",
+        "Leadership",
+        "Corporate Strategy",
+        "Operational Improvement",
+        "Change Management",
+        "Mergers and Acquisitions",
+        "Performance Optimization",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Erika Serow",
+      "position": "",
+      "employee_id": "Bai_004",
+      "skills": [
+        "Business Strategy",
+        "Market Analysis",
+        "Financial Planning",
+        "Leadership",
+        "Project Management",
+        "Negotiation",
+        "Sales Forecasting",
+        "Customer Relationship Management",
+        "Competitive Analysis",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Moriah Johnson",
+      "position": "Senior Associate Consultant at Bain & Company",
+      "employee_id": "Bai_005",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Market Research",
+        "Business Development",
+        "Project Management",
+        "Data Analysis",
+        "Client Relationship Management",
+        "Problem Solving",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Sam Israelit",
+      "position": "",
+      "employee_id": "Bai_006",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Microsoft Excel",
+        "Data Analysis",
+        "Market Research",
+        "Budgeting",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "Eric Berger",
+      "position": "",
+      "employee_id": "Bai_007",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "SQL",
+        "Python",
+        "Business Intelligence",
+        "Excel",
+        "Dashboard Creation",
+        "Reporting",
+        "Database Management",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Sri Rajan",
+      "position": "",
+      "employee_id": "Bai_008",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Management",
+        "Microsoft Office",
+        "Negotiation",
+        "Communication",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Matthew Murray",
+      "position": "",
+      "employee_id": "Bai_009",
+      "skills": []
+    },
+    {
+      "name": "Belinda Spike Harris, GPHR, CEBS",
+      "position": "",
+      "employee_id": "Bai_010",
+      "skills": [
+        "Global Human Resources",
+        "Employee Benefits",
+        "HR Strategy",
+        "Compensation and Benefits",
+        "HR Compliance",
+        "Talent Management",
+        "HR Analytics",
+        "Organizational Development",
+        "HRIS Systems",
+        "Performance Management"
+      ]
+    },
+    {
+      "name": "Easton Dickson",
+      "position": "",
+      "employee_id": "Bai_011",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Process Improvement",
+        "Microsoft Office",
+        "Data Analysis",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Mike Adams",
+      "position": "",
+      "employee_id": "Bai_012",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Process Improvement",
+        "Microsoft Office Suite",
+        "Stakeholder Communication",
+        "Performance Metrics",
+        "Resource Allocation"
+      ]
+    },
+    {
+      "name": "Russ Hagey",
+      "position": "Senior Partner & Chief Leadership Officer at Bain & Company",
+      "employee_id": "Bai_013",
+      "skills": [
+        "Leadership Development",
+        "Strategic Planning",
+        "Management Consulting",
+        "Organizational Design",
+        "Change Management",
+        "Executive Coaching",
+        "Business Strategy",
+        "Performance Improvement",
+        "Talent Management",
+        "Operational Excellence"
+      ]
+    },
+    {
+      "name": "Jason Bechtold",
+      "position": "",
+      "employee_id": "Bai_014",
+      "skills": []
+    },
+    {
+      "name": "Bruno Lannes",
+      "position": "Partner at Bain & Company",
+      "employee_id": "Bai_015",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Development",
+        "Market Analysis",
+        "Financial Analysis",
+        "Operational Improvement",
+        "Client Relationship Management",
+        "Performance Optimization",
+        "Industry Expertise",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Christophe De Vusser",
+      "position": "Worldwide Managing Partner, Bain & Company",
+      "employee_id": "Bai_016",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Development",
+        "Leadership",
+        "Financial Analysis",
+        "Market Research",
+        "Operational Improvement",
+        "Client Relationship Management",
+        "Project Management",
+        "Performance Optimization"
+      ]
+    },
+    {
+      "name": "Brock Simon",
+      "position": "Expert Partner at Bain & Company",
+      "employee_id": "Bai_017",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Transformation",
+        "Market Analysis",
+        "Performance Improvement",
+        "Change Management",
+        "Operational Efficiency",
+        "Financial Analysis",
+        "Project Management",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Stuart Sim",
+      "position": "",
+      "employee_id": "Bai_018",
+      "skills": []
+    },
+    {
+      "name": "Emily Miller",
+      "position": "Partner at Bain & Company | co-Leads Bain's Consumer and Retail Investing Sector in North America",
+      "employee_id": "Bai_019",
+      "skills": [
+        "Strategic Planning",
+        "Consumer Insights",
+        "Retail Analytics",
+        "Market Research",
+        "Investment Analysis",
+        "Financial Modeling",
+        "Business Development",
+        "Project Management",
+        "Data Analysis",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Pete Gerend",
+      "position": "Expert Partner in Leadership at Bain & Company",
+      "employee_id": "Bai_020",
+      "skills": [
+        "Leadership Development",
+        "Executive Coaching",
+        "Organizational Strategy",
+        "Change Management",
+        "Talent Management",
+        "Performance Improvement",
+        "Team Building",
+        "Succession Planning",
+        "Employee Engagement",
+        "Management Consulting"
+      ]
+    },
+    {
+      "name": "James Allen",
+      "position": "Author of The Founder\u2019s Mentality | Advisory Partner at Bain & Company | Exploring Stories of Scale, Simplicity & Soul",
+      "employee_id": "Bai_021",
+      "skills": [
+        "Business Strategy",
+        "Leadership Development",
+        "Organizational Design",
+        "Change Management",
+        "Market Analysis",
+        "Corporate Advisory",
+        "Growth Strategy",
+        "Operational Efficiency",
+        "Management Consulting",
+        "Storytelling"
+      ]
+    },
+    {
+      "name": "Anna Krementz",
+      "position": "VP of Client Engagement | NPS Prism at Bain & Company",
+      "employee_id": "Bai_022",
+      "skills": [
+        "Client Engagement",
+        "NPS Prism",
+        "Strategic Planning",
+        "Customer Relationship Management (CRM)",
+        "Market Analysis",
+        "Project Management",
+        "Business Development",
+        "Data Analytics",
+        "Consulting",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Alex Mazer",
+      "position": "Bain & Company | Sports, Media, Tech | Morehead-Cain Scholarship Alumnus",
+      "employee_id": "Bai_023",
+      "skills": [
+        "Strategic Planning",
+        "Market Analysis",
+        "Data Analytics",
+        "Project Management",
+        "Business Development",
+        "Financial Analysis",
+        "Consulting",
+        "Media Strategy",
+        "Technology Trends",
+        "Sports Management"
+      ]
+    },
+    {
+      "name": "David Harding",
+      "position": "Advisory Partner at Bain & Company",
+      "employee_id": "Bai_024",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Development",
+        "Market Analysis",
+        "Financial Analysis",
+        "Project Management",
+        "Client Relationship Management",
+        "Operational Improvement",
+        "Leadership",
+        "Competitive Analysis"
+      ]
+    },
+    {
+      "name": "Rey Rojas",
+      "position": "",
+      "employee_id": "Bai_025",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Microsoft Office",
+        "Data Analysis",
+        "Communication",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Katerina Forbis",
+      "position": "Consultant at Bain & Company",
+      "employee_id": "Bai_026",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Financial Modeling",
+        "Data Analysis",
+        "Market Research",
+        "Project Management",
+        "Excel",
+        "PowerPoint",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Teresa D'Amore",
+      "position": "",
+      "employee_id": "Bai_027",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Financial Reporting",
+        "Excel",
+        "SQL",
+        "Budgeting",
+        "Forecasting",
+        "Business Strategy",
+        "Stakeholder Management",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Hugh MacArthur",
+      "position": "",
+      "employee_id": "Bai_028",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Strategic Planning",
+        "Market Research",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Budgeting",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Emilie Futterman",
+      "position": "",
+      "employee_id": "Bai_029",
+      "skills": []
+    },
+    {
+      "name": "Oleg Kazantsev",
+      "position": "TSG Data & Analytics Product Manager at Bain & Company",
+      "employee_id": "Bai_030",
+      "skills": [
+        "Data Analysis",
+        "Product Management",
+        "SQL",
+        "Python",
+        "Business Intelligence",
+        "Data Visualization",
+        "Analytics",
+        "Project Management",
+        "Machine Learning",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Chloe Ford",
+      "position": "",
+      "employee_id": "Bai_031",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "SQL",
+        "Excel",
+        "Business Intelligence",
+        "Report Generation",
+        "Dashboard Creation",
+        "Process Improvement",
+        "Stakeholder Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Jessica Bechhofer (she/her)",
+      "position": "Human Resources Leader | Bain & Company",
+      "employee_id": "Bai_032",
+      "skills": [
+        "Human Resources Management",
+        "Talent Acquisition",
+        "Employee Relations",
+        "Performance Management",
+        "HR Analytics",
+        "Compensation and Benefits",
+        "Organizational Development",
+        "HR Software (e.g., Workday, SAP SuccessFactors)",
+        "Training and Development",
+        "Labor Law Compliance"
+      ]
+    },
+    {
+      "name": "David Hodges",
+      "position": "",
+      "employee_id": "Bai_033",
+      "skills": []
+    },
+    {
+      "name": "Mark Krafft",
+      "position": "Partner at Bain & Company",
+      "employee_id": "Bai_034",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Analysis",
+        "Financial Modeling",
+        "Market Research",
+        "Project Management",
+        "Performance Improvement",
+        "Operational Efficiency",
+        "Change Management",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Ouriel Lancry",
+      "position": "",
+      "employee_id": "Bai_035",
+      "skills": []
+    },
+    {
+      "name": "Kelsey Anderson, M.S.",
+      "position": "Senior Recruiting Manager at Bain & Company",
+      "employee_id": "Bai_036",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment Strategies",
+        "Applicant Tracking Systems",
+        "Interviewing",
+        "Employee Onboarding",
+        "HR Analytics",
+        "Performance Management",
+        "Employer Branding",
+        "HRIS",
+        "Compensation and Benefits"
+      ]
+    },
+    {
+      "name": "Julie Coffman",
+      "position": "",
+      "employee_id": "Bai_037",
+      "skills": []
+    },
+    {
+      "name": "Rishi Dave",
+      "position": "",
+      "employee_id": "Bai_038",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Machine Learning",
+        "SQL",
+        "Data Visualization",
+        "Statistics",
+        "Big Data",
+        "R",
+        "Excel",
+        "Predictive Modeling"
+      ]
+    },
+    {
+      "name": "Lori Sherer",
+      "position": "",
+      "employee_id": "Bai_039",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "Financial Modeling",
+        "Business Strategy",
+        "Market Research",
+        "Quantitative Analysis",
+        "Investment Management",
+        "Forecasting"
+      ]
+    },
+    {
+      "name": "Andrew Schwedel",
+      "position": "",
+      "employee_id": "Bai_040",
+      "skills": []
+    },
+    {
+      "name": "Christian Gebauer",
+      "position": "Partner at Bain & Company",
+      "employee_id": "Bai_041",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Development",
+        "Market Analysis",
+        "Financial Analysis",
+        "Operational Improvement",
+        "Performance Management",
+        "Client Relationship Management",
+        "Project Management",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Peter Gray",
+      "position": "Global Head of Real Estate at Bain & Company",
+      "employee_id": "Bai_042",
+      "skills": [
+        "Real Estate Investment",
+        "Portfolio Management",
+        "Financial Analysis",
+        "Market Research",
+        "Strategic Planning",
+        "Risk Assessment",
+        "Asset Management",
+        "Negotiation",
+        "Project Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Darrell Rigby",
+      "position": "",
+      "employee_id": "Bai_043",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Strategic Planning",
+        "Market Research",
+        "Financial Analysis",
+        "Data Analysis",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Negotiation",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Jon Allen",
+      "position": "",
+      "employee_id": "Bai_044",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "SQL",
+        "Python",
+        "Business Intelligence",
+        "Excel",
+        "Financial Modeling",
+        "Risk Management",
+        "Dashboard Creation",
+        "Reporting"
+      ]
+    },
+    {
+      "name": "John Kunzo III",
+      "position": "",
+      "employee_id": "Bai_045",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving",
+        "Negotiation",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "David Allen",
+      "position": "",
+      "employee_id": "Bai_046",
+      "skills": []
+    },
+    {
+      "name": "Nate Anderson",
+      "position": "",
+      "employee_id": "Bai_047",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "SQL",
+        "Machine Learning",
+        "Statistics",
+        "Predictive Analytics",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Ryan Morrin",
+      "position": "",
+      "employee_id": "Bai_048",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Vendor Management",
+        "Contract Negotiation",
+        "Performance Analysis",
+        "Operational Efficiency",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Kevin Meehan",
+      "position": "",
+      "employee_id": "Bai_049",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "SQL",
+        "Python",
+        "Business Strategy",
+        "Market Research",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Tanner Barney",
+      "position": "",
+      "employee_id": "Bai_050",
+      "skills": []
+    },
+    {
+      "name": "Baily Deeter",
+      "position": "Associate Consultant at Bain & Company",
+      "employee_id": "Bai_051",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Management Consulting",
+        "Strategic Planning",
+        "Market Research",
+        "Excel",
+        "PowerPoint",
+        "Business Analytics",
+        "Project Management",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Neil Shah",
+      "position": "Executive Vice President, Global M&A at Bain & Company",
+      "employee_id": "Bai_052",
+      "skills": [
+        "Mergers and Acquisitions",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Due Diligence",
+        "Valuation",
+        "Corporate Finance",
+        "Negotiation",
+        "Market Research",
+        "Risk Assessment",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Jennifer Holland",
+      "position": "",
+      "employee_id": "Bai_053",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Microsoft Office Suite",
+        "Negotiation",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Steve Taylor",
+      "position": "",
+      "employee_id": "Bai_054",
+      "skills": []
+    },
+    {
+      "name": "Matt Hirshfield",
+      "position": "Partner and Global General Counsel at Bain & Company",
+      "employee_id": "Bai_055",
+      "skills": [
+        "Corporate Law",
+        "Contract Negotiation",
+        "Compliance",
+        "Risk Management",
+        "Legal Research",
+        "Regulatory Affairs",
+        "Mergers and Acquisitions",
+        "Intellectual Property",
+        "Litigation",
+        "Legal Writing"
+      ]
+    },
+    {
+      "name": "Richard Lichtenstein",
+      "position": "",
+      "employee_id": "Bai_056",
+      "skills": []
+    },
+    {
+      "name": "Roy Singh",
+      "position": "",
+      "employee_id": "Bai_057",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "SQL",
+        "Python",
+        "Business Intelligence",
+        "Excel",
+        "Financial Reporting",
+        "Risk Management",
+        "Budgeting",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Anna Rittenburg",
+      "position": "Manager at Bain & Company",
+      "employee_id": "Bai_058",
+      "skills": [
+        "Project Management",
+        "Strategic Planning",
+        "Data Analysis",
+        "Financial Modeling",
+        "Consulting",
+        "Business Development",
+        "Market Research",
+        "Client Relations",
+        "Performance Improvement",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Jamison Soybel",
+      "position": "Senior Manager at Bain & Company | MIT MS + MBA",
+      "employee_id": "Bai_059",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Analysis",
+        "Project Management",
+        "Financial Modeling",
+        "Data Analysis",
+        "Market Research",
+        "Excel",
+        "PowerPoint",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Emily Faultless",
+      "position": "Global Social Media at Bain & Company",
+      "employee_id": "Bai_060",
+      "skills": [
+        "Social Media Management",
+        "Content Creation",
+        "Digital Marketing",
+        "SEO",
+        "Analytics",
+        "Brand Strategy",
+        "Campaign Management",
+        "Social Media Advertising",
+        "Community Engagement",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Jeff Tijssen",
+      "position": "Partner, Global Head of FinTech at Bain & Company | Board Advisor | Trustee | Speaker | Podcast Host",
+      "employee_id": "Bai_061",
+      "skills": [
+        "FinTech",
+        "Board Advisory",
+        "Strategic Planning",
+        "Business Development",
+        "Financial Services",
+        "Leadership",
+        "Public Speaking",
+        "Podcast Hosting",
+        "Trustee Responsibilities",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Eric Quirk",
+      "position": "",
+      "employee_id": "Bai_062",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "SQL",
+        "Machine Learning",
+        "Statistics",
+        "Predictive Analytics",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Mary Baker",
+      "position": "",
+      "employee_id": "Bai_063",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Management",
+        "Microsoft Office",
+        "Data Analysis",
+        "Communication",
+        "Problem Solving",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Josh Blatt",
+      "position": "",
+      "employee_id": "Bai_064",
+      "skills": [
+        "Project Management",
+        "Marketing Strategy",
+        "Brand Development",
+        "Digital Marketing",
+        "Market Research",
+        "Social Media Management",
+        "Content Creation",
+        "SEO",
+        "Advertising",
+        "Campaign Management"
+      ]
+    },
+    {
+      "name": "Eric Garton",
+      "position": "",
+      "employee_id": "Bai_065",
+      "skills": []
+    },
+    {
+      "name": "Hannah Morrill",
+      "position": "",
+      "employee_id": "Bai_066",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Market Analysis",
+        "Sales Strategy",
+        "Customer Relationship Management (CRM)",
+        "Microsoft Office Suite",
+        "Negotiation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Justin Ponczek",
+      "position": "Expert Senior Manager of Design at Bain & Company",
+      "employee_id": "Bai_067",
+      "skills": [
+        "Design Strategy",
+        "User Experience (UX) Design",
+        "User Interface (UI) Design",
+        "Product Design",
+        "Adobe Creative Suite",
+        "Sketch",
+        "Figma",
+        "Prototyping",
+        "Design Thinking",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Erin McCune",
+      "position": "Owner @ Forte Fintech | Former Bain & Glenbrook Partner | Expert in A2A, Wholesale, & B2B Payments | Strategic Advisor to Payment Providers, Fintechs, Entrepreneurs and Investors",
+      "employee_id": "Bai_068",
+      "skills": [
+        "A2A Payments",
+        "Wholesale Payments",
+        "B2B Payments",
+        "Strategic Advisory",
+        "Fintech",
+        "Payment Providers",
+        "Entrepreneurship",
+        "Investment Strategies",
+        "Financial Technology",
+        "Business Strategy"
+      ]
+    },
+    {
+      "name": "Leena Sharma",
+      "position": "Director, Quality Assurance at Bain & Company | DEI Lead | MHFA",
+      "employee_id": "Bai_069",
+      "skills": [
+        "Quality Assurance",
+        "DEI (Diversity, Equity, and Inclusion)",
+        "Project Management",
+        "Risk Assessment",
+        "Process Improvement",
+        "Compliance",
+        "Data Analysis",
+        "Leadership",
+        "MHFA (Mental Health First Aid)",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Ron Kermisch",
+      "position": "Senior Partner at Bain & Company & Global Head of Talent Acquisition",
+      "employee_id": "Bai_070",
+      "skills": [
+        "Talent Acquisition",
+        "Leadership",
+        "Strategic Planning",
+        "Management Consulting",
+        "Recruitment",
+        "Human Resources",
+        "Performance Management",
+        "Organizational Development",
+        "Employee Engagement",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Chuck Whitten",
+      "position": "",
+      "employee_id": "Bai_071",
+      "skills": []
+    },
+    {
+      "name": "Thomas O.",
+      "position": "Partner at Bain & Company",
+      "employee_id": "Bai_072",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Analysis",
+        "Financial Modeling",
+        "Market Research",
+        "Project Management",
+        "Leadership",
+        "Data Analysis",
+        "Risk Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Paul E. Cassidy",
+      "position": "Associate Consultant at Bain & Company",
+      "employee_id": "Bai_073",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Market Research",
+        "Strategic Planning",
+        "Business Intelligence",
+        "Project Management",
+        "Excel",
+        "PowerPoint",
+        "Consulting",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Brad Maury",
+      "position": "",
+      "employee_id": "Bai_074",
+      "skills": []
+    },
+    {
+      "name": "Louis Deli",
+      "position": "",
+      "employee_id": "Bai_075",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Microsoft Office",
+        "Data Analysis",
+        "Process Improvement",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Jim Claunch",
+      "position": "",
+      "employee_id": "Bai_076",
+      "skills": []
+    },
+    {
+      "name": "Elizabeth Ducoff",
+      "position": "",
+      "employee_id": "Bai_077",
+      "skills": [
+        "Project Management",
+        "Market Research",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Sales Strategy",
+        "Customer Relationship Management (CRM)",
+        "Business Development",
+        "Negotiation",
+        "Team Leadership",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Jamie Cleghorn",
+      "position": "Senior Partner at Bain & Company",
+      "employee_id": "Bai_078",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Development",
+        "Market Analysis",
+        "Financial Analysis",
+        "Project Management",
+        "Client Relations",
+        "Leadership",
+        "Operational Improvement",
+        "Competitive Analysis"
+      ]
+    },
+    {
+      "name": "Stephen Bertrand",
+      "position": "Senior Partner at Bain & Company",
+      "employee_id": "Bai_079",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Development",
+        "Market Analysis",
+        "Financial Analysis",
+        "Project Management",
+        "Leadership",
+        "Client Relations",
+        "Operational Efficiency",
+        "Competitive Analysis"
+      ]
+    },
+    {
+      "name": "Corrie Carrigan",
+      "position": "Partner and Contact Center Practice Leader at Bain & Company",
+      "employee_id": "Bai_080",
+      "skills": [
+        "Contact Center Management",
+        "Customer Experience Strategy",
+        "Operational Efficiency",
+        "Performance Metrics Analysis",
+        "Workforce Management",
+        "Customer Relationship Management (CRM)",
+        "Process Improvement",
+        "Data Analytics",
+        "Project Management",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Paul E. Cassidy",
+      "position": "Associate Consultant at Bain & Company",
+      "employee_id": "Bai_081",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Strategic Planning",
+        "Business Analysis",
+        "Project Management",
+        "Excel",
+        "PowerPoint",
+        "Market Research",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Meethun P.",
+      "position": "Associate Partner @ Bain & Company | Cornell MBA | Enterprise technology, Data, and AI | Strategy | Transformation",
+      "employee_id": "Bai_082",
+      "skills": [
+        "Enterprise Technology",
+        "Data Analysis",
+        "Artificial Intelligence",
+        "Strategy Development",
+        "Business Transformation",
+        "Management Consulting",
+        "Project Management",
+        "Data Strategy",
+        "Technology Implementation",
+        "Business Analytics"
+      ]
+    },
+    {
+      "name": "Maria Gordian, MD",
+      "position": "Bain & Company",
+      "employee_id": "Bai_083",
+      "skills": [
+        "Strategic Planning",
+        "Business Analysis",
+        "Management Consulting",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Data Interpretation",
+        "Client Relationship Management",
+        "Operational Efficiency",
+        "Competitive Analysis"
+      ]
+    },
+    {
+      "name": "Esther Gonzalez Florez",
+      "position": "",
+      "employee_id": "Bai_084",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Communication",
+        "Problem Solving",
+        "Budgeting",
+        "Microsoft Office",
+        "Negotiation",
+        "Risk Assessment",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Susan Gunn",
+      "position": "",
+      "employee_id": "Bai_085",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Management",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving",
+        "Negotiation",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Lauren Christman",
+      "position": "",
+      "employee_id": "Bai_086",
+      "skills": []
+    },
+    {
+      "name": "Kevin Zhang",
+      "position": "",
+      "employee_id": "Bai_087",
+      "skills": []
+    },
+    {
+      "name": "Darrell Rigby",
+      "position": "",
+      "employee_id": "Bai_088",
+      "skills": [
+        "Project Management",
+        "Strategic Planning",
+        "Business Analysis",
+        "Team Leadership",
+        "Market Research",
+        "Financial Analysis",
+        "Customer Relationship Management (CRM)",
+        "Microsoft Office",
+        "Data Analysis",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Daniel Lafferty",
+      "position": "Consultant at Bain & Company",
+      "employee_id": "Bai_089",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Market Research",
+        "Business Development",
+        "Project Management",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "William Groves",
+      "position": "",
+      "employee_id": "Bai_090",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Performance Analysis",
+        "Resource Allocation",
+        "Process Improvement",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Kevin Zhang",
+      "position": "",
+      "employee_id": "Bai_091",
+      "skills": []
+    },
+    {
+      "name": "Alicia Ciccone",
+      "position": "",
+      "employee_id": "Bai_092",
+      "skills": []
+    },
+    {
+      "name": "William Groves",
+      "position": "",
+      "employee_id": "Bai_093",
+      "skills": []
+    },
+    {
+      "name": "Patrick O'Hagan",
+      "position": "Senior Partner at Bain & Company",
+      "employee_id": "Bai_094",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Development",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Client Relations",
+        "Leadership",
+        "Competitive Analysis",
+        "Operational Improvement"
+      ]
+    },
+    {
+      "name": "Brandon Ward",
+      "position": "",
+      "employee_id": "Bai_095",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Market Analysis",
+        "Sales Strategy",
+        "Customer Relationship Management (CRM)",
+        "Microsoft Office Suite",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Eric Eliasson",
+      "position": "",
+      "employee_id": "Bai_096",
+      "skills": []
+    },
+    {
+      "name": "Dane Anderson",
+      "position": "",
+      "employee_id": "Bai_097",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "SQL",
+        "Market Research",
+        "Business Strategy",
+        "Presentation Skills",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "Louise Keely",
+      "position": "",
+      "employee_id": "Bai_098",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Market Analysis",
+        "Sales Strategy",
+        "Client Relations",
+        "Negotiation",
+        "Financial Analysis",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Cindy Tang",
+      "position": "",
+      "employee_id": "Bai_099",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Analysis",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Budgeting",
+        "Risk Management",
+        "Microsoft Office",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Annie Medaglia",
+      "position": "",
+      "employee_id": "Bai_100",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Vendor Management",
+        "Risk Assessment",
+        "Process Improvement",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    }
+  ]
+}

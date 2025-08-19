@@ -1,0 +1,1694 @@
+{
+  "company_name": "Sap",
+  "employees": [
+    {
+      "name": "Eric van Rossum",
+      "position": "",
+      "employee_id": "Sap_001",
+      "skills": [
+        "SAP ERP",
+        "Business Process Management",
+        "Enterprise Software",
+        "SAP HANA",
+        "SAP Fiori",
+        "Integration Technologies",
+        "Cloud Solutions",
+        "Data Analytics",
+        "Project Management",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Madeline McCrea",
+      "position": "",
+      "employee_id": "Sap_002",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Financial Reporting",
+        "System Integration",
+        "Change Management",
+        "User Training"
+      ]
+    },
+    {
+      "name": "Maryann Abbajay",
+      "position": "",
+      "employee_id": "Sap_003",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Project Management",
+        "Data Analysis",
+        "Software Implementation",
+        "Cloud Computing",
+        "Customer Relationship Management (CRM)",
+        "Enterprise Architecture",
+        "IT Strategy"
+      ]
+    },
+    {
+      "name": "Darryl Gray",
+      "position": "",
+      "employee_id": "Sap_004",
+      "skills": [
+        "SAP ERP",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Financial Reporting",
+        "System Integration",
+        "Change Management",
+        "User Training",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Raghu Banda",
+      "position": "",
+      "employee_id": "Sap_005",
+      "skills": [
+        "SAP",
+        "Enterprise Resource Planning (ERP)",
+        "Business Process Management",
+        "Software Development",
+        "Project Management",
+        "Data Integration",
+        "Cloud Computing",
+        "SQL",
+        "Java",
+        "System Analysis"
+      ]
+    },
+    {
+      "name": "Matthias Medert",
+      "position": "Global Head of Sustainability at SAP \u272a Leading Sustainable Practices \u272a Committed to Environmental Stewardship, Human Rights & AI Ethics \u272a Driving Positive Change for Society & Planet \u272a Innovating for a Sustainable Future",
+      "employee_id": "Sap_006",
+      "skills": [
+        "Sustainability Practices",
+        "Environmental Stewardship",
+        "Human Rights Advocacy",
+        "AI Ethics",
+        "Corporate Social Responsibility",
+        "Sustainable Innovation",
+        "Stakeholder Engagement",
+        "Sustainability Reporting",
+        "Strategic Planning",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Jose Valles",
+      "position": "",
+      "employee_id": "Sap_007",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Integration",
+        "SQL",
+        "ABAP Programming",
+        "Project Management",
+        "System Configuration",
+        "User Training",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Dr. Walter Sun",
+      "position": "",
+      "employee_id": "Sap_008",
+      "skills": [
+        "SAP",
+        "Enterprise Resource Planning (ERP)",
+        "Business Intelligence",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "Software Development",
+        "Cloud Computing",
+        "System Integration",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Muhammad Alam",
+      "position": "",
+      "employee_id": "Sap_009",
+      "skills": [
+        "SAP",
+        "ERP",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "System Integration",
+        "Software Development",
+        "Cloud Computing",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "James Marland",
+      "position": "",
+      "employee_id": "Sap_010",
+      "skills": [
+        "SAP ERP",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "SAP HANA",
+        "SAP Fiori",
+        "Enterprise Resource Planning",
+        "System Integration",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "John McCoy",
+      "position": "",
+      "employee_id": "Sap_011",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "CRM Systems",
+        "Technical Support",
+        "Software Implementation",
+        "User Training"
+      ]
+    },
+    {
+      "name": "Vivien Boche",
+      "position": "",
+      "employee_id": "Sap_012",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "System Integration",
+        "Software Development",
+        "Cloud Computing",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Kathleen Onuma Murray",
+      "position": "",
+      "employee_id": "Sap_013",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Cloud Computing",
+        "Software Implementation",
+        "Technical Support",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Jen Moyse",
+      "position": "",
+      "employee_id": "Sap_014",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Cloud Computing",
+        "Software Implementation",
+        "System Integration",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Kevin McFarland",
+      "position": "",
+      "employee_id": "Sap_015",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "SAP HANA",
+        "SAP Fiori",
+        "System Integration",
+        "User Training"
+      ]
+    },
+    {
+      "name": "Lloyd Adams",
+      "position": "",
+      "employee_id": "Sap_016",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analytics",
+        "Project Management",
+        "Cloud Computing",
+        "Software Development",
+        "Customer Relationship Management (CRM)",
+        "Enterprise Architecture",
+        "IT Strategy"
+      ]
+    },
+    {
+      "name": "Jan Gilg",
+      "position": "",
+      "employee_id": "Sap_017",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Software Development",
+        "Cloud Computing",
+        "Data Integration",
+        "Project Management",
+        "SQL",
+        "Enterprise Architecture",
+        "IT Strategy"
+      ]
+    },
+    {
+      "name": "Akshita Shetty",
+      "position": "",
+      "employee_id": "Sap_018",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "System Integration",
+        "Software Development",
+        "Technical Support",
+        "User Training"
+      ]
+    },
+    {
+      "name": "Lukas N.P. Egger",
+      "position": "",
+      "employee_id": "Sap_019",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "Software Development",
+        "System Integration",
+        "Cloud Computing",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Paul Marriott",
+      "position": "",
+      "employee_id": "Sap_020",
+      "skills": [
+        "SAP",
+        "ERP",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "System Integration",
+        "Software Development",
+        "Cloud Computing",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Mindy Davis",
+      "position": "",
+      "employee_id": "Sap_021",
+      "skills": [
+        "SAP",
+        "ERP",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Financial Reporting",
+        "System Integration",
+        "Change Management",
+        "User Training"
+      ]
+    },
+    {
+      "name": "Christian Klein",
+      "position": "CEO of SAP SE",
+      "employee_id": "Sap_022",
+      "skills": [
+        "Enterprise Software",
+        "Business Strategy",
+        "Cloud Computing",
+        "ERP Systems",
+        "Digital Transformation",
+        "Leadership",
+        "SAP HANA",
+        "Project Management",
+        "Data Analytics",
+        "IT Governance"
+      ]
+    },
+    {
+      "name": "Dan Beck",
+      "position": "",
+      "employee_id": "Sap_023",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Software Implementation",
+        "System Integration",
+        "Technical Support",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Todd Crandall",
+      "position": "SVP, Americas Head of Customer Services & Delivery @ SAP | Executive Management",
+      "employee_id": "Sap_024",
+      "skills": [
+        "Customer Service Management",
+        "Delivery Management",
+        "Executive Leadership",
+        "SAP Software",
+        "Project Management",
+        "Strategic Planning",
+        "Business Development",
+        "Enterprise Software",
+        "Team Leadership",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Yaad Oren",
+      "position": "",
+      "employee_id": "Sap_025",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "Software Implementation",
+        "System Integration",
+        "Technical Support",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Martin Gollogly",
+      "position": "",
+      "employee_id": "Sap_026",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Software Implementation",
+        "Data Integration",
+        "Project Management",
+        "SQL",
+        "Cloud Computing",
+        "Enterprise Architecture",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Scott Harrison",
+      "position": "",
+      "employee_id": "Sap_027",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "System Integration",
+        "Software Development",
+        "Customer Relationship Management (CRM)",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Sophia Levens",
+      "position": "",
+      "employee_id": "Sap_028",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "System Integration",
+        "Software Development",
+        "Change Management",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Genya Murray",
+      "position": "",
+      "employee_id": "Sap_029",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "ABAP",
+        "Integration",
+        "System Configuration",
+        "User Training"
+      ]
+    },
+    {
+      "name": "Johnny Clemmons, LEED AP",
+      "position": "Industry Business Unit Head @ SAP | Professional Services, Construction, Travel, & Transportation",
+      "employee_id": "Sap_030",
+      "skills": [
+        "Project Management",
+        "Construction Management",
+        "Professional Services",
+        "Travel Industry",
+        "Transportation Industry",
+        "SAP Software",
+        "Business Strategy",
+        "LEED Certification",
+        "Industry Analysis",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Dan Silverback",
+      "position": "",
+      "employee_id": "Sap_031",
+      "skills": [
+        "SAP",
+        "ERP systems",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "Integration",
+        "Software Development",
+        "Cloud Computing",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Spencer Call",
+      "position": "",
+      "employee_id": "Sap_032",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "System Integration",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Mo Ahmad",
+      "position": "",
+      "employee_id": "Sap_033",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "Software Implementation",
+        "System Integration",
+        "Technical Support",
+        "User Training"
+      ]
+    },
+    {
+      "name": "Jeffrey Brodsky",
+      "position": "",
+      "employee_id": "Sap_034",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Integration",
+        "SQL",
+        "Project Management",
+        "Software Development",
+        "Cloud Computing",
+        "Analytics",
+        "Customer Relationship Management (CRM)"
+      ]
+    },
+    {
+      "name": "Laurel Schulert",
+      "position": "",
+      "employee_id": "Sap_035",
+      "skills": [
+        "SAP",
+        "ERP",
+        "Business Process Management",
+        "Project Management",
+        "Data Analysis",
+        "SQL",
+        "CRM",
+        "Business Intelligence",
+        "System Integration",
+        "Software Development"
+      ]
+    },
+    {
+      "name": "Michele Krom",
+      "position": "",
+      "employee_id": "Sap_036",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Software Implementation",
+        "System Integration",
+        "Business Intelligence",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Irfan Khan",
+      "position": "President & Chief Product Officer, SAP Data & Analytics",
+      "employee_id": "Sap_037",
+      "skills": [
+        "Data Analytics",
+        "Product Management",
+        "SAP",
+        "Business Intelligence",
+        "Data Warehousing",
+        "Cloud Computing",
+        "Machine Learning",
+        "Big Data",
+        "Enterprise Software",
+        "Data Governance"
+      ]
+    },
+    {
+      "name": "Anthony Sanchez",
+      "position": "",
+      "employee_id": "Sap_038",
+      "skills": [
+        "SAP",
+        "ERP",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "System Integration",
+        "Software Development",
+        "Technical Support",
+        "Database Management"
+      ]
+    },
+    {
+      "name": "Mick Collins",
+      "position": "",
+      "employee_id": "Sap_039",
+      "skills": [
+        "SAP",
+        "ERP",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Excel",
+        "System Integration",
+        "Change Management",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Jill Stewart",
+      "position": "Head of Adoption and Deal Architecture for SAP Cloud Application Services",
+      "employee_id": "Sap_040",
+      "skills": [
+        "SAP Cloud Application Services",
+        "Deal Architecture",
+        "Adoption Strategies",
+        "Cloud Computing",
+        "Enterprise Software",
+        "Project Management",
+        "Solution Design",
+        "Client Relationship Management",
+        "Technical Consulting",
+        "Business Process Optimization"
+      ]
+    },
+    {
+      "name": "Cini Mathew",
+      "position": "SVP, Global Head, SAP SCM Core Manufacturing & Asset Mgmt Eng || Ex-Chairperson for Respect at Work internal compliance committee at SAP",
+      "employee_id": "Sap_041",
+      "skills": [
+        "SAP SCM",
+        "Core Manufacturing",
+        "Asset Management",
+        "Compliance Management",
+        "Global Leadership",
+        "Supply Chain Management",
+        "Enterprise Resource Planning (ERP)",
+        "Project Management",
+        "Process Optimization",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Jessica Keehn",
+      "position": "Chief Marketing Officer, Customer Experience Suite, SAP",
+      "employee_id": "Sap_042",
+      "skills": [
+        "Marketing Strategy",
+        "Customer Experience Management",
+        "Digital Marketing",
+        "Brand Management",
+        "Market Research",
+        "Data Analytics",
+        "CRM Software",
+        "Content Marketing",
+        "SEO",
+        "Social Media Marketing"
+      ]
+    },
+    {
+      "name": "Richard Howells",
+      "position": "",
+      "employee_id": "Sap_043",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analytics",
+        "Cloud Computing",
+        "Enterprise Software",
+        "Supply Chain Management",
+        "Project Management",
+        "SQL",
+        "Integration Technologies"
+      ]
+    },
+    {
+      "name": "Beth Walters",
+      "position": "Head of SAP Business One, North America, East Channels Sales, Business One",
+      "employee_id": "Sap_044",
+      "skills": [
+        "SAP Business One",
+        "Sales Management",
+        "Channel Sales",
+        "Business Development",
+        "ERP Systems",
+        "CRM Software",
+        "Market Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Shane Gorman",
+      "position": "",
+      "employee_id": "Sap_045",
+      "skills": [
+        "SAP ERP",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Integration",
+        "System Configuration",
+        "Reporting",
+        "User Training",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Ranjeet Panicker",
+      "position": "SVP, Head of Business Transformation & Architecture for SAP Americas",
+      "employee_id": "Sap_046",
+      "skills": [
+        "Business Transformation",
+        "Enterprise Architecture",
+        "SAP",
+        "ERP Implementation",
+        "Project Management",
+        "Strategic Planning",
+        "Change Management",
+        "Process Optimization",
+        "Cloud Computing",
+        "IT Strategy"
+      ]
+    },
+    {
+      "name": "Nic Vervoort",
+      "position": "",
+      "employee_id": "Sap_047",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "Software Implementation",
+        "System Integration",
+        "Technical Support",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Chad Leonard",
+      "position": "",
+      "employee_id": "Sap_048",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Integration",
+        "SQL",
+        "ABAP",
+        "Project Management",
+        "System Configuration",
+        "User Training",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Babu Tammisetti",
+      "position": "",
+      "employee_id": "Sap_049",
+      "skills": [
+        "SAP",
+        "ERP",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "ABAP",
+        "SAP HANA",
+        "System Integration",
+        "Software Development"
+      ]
+    },
+    {
+      "name": "Ada Agrait",
+      "position": "",
+      "employee_id": "Sap_050",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Financial Reporting",
+        "System Integration",
+        "Software Development",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Jayanth Bagare",
+      "position": "",
+      "employee_id": "Sap_051",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Software Development",
+        "System Integration",
+        "Technical Support",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Betsy B.",
+      "position": "",
+      "employee_id": "Sap_052",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Microsoft Excel",
+        "Reporting",
+        "System Integration",
+        "Software Implementation"
+      ]
+    },
+    {
+      "name": "Ellie Kemery",
+      "position": "",
+      "employee_id": "Sap_053",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Business Intelligence",
+        "Change Management",
+        "System Integration",
+        "Software Implementation"
+      ]
+    },
+    {
+      "name": "Jack Mason",
+      "position": "",
+      "employee_id": "Sap_054",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "SAP HANA",
+        "SAP Fiori",
+        "ABAP",
+        "Integration"
+      ]
+    },
+    {
+      "name": "Manoj Swaminathan",
+      "position": "",
+      "employee_id": "Sap_055",
+      "skills": [
+        "SAP",
+        "ERP",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "ABAP",
+        "SAP HANA",
+        "Project Management",
+        "System Integration",
+        "Software Development"
+      ]
+    },
+    {
+      "name": "Rick Imber",
+      "position": "",
+      "employee_id": "Sap_056",
+      "skills": [
+        "SAP",
+        "ERP",
+        "Business Process Management",
+        "Cloud Computing",
+        "Data Integration",
+        "Software Development",
+        "Project Management",
+        "SQL",
+        "Analytics",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Colin Hulsey",
+      "position": "",
+      "employee_id": "Sap_057",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Business Intelligence",
+        "Software Implementation",
+        "Change Management",
+        "System Integration"
+      ]
+    },
+    {
+      "name": "Mark Kenney",
+      "position": "Founder @ Night Harbor Consulting | Customer Success Expert | Retired SAP Executive",
+      "employee_id": "Sap_058",
+      "skills": [
+        "Customer Success",
+        "SAP",
+        "Consulting",
+        "Business Strategy",
+        "Project Management",
+        "Enterprise Software",
+        "Client Relations",
+        "Leadership",
+        "Process Improvement",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Bill Russell",
+      "position": "",
+      "employee_id": "Sap_059",
+      "skills": [
+        "SAP",
+        "ERP Implementation",
+        "Business Process Management",
+        "SQL",
+        "Data Analysis",
+        "Project Management",
+        "System Integration",
+        "Software Development",
+        "Change Management",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Steve Shepherd",
+      "position": "",
+      "employee_id": "Sap_060",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "System Integration",
+        "Software Development",
+        "Business Intelligence",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Matt Broder",
+      "position": "Vice President, Business Data Cloud, Midwest | SAP America",
+      "employee_id": "Sap_061",
+      "skills": [
+        "Cloud Computing",
+        "Business Intelligence",
+        "Data Analytics",
+        "SAP HANA",
+        "Enterprise Resource Planning (ERP)",
+        "Database Management",
+        "Big Data",
+        "Data Warehousing",
+        "SQL",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Katie Shaputis",
+      "position": "Sr. Recruiter @ SAP National Security Services (NS2).",
+      "employee_id": "Sap_062",
+      "skills": [
+        "Recruitment",
+        "Talent Acquisition",
+        "Applicant Tracking Systems (ATS)",
+        "Interviewing",
+        "Onboarding",
+        "HR Software",
+        "Employee Relations",
+        "Candidate Sourcing",
+        "Compliance",
+        "Networking"
+      ]
+    },
+    {
+      "name": "Divya Chandrika Mohan",
+      "position": "Product Leadership and Strategy I Artist I Marketplace Co-Lead, Inclusion and Communities, SAP India I Nasscom Product Mentor I Ex-banker",
+      "employee_id": "Sap_063",
+      "skills": [
+        "Product Strategy",
+        "Leadership",
+        "Community Management",
+        "Marketplaces",
+        "Inclusion Initiatives",
+        "Mentoring",
+        "Banking",
+        "SAP Software",
+        "Business Strategy",
+        "Product Management"
+      ]
+    },
+    {
+      "name": "Lori Ann Guy",
+      "position": "",
+      "employee_id": "Sap_064",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "CRM Software",
+        "Enterprise Architecture",
+        "System Integration",
+        "Software Development"
+      ]
+    },
+    {
+      "name": "Kendall Walsh",
+      "position": "",
+      "employee_id": "Sap_065",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "System Integration",
+        "Software Development",
+        "Technical Support",
+        "User Training"
+      ]
+    },
+    {
+      "name": "Tim DeHaven",
+      "position": "",
+      "employee_id": "Sap_066",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "Software Implementation",
+        "System Integration",
+        "Technical Support",
+        "User Training"
+      ]
+    },
+    {
+      "name": "Zakee Wheatley, M.B.A.",
+      "position": "Senior Account Executive, Customer Experience at SAP",
+      "employee_id": "Sap_067",
+      "skills": [
+        "Customer Relationship Management (CRM)",
+        "Salesforce",
+        "SAP ERP",
+        "Account Management",
+        "Business Strategy",
+        "Client Communication",
+        "Data Analysis",
+        "Project Management",
+        "Customer Experience Management",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Henry England",
+      "position": "",
+      "employee_id": "Sap_068",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "System Integration",
+        "Software Development",
+        "User Training",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Thorsten Leiduck",
+      "position": "",
+      "employee_id": "Sap_069",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Integration",
+        "Software Development",
+        "Project Management",
+        "SQL",
+        "ABAP",
+        "System Analysis",
+        "Workflow Automation"
+      ]
+    },
+    {
+      "name": "Sumith P. Kumar",
+      "position": "",
+      "employee_id": "Sap_070",
+      "skills": [
+        "SAP ERP",
+        "SAP HANA",
+        "ABAP",
+        "SAP Fiori",
+        "SAP BW",
+        "SAP S/4HANA",
+        "SAP Solution Manager",
+        "Business Process Management",
+        "Enterprise Resource Planning",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Thorsten Leiduck",
+      "position": "",
+      "employee_id": "Sap_071",
+      "skills": [
+        "SAP ERP",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "ABAP",
+        "SAP HANA",
+        "System Integration",
+        "Software Development",
+        "Enterprise Resource Planning"
+      ]
+    },
+    {
+      "name": "Sumith P. Kumar",
+      "position": "",
+      "employee_id": "Sap_072",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Integration",
+        "SQL",
+        "ABAP",
+        "SAP HANA",
+        "Project Management",
+        "System Configuration",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Doug DeLuca",
+      "position": "SAP Supply Chain Management & SAP Business Network Product Marketing",
+      "employee_id": "Sap_073",
+      "skills": [
+        "SAP Supply Chain Management",
+        "SAP Business Network",
+        "Product Marketing",
+        "Supply Chain Optimization",
+        "ERP Systems",
+        "Business Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Market Research",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Jelena Perfiljeva",
+      "position": "Expert SAP Developer * Chief Nerdess at Boring Enterprise Nerds * SAP Mentor Alumna * Book author * Conference speaker * The First of Her Name * Protector of The ABAP Realm",
+      "employee_id": "Sap_074",
+      "skills": [
+        "SAP",
+        "ABAP",
+        "SAP Development",
+        "Software Development",
+        "Technical Mentoring",
+        "Conference Speaking",
+        "Book Writing",
+        "Enterprise Software",
+        "Nerd Culture",
+        "Domain Expertise"
+      ]
+    },
+    {
+      "name": "Chris Nelson",
+      "position": "",
+      "employee_id": "Sap_075",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Integration",
+        "SQL",
+        "Project Management",
+        "System Configuration",
+        "Technical Support",
+        "Software Implementation",
+        "User Training"
+      ]
+    },
+    {
+      "name": "April Perkins",
+      "position": "Senior Manager, SAP Center of Excellence",
+      "employee_id": "Sap_076",
+      "skills": [
+        "SAP",
+        "Project Management",
+        "Business Process Improvement",
+        "ERP Implementation",
+        "Team Leadership",
+        "Change Management",
+        "Data Analysis",
+        "Stakeholder Management",
+        "Strategic Planning",
+        "SAP S/4HANA"
+      ]
+    },
+    {
+      "name": "Erica Moore, MBA",
+      "position": "",
+      "employee_id": "Sap_077",
+      "skills": [
+        "SAP",
+        "Business Analysis",
+        "Project Management",
+        "Data Analytics",
+        "Financial Reporting",
+        "ERP Systems",
+        "Strategic Planning",
+        "Microsoft Excel",
+        "SQL",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Michael Hill",
+      "position": "",
+      "employee_id": "Sap_078",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "System Integration",
+        "Software Development",
+        "Technical Support",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Brian Rice",
+      "position": "",
+      "employee_id": "Sap_079",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Integration",
+        "Software Development",
+        "System Configuration",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Audrey Tregaskes",
+      "position": "",
+      "employee_id": "Sap_080",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Software Implementation",
+        "Change Management",
+        "System Integration",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Alyssa Douglass",
+      "position": "Head of Americas HCM, customer success management at SAP",
+      "employee_id": "Sap_081",
+      "skills": [
+        "Customer Success Management",
+        "Human Capital Management (HCM)",
+        "SAP Software",
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Client Relationship Management",
+        "Team Building",
+        "Business Development",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Dave Kerschbaum",
+      "position": "",
+      "employee_id": "Sap_082",
+      "skills": [
+        "SAP",
+        "ERP",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "System Integration",
+        "Software Development",
+        "Business Intelligence",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Fred Page",
+      "position": "",
+      "employee_id": "Sap_083",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Integration",
+        "System Configuration",
+        "User Training",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Pamela Bailey",
+      "position": "",
+      "employee_id": "Sap_084",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Integration",
+        "System Configuration",
+        "User Training",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Umesh Sita",
+      "position": "Global Customer Advisory Director for Strategy and Leadership Development @ SAP",
+      "employee_id": "Sap_085",
+      "skills": [
+        "Strategy Development",
+        "Leadership Development",
+        "Customer Advisory",
+        "SAP Software",
+        "Business Analysis",
+        "Project Management",
+        "Change Management",
+        "Enterprise Software Solutions",
+        "Stakeholder Engagement",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Andrew Kisslo",
+      "position": "",
+      "employee_id": "Sap_086",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Cloud Computing",
+        "Software Development",
+        "System Integration",
+        "Customer Relationship Management (CRM)"
+      ]
+    },
+    {
+      "name": "Mahuya Paul",
+      "position": "Kind. Wise. Funny.",
+      "employee_id": "Sap_087",
+      "skills": []
+    },
+    {
+      "name": "Kate Agena",
+      "position": "",
+      "employee_id": "Sap_088",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "Business Intelligence",
+        "CRM Systems",
+        "System Integration",
+        "Software Development"
+      ]
+    },
+    {
+      "name": "Jim Kreuser",
+      "position": "",
+      "employee_id": "Sap_089",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "System Integration",
+        "Software Development",
+        "Business Intelligence",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Melissa Vilders",
+      "position": "",
+      "employee_id": "Sap_090",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "System Integration",
+        "Software Development",
+        "Cloud Computing",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Angela McKenna",
+      "position": "",
+      "employee_id": "Sap_091",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "System Integration",
+        "Software Development",
+        "Cloud Computing",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Jason Shearer",
+      "position": "",
+      "employee_id": "Sap_092",
+      "skills": [
+        "SAP",
+        "ERP",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "System Integration",
+        "Software Development",
+        "Business Intelligence",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Michael T.",
+      "position": "",
+      "employee_id": "Sap_093",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "System Integration",
+        "Business Intelligence",
+        "Software Development",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Conner Helton",
+      "position": "Product Management @ SAP Customer Experience",
+      "employee_id": "Sap_094",
+      "skills": [
+        "Product Management",
+        "Customer Experience",
+        "SAP",
+        "Agile Methodologies",
+        "Project Management",
+        "Market Research",
+        "User Experience (UX)",
+        "Data Analysis",
+        "Stakeholder Management",
+        "Business Strategy"
+      ]
+    },
+    {
+      "name": "Nina Brajovic Salak",
+      "position": "",
+      "employee_id": "Sap_095",
+      "skills": [
+        "SAP",
+        "ERP",
+        "Business Process Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL",
+        "System Integration",
+        "Software Development",
+        "Technical Support",
+        "Requirement Analysis"
+      ]
+    },
+    {
+      "name": "Ingo Gulde",
+      "position": "Learning & Development Consultant @ SAP | PCC Coach | AI Expert",
+      "employee_id": "Sap_096",
+      "skills": [
+        "Learning & Development",
+        "Coaching",
+        "Artificial Intelligence",
+        "SAP",
+        "Training Programs",
+        "Employee Development",
+        "Performance Coaching",
+        "AI Implementation",
+        "Corporate Training",
+        "Professional Coaching"
+      ]
+    },
+    {
+      "name": "Tim Clark",
+      "position": "",
+      "employee_id": "Sap_097",
+      "skills": [
+        "SAP ERP",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "Enterprise Resource Planning",
+        "System Integration",
+        "Customer Relationship Management (CRM)",
+        "Technical Support",
+        "Software Development"
+      ]
+    },
+    {
+      "name": "Falk Rieker",
+      "position": "",
+      "employee_id": "Sap_098",
+      "skills": [
+        "SAP",
+        "ERP",
+        "Business Process Management",
+        "Software Implementation",
+        "Project Management",
+        "Data Integration",
+        "Enterprise Architecture",
+        "Cloud Computing",
+        "IT Strategy",
+        "Digital Transformation"
+      ]
+    },
+    {
+      "name": "Ryan Collins",
+      "position": "",
+      "employee_id": "Sap_099",
+      "skills": [
+        "SAP",
+        "ERP Systems",
+        "Business Process Management",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "Software Implementation",
+        "Change Management",
+        "System Integration",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Luis M. Colmenares",
+      "position": "",
+      "employee_id": "Sap_100",
+      "skills": [
+        "SAP ERP",
+        "SAP HANA",
+        "ABAP programming",
+        "Business Process Management",
+        "Data Integration",
+        "SQL",
+        "SAP Fiori",
+        "Project Management",
+        "System Configuration",
+        "Technical Support"
+      ]
+    }
+  ]
+}

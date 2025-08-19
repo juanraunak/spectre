@@ -1,0 +1,1627 @@
+{
+  "company_name": "Deloitte Consulting",
+  "employees": [
+    {
+      "name": "Jason Salzetti",
+      "position": "Chair and CEO, Deloitte Consulting LLP",
+      "employee_id": "Del_001",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Development",
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management",
+        "Corporate Governance",
+        "Client Relationship Management",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Rich Nanda",
+      "position": "",
+      "employee_id": "Del_002",
+      "skills": []
+    },
+    {
+      "name": "Tom Hodson",
+      "position": "Principal, Deloitte Consulting LLP",
+      "employee_id": "Del_003",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Financial Analysis",
+        "Project Management",
+        "Risk Assessment",
+        "Client Relations",
+        "Market Research",
+        "Operational Improvement",
+        "Leadership",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Dan Helfrich",
+      "position": "",
+      "employee_id": "Del_004",
+      "skills": []
+    },
+    {
+      "name": "Dominic M. Rasini",
+      "position": "Principal / Partner at Deloitte Consulting LLP",
+      "employee_id": "Del_005",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Financial Analysis",
+        "Project Management",
+        "Risk Management",
+        "Client Relations",
+        "Leadership",
+        "Change Management",
+        "Operational Improvement",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Jessica Britton Cantrell",
+      "position": "",
+      "employee_id": "Del_006",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Repair",
+        "Software Installation",
+        "Remote Assistance",
+        "System Diagnostics",
+        "IT Help Desk"
+      ]
+    },
+    {
+      "name": "Tom Hittinger",
+      "position": "",
+      "employee_id": "Del_007",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Hardware Repair",
+        "Software Installation",
+        "Network Configuration",
+        "Windows OS",
+        "Linux OS",
+        "System Diagnostics",
+        "Remote Assistance"
+      ]
+    },
+    {
+      "name": "Matt Ross",
+      "position": "",
+      "employee_id": "Del_008",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Repair",
+        "Software Installation",
+        "Remote Assistance",
+        "System Maintenance",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Prakul Sharma",
+      "position": "",
+      "employee_id": "Del_010",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Repair",
+        "Software Installation",
+        "Remote Assistance",
+        "IT Security",
+        "System Maintenance"
+      ]
+    },
+    {
+      "name": "Adam York",
+      "position": "Principal | Retail & Consumer Products | Deloitte Consulting",
+      "employee_id": "Del_011",
+      "skills": [
+        "Retail Strategy",
+        "Consumer Behavior Analysis",
+        "Market Research",
+        "Business Development",
+        "Project Management",
+        "Data Analytics",
+        "Financial Modeling",
+        "CRM Software",
+        "Supply Chain Management",
+        "Trend Analysis"
+      ]
+    },
+    {
+      "name": "Greg Vert",
+      "position": "Human Capital Applied AI Leader at Deloitte Consulting",
+      "employee_id": "Del_012",
+      "skills": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Analysis",
+        "Human Capital Management",
+        "Python",
+        "R",
+        "Natural Language Processing",
+        "Predictive Analytics",
+        "Consulting",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Scott Ho",
+      "position": "",
+      "employee_id": "Del_013",
+      "skills": [
+        "Project Management",
+        "Client Relations",
+        "Sales Strategy",
+        "Market Analysis",
+        "CRM Software",
+        "Negotiation",
+        "Business Development",
+        "Team Leadership",
+        "Communication Skills",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Erin O'Rourke",
+      "position": "Growth Strategist @ Deloitte Consulting",
+      "employee_id": "Del_014",
+      "skills": [
+        "Growth Strategy",
+        "Market Analysis",
+        "Business Development",
+        "Data Analytics",
+        "Financial Modeling",
+        "Project Management",
+        "Consulting",
+        "Competitive Analysis",
+        "Customer Insights",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Ayo Odusote",
+      "position": "Principal Deloitte Consulting | Software and Platforms Subsector Leader | Business Transformation Executive Advisor | Inclusion Champion",
+      "employee_id": "Del_015",
+      "skills": [
+        "Business Transformation",
+        "Consulting",
+        "Software Development",
+        "Platform Management",
+        "Executive Leadership",
+        "Inclusion and Diversity",
+        "Strategic Planning",
+        "Project Management",
+        "Stakeholder Engagement",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Neal Batra",
+      "position": "",
+      "employee_id": "Del_016",
+      "skills": [
+        "Project Management",
+        "Customer Relationship Management (CRM)",
+        "Salesforce",
+        "Microsoft Office Suite",
+        "Business Development",
+        "Market Analysis",
+        "Strategic Planning",
+        "Negotiation",
+        "Team Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Omer Enaam",
+      "position": "",
+      "employee_id": "Del_017",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Repair",
+        "Software Installation",
+        "System Maintenance",
+        "Remote Assistance",
+        "IT Helpdesk"
+      ]
+    },
+    {
+      "name": "Jody Stidham",
+      "position": "",
+      "employee_id": "Del_018",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Mac OS",
+        "Network Configuration",
+        "Hardware Repair",
+        "Software Installation",
+        "System Upgrades",
+        "Remote Assistance"
+      ]
+    },
+    {
+      "name": "Brian Proctor",
+      "position": "Principal - Human Capital at Deloitte Consulting",
+      "employee_id": "Del_019",
+      "skills": [
+        "Human Capital Management",
+        "Organizational Development",
+        "Change Management",
+        "Talent Management",
+        "Leadership Development",
+        "Performance Management",
+        "Employee Engagement",
+        "HR Strategy",
+        "Workforce Planning",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Tyler Rudy",
+      "position": "",
+      "employee_id": "Del_020",
+      "skills": []
+    },
+    {
+      "name": "Lisa Walker",
+      "position": "",
+      "employee_id": "Del_021",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Repair",
+        "Software Installation",
+        "Remote Assistance",
+        "System Maintenance",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Gina Schaefer",
+      "position": "Intelligent Automation Offering Lead at Deloitte Consulting",
+      "employee_id": "Del_022",
+      "skills": [
+        "Intelligent Automation",
+        "Robotic Process Automation (RPA)",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Business Process Management",
+        "Data Analytics",
+        "Project Management",
+        "Consulting",
+        "Software Development",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Scott Mager",
+      "position": "US Chief Marketing Officer at Deloitte",
+      "employee_id": "Del_023",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "Brand Management",
+        "Market Research",
+        "SEO",
+        "Content Marketing",
+        "Social Media Marketing",
+        "Analytics",
+        "CRM Software",
+        "Advertising"
+      ]
+    },
+    {
+      "name": "Siddharth Karia",
+      "position": "Principal at Deloitte Consulting",
+      "employee_id": "Del_024",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Financial Analysis",
+        "Project Management",
+        "Data Analytics",
+        "Change Management",
+        "Process Improvement",
+        "Stakeholder Engagement",
+        "Risk Assessment",
+        "Enterprise Solutions"
+      ]
+    },
+    {
+      "name": "Scott Barbour",
+      "position": "",
+      "employee_id": "Del_025",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Repair",
+        "Software Installation",
+        "System Diagnostics",
+        "Remote Assistance",
+        "IT Solutions"
+      ]
+    },
+    {
+      "name": "Madeline Coven",
+      "position": "AI Solutions Consultant at Deloitte Consulting",
+      "employee_id": "Del_026",
+      "skills": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Analysis",
+        "Python",
+        "R",
+        "Natural Language Processing",
+        "Deep Learning",
+        "Consulting",
+        "Business Strategy",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Cathy Gutierrez",
+      "position": "",
+      "employee_id": "Del_027",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Repair",
+        "Software Installation",
+        "Remote Assistance",
+        "System Diagnostics",
+        "IT Security"
+      ]
+    },
+    {
+      "name": "Julia Somers",
+      "position": "Senior Manager at Deloitte",
+      "employee_id": "Del_028",
+      "skills": [
+        "Project Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Development",
+        "Leadership",
+        "Client Relationship Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "SAP"
+      ]
+    },
+    {
+      "name": "David Betts",
+      "position": "",
+      "employee_id": "Del_029",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Repair",
+        "Software Installation",
+        "Remote Assistance",
+        "System Maintenance",
+        "IT Help Desk"
+      ]
+    },
+    {
+      "name": "Charan Singh",
+      "position": "",
+      "employee_id": "Del_030",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Repair",
+        "Software Installation",
+        "Remote Assistance",
+        "System Maintenance",
+        "IT Documentation"
+      ]
+    },
+    {
+      "name": "Charan Singh",
+      "position": "",
+      "employee_id": "Del_031",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Remote Desktop",
+        "Hardware Diagnostics",
+        "Software Installation",
+        "System Maintenance",
+        "IT Helpdesk"
+      ]
+    },
+    {
+      "name": "Vishal Sharma",
+      "position": "",
+      "employee_id": "Del_032",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Remote Assistance",
+        "System Diagnostics",
+        "Software Installation",
+        "Hardware Maintenance",
+        "IT Security"
+      ]
+    },
+    {
+      "name": "Elizabeth Reid Hoffman",
+      "position": "Senior Manager at Deloitte Consulting",
+      "employee_id": "Del_033",
+      "skills": [
+        "Project Management",
+        "Business Strategy",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Consulting",
+        "Client Relations",
+        "Process Improvement",
+        "Leadership",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "David Rudini",
+      "position": "Deloitte - Lead Client Service Partner/Lead Consulting Partner - multiple clients in Retail and Consumer Products",
+      "employee_id": "Del_034",
+      "skills": [
+        "Client Service Management",
+        "Consulting",
+        "Retail Industry Expertise",
+        "Consumer Products Expertise",
+        "Project Management",
+        "Strategic Planning",
+        "Business Development",
+        "Stakeholder Management",
+        "Market Analysis",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Heidi Marijczyn",
+      "position": "Crafting Careers, Fueling Teams| Recruiter, Deloitte Consulting",
+      "employee_id": "Del_036",
+      "skills": [
+        "Recruitment",
+        "Talent Acquisition",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Applicant Tracking Systems",
+        "HR Software",
+        "Employee Onboarding",
+        "Team Building",
+        "Networking",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Mark Cotteleer",
+      "position": "",
+      "employee_id": "Del_037",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Network Configuration",
+        "System Administration",
+        "Hardware Repair",
+        "Software Installation",
+        "Windows OS",
+        "Linux OS",
+        "Remote Assistance"
+      ]
+    },
+    {
+      "name": "Jerry Bruno",
+      "position": "Principal and Health Care Leader, Deloitte Consulting LLP",
+      "employee_id": "Del_038",
+      "skills": [
+        "Healthcare Consulting",
+        "Strategic Planning",
+        "Project Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Business Development",
+        "Client Relationship Management",
+        "Regulatory Compliance",
+        "Healthcare Policy"
+      ]
+    },
+    {
+      "name": "Jeff Johnson",
+      "position": "",
+      "employee_id": "Del_039",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "SQL",
+        "Project Management",
+        "Excel",
+        "Business Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Visualization",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Amit Agarwal",
+      "position": "",
+      "employee_id": "Del_040",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Maintenance",
+        "Software Installation",
+        "Problem Solving",
+        "Communication Skills",
+        "Documentation"
+      ]
+    },
+    {
+      "name": "Cindy Li",
+      "position": "",
+      "employee_id": "Del_041",
+      "skills": [
+        "Customer Service",
+        "Technical Support",
+        "Troubleshooting",
+        "Product Knowledge",
+        "Communication Skills",
+        "Problem Solving",
+        "CRM Software",
+        "Windows OS",
+        "Networking",
+        "Hardware Repair"
+      ]
+    },
+    {
+      "name": "Mike Brinker",
+      "position": "Principal at Deloitte Consulting",
+      "employee_id": "Del_042",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Project Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analytics",
+        "Client Relations",
+        "Process Improvement",
+        "Change Management",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Dr. Scott Pobiner",
+      "position": "Managing Director | AI, Data, & Design | Deloitte Consulting",
+      "employee_id": "Del_043",
+      "skills": [
+        "Artificial Intelligence",
+        "Data Analysis",
+        "Machine Learning",
+        "Design Thinking",
+        "Python",
+        "R",
+        "Data Visualization",
+        "Predictive Analytics",
+        "Business Strategy",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Ed Johnson",
+      "position": "",
+      "employee_id": "Del_044",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Networking",
+        "Hardware Repair",
+        "Software Installation",
+        "Remote Assistance",
+        "System Configuration",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Jason Williamson",
+      "position": "",
+      "employee_id": "Del_045",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Repair",
+        "Software Installation",
+        "System Maintenance",
+        "Remote Assistance",
+        "IT Security"
+      ]
+    },
+    {
+      "name": "Kristin Starodub",
+      "position": "Principal | Elevating the Human Experience | Deloitte Consulting LLP",
+      "employee_id": "Del_046",
+      "skills": [
+        "Human Experience Design",
+        "Consulting",
+        "Project Management",
+        "Strategic Planning",
+        "Business Transformation",
+        "Client Relationship Management",
+        "Leadership",
+        "Change Management",
+        "Process Improvement",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Ryan C. Jones",
+      "position": "",
+      "employee_id": "Del_047",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Repair",
+        "Software Installation",
+        "Remote Assistance",
+        "System Diagnostics",
+        "IT Management"
+      ]
+    },
+    {
+      "name": "Jim Rowan",
+      "position": "US Head of AI at Deloitte",
+      "employee_id": "Del_048",
+      "skills": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science",
+        "Python",
+        "R",
+        "Natural Language Processing",
+        "Deep Learning",
+        "Big Data",
+        "Cloud Computing",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Bjoern Langmack",
+      "position": "Global Application Modernization & Migration Leader bei Deloitte Consulting",
+      "employee_id": "Del_049",
+      "skills": [
+        "Application Modernization",
+        "Migration Strategies",
+        "Cloud Computing",
+        "Enterprise Architecture",
+        "Project Management",
+        "Agile Methodologies",
+        "DevOps",
+        "IT Strategy",
+        "Digital Transformation",
+        "Software Development"
+      ]
+    },
+    {
+      "name": "Patricia Henderson",
+      "position": "",
+      "employee_id": "Del_050",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Linux OS",
+        "Network Configuration",
+        "Hardware Repair",
+        "Software Installation",
+        "Remote Assistance",
+        "System Diagnostics"
+      ]
+    },
+    {
+      "name": "Siva Kantamneni",
+      "position": "Principal / Partner at Deloitte Consulting",
+      "employee_id": "Del_051",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Project Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analytics",
+        "Enterprise Architecture",
+        "Digital Transformation",
+        "Leadership",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Babette Groves",
+      "position": "Chief Operating Officer of Innovation & Technology, Deloitte Consulting",
+      "employee_id": "Del_052",
+      "skills": [
+        "Strategic Planning",
+        "Project Management",
+        "Technology Strategy",
+        "Innovation Management",
+        "Business Process Improvement",
+        "Change Management",
+        "Data Analytics",
+        "Digital Transformation",
+        "Enterprise Architecture",
+        "IT Governance"
+      ]
+    },
+    {
+      "name": "Dan Haddad",
+      "position": "",
+      "employee_id": "Del_053",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Client Relations",
+        "Microsoft Office Suite",
+        "Negotiation",
+        "Problem Solving",
+        "Time Management",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Katherine Ji",
+      "position": "",
+      "employee_id": "Del_054",
+      "skills": []
+    },
+    {
+      "name": "Matt Whittle",
+      "position": "Lead Recruiting Consultant at Deloitte Consulting",
+      "employee_id": "Del_055",
+      "skills": [
+        "Recruiting",
+        "Talent Acquisition",
+        "Interviewing",
+        "Applicant Tracking Systems (ATS)",
+        "HR Software",
+        "Candidate Sourcing",
+        "Employee Onboarding",
+        "Consulting",
+        "Client Relationship Management",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Christine Medina",
+      "position": "Principal at Deloitte Consulting",
+      "employee_id": "Del_056",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Financial Analysis",
+        "Project Management",
+        "Client Relationship Management",
+        "Data Analytics",
+        "Change Management",
+        "Performance Improvement",
+        "Operational Efficiency",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Adarsh Gosu",
+      "position": "Managing Director at Deloitte Consulting",
+      "employee_id": "Del_057",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Development",
+        "Project Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Leadership",
+        "Client Relationship Management",
+        "Operational Efficiency",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Brian Augustian",
+      "position": "Retired Principal, Deloitte Consulting",
+      "employee_id": "Del_058",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Transformation",
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management",
+        "Leadership",
+        "Client Relations",
+        "Operational Improvement",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Spencer Fairwell",
+      "position": "",
+      "employee_id": "Del_059",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Diagnostics",
+        "Software Installation",
+        "Remote Assistance",
+        "ITIL",
+        "Help Desk Operations"
+      ]
+    },
+    {
+      "name": "Christopher Vandenberg",
+      "position": "",
+      "employee_id": "Del_060",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Networking",
+        "Hardware Repair",
+        "Software Installation",
+        "System Configuration",
+        "Remote Assistance",
+        "IT Security"
+      ]
+    },
+    {
+      "name": "John Prescott",
+      "position": "Associate Vice President | Deloitte Consulting",
+      "employee_id": "Del_061",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Project Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Client Relationship Management",
+        "Data Analytics",
+        "Process Improvement",
+        "Leadership",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Jenny Ahn",
+      "position": "",
+      "employee_id": "Del_062",
+      "skills": [
+        "Project Management",
+        "Microsoft Office",
+        "Data Analysis",
+        "Customer Relationship Management (CRM)",
+        "Team Leadership",
+        "Problem Solving",
+        "Communication Skills",
+        "Time Management",
+        "Strategic Planning",
+        "Budget Management"
+      ]
+    },
+    {
+      "name": "Julie Hiipakka",
+      "position": "",
+      "employee_id": "Del_063",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Analysis",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Change Management",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Christopher Rose",
+      "position": "Principal at Deloitte Consulting LLP",
+      "employee_id": "Del_064",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Financial Analysis",
+        "Project Management",
+        "Client Relationship Management",
+        "Data Analytics",
+        "Leadership",
+        "Change Management",
+        "Process Improvement",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Ahmed Kamal",
+      "position": "Managing Director at Deloitte Consulting",
+      "employee_id": "Del_065",
+      "skills": [
+        "Strategic Planning",
+        "Business Development",
+        "Project Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Consulting",
+        "Leadership",
+        "Client Relations",
+        "Market Research",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Annie Filer",
+      "position": "Financial Services Industry COO at Deloitte Consulting",
+      "employee_id": "Del_066",
+      "skills": [
+        "Financial Modeling",
+        "Risk Management",
+        "Strategic Planning",
+        "Business Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Budgeting",
+        "Regulatory Compliance",
+        "Performance Metrics",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Vishveshwara Vasa",
+      "position": "",
+      "employee_id": "Del_067",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Client Relations",
+        "Strategic Planning",
+        "Business Analysis",
+        "Process Improvement",
+        "Microsoft Office",
+        "Negotiation",
+        "Problem Solving",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Ryan Mauro",
+      "position": "Deloitte Consulting Managing Director | Harnessing the power of Data & AI for Consumer Industries",
+      "employee_id": "Del_068",
+      "skills": [
+        "Data Analysis",
+        "Artificial Intelligence",
+        "Consumer Industries",
+        "Data Management",
+        "Machine Learning",
+        "Business Strategy",
+        "Predictive Analytics",
+        "Big Data",
+        "Consulting",
+        "Data Visualization"
+      ]
+    },
+    {
+      "name": "Samrat Das",
+      "position": "",
+      "employee_id": "Del_069",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Diagnostics",
+        "Software Installation",
+        "Remote Assistance",
+        "Problem Solving",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Adrian Tay",
+      "position": "",
+      "employee_id": "Del_070",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Maintenance",
+        "Software Installation",
+        "System Diagnostics",
+        "Remote Assistance",
+        "IT Security"
+      ]
+    },
+    {
+      "name": "Dan Sundt",
+      "position": "",
+      "employee_id": "Del_071",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Networking",
+        "Hardware Repair",
+        "Software Installation",
+        "Remote Assistance",
+        "System Diagnostics",
+        "IT Management"
+      ]
+    },
+    {
+      "name": "Tyler Cole",
+      "position": "Principal, Life Sciences Strategy at Deloitte Consulting",
+      "employee_id": "Del_072",
+      "skills": [
+        "Life Sciences Strategy",
+        "Consulting",
+        "Project Management",
+        "Data Analysis",
+        "Market Research",
+        "Business Development",
+        "Regulatory Compliance",
+        "Healthcare Industry Knowledge",
+        "Strategic Planning",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Diane Sinti",
+      "position": "",
+      "employee_id": "Del_073",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Microsoft Office Suite",
+        "Conflict Resolution",
+        "Performance Monitoring",
+        "Stakeholder Management",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Federico Evangelista",
+      "position": "Manager at Deloitte Consulting",
+      "employee_id": "Del_074",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Consulting",
+        "Business Strategy",
+        "Excel",
+        "PowerPoint",
+        "Client Relationship Management",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Chandra Narra",
+      "position": "Managing Director at Deloitte Consulting",
+      "employee_id": "Del_075",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Project Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Leadership",
+        "Client Relationship Management",
+        "Strategic Planning",
+        "Operational Improvement",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Jeffrey A. Christoff",
+      "position": "Principal at Deloitte Consulting",
+      "employee_id": "Del_076",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Financial Analysis",
+        "Project Management",
+        "Client Relationship Management",
+        "Change Management",
+        "Operational Improvement",
+        "Performance Optimization",
+        "Market Research",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Amod Bavare",
+      "position": "",
+      "employee_id": "Del_077",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Diagnostics",
+        "Software Installation",
+        "System Maintenance",
+        "IT Help Desk",
+        "Remote Assistance"
+      ]
+    },
+    {
+      "name": "Minu Augustine",
+      "position": "Principal at Deloitte Consulting | HR Transformation & HR AI Leader",
+      "employee_id": "Del_078",
+      "skills": [
+        "HR Transformation",
+        "HR AI",
+        "Consulting",
+        "Leadership",
+        "Project Management",
+        "Change Management",
+        "Talent Management",
+        "Workday",
+        "SAP SuccessFactors",
+        "Data Analytics"
+      ]
+    },
+    {
+      "name": "Ravneet Kaur Randhawa",
+      "position": "",
+      "employee_id": "Del_079",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Microsoft Office Suite",
+        "Data Analysis",
+        "Process Improvement",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Nathaniel Paynter",
+      "position": "Principal at Deloitte Consulting",
+      "employee_id": "Del_080",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Financial Analysis",
+        "Project Management",
+        "Client Relationship Management",
+        "Data Analytics",
+        "Enterprise Solutions",
+        "Change Management",
+        "Performance Improvement",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Stavros Stefanis",
+      "position": "",
+      "employee_id": "Del_081",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Repair",
+        "Software Installation",
+        "System Administration",
+        "Remote Assistance",
+        "IT Security"
+      ]
+    },
+    {
+      "name": "Daniel Ryu",
+      "position": "Analyst at Deloitte Consulting",
+      "employee_id": "Del_082",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "SQL",
+        "Power BI",
+        "Tableau",
+        "Business Intelligence",
+        "Consulting",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Faheem J.",
+      "position": "Manager at Deloitte Consulting",
+      "employee_id": "Del_083",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Consulting",
+        "Stakeholder Management",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Data Analytics",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Stanton Parham",
+      "position": "",
+      "employee_id": "Del_084",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Repair",
+        "Software Installation",
+        "System Maintenance",
+        "Remote Assistance",
+        "IT Security"
+      ]
+    },
+    {
+      "name": "Kaitlin Aucoin, MBA",
+      "position": "Deloitte Consulting",
+      "employee_id": "Del_085",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Financial Analysis",
+        "Project Management",
+        "Data Analytics",
+        "Client Relationship Management",
+        "Market Research",
+        "Process Improvement",
+        "Excel",
+        "PowerPoint"
+      ]
+    },
+    {
+      "name": "Rohit Pereira",
+      "position": "Healthcare Technology Principal & Quality Engineering Leader at Deloitte Consulting LLP",
+      "employee_id": "Del_086",
+      "skills": [
+        "Healthcare Technology",
+        "Quality Engineering",
+        "Project Management",
+        "Software Testing",
+        "Regulatory Compliance",
+        "Data Analytics",
+        "Process Improvement",
+        "Risk Management",
+        "System Integration",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Mara Dworkin",
+      "position": "Manager at Deloitte Consulting",
+      "employee_id": "Del_087",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Consulting",
+        "Stakeholder Management",
+        "Financial Analysis",
+        "Strategic Planning",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Data Visualization",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Robert Simmons",
+      "position": "Specialist Leader at Deloitte Consulting LLP",
+      "employee_id": "Del_088",
+      "skills": [
+        "Project Management",
+        "Business Strategy",
+        "Consulting",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Leadership",
+        "Client Relations",
+        "Process Improvement",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Andrew Blau",
+      "position": "US Leader, Eminence & Insights at Deloitte Consulting",
+      "employee_id": "Del_089",
+      "skills": [
+        "Data Analysis",
+        "Business Strategy",
+        "Market Research",
+        "Leadership",
+        "Project Management",
+        "Consulting",
+        "Financial Analysis",
+        "Risk Management",
+        "Presentation Skills",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Erin Doshier (Mulkey)",
+      "position": "M.Ed. | Campus Recruiter at Deloitte Consulting",
+      "employee_id": "Del_090",
+      "skills": [
+        "Recruitment",
+        "Talent Acquisition",
+        "Interviewing",
+        "Campus Recruiting",
+        "Event Planning",
+        "Relationship Management",
+        "Microsoft Office",
+        "Applicant Tracking Systems",
+        "Communication",
+        "Networking"
+      ]
+    },
+    {
+      "name": "Andrew Blau",
+      "position": "US Leader, Eminence & Insights at Deloitte Consulting",
+      "employee_id": "Del_091",
+      "skills": [
+        "Data Analysis",
+        "Business Strategy",
+        "Market Research",
+        "Leadership",
+        "Project Management",
+        "Consulting",
+        "Financial Analysis",
+        "Insight Generation",
+        "Eminence Building",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Erin Doshier (Mulkey)",
+      "position": "M.Ed. | Campus Recruiter at Deloitte Consulting",
+      "employee_id": "Del_092",
+      "skills": [
+        "Recruitment",
+        "Talent Acquisition",
+        "Interviewing",
+        "Onboarding",
+        "Campus Recruiting",
+        "Event Planning",
+        "Relationship Management",
+        "Microsoft Office",
+        "Applicant Tracking Systems",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Abed Ali",
+      "position": "Principal at Deloitte Consulting",
+      "employee_id": "Del_093",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Project Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Client Relationship Management",
+        "Data Analytics",
+        "Process Improvement",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Christine Ahn",
+      "position": "Principal Deloitte Consulting Services",
+      "employee_id": "Del_094",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Project Management",
+        "Financial Analysis",
+        "Data Analytics",
+        "Process Improvement",
+        "Change Management",
+        "Stakeholder Engagement",
+        "Performance Optimization",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Alex Burnett",
+      "position": "",
+      "employee_id": "Del_095",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Hardware Repair",
+        "Software Installation",
+        "Remote Assistance",
+        "System Diagnostics",
+        "IT Security"
+      ]
+    },
+    {
+      "name": "Maunil Mehta",
+      "position": "Entrepreneur | Creative Thinker | Transformation Enthusiast | Author [Partner - Deloitte Consulting]",
+      "employee_id": "Del_096",
+      "skills": [
+        "Business Strategy",
+        "Creative Thinking",
+        "Transformation Management",
+        "Consulting",
+        "Leadership",
+        "Project Management",
+        "Change Management",
+        "Authoring",
+        "Entrepreneurship",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Tushar Puranik",
+      "position": "",
+      "employee_id": "Del_097",
+      "skills": [
+        "Technical Support",
+        "Customer Service",
+        "Troubleshooting",
+        "Windows OS",
+        "Network Configuration",
+        "Remote Assistance",
+        "Hardware Diagnostics",
+        "Software Installation",
+        "System Maintenance",
+        "Documentation"
+      ]
+    },
+    {
+      "name": "Sailor Seguine-Hall",
+      "position": "Campus Recruiter @ Deloitte Consulting",
+      "employee_id": "Del_098",
+      "skills": [
+        "Recruitment",
+        "Talent Acquisition",
+        "Interviewing",
+        "Applicant Tracking Systems",
+        "Onboarding",
+        "Networking",
+        "Event Planning",
+        "Communication",
+        "Microsoft Office",
+        "Relationship Management"
+      ]
+    },
+    {
+      "name": "Patrick LeClair",
+      "position": "Manager at Deloitte Consulting",
+      "employee_id": "Del_099",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Consulting",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "Client Relationship Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "John C. Malley",
+      "position": "Senior Manager | AI & Data Engineering at Deloitte Consulting",
+      "employee_id": "Del_100",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Data Engineering",
+        "Big Data",
+        "AI Development",
+        "SQL",
+        "Cloud Computing",
+        "Data Visualization",
+        "Project Management",
+        "Business Intelligence"
+      ]
+    }
+  ]
+}

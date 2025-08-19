@@ -1,0 +1,1321 @@
+{
+  "company_name": "Hdfc Bank",
+  "employees": [
+    {
+      "name": "Ravi Santhanam",
+      "position": "",
+      "employee_id": "Hdf_001",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Banking Operations",
+        "Credit Risk",
+        "Regulatory Compliance",
+        "Financial Reporting",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Sameer Ratolikar",
+      "position": "",
+      "employee_id": "Hdf_002",
+      "skills": []
+    },
+    {
+      "name": "Athreya Gopalakrishna",
+      "position": "",
+      "employee_id": "Hdf_003",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Financial Modeling",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Market Research",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Ramesh Lakshminarayanan",
+      "position": "",
+      "employee_id": "Hdf_004",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Financial Modeling",
+        "Budgeting",
+        "Forecasting",
+        "Business Strategy",
+        "Report Generation"
+      ]
+    },
+    {
+      "name": "Narendra Ghate",
+      "position": "",
+      "employee_id": "Hdf_005",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Customer Relationship Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Loan Processing",
+        "Investment Strategies",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Dr. Tejasvi Addagada",
+      "position": "",
+      "employee_id": "Hdf_006",
+      "skills": [
+        "Data Analysis",
+        "Risk Management",
+        "Financial Modeling",
+        "SQL",
+        "Data Governance",
+        "Business Intelligence",
+        "Data Warehousing",
+        "Regulatory Compliance",
+        "Data Quality",
+        "Data Architecture"
+      ]
+    },
+    {
+      "name": "Srinivasan Vaidyanathan",
+      "position": "",
+      "employee_id": "Hdf_007",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "Financial Modeling",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Market Research",
+        "SQL",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Ashima Bhat",
+      "position": "",
+      "employee_id": "Hdf_008",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "Financial Modeling",
+        "SQL",
+        "Business Intelligence",
+        "Credit Analysis",
+        "Market Research",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Anjani Rathor",
+      "position": "",
+      "employee_id": "Hdf_009",
+      "skills": []
+    },
+    {
+      "name": "Sanmoy Chakrabarti",
+      "position": "",
+      "employee_id": "Hdf_010",
+      "skills": []
+    },
+    {
+      "name": "Munish Mittal",
+      "position": "",
+      "employee_id": "Hdf_011",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Data Analysis",
+        "Customer Relationship Management",
+        "Regulatory Compliance",
+        "Credit Risk Assessment",
+        "Financial Reporting",
+        "Investment Strategies",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Parag Rao",
+      "position": "",
+      "employee_id": "Hdf_012",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Customer Relationship Management (CRM)",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Compliance",
+        "Business Strategy",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Manish Agrawal",
+      "position": "",
+      "employee_id": "Hdf_013",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Market Research",
+        "Data Analysis",
+        "Excel",
+        "Financial Reporting",
+        "Budgeting",
+        "Forecasting"
+      ]
+    },
+    {
+      "name": "Jahid Ahmed",
+      "position": "",
+      "employee_id": "Hdf_014",
+      "skills": []
+    },
+    {
+      "name": "Vinay Razdan",
+      "position": "",
+      "employee_id": "Hdf_015",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Customer Relationship Management",
+        "Compliance",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Strategic Planning",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Smita Bhagat",
+      "position": "",
+      "employee_id": "Hdf_016",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Customer Relationship Management (CRM)",
+        "Credit Analysis",
+        "Investment Strategies",
+        "Compliance",
+        "Financial Reporting",
+        "Market Research",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Abhilasha Mathur",
+      "position": "",
+      "employee_id": "Hdf_017",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Financial Modeling",
+        "Banking Operations",
+        "Credit Analysis",
+        "Portfolio Management",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Aditi Kumar",
+      "position": "Asst. Vice President \u2013 Venture Investments & Structured Finance, Treasury, HDFC Bank | NYU",
+      "employee_id": "Hdf_018",
+      "skills": [
+        "Venture Investments",
+        "Structured Finance",
+        "Treasury Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Corporate Finance",
+        "Market Research",
+        "Financial Modeling"
+      ]
+    },
+    {
+      "name": "Arvind Vohra",
+      "position": "",
+      "employee_id": "Hdf_019",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Financial Reporting",
+        "Budgeting",
+        "Forecasting",
+        "Accounting",
+        "Business Strategy"
+      ]
+    },
+    {
+      "name": "Shiva Prasad Ellur",
+      "position": "",
+      "employee_id": "Hdf_020",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Customer Relationship Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Compliance",
+        "Loan Processing",
+        "Credit Analysis"
+      ]
+    },
+    {
+      "name": "Sandeep Sood",
+      "position": "",
+      "employee_id": "Hdf_021",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Microsoft Excel",
+        "Data Analysis",
+        "Financial Modeling",
+        "Banking Regulations",
+        "Credit Analysis",
+        "Portfolio Management",
+        "SQL",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Devang Badiyani",
+      "position": "Vice President - IT Head Delivery @ HDFC Bank | CyberSecurity | AI Enthusiast",
+      "employee_id": "Hdf_022",
+      "skills": [
+        "Cybersecurity",
+        "AI",
+        "IT Management",
+        "Project Delivery",
+        "Risk Management",
+        "Network Security",
+        "Data Protection",
+        "Incident Response",
+        "Compliance",
+        "Threat Analysis"
+      ]
+    },
+    {
+      "name": "Ashish Morone",
+      "position": "Executive Vice President & Head - Brand, Marketing Communications at HDFC Bank",
+      "employee_id": "Hdf_023",
+      "skills": [
+        "Brand Management",
+        "Marketing Strategy",
+        "Communications",
+        "Digital Marketing",
+        "Public Relations",
+        "Market Research",
+        "Advertising",
+        "Content Creation",
+        "Social Media Management",
+        "Customer Insights"
+      ]
+    },
+    {
+      "name": "Ritesh Sinha",
+      "position": "",
+      "employee_id": "Hdf_024",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Financial Modeling",
+        "Banking Operations",
+        "Credit Analysis",
+        "Compliance",
+        "Report Generation"
+      ]
+    },
+    {
+      "name": "TVS Rao",
+      "position": "Senior Vice President-II at HDFC Bank",
+      "employee_id": "Hdf_025",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Banking Operations",
+        "Credit Analysis",
+        "Investment Management",
+        "Regulatory Compliance",
+        "Portfolio Management",
+        "Corporate Finance",
+        "Data Analytics"
+      ]
+    },
+    {
+      "name": "Vineet J.",
+      "position": "",
+      "employee_id": "Hdf_026",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Financial Modeling",
+        "Market Research",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Economic Forecasting"
+      ]
+    },
+    {
+      "name": "Suresh Shankaran",
+      "position": "",
+      "employee_id": "Hdf_027",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "Financial Modeling",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Market Research",
+        "Statistical Analysis",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "Venkatesh (Venki)",
+      "position": "",
+      "employee_id": "Hdf_028",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Financial Reporting",
+        "Budgeting",
+        "Forecasting",
+        "Accounting",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Nivedita Choudhary",
+      "position": "",
+      "employee_id": "Hdf_029",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "Financial Reporting",
+        "Budgeting",
+        "Forecasting",
+        "Accounting",
+        "Investment Strategies",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Prasad Hebbar",
+      "position": "Sr Executive Vice President, Technology at HDFC Bank",
+      "employee_id": "Hdf_030",
+      "skills": [
+        "Technology Strategy",
+        "Banking Technology",
+        "Digital Transformation",
+        "IT Infrastructure Management",
+        "Cybersecurity",
+        "Fintech Solutions",
+        "Project Management",
+        "Software Development",
+        "Data Analytics",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "name": "Nikhil Swaroop",
+      "position": "",
+      "employee_id": "Hdf_031",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Customer Relationship Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Credit Analysis",
+        "Regulatory Compliance",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Shuchi Mahajan",
+      "position": "",
+      "employee_id": "Hdf_032",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Customer Relationship Management",
+        "Financial Reporting",
+        "Microsoft Excel",
+        "Data Analysis",
+        "Compliance",
+        "Credit Analysis",
+        "Loan Processing"
+      ]
+    },
+    {
+      "name": "Pallavi Bhargava",
+      "position": "AVP - Visual Design, HDFC Digital Factory | 100+ art workshops and exhibitions",
+      "employee_id": "Hdf_033",
+      "skills": [
+        "Visual Design",
+        "Graphic Design",
+        "Art Direction",
+        "Adobe Creative Suite",
+        "User Experience (UX) Design",
+        "User Interface (UI) Design",
+        "Digital Illustration",
+        "Workshop Facilitation",
+        "Exhibition Planning",
+        "Branding"
+      ]
+    },
+    {
+      "name": "Sharukh R. Taraporewala",
+      "position": "",
+      "employee_id": "Hdf_034",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Credit Analysis",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Market Research",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Kaushik Ghate",
+      "position": "",
+      "employee_id": "Hdf_035",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Credit Analysis",
+        "Customer Relationship Management",
+        "Microsoft Excel",
+        "Data Analysis",
+        "Financial Reporting",
+        "Loan Processing",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Arvind Kapil",
+      "position": "",
+      "employee_id": "Hdf_036",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Excel",
+        "SQL",
+        "VBA",
+        "Business Intelligence",
+        "Budgeting",
+        "Forecasting"
+      ]
+    },
+    {
+      "name": "Sakshi Gupta",
+      "position": "Principal Economist @ HDFC Bank | Economic & Policy Analysis",
+      "employee_id": "Hdf_037",
+      "skills": [
+        "Economic Analysis",
+        "Policy Analysis",
+        "Financial Modeling",
+        "Data Analysis",
+        "Macroeconomics",
+        "Statistical Analysis",
+        "Forecasting",
+        "Econometrics",
+        "Risk Assessment",
+        "Report Writing"
+      ]
+    },
+    {
+      "name": "Bhanupriya Upadhyaya",
+      "position": "Vice President @ HDFC Bank",
+      "employee_id": "Hdf_038",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Credit Analysis",
+        "Regulatory Compliance",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Data Analytics",
+        "Customer Relationship Management (CRM)",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Aveek Chaudhuri",
+      "position": "",
+      "employee_id": "Hdf_039",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Financial Modeling",
+        "Budgeting",
+        "Forecasting",
+        "Reporting",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Manashi Paul",
+      "position": "",
+      "employee_id": "Hdf_040",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Excel",
+        "Data Analysis",
+        "Financial Reporting",
+        "Budgeting",
+        "Forecasting",
+        "Accounting",
+        "SAP",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Sagar Chaudhuri",
+      "position": "Senior Vice President II- HDFC BANK LTD",
+      "employee_id": "Hdf_041",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Strategic Planning",
+        "Regulatory Compliance",
+        "Credit Analysis",
+        "Portfolio Management",
+        "Investment Strategies",
+        "Data Analytics",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Harish Kumar Singla \u2714\ufe0f",
+      "position": "",
+      "employee_id": "Hdf_042",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Financial Modeling",
+        "Budgeting",
+        "Forecasting",
+        "Accounting",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Abhishek Deshmukh",
+      "position": "",
+      "employee_id": "Hdf_043",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Excel",
+        "Data Analysis",
+        "Financial Modeling",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Market Research",
+        "SQL",
+        "VBA"
+      ]
+    },
+    {
+      "name": "Vijay Kumar",
+      "position": "Senior Vice President - Business Technology Group at HDFC Bank",
+      "employee_id": "Hdf_044",
+      "skills": [
+        "Business Technology",
+        "Financial Services",
+        "Banking Operations",
+        "Digital Transformation",
+        "Project Management",
+        "IT Strategy",
+        "Risk Management",
+        "Data Analytics",
+        "Cybersecurity",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Anand Sankararaman",
+      "position": "Senior Executive Vice President - IT at HDFC Bank",
+      "employee_id": "Hdf_045",
+      "skills": [
+        "IT Management",
+        "Banking Technology",
+        "Cybersecurity",
+        "Data Analytics",
+        "Cloud Computing",
+        "Project Management",
+        "Software Development",
+        "Digital Transformation",
+        "Database Management",
+        "Network Infrastructure"
+      ]
+    },
+    {
+      "name": "MAYUR TRIVEDI",
+      "position": "HDFC Bank - Vice President",
+      "employee_id": "Hdf_046",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Credit Analysis",
+        "Regulatory Compliance",
+        "Portfolio Management",
+        "Investment Strategies",
+        "Data Analysis",
+        "Strategic Planning",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "PRIYANKA SAXENA",
+      "position": "Talent Acquisition Partner HDFC Bank",
+      "employee_id": "Hdf_047",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Human Resources Management",
+        "Applicant Tracking Systems",
+        "Interviewing",
+        "Employee Onboarding",
+        "HR Software",
+        "Candidate Sourcing",
+        "Labor Laws",
+        "Compensation and Benefits"
+      ]
+    },
+    {
+      "name": "Ashish Mahajan",
+      "position": "Executive Vice President, Tech & Digital at HDFC Bank",
+      "employee_id": "Hdf_048",
+      "skills": [
+        "Digital Transformation",
+        "Technology Strategy",
+        "Banking Software",
+        "Fintech",
+        "Cybersecurity",
+        "Data Analytics",
+        "Project Management",
+        "Cloud Computing",
+        "Artificial Intelligence",
+        "IT Infrastructure"
+      ]
+    },
+    {
+      "name": "Priyo Roop Guha",
+      "position": "Deputy Vice President - HR @ HDFC Bank | Lead COE and TA",
+      "employee_id": "Hdf_049",
+      "skills": [
+        "Human Resources Management",
+        "Talent Acquisition",
+        "Center of Excellence (COE) Leadership",
+        "Employee Relations",
+        "Performance Management",
+        "HR Strategy",
+        "Recruitment",
+        "Compensation and Benefits",
+        "Organizational Development",
+        "HR Analytics"
+      ]
+    },
+    {
+      "name": "Abhishek Sharma",
+      "position": "SELP, Harvard Business School Vice President, HDFC Bank",
+      "employee_id": "Hdf_050",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Corporate Finance",
+        "Business Development",
+        "Team Management",
+        "Market Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Ahmed Zackaria",
+      "position": "Sr. Executive Vice President & Head - Branch Banking, Karnataka & Kerala at HDFC Bank",
+      "employee_id": "Hdf_051",
+      "skills": [
+        "Branch Banking",
+        "Retail Banking",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Sales Management",
+        "Financial Services",
+        "Banking Operations",
+        "Market Analysis",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Punyasrrya Sharma",
+      "position": "Vice President Branch Head HDFC Bank",
+      "employee_id": "Hdf_052",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Branch Operations",
+        "Customer Relationship Management",
+        "Banking Regulations",
+        "Team Leadership",
+        "Sales Strategy",
+        "Credit Management",
+        "Business Development",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Sarath Mohan",
+      "position": "Senior Vice President - Head Legal at HDFC Bank",
+      "employee_id": "Hdf_053",
+      "skills": [
+        "Legal Compliance",
+        "Corporate Law",
+        "Risk Management",
+        "Regulatory Affairs",
+        "Contract Negotiation",
+        "Banking Law",
+        "Litigation Management",
+        "Legal Research",
+        "Policy Development",
+        "Dispute Resolution"
+      ]
+    },
+    {
+      "name": "Pranesh Rao",
+      "position": "Head, Department for Special Operations at HDFC Bank",
+      "employee_id": "Hdf_054",
+      "skills": [
+        "Risk Management",
+        "Financial Analysis",
+        "Project Management",
+        "Operational Strategy",
+        "Data Analytics",
+        "Compliance",
+        "Banking Regulations",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Tanveer Singh Gupta",
+      "position": "",
+      "employee_id": "Hdf_055",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Financial Modeling",
+        "Budgeting",
+        "Forecasting",
+        "Business Intelligence",
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Rajesh M Sharma",
+      "position": "",
+      "employee_id": "Hdf_056",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Customer Relationship Management",
+        "Credit Analysis",
+        "Loan Processing",
+        "Financial Reporting",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Geethaa George",
+      "position": "",
+      "employee_id": "Hdf_057",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Customer Relationship Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Compliance",
+        "Loan Processing",
+        "Credit Analysis"
+      ]
+    },
+    {
+      "name": "Aditya Marphatia",
+      "position": "Deputy Vice President, Analytics at HDFC Bank",
+      "employee_id": "Hdf_058",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Python",
+        "Machine Learning",
+        "Statistical Analysis",
+        "Business Intelligence",
+        "Excel",
+        "Banking Operations"
+      ]
+    },
+    {
+      "name": "Deepak Oram",
+      "position": "",
+      "employee_id": "Hdf_059",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Banking Operations",
+        "Customer Relationship Management",
+        "Financial Reporting",
+        "Compliance",
+        "Credit Analysis"
+      ]
+    },
+    {
+      "name": "GURUPRASAD MANDRAWADKAR",
+      "position": "",
+      "employee_id": "Hdf_060",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Customer Relationship Management (CRM)",
+        "Microsoft Excel",
+        "Data Analysis",
+        "Compliance",
+        "Financial Reporting",
+        "Loan Processing",
+        "Credit Analysis"
+      ]
+    },
+    {
+      "name": "Kavita Jain",
+      "position": "Executive Vice President at HDFC Bank",
+      "employee_id": "Hdf_061",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Leadership",
+        "Banking Operations",
+        "Regulatory Compliance",
+        "Credit Analysis",
+        "Portfolio Management",
+        "Corporate Finance",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Bharat Pareek",
+      "position": "Executive Vice President at HDFC Bank",
+      "employee_id": "Hdf_062",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Strategic Planning",
+        "Credit Analysis",
+        "Investment Banking",
+        "Corporate Finance",
+        "Regulatory Compliance",
+        "Portfolio Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "N. Srinivasan",
+      "position": "Group Head at HDFC Bank",
+      "employee_id": "Hdf_063",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Credit Risk Assessment",
+        "Regulatory Compliance",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management",
+        "Project Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Abhay Bhatia",
+      "position": "Sr. Vice President, Analytics at HDFC Bank",
+      "employee_id": "Hdf_064",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Business Intelligence",
+        "Machine Learning",
+        "Statistical Analysis",
+        "Big Data",
+        "Data Visualization",
+        "Predictive Analytics"
+      ]
+    },
+    {
+      "name": "Jeetesh Patel",
+      "position": "MBA- Sr. VP- HDFC Bank Ltd,",
+      "employee_id": "Hdf_065",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Banking Operations",
+        "Investment Management",
+        "Leadership",
+        "Business Development",
+        "Regulatory Compliance",
+        "Project Management",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Amol Date",
+      "position": "",
+      "employee_id": "Hdf_066",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Credit Analysis",
+        "Customer Relationship Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Loan Processing",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Sanjoy Bhattacharjee",
+      "position": "Chief Data Officer HDFC Bank",
+      "employee_id": "Hdf_067",
+      "skills": [
+        "Data Analysis",
+        "Data Management",
+        "Financial Modeling",
+        "Risk Management",
+        "Big Data",
+        "Machine Learning",
+        "SQL",
+        "Python",
+        "Data Governance",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Manish Pant",
+      "position": "Vice President, Vertical Head - Merchant Services at HDFC Bank",
+      "employee_id": "Hdf_068",
+      "skills": [
+        "Merchant Services",
+        "Payment Processing",
+        "Financial Services",
+        "Banking Operations",
+        "Risk Management",
+        "Customer Relationship Management (CRM)",
+        "Strategic Planning",
+        "Team Leadership",
+        "Project Management",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Mithun John",
+      "position": "",
+      "employee_id": "Hdf_069",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Excel",
+        "Data Analysis",
+        "Financial Modeling",
+        "Accounting",
+        "Budgeting",
+        "Forecasting",
+        "Business Intelligence",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Zubin Kika",
+      "position": "Senior Vice President II at HDFC Bank (Digital Banking)",
+      "employee_id": "Hdf_070",
+      "skills": [
+        "Digital Banking",
+        "Financial Technology",
+        "Project Management",
+        "Strategic Planning",
+        "Customer Relationship Management (CRM)",
+        "Data Analytics",
+        "Mobile Banking",
+        "Cybersecurity",
+        "Blockchain",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Zubin Kika",
+      "position": "Senior Vice President II at HDFC Bank (Digital Banking)",
+      "employee_id": "Hdf_071",
+      "skills": [
+        "Digital Banking",
+        "Financial Services",
+        "Banking Operations",
+        "Fintech",
+        "Project Management",
+        "Customer Relationship Management (CRM)",
+        "Data Analytics",
+        "Strategic Planning",
+        "Regulatory Compliance",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Sujatha Mohan",
+      "position": "Independent Director | Board Advisory | Senior Strategic Advisor | Digital and API Strategy Expert | Fintech Leader |Wharton Alumnus",
+      "employee_id": "Hdf_072",
+      "skills": [
+        "Digital Strategy",
+        "API Strategy",
+        "Fintech",
+        "Strategic Advisory",
+        "Board Governance",
+        "Leadership",
+        "Business Strategy",
+        "Financial Services",
+        "Technology Integration",
+        "Wharton Alumni Network"
+      ]
+    },
+    {
+      "name": "Chacko Joseph",
+      "position": "Senior Vice President at HDFC Bank",
+      "employee_id": "Hdf_073",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Banking Operations",
+        "Regulatory Compliance",
+        "Investment Management",
+        "Credit Analysis",
+        "Portfolio Management",
+        "Business Development",
+        "Data Analytics"
+      ]
+    },
+    {
+      "name": "Amit Sehgal",
+      "position": "Technology Leadership @ HDFC Bank | Ex-Amazon | Professor - Senior Leader | Disruptor in data and digital transformation",
+      "employee_id": "Hdf_074",
+      "skills": [
+        "Data Transformation",
+        "Digital Transformation",
+        "Leadership",
+        "Data Analysis",
+        "Financial Technology",
+        "Project Management",
+        "Software Development",
+        "Cloud Computing",
+        "Big Data",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "Rana Sinha Ray",
+      "position": "",
+      "employee_id": "Hdf_075",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Customer Relationship Management",
+        "Banking Operations",
+        "Loan Processing",
+        "Credit Analysis",
+        "Financial Reporting",
+        "Compliance",
+        "Data Analysis",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Ramdoss Bharathan",
+      "position": "",
+      "employee_id": "Hdf_076",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Excel",
+        "Data Analysis",
+        "Financial Modeling",
+        "SQL",
+        "Budgeting",
+        "Forecasting",
+        "Accounting",
+        "Investment Strategies"
+      ]
+    },
+    {
+      "name": "Arup Rakshit",
+      "position": "Group Head Treasury HDFC Bank",
+      "employee_id": "Hdf_077",
+      "skills": [
+        "Treasury Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Liquidity Management",
+        "Cash Flow Forecasting",
+        "Financial Reporting",
+        "Regulatory Compliance",
+        "Banking Operations",
+        "Asset Management"
+      ]
+    },
+    {
+      "name": "Chirag Jain",
+      "position": "",
+      "employee_id": "Hdf_078",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Modeling",
+        "Credit Analysis",
+        "Investment Banking",
+        "Market Research",
+        "Portfolio Management",
+        "Corporate Finance"
+      ]
+    },
+    {
+      "name": "Pooja Gurbani",
+      "position": "Corporate HRBP at HDFC Bank",
+      "employee_id": "Hdf_079",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "HR Policies",
+        "Employee Engagement",
+        "HR Analytics",
+        "Conflict Resolution",
+        "Labor Law Compliance",
+        "Compensation and Benefits"
+      ]
+    },
+    {
+      "name": "Sujay Krishnan",
+      "position": "Senior Manager at HDFC Bank",
+      "employee_id": "Hdf_080",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Regulatory Compliance",
+        "Project Management",
+        "Strategic Planning",
+        "Data Analysis",
+        "Microsoft Excel"
+      ]
+    }
+  ]
+}

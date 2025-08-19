@@ -1,0 +1,1318 @@
+{
+  "mission_metadata": {
+    "agent_id": "GHOST_SHADE_04",
+    "target_company": "Accenture",
+    "mission_timestamp": "2025-08-12T17:58:53.704799",
+    "completion_timestamp": "2025-08-12T19:07:39.225827",
+    "mission_status": "COMPLETED"
+  },
+  "employee_intelligence": {
+    "summary": {
+      "total_employees_found": 100,
+      "detailed_profiles_scraped": 1,
+      "scraping_success_rate": 1.0
+    },
+    "employees": [
+      {
+        "basic_info": {
+          "name": "Julie Sweet - Chair and Chief Executive Officer at Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/julie-sweet",
+          "company": "Accenture",
+          "search_snippet": "As general counsel, I had ultimate responsibility for all legal support to Accenture, serving as principal counsel to senior leadership and the board of ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Tom Lounibos - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/tomlounibos",
+          "company": "Accenture",
+          "search_snippet": "Experience: Accenture · Location: San Francisco · 500+ connections View Tom Lounibos' profile on LinkedIn, a professional community of 1 ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Katrina Alcorn - Accenture Song",
+          "linkedin_url": "https://www.linkedin.com/in/katrinaalcorn",
+          "company": "Accenture",
+          "search_snippet": "I am a Global Product & Design executive who leads diverse, high-performing teams on… · Experience: Accenture Song · Education: UC Berkeley · Location: New ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Karthik Narain - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/karthik-narain",
+          "company": "Accenture",
+          "search_snippet": "I consider myself a lifelong learner and a mission centric technology leader, currently… · Experience: Accenture · Education: Bharathidasan University, ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Tom Stuermer - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/tom-stuermer",
+          "company": "Accenture",
+          "search_snippet": "Experience: Accenture · Location: San Francisco Bay Area · 500+ connections View Tom Stuermer's profile on LinkedIn, a professional community ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Lan Guan - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/lan-guan",
+          "company": "Accenture",
+          "search_snippet": "Dr. Lan Guan is the Chief AI Officer at Accenture, where she partners with C-suite… · Experience: Accenture · Education: The City University of New York ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kathleen O'Reilly - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/kathleentoreilly",
+          "company": "Accenture",
+          "search_snippet": "As the Global Lead of Deal Structuring and Pricing for Accenture, my team and I define… · Experience: Accenture · Location: Greater Philadelphia · 500+ ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ellyn Shook - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/ellyn-shook-1b51127",
+          "company": "Accenture",
+          "search_snippet": "Ellyn currently serves on the board of directors of The Baldwin Group (NASDAQ: BWIN) as a… · Experience: Accenture · Location: New York · 500+ connections ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Adam J Shaw - US Lead & Managing Director",
+          "linkedin_url": "https://www.linkedin.com/in/adamjshaw",
+          "company": "Accenture",
+          "search_snippet": "US Lead & Managing Director | Accenture, Infrastructure & Capital Projects · With over 15 years of experience in program management and business strategy, ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Amanda Kranz",
+          "linkedin_url": "https://www.linkedin.com/in/amanda-kranz-chicago",
+          "company": "Accenture",
+          "search_snippet": "I am a human-centered strategist for Accenture Song with a background in Design and Experience. I focus on helping my retail and CPG clients grow and transform."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ben Peavy - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/ben-peavy-86074b1",
+          "company": "Accenture",
+          "search_snippet": "I am passionate about leveraging technology to transform the way we work and live… · Experience: Accenture · Location: San Antonio · 500+ connections on ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Teresa Tung - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/teresatung",
+          "company": "Accenture",
+          "search_snippet": "Global lead of Data Capability developing vision, assets, and talent. Most prolific… · Experience: Accenture · Education: University of California, ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Jillian Snavley - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/jilliansnavley",
+          "company": "Accenture",
+          "search_snippet": "Experience: Accenture · Location: Columbus, Ohio Metropolitan Area · 500+ connections View Jillian Snavley's profile on LinkedIn, ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "John Ratzan - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/johnratzan",
+          "company": "Accenture",
+          "search_snippet": "Senior Managing Director leading US FS Data & AI and Banking client leader. -… · Experience: Accenture · Location: New York · 500+ connections"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kate Hogan - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/kate-hogan",
+          "company": "Accenture",
+          "search_snippet": "As the COO, North America at Accenture, I lead the company's business operations, execute… · Experience: Accenture · Education: The University of Kansas ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Stacy Blanchard - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/stacy-blanchard-4254806",
+          "company": "Accenture",
+          "search_snippet": "May 19, 2025 ... I am passionate about… Specialties: Organization Strategy and Transformation… · Experience: Accenture · Education: University of San ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Olof Schybergson - Accenture",
+          "linkedin_url": "https://uk.linkedin.com/in/olofschybergson",
+          "company": "Accenture",
+          "search_snippet": "Oct 12, 2024 ... I'm a business leader, a change agent, and a designer. As Chief Design and Product… · Experience: Accenture · Education: De Montfort ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Senthil (Sen) Ramani - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/senthil-ramani",
+          "company": "Accenture",
+          "search_snippet": "Summary: Across a career spanning 24 years, I have been deeply passionate about… · Experience: Accenture · Education: Harvard Business School · Location: ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "John Atherton",
+          "linkedin_url": "https://www.linkedin.com/in/johnatherton-accenture",
+          "company": "Accenture",
+          "search_snippet": "Supply Chain Functional Leader | Global Cross-Industry Expertise | Accenture AWS Business Group (AABG) · I grew up on the East Coast, went to a small ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "John Gamberoni - Managing Director at Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/johngamberoni",
+          "company": "Accenture",
+          "search_snippet": "Managing Director at Accenture · What becomes possible when Experience becomes an enterprise priority? That is just one of many questions I get to pose to ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Adam Burden - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/adam-burden-acn",
+          "company": "Accenture",
+          "search_snippet": "I am an engineer at heart - I love to design, build and test electronics, software and… · Experience: Accenture · Education: University of Virginia ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ryan Walsh - Accenture Song",
+          "linkedin_url": "https://www.linkedin.com/in/localbyproxy",
+          "company": "Accenture",
+          "search_snippet": "Product, design and marketing leader with multiple 100M+ DAU / $10B+ revenue products… · Experience: Accenture Song · Education: Carnegie Mellon University ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ernest Mueller - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/ernestmueller",
+          "company": "Accenture",
+          "search_snippet": "I am an innovative results oriented professional with 25 years of experience building and… · Experience: Accenture · Education: Rice University · Location: ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Jay Amburkar - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/jjayasree",
+          "company": "Accenture",
+          "search_snippet": "With over 18 years of expertise in the retail and consumer goods industry, I specialize… · Experience: Accenture · Education: Georgia Institute of ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ron Moody MD",
+          "linkedin_url": "https://www.linkedin.com/in/ron-moody-md-136b2830",
+          "company": "Accenture",
+          "search_snippet": "As Chief Medical Officer for Accenture Federal Services, I'm committed to delivering accessible, exceptional health care to military service members."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Tamara Fields - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/tamara-fields-8aa4284",
+          "company": "Accenture",
+          "search_snippet": "From entry-level to leadership, five African-American women at Accenture share their personal stories of leadership and offer career advice."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Jimmy Etheredge - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/jimmy-etheredge",
+          "company": "Accenture",
+          "search_snippet": "As Accenture CEO of North America, I led our $30 billion business from 2019-23. My… · Experience: Accenture · Education: Georgia Institute of Technology ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Jill Kramer - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/jill-kramer-64230840",
+          "company": "Accenture",
+          "search_snippet": "WHAT I LIVE BY ✦ Nothing is more valuable than your time—always ask yourself some… · Experience: Accenture · Education: University of Massachusetts, ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Keri Smith - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/keri-s-smith",
+          "company": "Accenture",
+          "search_snippet": "Leader in design and successful delivery of ML/AI driven solutions, serving clients… · Experience: Accenture · Location: New York · 500+ connections on ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nicole Tranchitella",
+          "linkedin_url": "https://www.linkedin.com/in/nicole-tranchitella",
+          "company": "Accenture",
+          "search_snippet": "... Accenture · Education: Saint Joseph's University · Location: Greater Philadelphia · 500+ connections View Nicole Tranchitella's profile on ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "David Moskovitz",
+          "linkedin_url": "https://www.linkedin.com/in/david-moskovitz-5980a810",
+          "company": "Accenture",
+          "search_snippet": "Experience · Senior Advisor to Global CEO · Senior Managing Director · Chief Executive Officer Accenture Federal Services · Global Managing Director, Managing ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "John Walsh - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/john-f-walsh",
+          "company": "Accenture",
+          "search_snippet": "As Chief Operating Officer for Accenture, I am responsible for leading the company's… · Experience: Accenture · Location: Los Altos · 500+ connections on ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Jessica Jecmen - Managing Director, Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/jessica-jecmen",
+          "company": "Accenture",
+          "search_snippet": "Managing Director, Accenture | Executive Director, Accenture Foundation | Operations Account Executive| Diversity, Equity & Inclusion Advocate | Non-profit ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Caspar Borggreve - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/caspar-borggreve-23826b28",
+          "company": "Accenture",
+          "search_snippet": "Experience: Accenture · Education: Northwestern University - Kellogg School of Management · Location: Greater Minneapolis-St. Paul Area · 500+ connections ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kimberly Stambler, PhD - Accenture Federal Services",
+          "linkedin_url": "https://www.linkedin.com/in/kimberly-stambler-phd-792baa70",
+          "company": "Accenture",
+          "search_snippet": "Apr 27, 2017 ... Experience: Accenture Federal Services · Education: The George Washington University · Location: Washington DC-Baltimore Area · 500+ ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Michael Hilkman",
+          "linkedin_url": "https://www.linkedin.com/in/michael-hilkman-atl",
+          "company": "Accenture",
+          "search_snippet": "... Accenture Managing Director and in my role as Accenture's Technology Strategy & Advisory Lead across industries in our South NA Market Unit, I get up daily ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Himanshu Gupta - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/himanshugupta06",
+          "company": "Accenture",
+          "search_snippet": "As a senior leader in Accenture's Cloud First & AI GTM team, I lead our Americas Growth… · Experience: Accenture · Education: Indian Institute of Management ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Chris Wegmann - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/chris-wegmann",
+          "company": "Accenture",
+          "search_snippet": "Chris Wegmann, Accenture, Southeast Missouri State University, About, I call St. Louis Missouri home with my wife Erin."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rajive Wickramasinghe",
+          "linkedin_url": "https://www.linkedin.com/in/rajive-wickramasinghe",
+          "company": "Accenture",
+          "search_snippet": "Senior Managing Director, Global Lead - Infrastructure Engineering at Accenture · Rajive Wickramasinghe is the Global Lead for Accenture's Infrastructure ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Dan Hansen",
+          "linkedin_url": "https://www.linkedin.com/in/dan-hansen-clt",
+          "company": "Accenture",
+          "search_snippet": "Head of US Banking & Capital Markets Technology | Global Technology Delivery Leader | Managing Director at Accenture, Charlotte NC · The work that I do in ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Jack Azagury - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/jack-azagury",
+          "company": "Accenture",
+          "search_snippet": "Jack serves as Accenture's Group Chief Executive—Strategy & Consulting. He leads the $15… · Experience: Accenture · Education: INSEAD · Location: New York ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Jake Spotswood, MSBA - Accenture Strategy",
+          "linkedin_url": "https://www.linkedin.com/in/jake-spotswood",
+          "company": "Accenture",
+          "search_snippet": "Strategy & Consulting Senior Analyst at Accenture. Skilled in client relationship management, stakeholder interviews, slide deck building, technical writing, ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kate Clifford - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/kate-clifford-65b832a4",
+          "company": "Accenture",
+          "search_snippet": "Kate is Accenture's Chief Human Resources Officer of the Americas, responsible for… · Experience: Accenture · Education: Harvard Business School · Location: ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Angela Beatty - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/angela-beatty",
+          "company": "Accenture",
+          "search_snippet": "Angela Beatty is Accenture's chief leadership and human resources officer, responsible… · Experience: Accenture · Education: Georgetown University ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Muqsit Ashraf - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/muqsitashraf",
+          "company": "Accenture",
+          "search_snippet": "Experience: Accenture · Education: Yale University · Location: Greater Houston · 500+ connections View Muqsit Ashraf's profile on LinkedIn, ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Derek Stanley - Managing Director at Accenture Song",
+          "linkedin_url": "https://www.linkedin.com/in/derekjstanley",
+          "company": "Accenture",
+          "search_snippet": "Managing Director at Accenture Song · Experience: Accenture Song · Location: Greater Macon · 500+ connections View Derek Stanley's profile on ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Scott Bowden - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/scott-bowden",
+          "company": "Accenture",
+          "search_snippet": "What I do through my work with Accenture is leverage decades of experience in supporting… · Experience: Accenture · Location: San Francisco · 500+ ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kiara Barrett - Accenture Strategy",
+          "linkedin_url": "https://www.linkedin.com/in/kiarabarrett",
+          "company": "Accenture",
+          "search_snippet": "Experience: Accenture Strategy · Location: Boston · 500+ connections View Kiara Barrett's profile on LinkedIn, a professional community of 1 ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Jenna O'Steen",
+          "linkedin_url": "https://www.linkedin.com/in/jennaosteen",
+          "company": "Accenture",
+          "search_snippet": "Justice and Homeland Security, Accenture Federal Services Mission-Driven Leader | Mentor | Idea Enthusiast · Digital government transformation is no longer ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kris Burkhardt - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/kristian-burkhardt",
+          "company": "Accenture",
+          "search_snippet": "Experience: Accenture · Education: University of Michigan · Location: Chicago · 500+ connections View Kris Burkhardt's profile on LinkedIn, ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Annette Rippert - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/annetterippert",
+          "company": "Accenture",
+          "search_snippet": "Annette is the former Group Chief Executive of Strategy & Consulting at Accenture and… · Experience: Accenture · Location: United States · 500+ connections ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Hajir Sailors - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/hajirsailors",
+          "company": "Accenture",
+          "search_snippet": "Experience: Accenture · Education: Cornell University - Johnson Graduate School of Management · Location: New York · 500+ connections"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Edward (Ted) Kwartler - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/edwardkwartler",
+          "company": "Accenture",
+          "search_snippet": "As a visionary executive and strategic leader, I bridge the gap between technology… · Experience: Accenture · Education: University of Notre Dame - Mendoza ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Bryan Rich",
+          "linkedin_url": "https://uk.linkedin.com/in/bryan-rich-3632471b",
+          "company": "Accenture",
+          "search_snippet": "Bryan is a global executive in AI public sector, and an expert in defense and health at Accenture overseeing a practice of nearly 6000 practitioners."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ariana Stolarz - Accenture Song",
+          "linkedin_url": "https://www.linkedin.com/in/arianastolarz",
+          "company": "Accenture",
+          "search_snippet": "Experience: Accenture Song · Education: New School University · Location: New York · 500+ connections View Ariana Stolarz's profile on LinkedIn ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Angie Park - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/angiepark1",
+          "company": "Accenture",
+          "search_snippet": "Angie Park is the chief financial officer at Accenture. She leads the company's global… · Experience: Accenture · Education: Emory University · Location: ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Rachel Frey",
+          "linkedin_url": "https://www.linkedin.com/in/rachelfreyaccenture",
+          "company": "Accenture",
+          "search_snippet": "I am global head of Corporate Communications at Accenture, where I oversee earned media strategy, CEO and senior executive visibility, and issues and crisis ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Beck Bailey - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/beckbailey",
+          "company": "Accenture",
+          "search_snippet": "In my role as Chief Diversity Officer and global lead of inclusion & diversity at… · Experience: Accenture · Education: University of Massachusetts, ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Venkatesh G. Rao - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/venkateshgrao",
+          "company": "Accenture",
+          "search_snippet": "North America Consumer Goods and Services Industry Practice Lead · Experience: Accenture · Education: The Ohio State University - The Max M. Fisher College ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Matthew Lancaster - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/mlancast",
+          "company": "Accenture",
+          "search_snippet": "Note: my LinkedIN profile is woefully out of date and incomplete. I have not touched it… · Experience: Accenture · Location: Raleigh-Durham-Chapel Hill Area ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Matthew Lancaster - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/mlancast",
+          "company": "Accenture",
+          "search_snippet": "Note: my LinkedIN profile is woefully out of date and incomplete. I have not touched it… · Experience: Accenture · Location: Raleigh-Durham-Chapel Hill Area ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Tamarah Duperval",
+          "linkedin_url": "https://www.linkedin.com/in/tdbrownlee",
+          "company": "Accenture",
+          "search_snippet": "Dr. Duperval-Brownlee is a visionary healthcare executive and family physician with over… · Experience: Accenture · Education: Harvard University School of ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ron Ash - Accenture Federal Services",
+          "linkedin_url": "https://www.linkedin.com/in/ronash99",
+          "company": "Accenture",
+          "search_snippet": "Experience: Accenture Federal Services · Location: United States · 500+ connections View Ron Ash's profile on LinkedIn, a professional ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Nick Law - Accenture Song",
+          "linkedin_url": "https://www.linkedin.com/in/lawnick",
+          "company": "Accenture",
+          "search_snippet": "Experience: Accenture Song · Location: Brooklyn · 500+ connections View Nick Law's profile on LinkedIn, a professional community of 1 billion ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Chuck Green - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/chuckgreen21",
+          "company": "Accenture",
+          "search_snippet": "As an Executive Recruiter and Talent Sourcer, I lead high-impact sourcing initiatives… · Experience: Accenture · Education: Temple University · Location: ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "James Crowley - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/jamescrowley123",
+          "company": "Accenture",
+          "search_snippet": "I am the Global Products Industry Practices Chair, with a focus on three industry groups:… · Experience: Accenture · Education: University of Pennsylvania ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sean Crabtree",
+          "linkedin_url": "https://www.linkedin.com/in/sean-crabtree-4aaa50b",
+          "company": "Accenture",
+          "search_snippet": "Lead for North America (West) Technology Strategy & Advisory at Accenture | Positive change through the power of technology · Someone once said the best ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Carolina Z. Cardoso - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/carolina-z-cardoso",
+          "company": "Accenture",
+          "search_snippet": "I'm a purpose-driven leader with 25+ years of experience at the intersection of talent… · Experience: Accenture · Education: University of Miami · Location: ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "William Engel - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/will-engel",
+          "company": "Accenture",
+          "search_snippet": "How is technology informing the direction and the momentum of business? That's the… · Experience: Accenture · Education: New York University - Polytechnic ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Mary Hamilton - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/maryehamilton",
+          "company": "Accenture",
+          "search_snippet": "I am the Global lead for Accenture's Connected Innovation Centers, driving a global… · Experience: Accenture · Education: Massachusetts Institute of ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Sean Crabtree",
+          "linkedin_url": "https://www.linkedin.com/in/sean-crabtree-4aaa50b",
+          "company": "Accenture",
+          "search_snippet": "Lead for North America (West) Technology Strategy & Advisory at Accenture | Positive change through the power of technology · Someone once said the best ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ariel Carpenter - Senior Strategy Consultant at Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/arielmcarpenter",
+          "company": "Accenture",
+          "search_snippet": "Senior Strategy Consultant at Accenture | Texas McCombs MBA · I am a sustainability professional with experience as a utilities strategist, policy-maker, ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Chuck Green - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/chuckgreen21",
+          "company": "Accenture",
+          "search_snippet": "As an Executive Recruiter and Talent Sourcer, I lead high-impact sourcing initiatives… · Experience: Accenture · Education: Temple University · Location: ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Jefferson Wang - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/jeffersonwang",
+          "company": "Accenture",
+          "search_snippet": "Accenture Cloud First is a $32B+ revenue business with 170000+ cloud professionals… · Experience: Accenture · Location: Los Angeles · 500+ connections on ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kate Robinson - UX Designer",
+          "linkedin_url": "https://www.linkedin.com/in/kate-t-robinson",
+          "company": "Accenture",
+          "search_snippet": "UX Designer | Management Consultant at Accenture · Hi! Happy you're here. My name's Kate -- I am an engineer by degree, consultant by profession, ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kristin Ficery - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/kristin-ficery-2333905",
+          "company": "Accenture",
+          "search_snippet": "As Accenture's Global Health and Public Service Strategy lead, I have the honor of… · Experience: Accenture · Location: Atlanta · 500+ connections on ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Michael Sharpe",
+          "linkedin_url": "https://www.linkedin.com/in/michael-sharpe-1a62417",
+          "company": "Accenture",
+          "search_snippet": "Senior Managing Director, Accenture SAP Business Group Lead - Americas · Specialties: Supply Chain and Manufacturing Strategy, Systems Integration, SAP, ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Mary Hamilton - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/maryehamilton",
+          "company": "Accenture",
+          "search_snippet": "I am the Global lead for Accenture's Connected Innovation Centers, driving a global… · Experience: Accenture · Education: Massachusetts Institute of ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "‏Andrew Smart‏",
+          "linkedin_url": "https://ae.linkedin.com/in/andrew-smart-3742058",
+          "company": "Accenture",
+          "search_snippet": "... Accenture's Industry Managing Director for Oil and Gas is to identify where and how Accenture can best help our clients predict and respond to the ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Joanne McMorrow",
+          "linkedin_url": "https://www.linkedin.com/in/joannemcmorrow",
+          "company": "Accenture",
+          "search_snippet": "Managing Director, Marketing + Communications at Accenture · A versatile, thoughtful and passionate leader experienced in developing and motivating global ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Chelsea Tucker - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/chelsea-kanyer-tucker",
+          "company": "Accenture",
+          "search_snippet": "18+ yrs experience driving strategic, top-line revenue, developing customer segmentation… · Experience: Accenture · Education: Yale University · Location: ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Max Glassie - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/max-glassie",
+          "company": "Accenture",
+          "search_snippet": "I am passionate about functional programming, software architecture, and human centered… · Experience: Accenture · Education: Georgetown University ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ray Pressburger - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/ray-pressburger-532a874",
+          "company": "Accenture",
+          "search_snippet": "I am driven by my passion for building and shaping teams that make an impact. · Experience: Accenture · Education: Lehigh University · Location: United ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Maria Garcia",
+          "linkedin_url": "https://www.linkedin.com/in/gkestler",
+          "company": "Accenture",
+          "search_snippet": "Information Technology Security Analyst at Accenture · My work experience has been in the hospitality industry. I have enjoyed working in restaurants ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Stuart Nicoll - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/stuart-nicoll-6158a2100",
+          "company": "Accenture",
+          "search_snippet": "Responsible for global Corporate Development activities at Accenture · Experience: Accenture · Location: Short Hills · 500+ connections"
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Brian Whipple - Accenture Interactive",
+          "linkedin_url": "https://www.linkedin.com/in/brianwhipple1",
+          "company": "Accenture",
+          "search_snippet": "During his 11+ years as CEO, Brian grew Accenture Interactive to be a $12B business… · Experience: Accenture Interactive · Education: Duke University - The ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Alex Holt - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/alexholt",
+          "company": "Accenture",
+          "search_snippet": "A highly accomplished Executive who brings 25 years of global TMT experience gained… · Experience: Accenture · Education: London Business School · Location: ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Steven Walker - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/steven-walker4",
+          "company": "Accenture",
+          "search_snippet": "My vision for the future of legal service delivery sees corporations integrating blended… · Experience: Accenture · Education: College of Law · Location: ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Jennifer Hall",
+          "linkedin_url": "https://www.linkedin.com/in/jenniferchall",
+          "company": "Accenture",
+          "search_snippet": "Sales Managing Director for Accenture State of California Account | Innovation Leader | Growth Driver | Strategic Collaborator | Shaping the Future of Work ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Daniel W. Baker",
+          "linkedin_url": "https://www.linkedin.com/in/daniel-w-baker",
+          "company": "Accenture",
+          "search_snippet": "Dan Baker serves as the Growth Markets Managing Director within the leadership team of Accenture Development Partnerships (ADP)."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Alban Tarlet",
+          "linkedin_url": "https://uk.linkedin.com/in/alban-tarlet-528b409",
+          "company": "Accenture",
+          "search_snippet": "Managing Director at Accenture I Client Account Lead & UKIA Resources Strategy & Consulting Lead · Passionate about helping organisations navigate big ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Jefferson Wang - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/jeffersonwang",
+          "company": "Accenture",
+          "search_snippet": "Accenture Cloud First is a $32B+ revenue business with 170000+ cloud professionals… · Experience: Accenture · Location: Los Angeles · 500+ connections on ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Vivek Chidambaram - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/vivekchidambaram",
+          "company": "Accenture",
+          "search_snippet": "I enjoy working across the entire energy value chain, including upstream, downstream… · Experience: Accenture · Location: Houston · 500+ connections on ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Ariel Carpenter - Senior Strategy Consultant at Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/arielmcarpenter",
+          "company": "Accenture",
+          "search_snippet": "Senior Strategy Consultant at Accenture | Texas McCombs MBA · I am a sustainability professional with experience as a utilities strategist, policy-maker, ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Stephanie Gorski - Accenture",
+          "linkedin_url": "https://www.linkedin.com/in/stephanie-gorski-34013b17",
+          "company": "Accenture",
+          "search_snippet": "Stephanie Gorski is a Philadelphia–based Strategy Managing Director in Accenture's… · Experience: Accenture · Education: Duke Fuqua School of Business ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Michael Sharpe",
+          "linkedin_url": "https://www.linkedin.com/in/michael-sharpe-1a62417",
+          "company": "Accenture",
+          "search_snippet": "Senior Managing Director, Accenture SAP Business Group Lead - Americas · Specialties: Supply Chain and Manufacturing Strategy, Systems Integration, SAP, ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Jason Sain",
+          "linkedin_url": "https://www.linkedin.com/in/jason-sain-60b0b612",
+          "company": "Accenture",
+          "search_snippet": "Americas Lead for Tech Reinvention at Accenture | Passionate about the power of technology and reinventing companies to create value · Transformation is ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Joanne McMorrow",
+          "linkedin_url": "https://www.linkedin.com/in/joannemcmorrow",
+          "company": "Accenture",
+          "search_snippet": "Managing Director, Marketing + Communications at Accenture · A versatile, thoughtful and passionate leader experienced in developing and motivating global ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Hojoon Lee",
+          "linkedin_url": "https://www.linkedin.com/in/hojoonleeaccenture",
+          "company": "Accenture",
+          "search_snippet": "HEALTHCARE TECH STRATEGY & ADVISORY LEAD for WEST - Accenture Partner · Digital Innovation leader and a seasoned technology executive at one of the top ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      },
+      {
+        "basic_info": {
+          "name": "Kate Robinson - UX Designer",
+          "linkedin_url": "https://www.linkedin.com/in/kate-t-robinson",
+          "company": "Accenture",
+          "search_snippet": "UX Designer | Management Consultant at Accenture · Hi! Happy you're here. My name's Kate -- I am an engineer by degree, consultant by profession, ..."
+        },
+        "detailed_profile": null,
+        "data_status": {
+          "found_in_search": true,
+          "detailed_scraped": false
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1589 @@
+{
+  "company_name": "Manappuram Finance",
+  "employees": [
+    {
+      "name": "V.P. Nandakumar",
+      "position": "",
+      "employee_id": "Man_001",
+      "skills": []
+    },
+    {
+      "name": "Bevin Varghese Mathews",
+      "position": "",
+      "employee_id": "Man_002",
+      "skills": [
+        "Mechanical Engineering",
+        "CAD Software",
+        "Project Management",
+        "Manufacturing Processes",
+        "Quality Control",
+        "Product Design",
+        "Technical Documentation",
+        "Problem Solving",
+        "Team Collaboration",
+        "Industry Standards"
+      ]
+    },
+    {
+      "name": "Dr.Renjith PR",
+      "position": "",
+      "employee_id": "Man_003",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Research",
+        "Technical Writing",
+        "Statistical Analysis",
+        "Machine Learning",
+        "Python",
+        "R",
+        "SQL",
+        "Report Generation"
+      ]
+    },
+    {
+      "name": "Susil Mishra",
+      "position": "Group Head Of Investor Relations and Treasury at Manappuram Finance Limited",
+      "employee_id": "Man_004",
+      "skills": [
+        "Investor Relations",
+        "Treasury Management",
+        "Financial Analysis",
+        "Corporate Finance",
+        "Risk Management",
+        "Capital Markets",
+        "Financial Reporting",
+        "Budgeting",
+        "Cash Flow Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Senthilkumar K",
+      "position": "Head Credit VEF at Manappuram Finance Limited",
+      "employee_id": "Man_005",
+      "skills": [
+        "Credit Analysis",
+        "Risk Management",
+        "Financial Modeling",
+        "Loan Processing",
+        "Portfolio Management",
+        "Regulatory Compliance",
+        "Credit Scoring",
+        "Data Analysis",
+        "Financial Reporting",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Bilumon V B",
+      "position": "IT Head L1 - L&D Technologies , DGM at Manappuram Finance LTD .",
+      "employee_id": "Man_006",
+      "skills": [
+        "IT Management",
+        "Leadership",
+        "Software Development",
+        "Project Management",
+        "Cybersecurity",
+        "Network Administration",
+        "Systems Integration",
+        "IT Strategy",
+        "Technical Support",
+        "Database Management"
+      ]
+    },
+    {
+      "name": "Vinod Venugopal",
+      "position": "Vice President Head Vigilance and Fraud @ Manappuram Finance India limited",
+      "employee_id": "Man_007",
+      "skills": [
+        "Fraud Detection",
+        "Risk Management",
+        "Vigilance",
+        "Financial Analysis",
+        "Compliance",
+        "Internal Auditing",
+        "Regulatory Knowledge",
+        "Data Analysis",
+        "Investigative Techniques",
+        "Report Writing"
+      ]
+    },
+    {
+      "name": "CS. Manoj Kumar",
+      "position": "Company Secretary and Vice President at Manappuram Finance Limited",
+      "employee_id": "Man_008",
+      "skills": [
+        "Corporate Governance",
+        "Compliance Management",
+        "Financial Reporting",
+        "Risk Management",
+        "Legal Advisory",
+        "Regulatory Affairs",
+        "Stakeholder Communication",
+        "Board Meeting Coordination",
+        "Company Law",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Sanoj Herbert",
+      "position": "CSR|Public Relations|Stakeholder Management|Networking|Crisis Management|Strategic Partnerships|Microinsurance|Co Promoter-Digital Health|Sustainability|Social Audit|GRI 2021|ESG|Tenacious|MBA-MKU|EPCSCL-IIM Calcutta",
+      "employee_id": "Man_009",
+      "skills": [
+        "Public Relations",
+        "Stakeholder Management",
+        "Crisis Management",
+        "Strategic Partnerships",
+        "Microinsurance",
+        "Digital Health",
+        "Sustainability",
+        "Social Audit",
+        "ESG",
+        "Networking"
+      ]
+    },
+    {
+      "name": "Kamal Parmar",
+      "position": "Senior Vice President & HOD - Vehicle and Equipment Finance",
+      "employee_id": "Man_010",
+      "skills": [
+        "Financial Modeling",
+        "Risk Management",
+        "Vehicle Finance",
+        "Equipment Finance",
+        "Credit Analysis",
+        "Portfolio Management",
+        "Asset Management",
+        "Loan Origination",
+        "Financial Planning",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Digbijay Bandyopadhyay",
+      "position": "",
+      "employee_id": "Man_011",
+      "skills": []
+    },
+    {
+      "name": "Sreenath Mn",
+      "position": "Business Development Executive at Manappuram Finance Limited",
+      "employee_id": "Man_012",
+      "skills": [
+        "Business Development",
+        "Sales Strategy",
+        "Market Research",
+        "Client Relationship Management",
+        "Financial Services",
+        "CRM Software",
+        "Negotiation",
+        "Lead Generation",
+        "Project Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Dinesh Kallarackal",
+      "position": "Group Legal Head at Manappuram Finance Limited",
+      "employee_id": "Man_013",
+      "skills": [
+        "Legal Compliance",
+        "Corporate Law",
+        "Contract Management",
+        "Risk Assessment",
+        "Regulatory Affairs",
+        "Legal Research",
+        "Dispute Resolution",
+        "Financial Regulations",
+        "Policy Development",
+        "Legal Documentation"
+      ]
+    },
+    {
+      "name": "BINDU AL",
+      "position": "Chief Financial Officer at Manappuram Finance Limited",
+      "employee_id": "Man_014",
+      "skills": [
+        "Financial Analysis",
+        "Financial Reporting",
+        "Budgeting",
+        "Forecasting",
+        "Risk Management",
+        "Strategic Planning",
+        "Corporate Finance",
+        "Compliance",
+        "Accounting",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "CMA Riju Puthalath",
+      "position": "General Manager-Head Internal Audit at Manappuram Finance Limited",
+      "employee_id": "Man_015",
+      "skills": [
+        "Internal Audit",
+        "Risk Management",
+        "Financial Reporting",
+        "Compliance",
+        "Fraud Detection",
+        "Corporate Governance",
+        "Audit Planning",
+        "Data Analysis",
+        "Financial Analysis",
+        "Regulatory Knowledge"
+      ]
+    },
+    {
+      "name": "Lijo Jose",
+      "position": "Contact Centre Head at Manappuram Finance Ltd.",
+      "employee_id": "Man_016",
+      "skills": [
+        "Customer Relationship Management",
+        "Call Center Operations",
+        "Team Leadership",
+        "Performance Metrics",
+        "Quality Assurance",
+        "Workforce Management",
+        "Customer Service",
+        "Telecommunications",
+        "Process Improvement",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "manikandantg thottath",
+      "position": "--",
+      "employee_id": "Man_017",
+      "skills": []
+    },
+    {
+      "name": "Manesh Mohanan",
+      "position": "Regional Manager at Manappuram Finance Limited",
+      "employee_id": "Man_018",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Budgeting",
+        "Customer Relationship Management (CRM)",
+        "Sales Strategy",
+        "Market Analysis",
+        "Microsoft Excel",
+        "Business Development",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Raju Narayanan",
+      "position": "Executive at Manappuram Finance Limited",
+      "employee_id": "Man_019",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Portfolio Management",
+        "Financial Reporting",
+        "Regulatory Compliance",
+        "Customer Relationship Management",
+        "Microsoft Excel",
+        "Data Analysis",
+        "Business Strategy"
+      ]
+    },
+    {
+      "name": "Siddique Abdulla",
+      "position": "DGM Marketing at Manappuram Finance Ltd",
+      "employee_id": "Man_020",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "Market Research",
+        "Brand Management",
+        "SEO",
+        "SEM",
+        "Social Media Marketing",
+        "Content Marketing",
+        "CRM",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Dr. Ratheesh S Raghavan",
+      "position": "",
+      "employee_id": "Man_021",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Market Analysis",
+        "Negotiation",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "shital raut",
+      "position": "10 to 7 pm at manappuram finance limited",
+      "employee_id": "Man_022",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Customer Service",
+        "Loan Processing",
+        "Credit Assessment",
+        "Microsoft Excel",
+        "Data Entry",
+        "Compliance",
+        "Financial Reporting",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Sathish.c Sathish.c",
+      "position": "Accounts and administration at Manappuram Finance Limited",
+      "employee_id": "Man_023",
+      "skills": [
+        "Accounting",
+        "Financial Reporting",
+        "Tax Compliance",
+        "Budgeting",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Payroll Management",
+        "Microsoft Excel",
+        "Financial Analysis",
+        "Administrative Support"
+      ]
+    },
+    {
+      "name": "Shobha Lokesh naik",
+      "position": "Assistant branch head at Manappuram Finance Limited",
+      "employee_id": "Man_024",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Customer Relationship Management",
+        "Loan Processing",
+        "Credit Assessment",
+        "Team Leadership",
+        "Branch Operations",
+        "Compliance",
+        "Sales Strategy",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Fredy Francis",
+      "position": "Crafts the workforce for a better tomorrow at Manappuram Finance. Being part of the Human Resources Transition. Setting up a realistic HR culture",
+      "employee_id": "Man_025",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "HR Strategy",
+        "Workforce Planning",
+        "Organizational Development",
+        "HR Policy Development",
+        "Performance Management",
+        "Change Management",
+        "HR Analytics"
+      ]
+    },
+    {
+      "name": "Arjun Mamidala",
+      "position": "Teller Authorised at Banking and NBFC Gold loan Operations",
+      "employee_id": "Man_026",
+      "skills": [
+        "Customer Service",
+        "Cash Handling",
+        "Loan Processing",
+        "Financial Transactions",
+        "Banking Software",
+        "Compliance",
+        "Risk Assessment",
+        "Account Management",
+        "Gold Loan Operations",
+        "Documentation"
+      ]
+    },
+    {
+      "name": "kamalnayan mishra",
+      "position": "Branch Manager at Manappuram Finance Limited",
+      "employee_id": "Man_027",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Branch Operations",
+        "Credit Assessment",
+        "Loan Processing",
+        "Compliance",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Raju Kadari",
+      "position": "manappuram finance limited",
+      "employee_id": "Man_028",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Analysis",
+        "Loan Processing",
+        "Customer Service",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Data Entry",
+        "Compliance",
+        "Account Management"
+      ]
+    },
+    {
+      "name": "Ranganatha Gowda",
+      "position": "Manappuram Finance Limited",
+      "employee_id": "Man_029",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Analysis",
+        "Customer Relationship Management",
+        "Loan Processing",
+        "Microsoft Excel",
+        "Data Analysis",
+        "Financial Reporting",
+        "Regulatory Compliance",
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Babaso Divekar",
+      "position": "Deputy Manager Opearations at Manappuram Finance Limited",
+      "employee_id": "Man_030",
+      "skills": [
+        "Operations Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Compliance",
+        "Data Analysis",
+        "Project Management",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Renith Pushparaj",
+      "position": "National Credit Head- CV @ Manappuram | Credit Portfolio Management",
+      "employee_id": "Man_031",
+      "skills": [
+        "Credit Portfolio Management",
+        "Risk Assessment",
+        "Financial Analysis",
+        "Credit Risk Management",
+        "Loan Underwriting",
+        "Portfolio Optimization",
+        "Data Analysis",
+        "Financial Reporting",
+        "Regulatory Compliance",
+        "Credit Scoring"
+      ]
+    },
+    {
+      "name": "Naresh D",
+      "position": "National Head Credit at Manappuram Finance Limited",
+      "employee_id": "Man_032",
+      "skills": [
+        "Credit Analysis",
+        "Risk Management",
+        "Financial Modeling",
+        "Loan Underwriting",
+        "Portfolio Management",
+        "Regulatory Compliance",
+        "Credit Scoring",
+        "Data Analysis",
+        "Financial Reporting",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Akhil Akku",
+      "position": "Manager at Manappuram Finance Limited",
+      "employee_id": "Man_033",
+      "skills": [
+        "Financial Management",
+        "Risk Assessment",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Financial Reporting",
+        "Credit Analysis",
+        "Customer Relationship Management (CRM)",
+        "Microsoft Excel",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Jai Ho",
+      "position": "Junior Assistant at Manappuram Finance Limited",
+      "employee_id": "Man_034",
+      "skills": [
+        "Financial Analysis",
+        "Customer Service",
+        "MS Excel",
+        "Data Entry",
+        "Accounting",
+        "Loan Processing",
+        "Documentation",
+        "Compliance",
+        "Time Management",
+        "Attention to Detail"
+      ]
+    },
+    {
+      "name": "Riyas PM",
+      "position": "Legal Manager at Manappuram Finance Limited",
+      "employee_id": "Man_035",
+      "skills": [
+        "Legal Research",
+        "Contract Management",
+        "Compliance",
+        "Risk Management",
+        "Corporate Law",
+        "Regulatory Affairs",
+        "Legal Documentation",
+        "Dispute Resolution",
+        "Legal Advisory",
+        "Financial Regulations"
+      ]
+    },
+    {
+      "name": "Dhinesh Karuppusamy",
+      "position": "Tableau Developer at Manappuram Finance Ltd",
+      "employee_id": "Man_036",
+      "skills": [
+        "Tableau",
+        "Data Visualization",
+        "SQL",
+        "Business Intelligence",
+        "Data Analysis",
+        "Dashboard Development",
+        "ETL Processes",
+        "Reporting",
+        "Financial Data Analysis",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Kalanithi K S",
+      "position": "Attended Bharathiar University",
+      "employee_id": "Man_037",
+      "skills": []
+    },
+    {
+      "name": "Farooq Abdullah",
+      "position": "Risk/fraud control unit at Manappuram Finance Limited",
+      "employee_id": "Man_038",
+      "skills": [
+        "Risk Management",
+        "Fraud Detection",
+        "Financial Analysis",
+        "Compliance",
+        "Data Analysis",
+        "Internal Controls",
+        "Audit Procedures",
+        "Regulatory Knowledge",
+        "Report Generation",
+        "Analytical Thinking"
+      ]
+    },
+    {
+      "name": "Arsil Vahora",
+      "position": "Area Manager at Manappuram Finance Limited",
+      "employee_id": "Man_039",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Budgeting",
+        "Microsoft Excel",
+        "Business Development",
+        "Operational Management"
+      ]
+    },
+    {
+      "name": "gururaj naik",
+      "position": "Mortgage Accounting Clerk at Manappuram Finance Limited",
+      "employee_id": "Man_040",
+      "skills": [
+        "Mortgage Processing",
+        "Accounting",
+        "Financial Reporting",
+        "Excel",
+        "Data Entry",
+        "Loan Documentation",
+        "Compliance",
+        "Customer Service",
+        "Financial Analysis",
+        "Attention to Detail"
+      ]
+    },
+    {
+      "name": "Raja Prabu",
+      "position": "Branch Head at MANAPPURAM FINANCE LIMITED",
+      "employee_id": "Man_041",
+      "skills": [
+        "Financial Management",
+        "Risk Assessment",
+        "Branch Operations",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Credit Analysis",
+        "Loan Processing",
+        "Compliance",
+        "Budgeting",
+        "Sales Strategy"
+      ]
+    },
+    {
+      "name": "Abin Paulose",
+      "position": "Business Analyst at Manappuram Finance | MBA Finance and Operations",
+      "employee_id": "Man_042",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Excel",
+        "Business Intelligence",
+        "Operations Management",
+        "Financial Reporting",
+        "Market Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "RAHUL MISHRA",
+      "position": "Regional Technical support Manager at Manappuram Finance ltd",
+      "employee_id": "Man_043",
+      "skills": [
+        "Technical Support",
+        "Finance Management",
+        "Customer Service",
+        "Problem Solving",
+        "Team Leadership",
+        "IT Infrastructure",
+        "Troubleshooting",
+        "Project Management",
+        "Communication Skills",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Vipin Venugopal",
+      "position": "Regional Manager at Manappuram Finance Limited",
+      "employee_id": "Man_044",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Budgeting",
+        "Strategic Planning",
+        "Sales Management",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Joshpar saleem",
+      "position": "BRANCH HEAD at Manappuram Finance Limited",
+      "employee_id": "Man_045",
+      "skills": [
+        "Financial Management",
+        "Risk Assessment",
+        "Branch Operations",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Sales Strategy",
+        "Credit Analysis",
+        "Loan Processing",
+        "Compliance",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "Dhananjay Gharat",
+      "position": "Credit Manager Mumbai Manappuram Finance Limited",
+      "employee_id": "Man_046",
+      "skills": [
+        "Credit Analysis",
+        "Risk Management",
+        "Financial Analysis",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Regulatory Compliance",
+        "Financial Reporting",
+        "Portfolio Management",
+        "Data Analysis",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "santhosh ramakrishnan",
+      "position": "Banking at Manappuram Finance Limited",
+      "employee_id": "Man_047",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Banking Operations",
+        "Customer Service",
+        "Loan Processing",
+        "Credit Analysis",
+        "Compliance",
+        "Financial Reporting",
+        "Microsoft Excel",
+        "Data Entry"
+      ]
+    },
+    {
+      "name": "Jegan Mohan",
+      "position": "loan",
+      "employee_id": "Man_048",
+      "skills": [
+        "Loan Processing",
+        "Credit Analysis",
+        "Financial Reporting",
+        "Risk Assessment",
+        "Customer Service",
+        "Compliance",
+        "Data Entry",
+        "Microsoft Excel",
+        "Financial Software",
+        "Documentation"
+      ]
+    },
+    {
+      "name": "Arjun Sreenivasan",
+      "position": "Attended Kerala University, Thiruvananthapuram",
+      "employee_id": "Man_049",
+      "skills": []
+    },
+    {
+      "name": "BINDU A L A L",
+      "position": "",
+      "employee_id": "Man_050",
+      "skills": []
+    },
+    {
+      "name": "MANU MS",
+      "position": "Tech Lead at Manappuram Finance Limited",
+      "employee_id": "Man_052",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Software Development",
+        "System Architecture",
+        "Team Collaboration",
+        "Agile Methodologies",
+        "Financial Software",
+        "Technical Documentation",
+        "Problem Solving",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "NITESH SAKRE",
+      "position": "Branch Manager at Manappuram Finance Limited",
+      "employee_id": "Man_053",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Branch Operations",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Team Leadership",
+        "Loan Processing",
+        "Credit Assessment",
+        "Compliance",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "vinit ranjan",
+      "position": "Manager Sales at Manappuram Finance Limited",
+      "employee_id": "Man_054",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management (CRM)",
+        "Financial Services",
+        "Market Analysis",
+        "Team Leadership",
+        "Negotiation",
+        "Strategic Planning",
+        "Business Development",
+        "Sales Forecasting",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "akash Vishnoi",
+      "position": "REGIONAL OPERATION HEAD",
+      "employee_id": "Man_055",
+      "skills": [
+        "Operations Management",
+        "Supply Chain Management",
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Process Improvement",
+        "Budgeting",
+        "Vendor Management",
+        "Data Analysis",
+        "Logistics"
+      ]
+    },
+    {
+      "name": "Joji Jose",
+      "position": "Branch manager at Manappuram Finance Limited",
+      "employee_id": "Man_056",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Branch Operations",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Sales Strategy",
+        "Credit Assessment",
+        "Loan Processing",
+        "Compliance",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Ajay kumar singh",
+      "position": "Manappuram Finance Limited",
+      "employee_id": "Man_057",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Data Entry",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Compliance",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "Ramesh Sanam",
+      "position": "Junior Assistant at manappuram finance limited",
+      "employee_id": "Man_058",
+      "skills": [
+        "Financial Analysis",
+        "Customer Service",
+        "Data Entry",
+        "Microsoft Excel",
+        "Loan Processing",
+        "Account Management",
+        "Document Verification",
+        "Banking Operations",
+        "Compliance",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Nishanth D A",
+      "position": "Senior Accountant at Manappuram Finance Limited",
+      "employee_id": "Man_059",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Taxation",
+        "Budgeting",
+        "Financial Reporting",
+        "Auditing",
+        "Excel",
+        "SAP",
+        "QuickBooks",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Elango K",
+      "position": "Manager at Manappuram Finance Limited",
+      "employee_id": "Man_060",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Budgeting",
+        "Customer Relationship Management (CRM)",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Strategic Planning",
+        "Credit Analysis",
+        "Loan Processing"
+      ]
+    },
+    {
+      "name": "Ashish Honrao",
+      "position": "Junior officer at Manappuram finance Limited",
+      "employee_id": "Man_061",
+      "skills": [
+        "Financial Analysis",
+        "Customer Service",
+        "Loan Processing",
+        "Credit Assessment",
+        "Risk Management",
+        "Microsoft Excel",
+        "Data Entry",
+        "Banking Software",
+        "Compliance",
+        "Report Generation"
+      ]
+    },
+    {
+      "name": "Sujit Das",
+      "position": "Finance at Manappuram Finance Limited",
+      "employee_id": "Man_062",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Budgeting",
+        "Accounting",
+        "Financial Reporting",
+        "Excel",
+        "SAP",
+        "Data Analysis",
+        "Forecasting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Aswathy Suresh",
+      "position": "Branch Manager at Manappuram Finance Limited",
+      "employee_id": "Man_063",
+      "skills": [
+        "Financial Management",
+        "Risk Assessment",
+        "Customer Relationship Management (CRM)",
+        "Team Leadership",
+        "Branch Operations",
+        "Sales Strategy",
+        "Loan Processing",
+        "Compliance",
+        "Budgeting",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "NUNE RAMESH",
+      "position": "branch collection head at manappuram finance limited",
+      "employee_id": "Man_064",
+      "skills": [
+        "Collections Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Relationship Management (CRM)",
+        "Debt Recovery",
+        "Loan Processing",
+        "Credit Evaluation",
+        "Data Management",
+        "Compliance",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Satyabrata Guin",
+      "position": "Manappuram finance limited at Manappuram Finance Limited",
+      "employee_id": "Man_066",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Financial Reporting",
+        "Regulatory Compliance",
+        "Microsoft Excel",
+        "Data Analysis",
+        "Accounting"
+      ]
+    },
+    {
+      "name": "SRUTHI P S",
+      "position": ".NET Core DEVELOPER AT MANAPPURAM FINANCE LTD | SOFTWARE ENGINEER | HUMANITARIAN TECHNOLOGY LABS",
+      "employee_id": "Man_067",
+      "skills": [
+        ".NET Core",
+        "C#",
+        "ASP.NET",
+        "SQL",
+        "Entity Framework",
+        "RESTful APIs",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Software Development"
+      ]
+    },
+    {
+      "name": "Rinkesh Patel",
+      "position": "SR Manager at Manappuram Finance Limited",
+      "employee_id": "Man_068",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Budgeting",
+        "Team Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Compliance",
+        "Financial Reporting",
+        "Excel",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Sanjay Singh",
+      "position": "--",
+      "employee_id": "Man_069",
+      "skills": []
+    },
+    {
+      "name": "Maruthi A H",
+      "position": "Sales Manager at Manappuram Finance Limited",
+      "employee_id": "Man_070",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management (CRM)",
+        "Financial Services",
+        "Market Analysis",
+        "Team Leadership",
+        "Negotiation",
+        "Business Development",
+        "Sales Forecasting",
+        "Microsoft Office",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "SRINIVAS UPPALA",
+      "position": "Manapuram at Manappuram Finance Limited",
+      "employee_id": "Man_071",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Financial Reporting",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Banking Operations"
+      ]
+    },
+    {
+      "name": "Bharath Kalyan",
+      "position": "Technologies oversight at Manappuram Finance Limited",
+      "employee_id": "Man_072",
+      "skills": [
+        "Technology Oversight",
+        "Financial Technology",
+        "Project Management",
+        "Risk Management",
+        "Data Analysis",
+        "Software Development",
+        "IT Infrastructure",
+        "Cybersecurity",
+        "Compliance",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "hari guddeti",
+      "position": "BRANCH HEAD at MANAPPURAM FINANCE LIMITED",
+      "employee_id": "Man_073",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Branch Operations",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Sales Strategy",
+        "Credit Assessment",
+        "Loan Processing",
+        "Compliance",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Justin Johny",
+      "position": "Finance Professional | Junior Assistant, Manappuram Finance | ACCA Aspirant | B.Com in Computer Applications | Passionate about Financial Analysis & Investment Banking",
+      "employee_id": "Man_074",
+      "skills": [
+        "Financial Analysis",
+        "Investment Banking",
+        "Accounting",
+        "Microsoft Excel",
+        "Financial Modeling",
+        "Data Analysis",
+        "Budgeting",
+        "Financial Reporting",
+        "Risk Management",
+        "Taxation"
+      ]
+    },
+    {
+      "name": "Sunitha Nr",
+      "position": "Branch Manager at Manappuram Finance Limited",
+      "employee_id": "Man_075",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Branch Operations",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Loan Processing",
+        "Compliance Management",
+        "Sales Strategy",
+        "Performance Monitoring",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "ravinder chennuri",
+      "position": "Banking Professional",
+      "employee_id": "Man_076",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Customer Relationship Management (CRM)",
+        "Banking Software",
+        "Compliance",
+        "Loan Processing",
+        "Credit Analysis",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Chintan Kanojiya",
+      "position": "Regional Sales Head",
+      "employee_id": "Man_077",
+      "skills": [
+        "Sales Strategy",
+        "Market Analysis",
+        "CRM Software",
+        "Team Leadership",
+        "Revenue Forecasting",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Sales Reporting",
+        "Business Development",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "JIJIN E H",
+      "position": "Software Test Engineer @Manappuram Finance Limited |Agile methodologies, API testing, Excel, Manual Testing, Automation Testing, SQL, DB Testing.",
+      "employee_id": "Man_078",
+      "skills": [
+        "Agile methodologies",
+        "API testing",
+        "Excel",
+        "Manual Testing",
+        "Automation Testing",
+        "SQL",
+        "DB Testing"
+      ]
+    },
+    {
+      "name": "Jithin V R",
+      "position": "Dotnet Developer at Manappuram Finance Limited",
+      "employee_id": "Man_079",
+      "skills": [
+        "C#",
+        ".NET Framework",
+        "ASP.NET",
+        "MVC",
+        "SQL Server",
+        "Entity Framework",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Web Services"
+      ]
+    },
+    {
+      "name": "Archana Raj",
+      "position": "Business Analyst at Manappuram Finance Limited",
+      "employee_id": "Man_080",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "SQL",
+        "Excel",
+        "Business Intelligence",
+        "Market Research",
+        "Report Generation",
+        "Project Management",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Snehal Dhabale",
+      "position": "Actively Looking for New Opportunity. Assistant Branch Head at Manappuram Finance Ltd.",
+      "employee_id": "Man_081",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Customer Service",
+        "Team Leadership",
+        "Branch Operations",
+        "Loan Processing",
+        "Compliance",
+        "Sales Strategy",
+        "Credit Assessment",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Akshaya P S",
+      "position": "Office Administrator at Manappuram Finance Limited",
+      "employee_id": "Man_082",
+      "skills": [
+        "Office Administration",
+        "Microsoft Office",
+        "Customer Service",
+        "Data Entry",
+        "Scheduling",
+        "Record Keeping",
+        "Communication Skills",
+        "Financial Services",
+        "Time Management",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Kamesh Tirumala",
+      "position": "Area Manager at Manappuram Finance Limited",
+      "employee_id": "Man_083",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Budgeting",
+        "Market Research",
+        "Performance Management",
+        "Microsoft Excel",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Ranjit Raul",
+      "position": "Project Manager at Manappuram Finance Limited",
+      "employee_id": "Man_084",
+      "skills": [
+        "Project Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Budgeting",
+        "Team Leadership",
+        "Microsoft Project",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "Strategic Planning",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Prasad Pradhan",
+      "position": "Head Of Operations at Manappuram Finance Limited",
+      "employee_id": "Man_085",
+      "skills": [
+        "Operations Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Process Improvement",
+        "Budgeting",
+        "Compliance",
+        "Project Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Manjunath Goudra",
+      "position": "Staff at Manappuram Finance Limited",
+      "employee_id": "Man_086",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Loan Processing",
+        "Customer Service",
+        "Microsoft Excel",
+        "Data Entry",
+        "Financial Reporting",
+        "Compliance",
+        "Banking Operations"
+      ]
+    },
+    {
+      "name": "Mukesh Kumar Chandra",
+      "position": "Regional Operations Manager at Manappuram Finance Limited",
+      "employee_id": "Man_087",
+      "skills": [
+        "Operations Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Project Management",
+        "Budgeting",
+        "Process Improvement",
+        "Customer Relationship Management (CRM)",
+        "Compliance",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Preeti Dubey",
+      "position": "Branch Manager at Manappuram Finance Limited",
+      "employee_id": "Man_088",
+      "skills": [
+        "Financial Management",
+        "Risk Assessment",
+        "Customer Relationship Management (CRM)",
+        "Team Leadership",
+        "Branch Operations",
+        "Loan Processing",
+        "Compliance",
+        "Sales Strategy",
+        "Budgeting",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "abhinand jayan",
+      "position": "Relationship Executive at Manappuram Finance Limited",
+      "employee_id": "Man_089",
+      "skills": [
+        "Customer Relationship Management",
+        "Sales",
+        "Financial Services",
+        "Client Communication",
+        "Market Analysis",
+        "Negotiation",
+        "Account Management",
+        "Customer Service",
+        "Loan Processing",
+        "Financial Advising"
+      ]
+    },
+    {
+      "name": "Anjitha Mohan",
+      "position": "Assistant at Manappuram Finance Limited",
+      "employee_id": "Man_090",
+      "skills": [
+        "Financial Analysis",
+        "Customer Service",
+        "Microsoft Excel",
+        "Data Entry",
+        "Loan Processing",
+        "Risk Assessment",
+        "Accounting",
+        "Compliance",
+        "Report Generation",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Kaushalendra Singh",
+      "position": "manappuram finance Limited",
+      "employee_id": "Man_091",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Financial Reporting",
+        "Compliance",
+        "Microsoft Excel",
+        "Data Analysis",
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Jobin C G",
+      "position": "Branch Head at Manappuram Finance limited",
+      "employee_id": "Man_092",
+      "skills": [
+        "Financial Management",
+        "Branch Operations",
+        "Customer Relationship Management",
+        "Risk Assessment",
+        "Team Leadership",
+        "Sales Strategy",
+        "Credit Analysis",
+        "Regulatory Compliance",
+        "Financial Reporting",
+        "Loan Processing"
+      ]
+    },
+    {
+      "name": "Maneesh Jain",
+      "position": "Regional collection Manager at Manappuram Finance Limited",
+      "employee_id": "Man_093",
+      "skills": [
+        "Debt Collection",
+        "Financial Analysis",
+        "Risk Management",
+        "Customer Relationship Management (CRM)",
+        "Credit Assessment",
+        "Team Leadership",
+        "Negotiation",
+        "Compliance",
+        "Reporting",
+        "Data Management"
+      ]
+    },
+    {
+      "name": "Siddhant Jaiswal",
+      "position": "Management Information System Officer @ Manappuram Finance Limited | Data Analysis, Reporting, Insights",
+      "employee_id": "Man_094",
+      "skills": [
+        "Data Analysis",
+        "Reporting",
+        "Insights",
+        "Management Information Systems",
+        "Excel",
+        "SQL",
+        "Business Intelligence",
+        "Financial Reporting",
+        "Data Visualization",
+        "Database Management"
+      ]
+    },
+    {
+      "name": "Divya CS",
+      "position": "Senior Assistant at Manappuram Finance Limited",
+      "employee_id": "Man_095",
+      "skills": [
+        "Financial Analysis",
+        "Customer Service",
+        "Loan Processing",
+        "Risk Assessment",
+        "Microsoft Excel",
+        "Data Entry",
+        "Compliance",
+        "Credit Evaluation",
+        "Account Management",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Seethal v s",
+      "position": "Software Test Engineer @ Manappuram Finance Limited | B Tech - computer science |Manual Testing| Automation Testing |Selenium Java | Postman| Swagger| PL/SQL| Regression Testing| Mobile APP Testing|",
+      "employee_id": "Man_096",
+      "skills": [
+        "Manual Testing",
+        "Automation Testing",
+        "Selenium Java",
+        "Postman",
+        "Swagger",
+        "PL/SQL",
+        "Regression Testing",
+        "Mobile APP Testing"
+      ]
+    },
+    {
+      "name": "vinod kattimani",
+      "position": "Operations Manager at Manappuram Finance Limited",
+      "employee_id": "Man_097",
+      "skills": [
+        "Operations Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Budgeting",
+        "Project Management",
+        "Customer Service",
+        "Data Analysis",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Priyanka Bajpai",
+      "position": "Sr assistant at Manappuram Finance Limited",
+      "employee_id": "Man_098",
+      "skills": [
+        "Financial Analysis",
+        "Customer Service",
+        "Loan Processing",
+        "Risk Assessment",
+        "Microsoft Excel",
+        "Data Entry",
+        "Compliance",
+        "Account Management",
+        "Credit Analysis",
+        "Banking Operations"
+      ]
+    },
+    {
+      "name": "ANJITHA K A",
+      "position": "QA Engineer @Manappuram Finance Limited|Manual testing|Automation testing",
+      "employee_id": "Man_099",
+      "skills": [
+        "Manual Testing",
+        "Automation Testing",
+        "Quality Assurance",
+        "Test Planning",
+        "Test Case Design",
+        "Bug Tracking",
+        "Regression Testing",
+        "Functional Testing",
+        "Selenium",
+        "JIRA"
+      ]
+    },
+    {
+      "name": "Dharmesh Dumaniya",
+      "position": "Gold Loan Officer at Manappuram Finance Limited",
+      "employee_id": "Man_100",
+      "skills": [
+        "Loan Processing",
+        "Customer Service",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Credit Evaluation",
+        "Compliance",
+        "Banking Software",
+        "Documentation",
+        "Market Research",
+        "Portfolio Management"
+      ]
+    }
+  ]
+}

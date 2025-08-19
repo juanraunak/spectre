@@ -1,0 +1,1677 @@
+{
+  "company_name": "Oracle",
+  "employees": [
+    {
+      "name": "Ketaki Vaidya",
+      "position": "Product Manager, Oracle Hospitality | Host of \"Personal Branding for Professionals\" Podcast | GHC'23 Speaker | EB1A Recipient",
+      "employee_id": "Ora_001",
+      "skills": [
+        "Product Management",
+        "Hospitality Industry Expertise",
+        "Personal Branding",
+        "Public Speaking",
+        "Podcast Hosting",
+        "Oracle Software",
+        "Project Management",
+        "Strategic Planning",
+        "Leadership",
+        "EB1A Visa Expertise"
+      ]
+    },
+    {
+      "name": "Vinay Kumar",
+      "position": "",
+      "employee_id": "Ora_002",
+      "skills": [
+        "SQL",
+        "Oracle Database",
+        "PL/SQL",
+        "Database Management",
+        "Performance Tuning",
+        "Data Warehousing",
+        "ETL Processes",
+        "Unix/Linux",
+        "Shell Scripting",
+        "Backup and Recovery"
+      ]
+    },
+    {
+      "name": "Scott Charter",
+      "position": "Oracle AI Strategy & Business Development",
+      "employee_id": "Ora_003",
+      "skills": [
+        "Oracle Database",
+        "AI Strategy",
+        "Business Development",
+        "Machine Learning",
+        "Data Analytics",
+        "SQL",
+        "Cloud Computing",
+        "Project Management",
+        "Enterprise Solutions",
+        "Big Data"
+      ]
+    },
+    {
+      "name": "Jenny Tsai",
+      "position": "",
+      "employee_id": "Ora_004",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Software Development Lifecycle",
+        "Team Leadership",
+        "Stakeholder Management",
+        "Risk Assessment",
+        "Budgeting",
+        "Resource Allocation",
+        "Quality Assurance",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Sovan Shatpathy",
+      "position": "",
+      "employee_id": "Ora_005",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "SQL",
+        "Web Development",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Debugging",
+        "Version Control",
+        "API Integration"
+      ]
+    },
+    {
+      "name": "Neil Sholay",
+      "position": "",
+      "employee_id": "Ora_006",
+      "skills": [
+        "Oracle Database",
+        "SQL",
+        "PL/SQL",
+        "Java",
+        "Database Management",
+        "Cloud Computing",
+        "Data Warehousing",
+        "Performance Tuning",
+        "Backup and Recovery",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Fritz Nelson",
+      "position": "",
+      "employee_id": "Ora_007",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Software Development",
+        "Team Leadership",
+        "Product Lifecycle Management",
+        "Stakeholder Communication",
+        "Risk Assessment",
+        "Quality Assurance",
+        "Budget Management",
+        "Resource Allocation"
+      ]
+    },
+    {
+      "name": "Kendall Dee (Fisher) Fier",
+      "position": "",
+      "employee_id": "Ora_008",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "SQL",
+        "Excel",
+        "Business Intelligence",
+        "Reporting",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Agile Methodologies",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Tirthankar Lahiri",
+      "position": "",
+      "employee_id": "Ora_009",
+      "skills": [
+        "Database Management",
+        "SQL",
+        "Oracle Database",
+        "PL/SQL",
+        "Performance Tuning",
+        "Data Warehousing",
+        "Backup and Recovery",
+        "Database Security",
+        "Cloud Computing",
+        "Big Data"
+      ]
+    },
+    {
+      "name": "Jim Hawkins",
+      "position": "",
+      "employee_id": "Ora_010",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "SQL",
+        "Git",
+        "API Development",
+        "Web Development",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Casey Medina",
+      "position": "",
+      "employee_id": "Ora_011",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Scrum",
+        "Team Leadership",
+        "Risk Management",
+        "Stakeholder Communication",
+        "Budgeting",
+        "Microsoft Project",
+        "JIRA",
+        "Resource Allocation"
+      ]
+    },
+    {
+      "name": "Hillel Cooperman \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "position": "",
+      "employee_id": "Ora_012",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Market Analysis",
+        "Client Relations",
+        "Sales Strategy",
+        "Negotiation",
+        "Product Management",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Georges Saab",
+      "position": "",
+      "employee_id": "Ora_013",
+      "skills": [
+        "Java",
+        "Software Development",
+        "Database Management",
+        "Cloud Computing",
+        "Agile Methodologies",
+        "System Architecture",
+        "API Development",
+        "Version Control",
+        "Troubleshooting",
+        "Technical Leadership"
+      ]
+    },
+    {
+      "name": "Pablo Sanchez",
+      "position": "",
+      "employee_id": "Ora_014",
+      "skills": [
+        "Oracle Database",
+        "SQL",
+        "PL/SQL",
+        "Database Management",
+        "Data Warehousing",
+        "Performance Tuning",
+        "Backup and Recovery",
+        "Unix/Linux",
+        "Shell Scripting",
+        "Database Security"
+      ]
+    },
+    {
+      "name": "David Allan",
+      "position": "",
+      "employee_id": "Ora_015",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Performance Analysis",
+        "Operational Efficiency",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "A.J. Perez",
+      "position": "",
+      "employee_id": "Ora_016",
+      "skills": [
+        "Java",
+        "SQL",
+        "Oracle Database",
+        "PL/SQL",
+        "Database Management",
+        "Data Analysis",
+        "Performance Tuning",
+        "Backup and Recovery",
+        "Linux",
+        "Shell Scripting"
+      ]
+    },
+    {
+      "name": "Jeff Welsch",
+      "position": "",
+      "employee_id": "Ora_017",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Microsoft Office",
+        "Problem Solving",
+        "Process Improvement",
+        "Performance Analysis"
+      ]
+    },
+    {
+      "name": "Chris Spencer",
+      "position": "",
+      "employee_id": "Ora_018",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Data Analysis",
+        "Web Development",
+        "API Integration",
+        "HTML",
+        "CSS",
+        "Project Management",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Nick Wagner",
+      "position": "Oracle Product Manager",
+      "employee_id": "Ora_019",
+      "skills": [
+        "Oracle Database",
+        "Product Management",
+        "SQL",
+        "PL/SQL",
+        "Database Design",
+        "Project Management",
+        "Business Analysis",
+        "Software Development Lifecycle",
+        "Agile Methodologies",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "name": "Brad Harkavy",
+      "position": "",
+      "employee_id": "Ora_020",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Market Analysis",
+        "Client Relations",
+        "Sales Strategy",
+        "Negotiation",
+        "Product Management",
+        "CRM Software"
+      ]
+    },
+    {
+      "name": "Mindy Jaffar HMC (FMF) ret.",
+      "position": "U.S. Military Talent Leader at Oracle",
+      "employee_id": "Ora_021",
+      "skills": [
+        "Leadership",
+        "Talent Acquisition",
+        "Military Operations",
+        "Project Management",
+        "Strategic Planning",
+        "Oracle Cloud",
+        "HR Management",
+        "Team Building",
+        "Communication",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Matt Munyan (he/him/his)",
+      "position": "Solution Engineering Manager at Oracle",
+      "employee_id": "Ora_022",
+      "skills": [
+        "Solution Architecture",
+        "Cloud Computing",
+        "Oracle Cloud Infrastructure",
+        "Database Management",
+        "Software Development",
+        "Technical Leadership",
+        "Systems Integration",
+        "Project Management",
+        "Enterprise Solutions",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "George Dawoud",
+      "position": "",
+      "employee_id": "Ora_023",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Performance Analysis",
+        "Resource Allocation",
+        "Problem Solving",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Stephen Streich",
+      "position": "",
+      "employee_id": "Ora_024",
+      "skills": [
+        "Project Management",
+        "Software Development",
+        "Agile Methodologies",
+        "Team Leadership",
+        "Product Management",
+        "Technical Documentation",
+        "Stakeholder Communication",
+        "Problem Solving",
+        "Strategic Planning",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Josh Hammer",
+      "position": "",
+      "employee_id": "Ora_026",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Microsoft Office Suite",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Jeff Ford",
+      "position": "Architect at Oracle",
+      "employee_id": "Ora_027",
+      "skills": [
+        "Software Architecture",
+        "Cloud Computing",
+        "Java",
+        "Database Design",
+        "Oracle Database",
+        "System Integration",
+        "Microservices",
+        "DevOps",
+        "Solution Design",
+        "Technical Leadership"
+      ]
+    },
+    {
+      "name": "Matt Ryanczak",
+      "position": "",
+      "employee_id": "Ora_028",
+      "skills": [
+        "Software Development",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Web Development",
+        "API Integration",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "Database Management",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Samir Dandekar",
+      "position": "",
+      "employee_id": "Ora_029",
+      "skills": [
+        "Software Development",
+        "Java",
+        "SQL",
+        "Oracle Database",
+        "PL/SQL",
+        "Database Management",
+        "System Design",
+        "Performance Tuning",
+        "Troubleshooting",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Kip Parent",
+      "position": "Group Vice President, CRM Systems, Oracle Applications Labs",
+      "employee_id": "Ora_030",
+      "skills": [
+        "CRM Systems",
+        "Oracle Applications",
+        "Database Management",
+        "Software Development",
+        "Project Management",
+        "Systems Integration",
+        "Business Analysis",
+        "Cloud Computing",
+        "SQL",
+        "Enterprise Resource Planning (ERP)"
+      ]
+    },
+    {
+      "name": "Sachin Menon",
+      "position": "",
+      "employee_id": "Ora_031",
+      "skills": [
+        "Project Management",
+        "Software Development",
+        "Agile Methodologies",
+        "Java",
+        "SQL",
+        "Cloud Computing",
+        "System Architecture",
+        "Team Leadership",
+        "Technical Documentation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Brendon Chase",
+      "position": "Experience Director at Oracle",
+      "employee_id": "Ora_032",
+      "skills": [
+        "Project Management",
+        "User Experience (UX) Design",
+        "Agile Methodologies",
+        "Product Development",
+        "Stakeholder Management",
+        "Data Analysis",
+        "Customer Journey Mapping",
+        "Wireframing",
+        "Prototyping",
+        "Usability Testing"
+      ]
+    },
+    {
+      "name": "Srinivas Vinnakota",
+      "position": "",
+      "employee_id": "Ora_033",
+      "skills": [
+        "Oracle Database",
+        "SQL",
+        "PL/SQL",
+        "Database Management",
+        "Performance Tuning",
+        "Backup and Recovery",
+        "Data Warehousing",
+        "Linux",
+        "Shell Scripting",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "name": "Sasha Singh",
+      "position": "SWE@Oracle|Computer Science @University of Utah| Womxn in STEM Advocate",
+      "employee_id": "Ora_034",
+      "skills": [
+        "Java",
+        "SQL",
+        "Python",
+        "Software Development",
+        "Algorithms",
+        "Data Structures",
+        "Cloud Computing",
+        "System Design",
+        "Debugging",
+        "Version Control"
+      ]
+    },
+    {
+      "name": "Michael Montecillo",
+      "position": "",
+      "employee_id": "Ora_035",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Team Leadership",
+        "Budgeting",
+        "Risk Management",
+        "Stakeholder Communication",
+        "Microsoft Office",
+        "Strategic Planning",
+        "Problem Solving",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Cristina Weir",
+      "position": "",
+      "employee_id": "Ora_036",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Microsoft Office",
+        "Problem Solving",
+        "Process Improvement",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Mike Nadeau",
+      "position": "",
+      "employee_id": "Ora_037",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Team Leadership",
+        "Stakeholder Communication",
+        "Risk Assessment",
+        "Budget Management",
+        "Microsoft Office Suite",
+        "Strategic Planning",
+        "Process Improvement",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Keshav Kiran",
+      "position": "",
+      "employee_id": "Ora_038",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Performance Monitoring",
+        "Resource Allocation",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Jason Peck",
+      "position": "",
+      "employee_id": "Ora_039",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Resource Allocation",
+        "Performance Monitoring",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Donald Kwan",
+      "position": "",
+      "employee_id": "Ora_040",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Scott Ichikawa",
+      "position": "Director of UX at Oracle Analytics / Educator",
+      "employee_id": "Ora_041",
+      "skills": [
+        "User Experience Design",
+        "UI/UX Design",
+        "Information Architecture",
+        "Interaction Design",
+        "Prototyping",
+        "Usability Testing",
+        "Adobe XD",
+        "Sketch",
+        "Figma",
+        "Design Thinking"
+      ]
+    },
+    {
+      "name": "John Mark Troyer",
+      "position": "",
+      "employee_id": "Ora_042",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "SQL",
+        "Cloud Computing",
+        "Agile Methodologies",
+        "Project Management",
+        "System Architecture",
+        "Database Management",
+        "API Integration"
+      ]
+    },
+    {
+      "name": "Anju Krishnamurthy",
+      "position": "Director of Software Engineering @ Oracle Cloud Infrastructure",
+      "employee_id": "Ora_043",
+      "skills": [
+        "Cloud Computing",
+        "Software Development",
+        "Java",
+        "Python",
+        "Agile Methodologies",
+        "DevOps",
+        "Microservices Architecture",
+        "Kubernetes",
+        "Distributed Systems",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Daniel Peterson",
+      "position": "",
+      "employee_id": "Ora_044",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Scrum",
+        "Software Development",
+        "Team Leadership",
+        "Stakeholder Management",
+        "Risk Assessment",
+        "Quality Assurance",
+        "Process Improvement",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Colin Schmidt",
+      "position": "",
+      "employee_id": "Ora_045",
+      "skills": [
+        "Software Development",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "Web Development",
+        "API Integration",
+        "Debugging"
+      ]
+    },
+    {
+      "name": "Thad Allen",
+      "position": "Executive Advisor at Oracle",
+      "employee_id": "Ora_046",
+      "skills": [
+        "Strategic Planning",
+        "Business Development",
+        "Leadership",
+        "Project Management",
+        "Enterprise Software",
+        "Oracle Cloud",
+        "IT Strategy",
+        "Change Management",
+        "Stakeholder Engagement",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Abhinav Mishra",
+      "position": "SDE at Oracle Cloud Infrastructure | Imperial College London",
+      "employee_id": "Ora_047",
+      "skills": [
+        "Cloud Computing",
+        "Java",
+        "Python",
+        "Linux",
+        "Networking",
+        "Distributed Systems",
+        "Kubernetes",
+        "Docker",
+        "CI/CD",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "Ravi Chablani",
+      "position": "",
+      "employee_id": "Ora_048",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Vendor Management",
+        "Risk Assessment",
+        "Quality Assurance",
+        "Process Improvement",
+        "Stakeholder Communication",
+        "Resource Allocation"
+      ]
+    },
+    {
+      "name": "Neil Shea",
+      "position": "",
+      "employee_id": "Ora_049",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Microsoft Office",
+        "Data Analysis",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Larry Cable",
+      "position": "",
+      "employee_id": "Ora_050",
+      "skills": [
+        "Project Management",
+        "Software Development",
+        "Agile Methodologies",
+        "Java",
+        "SQL",
+        "Cloud Computing",
+        "System Architecture",
+        "Technical Support",
+        "Troubleshooting",
+        "IT Infrastructure"
+      ]
+    },
+    {
+      "name": "Cristina Weir",
+      "position": "",
+      "employee_id": "Ora_051",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Management",
+        "Stakeholder Communication",
+        "Microsoft Office",
+        "Data Analysis",
+        "Problem Solving",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Allyson Teague",
+      "position": "",
+      "employee_id": "Ora_052",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Scrum",
+        "Stakeholder Management",
+        "Risk Assessment",
+        "Resource Allocation",
+        "Microsoft Project",
+        "JIRA",
+        "Budgeting",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Dan Norris",
+      "position": "Director, Security and Compliance, Database Cloud Services at Oracle | CISSP, CCSP",
+      "employee_id": "Ora_053",
+      "skills": [
+        "Security Management",
+        "Compliance",
+        "Cloud Services",
+        "Database Management",
+        "CISSP",
+        "CCSP",
+        "Risk Assessment",
+        "Incident Response",
+        "Data Protection",
+        "Threat Analysis"
+      ]
+    },
+    {
+      "name": "Ashok P.",
+      "position": "",
+      "employee_id": "Ora_054",
+      "skills": [
+        "Database Management",
+        "SQL",
+        "Oracle",
+        "PL/SQL",
+        "Data Warehousing",
+        "Performance Tuning",
+        "Backup and Recovery",
+        "Unix/Linux",
+        "Shell Scripting",
+        "ETL Processes"
+      ]
+    },
+    {
+      "name": "Ross Miller",
+      "position": "",
+      "employee_id": "Ora_055",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "Agile Methodologies",
+        "Java",
+        "Python",
+        "SQL",
+        "Cloud Computing",
+        "System Architecture",
+        "API Development",
+        "Version Control"
+      ]
+    },
+    {
+      "name": "Brendon Chase",
+      "position": "Experience Director at Oracle",
+      "employee_id": "Ora_056",
+      "skills": [
+        "Project Management",
+        "User Experience (UX) Design",
+        "Customer Experience (CX) Strategy",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "Team Leadership",
+        "Product Development",
+        "Market Research",
+        "Data Analytics",
+        "Oracle Cloud"
+      ]
+    },
+    {
+      "name": "Fatih Keles",
+      "position": "Solutions Architect @ Oracle | Architecting cloud and hybrid solutions with Oracle Technologies",
+      "employee_id": "Ora_057",
+      "skills": [
+        "Cloud Architecture",
+        "Hybrid Solutions",
+        "Oracle Cloud",
+        "Solution Design",
+        "Infrastructure Management",
+        "Database Management",
+        "Enterprise Solutions",
+        "Cloud Security",
+        "System Integration",
+        "Technical Leadership"
+      ]
+    },
+    {
+      "name": "Anju Krishnamurthy",
+      "position": "Director of Software Engineering @ Oracle Cloud Infrastructure",
+      "employee_id": "Ora_058",
+      "skills": [
+        "Cloud Computing",
+        "Software Development",
+        "Java",
+        "Python",
+        "DevOps",
+        "Agile Methodologies",
+        "System Architecture",
+        "Microservices",
+        "Kubernetes",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "John Mark Troyer",
+      "position": "",
+      "employee_id": "Ora_059",
+      "skills": [
+        "Java",
+        "SQL",
+        "Oracle Database",
+        "PL/SQL",
+        "Database Management",
+        "Data Warehousing",
+        "Performance Tuning",
+        "Backup and Recovery",
+        "Unix/Linux",
+        "Shell Scripting"
+      ]
+    },
+    {
+      "name": "Brendan Doyle",
+      "position": "",
+      "employee_id": "Ora_060",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Scrum",
+        "Stakeholder Management",
+        "Risk Assessment",
+        "Budgeting",
+        "Resource Allocation",
+        "Microsoft Project",
+        "JIRA",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Colin McComb",
+      "position": "",
+      "employee_id": "Ora_061",
+      "skills": []
+    },
+    {
+      "name": "Noah Sferra",
+      "position": "",
+      "employee_id": "Ora_062",
+      "skills": [
+        "Project Management",
+        "Software Development",
+        "Agile Methodologies",
+        "Team Leadership",
+        "Product Management",
+        "Technical Documentation",
+        "Quality Assurance",
+        "Stakeholder Communication",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Abel Macias",
+      "position": "",
+      "employee_id": "Ora_063",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "SQL",
+        "Web Development",
+        "Agile Methodologies",
+        "Git",
+        "RESTful APIs",
+        "Cloud Computing",
+        "Debugging"
+      ]
+    },
+    {
+      "name": "Jill Whitmore",
+      "position": "",
+      "employee_id": "Ora_064",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "Budgeting",
+        "Team Leadership",
+        "Risk Assessment",
+        "Microsoft Office Suite",
+        "Process Improvement",
+        "Strategic Planning",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Dan Norris",
+      "position": "Director, Security and Compliance, Database Cloud Services at Oracle | CISSP, CCSP",
+      "employee_id": "Ora_065",
+      "skills": [
+        "Security Management",
+        "Compliance",
+        "Cloud Services",
+        "Database Management",
+        "CISSP",
+        "CCSP",
+        "Risk Assessment",
+        "Cybersecurity",
+        "Data Protection",
+        "Threat Analysis"
+      ]
+    },
+    {
+      "name": "John Burns",
+      "position": "",
+      "employee_id": "Ora_066",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Scrum",
+        "Stakeholder Management",
+        "Risk Assessment",
+        "Budgeting",
+        "Resource Allocation",
+        "Microsoft Project",
+        "JIRA",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Cait Moran",
+      "position": "",
+      "employee_id": "Ora_067",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Team Leadership",
+        "Stakeholder Management",
+        "Budgeting",
+        "Risk Assessment",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "David Peake",
+      "position": "",
+      "employee_id": "Ora_068",
+      "skills": [
+        "Database Management",
+        "SQL",
+        "Oracle Database",
+        "PL/SQL",
+        "Data Warehousing",
+        "Performance Tuning",
+        "Backup and Recovery",
+        "Linux",
+        "Shell Scripting",
+        "Data Migration"
+      ]
+    },
+    {
+      "name": "Kyle McGraw",
+      "position": "Principal Solution Engineer at Oracle",
+      "employee_id": "Ora_069",
+      "skills": [
+        "Cloud Computing",
+        "Oracle Database",
+        "Solution Architecture",
+        "Java",
+        "SQL",
+        "Enterprise Software",
+        "Systems Integration",
+        "Technical Consulting",
+        "Data Management",
+        "Software Development"
+      ]
+    },
+    {
+      "name": "Ross Sharrott",
+      "position": "",
+      "employee_id": "Ora_070",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "Agile Methodologies",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Database Management",
+        "API Development",
+        "Cloud Computing",
+        "Version Control"
+      ]
+    },
+    {
+      "name": "Ashok P.",
+      "position": "",
+      "employee_id": "Ora_071",
+      "skills": [
+        "SQL",
+        "Oracle Database",
+        "PL/SQL",
+        "Database Management",
+        "Data Warehousing",
+        "Performance Tuning",
+        "Backup and Recovery",
+        "Unix/Linux",
+        "Shell Scripting",
+        "Data Migration"
+      ]
+    },
+    {
+      "name": "Taylor Murphy",
+      "position": "",
+      "employee_id": "Ora_072",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Scrum",
+        "Stakeholder Management",
+        "Risk Assessment",
+        "Budgeting",
+        "Resource Allocation",
+        "Microsoft Project",
+        "JIRA",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Gaurava Srivastava",
+      "position": "",
+      "employee_id": "Ora_073",
+      "skills": [
+        "Project Management",
+        "Software Development",
+        "Agile Methodologies",
+        "Java",
+        "SQL",
+        "System Design",
+        "Cloud Computing",
+        "Team Leadership",
+        "Problem Solving",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Ross Miller",
+      "position": "",
+      "employee_id": "Ora_074",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Process Improvement",
+        "Microsoft Office",
+        "Agile Methodologies",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Paddy Krishnan",
+      "position": "Director, Research at Oracle Labs Australia",
+      "employee_id": "Ora_075",
+      "skills": [
+        "Research and Development",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Data Science",
+        "Software Engineering",
+        "Cloud Computing",
+        "Big Data",
+        "Algorithm Design",
+        "Technical Leadership",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Ben Carpenter",
+      "position": "I tell stories about humans working with other humans @Oracle @NetSuite",
+      "employee_id": "Ora_076",
+      "skills": [
+        "Storytelling",
+        "Human Resources",
+        "Employee Engagement",
+        "Communication",
+        "Oracle NetSuite",
+        "Content Creation",
+        "Public Speaking",
+        "Social Media Management",
+        "Marketing",
+        "Brand Management"
+      ]
+    },
+    {
+      "name": "Debapriya Nandan",
+      "position": "Sr. Director - Cloud Business at Oracle India Pvt. Ltd",
+      "employee_id": "Ora_077",
+      "skills": [
+        "Cloud Computing",
+        "Enterprise Software",
+        "IT Strategy",
+        "Business Development",
+        "Project Management",
+        "Sales Leadership",
+        "Customer Relationship Management (CRM)",
+        "Solution Architecture",
+        "Technical Sales",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Gaurav Narasimhan",
+      "position": "",
+      "employee_id": "Ora_078",
+      "skills": [
+        "Project Management",
+        "Communication",
+        "Team Leadership",
+        "Strategic Planning",
+        "Problem Solving",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Microsoft Office",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Girish Ahuja",
+      "position": "",
+      "employee_id": "Ora_079",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "SQL",
+        "Web Development",
+        "Agile Methodologies",
+        "Cloud Computing",
+        "API Integration",
+        "Version Control",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Barry Waldbaum",
+      "position": "",
+      "employee_id": "Ora_080",
+      "skills": [
+        "Software Development",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Web Development",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "API Integration",
+        "Problem Solving",
+        "Debugging"
+      ]
+    },
+    {
+      "name": "Chris Hoina",
+      "position": "Senior Product Manager @ Oracle",
+      "employee_id": "Ora_081",
+      "skills": [
+        "Product Management",
+        "Agile Methodologies",
+        "Scrum",
+        "User Experience (UX) Design",
+        "Market Research",
+        "Roadmap Planning",
+        "Stakeholder Management",
+        "Data Analysis",
+        "Project Management",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Joel Finks",
+      "position": "ISV Strategic Pursuits, Customer Success @ Oracle | ERP, Cloud, AI/ML, CRM, Consulting, Partner",
+      "employee_id": "Ora_082",
+      "skills": [
+        "ERP",
+        "Cloud Computing",
+        "AI/ML",
+        "CRM",
+        "Consulting",
+        "Customer Success",
+        "Partner Management",
+        "Strategic Pursuits",
+        "Oracle Software",
+        "ISV"
+      ]
+    },
+    {
+      "name": "Dave Profozich",
+      "position": "",
+      "employee_id": "Ora_083",
+      "skills": [
+        "Project Management",
+        "Oracle Database",
+        "SQL",
+        "Data Analysis",
+        "Business Intelligence",
+        "ERP Systems",
+        "Cloud Computing",
+        "Technical Support",
+        "Software Development",
+        "System Integration"
+      ]
+    },
+    {
+      "name": "Reza B'Far",
+      "position": "Group Vice President of Development at Oracle",
+      "employee_id": "Ora_084",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Database Management",
+        "Cloud Computing",
+        "Agile Methodologies",
+        "Project Management",
+        "Oracle Database",
+        "System Architecture",
+        "Team Leadership",
+        "DevOps"
+      ]
+    },
+    {
+      "name": "Alfred Cervantes",
+      "position": "Helping Constructors Deliver On-Time & Under Budget @ Oracle | Experienced Manager and Lover of People",
+      "employee_id": "Ora_085",
+      "skills": [
+        "Project Management",
+        "Budgeting",
+        "Construction Management",
+        "Scheduling",
+        "Oracle Software",
+        "Team Leadership",
+        "Risk Management",
+        "Vendor Management",
+        "Process Improvement",
+        "Stakeholder Communication"
+      ]
+    },
+    {
+      "name": "Matthew Hartman",
+      "position": "",
+      "employee_id": "Ora_086",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "Agile Methodologies",
+        "JavaScript",
+        "Python",
+        "SQL",
+        "Cloud Computing",
+        "DevOps",
+        "System Architecture",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Anthony Alleven",
+      "position": "Senior Manager at Oracle",
+      "employee_id": "Ora_087",
+      "skills": [
+        "Oracle Database",
+        "SQL",
+        "Project Management",
+        "Cloud Computing",
+        "Data Analytics",
+        "Enterprise Software",
+        "Leadership",
+        "Business Intelligence",
+        "Database Management",
+        "Software Development"
+      ]
+    },
+    {
+      "name": "Karthik Kothandaraman",
+      "position": "",
+      "employee_id": "Ora_088",
+      "skills": [
+        "SQL",
+        "Oracle Database",
+        "PL/SQL",
+        "Database Management",
+        "Data Warehousing",
+        "Performance Tuning",
+        "Backup and Recovery",
+        "Data Migration",
+        "Unix/Linux",
+        "Shell Scripting"
+      ]
+    },
+    {
+      "name": "Matt Milella",
+      "position": "",
+      "employee_id": "Ora_089",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Process Improvement",
+        "Resource Allocation",
+        "Performance Monitoring",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Roger W. Thomas",
+      "position": "",
+      "employee_id": "Ora_090",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Team Leadership",
+        "Stakeholder Management",
+        "Budgeting",
+        "Risk Assessment",
+        "Microsoft Office Suite",
+        "Communication Skills",
+        "Strategic Planning",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Dustin Eden",
+      "position": "",
+      "employee_id": "Ora_091",
+      "skills": [
+        "Software Development",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "Web Development",
+        "Git",
+        "Agile Methodologies",
+        "API Integration"
+      ]
+    },
+    {
+      "name": "Biswajit Basu",
+      "position": "",
+      "employee_id": "Ora_092",
+      "skills": [
+        "Software Development",
+        "Java",
+        "SQL",
+        "Oracle Database",
+        "System Design",
+        "Agile Methodologies",
+        "Problem Solving",
+        "Technical Documentation",
+        "Debugging",
+        "Version Control"
+      ]
+    },
+    {
+      "name": "Anders Swanson",
+      "position": "",
+      "employee_id": "Ora_093",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "Agile Methodologies",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Database Management",
+        "API Development",
+        "Version Control (Git)",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Andrew Smith",
+      "position": "",
+      "employee_id": "Ora_094",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Software Development",
+        "Team Leadership",
+        "Risk Management",
+        "Budgeting",
+        "Stakeholder Communication",
+        "Process Improvement",
+        "Quality Assurance",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Elizabeth (Liza) Barnett",
+      "position": "",
+      "employee_id": "Ora_095",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Team Leadership",
+        "Budgeting",
+        "Stakeholder Management",
+        "Risk Assessment",
+        "Microsoft Office Suite",
+        "Communication Skills",
+        "Problem Solving",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Prasad Thota",
+      "position": "",
+      "employee_id": "Ora_096",
+      "skills": [
+        "Database Management",
+        "SQL",
+        "Oracle",
+        "PL/SQL",
+        "Data Warehousing",
+        "Performance Tuning",
+        "Backup and Recovery",
+        "Linux",
+        "Shell Scripting",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "name": "Richard Evans",
+      "position": "Oracle Database Security Product Manager | Host of AskTom Oracle DB Security Office Hours",
+      "employee_id": "Ora_097",
+      "skills": [
+        "Oracle Database",
+        "Database Security",
+        "Product Management",
+        "SQL",
+        "PL/SQL",
+        "Data Encryption",
+        "Access Control",
+        "Risk Assessment",
+        "Security Compliance",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "Mikael Vidstedt",
+      "position": "Senior Director, Java Virtual Machine at Oracle",
+      "employee_id": "Ora_098",
+      "skills": [
+        "Java",
+        "Java Virtual Machine (JVM)",
+        "Software Development",
+        "Performance Optimization",
+        "Garbage Collection",
+        "Concurrency",
+        "Oracle Database",
+        "System Architecture",
+        "Troubleshooting",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Jason Duncan-Wilson",
+      "position": "",
+      "employee_id": "Ora_099",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Scrum",
+        "Stakeholder Management",
+        "Risk Assessment",
+        "Budgeting",
+        "Resource Allocation",
+        "Microsoft Project",
+        "Team Leadership",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Mackenzie Kaplan",
+      "position": "Giving & Social Impact at Oracle",
+      "employee_id": "Ora_100",
+      "skills": [
+        "Corporate Social Responsibility",
+        "Stakeholder Engagement",
+        "Project Management",
+        "Data Analysis",
+        "Impact Assessment",
+        "Community Outreach",
+        "Grant Writing",
+        "Social Media Management",
+        "Event Planning",
+        "Public Relations"
+      ]
+    }
+  ]
+}

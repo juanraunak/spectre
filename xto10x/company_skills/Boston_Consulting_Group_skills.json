@@ -1,0 +1,1485 @@
+{
+  "company_name": "Boston Consulting Group",
+  "employees": [
+    {
+      "name": "Rich Lesser",
+      "position": "Global Chair at Boston Consulting Group (BCG)",
+      "employee_id": "Bos_001",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Strategy",
+        "Leadership",
+        "Market Analysis",
+        "Financial Analysis",
+        "Project Management",
+        "Client Relations",
+        "Change Management",
+        "Performance Improvement"
+      ]
+    },
+    {
+      "name": "David Lozzi",
+      "position": "",
+      "employee_id": "Bos_002",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Client Relations",
+        "Market Analysis",
+        "Sales Strategy",
+        "Negotiation",
+        "CRM Software",
+        "Budget Management"
+      ]
+    },
+    {
+      "name": "Pablo Soto",
+      "position": "Incoming Associate at Boston Consulting Group",
+      "employee_id": "Bos_003",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Business Strategy",
+        "Market Research",
+        "Project Management",
+        "Consulting",
+        "Excel",
+        "PowerPoint",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Erik Olson",
+      "position": "",
+      "employee_id": "Bos_004",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Microsoft Office",
+        "Data Analysis",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Allison Bailey",
+      "position": "",
+      "employee_id": "Bos_005",
+      "skills": []
+    },
+    {
+      "name": "Tom Balish",
+      "position": "Global Treasurer and Executive Director at Boston Consulting Group (BCG)",
+      "employee_id": "Bos_006",
+      "skills": [
+        "Financial Analysis",
+        "Treasury Management",
+        "Risk Management",
+        "Corporate Finance",
+        "Strategic Planning",
+        "Cash Flow Management",
+        "Investment Strategies",
+        "Budgeting",
+        "Financial Reporting",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Jon Kaplan",
+      "position": "",
+      "employee_id": "Bos_007",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Strategic Planning",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving",
+        "Negotiation",
+        "Time Management",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "David Webb",
+      "position": "",
+      "employee_id": "Bos_008",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Microsoft Office Suite",
+        "Negotiation",
+        "Business Development",
+        "Market Analysis",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Philip Panaro",
+      "position": "",
+      "employee_id": "Bos_009",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Microsoft Office Suite",
+        "Negotiation",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Performance Analysis"
+      ]
+    },
+    {
+      "name": "Vladimir Lukic",
+      "position": "",
+      "employee_id": "Bos_010",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Performance Monitoring",
+        "Resource Allocation",
+        "Process Improvement",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Maggie Orr",
+      "position": "Managing Director and Partner at Boston Consulting Group (BCG) | Boston Office Lead",
+      "employee_id": "Bos_011",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Development",
+        "Leadership",
+        "Project Management",
+        "Financial Analysis",
+        "Market Research",
+        "Client Relationship Management",
+        "Operational Efficiency",
+        "Team Building"
+      ]
+    },
+    {
+      "name": "Chris Bowers",
+      "position": "",
+      "employee_id": "Bos_012",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Microsoft Office",
+        "Negotiation",
+        "Problem Solving",
+        "Communication",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Sharon Marcil",
+      "position": "",
+      "employee_id": "Bos_013",
+      "skills": []
+    },
+    {
+      "name": "Julia Howarth",
+      "position": "Associate at Boston Consulting Group",
+      "employee_id": "Bos_014",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Project Management",
+        "Consulting",
+        "Market Research",
+        "Business Strategy",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Steve Mills",
+      "position": "",
+      "employee_id": "Bos_015",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Strategic Planning",
+        "Microsoft Office",
+        "Negotiation",
+        "Risk Management",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Performance Analysis"
+      ]
+    },
+    {
+      "name": "Masha Ostrovsky",
+      "position": "",
+      "employee_id": "Bos_016",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Process Improvement",
+        "Stakeholder Communication",
+        "Risk Assessment",
+        "Performance Metrics",
+        "Resource Allocation",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Jennifer FitzMaurice",
+      "position": "",
+      "employee_id": "Bos_017",
+      "skills": []
+    },
+    {
+      "name": "Nidhi Sinha",
+      "position": "",
+      "employee_id": "Bos_018",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Process Improvement",
+        "Microsoft Office Suite",
+        "Data Analysis",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Josh Sweet",
+      "position": "Associate at Boston Consulting Group",
+      "employee_id": "Bos_019",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Strategic Planning",
+        "Business Consulting",
+        "Market Research",
+        "Excel",
+        "PowerPoint",
+        "Project Management",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Sergio R.",
+      "position": "",
+      "employee_id": "Bos_020",
+      "skills": []
+    },
+    {
+      "name": "Suchi Srinivasan",
+      "position": "",
+      "employee_id": "Bos_021",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Stakeholder Communication",
+        "Process Improvement",
+        "Risk Assessment",
+        "Performance Metrics",
+        "Resource Allocation",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Jean Whitney",
+      "position": "IT Director Product Owner at The Boston Consulting Group (BCG)",
+      "employee_id": "Bos_022",
+      "skills": [
+        "Product Management",
+        "Agile Methodologies",
+        "Scrum",
+        "IT Strategy",
+        "Project Management",
+        "Stakeholder Management",
+        "Business Analysis",
+        "Software Development Lifecycle",
+        "Technical Leadership",
+        "Data Analytics"
+      ]
+    },
+    {
+      "name": "Sayra Butterfield",
+      "position": "",
+      "employee_id": "Bos_023",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Process Improvement",
+        "Microsoft Office",
+        "Risk Assessment",
+        "Performance Analysis",
+        "Stakeholder Communication",
+        "Resource Allocation"
+      ]
+    },
+    {
+      "name": "Neal Zuckerman",
+      "position": "",
+      "employee_id": "Bos_024",
+      "skills": [
+        "Project Management",
+        "Strategic Planning",
+        "Business Analysis",
+        "Financial Analysis",
+        "Market Research",
+        "Leadership",
+        "Microsoft Excel",
+        "Negotiation",
+        "Problem Solving",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Christopher Gorman",
+      "position": "",
+      "employee_id": "Bos_025",
+      "skills": []
+    },
+    {
+      "name": "Payal Sheth",
+      "position": "",
+      "employee_id": "Bos_026",
+      "skills": []
+    },
+    {
+      "name": "Bhavana Swaminathan, PhD",
+      "position": "Principal at Boston Consulting Group (BCG)",
+      "employee_id": "Bos_027",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Analysis",
+        "Financial Modeling",
+        "Data Analysis",
+        "Project Management",
+        "Market Research",
+        "Competitive Analysis",
+        "Client Relationship Management",
+        "Operational Improvement"
+      ]
+    },
+    {
+      "name": "Paul Michelman",
+      "position": "",
+      "employee_id": "Bos_028",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Stakeholder Communication",
+        "Risk Assessment",
+        "Performance Monitoring",
+        "Microsoft Office",
+        "Business Development",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Thomas Lutz",
+      "position": "",
+      "employee_id": "Bos_029",
+      "skills": [
+        "Project Management",
+        "Budgeting",
+        "Team Leadership",
+        "Strategic Planning",
+        "Microsoft Office",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Performance Analysis",
+        "Resource Allocation"
+      ]
+    },
+    {
+      "name": "Brian Barnett",
+      "position": "Global Real Estate Director at Boston Consulting Group (BCG)",
+      "employee_id": "Bos_030",
+      "skills": [
+        "Real Estate Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Contract Negotiation",
+        "Portfolio Management",
+        "Investment Analysis",
+        "Risk Assessment",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Corrie Predmore Maguire",
+      "position": "",
+      "employee_id": "Bos_031",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Strategic Planning",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management",
+        "Negotiation",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Kimberly Mendez",
+      "position": "Principal at Boston Consulting Group (BCG)",
+      "employee_id": "Bos_032",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Financial Modeling",
+        "Project Management",
+        "Market Research",
+        "Data Analysis",
+        "Client Relations",
+        "Leadership",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Nicole Bennett",
+      "position": "",
+      "employee_id": "Bos_033",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Microsoft Office",
+        "Data Analysis",
+        "Risk Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Tom Tustin",
+      "position": "",
+      "employee_id": "Bos_034",
+      "skills": []
+    },
+    {
+      "name": "Vivian Lee",
+      "position": "Managing Director & Partner at Boston Consulting Group (BCG) | Power & Utilities (Renewables & Operations), Digital Product Build",
+      "employee_id": "Bos_035",
+      "skills": [
+        "Renewable Energy",
+        "Operations Management",
+        "Digital Product Development",
+        "Strategic Planning",
+        "Project Management",
+        "Consulting",
+        "Business Development",
+        "Leadership",
+        "Market Analysis",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Aakash Arora",
+      "position": "",
+      "employee_id": "Bos_036",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Market Analysis",
+        "Sales Strategy",
+        "Customer Relationship Management (CRM)",
+        "Negotiation",
+        "Budgeting",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Hillary Child",
+      "position": "Principal at Boston Consulting Group (BCG)",
+      "employee_id": "Bos_037",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Analysis",
+        "Financial Modeling",
+        "Market Research",
+        "Project Management",
+        "Data Analysis",
+        "Client Relationship Management",
+        "Leadership",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Luke Pototschnik",
+      "position": "",
+      "employee_id": "Bos_038",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Microsoft Office",
+        "Negotiation",
+        "Problem Solving",
+        "Communication",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Paras Goyal",
+      "position": "",
+      "employee_id": "Bos_039",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Analysis",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Budgeting",
+        "Risk Assessment",
+        "Microsoft Office",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Eric Levey",
+      "position": "",
+      "employee_id": "Bos_040",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Microsoft Office",
+        "Negotiation",
+        "Problem Solving",
+        "Communication",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Susan Grimbilas",
+      "position": "",
+      "employee_id": "Bos_041",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Process Improvement",
+        "Microsoft Office",
+        "Data Analysis",
+        "Stakeholder Communication",
+        "Performance Tracking"
+      ]
+    },
+    {
+      "name": "Tyler Pringle",
+      "position": "",
+      "employee_id": "Bos_042",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Strategic Planning",
+        "Microsoft Office",
+        "Negotiation",
+        "Problem Solving",
+        "Communication Skills",
+        "Time Management",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Paul Michelman",
+      "position": "",
+      "employee_id": "Bos_043",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Microsoft Office",
+        "Data Analysis",
+        "Communication",
+        "Problem Solving",
+        "Time Management",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Mark Connelly",
+      "position": "",
+      "employee_id": "Bos_044",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Microsoft Office",
+        "Business Analysis",
+        "Process Improvement",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Suchi Srinivasan",
+      "position": "",
+      "employee_id": "Bos_045",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Microsoft Office",
+        "Data Analysis",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Laura Juliano",
+      "position": "",
+      "employee_id": "Bos_046",
+      "skills": []
+    },
+    {
+      "name": "Andy Kaufmann",
+      "position": "Principal at Boston Consulting Group (BCG)",
+      "employee_id": "Bos_047",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Financial Modeling",
+        "Market Research",
+        "Project Management",
+        "Data Analysis",
+        "Client Relations",
+        "Problem Solving",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Taylor C. Robertson",
+      "position": "Associate at Boston Consulting Group",
+      "employee_id": "Bos_048",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Consulting",
+        "Business Strategy",
+        "Market Research",
+        "Excel",
+        "PowerPoint",
+        "Project Management",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Thomas Baker",
+      "position": "",
+      "employee_id": "Bos_049",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Microsoft Office",
+        "Negotiation",
+        "Problem Solving",
+        "Communication",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Parmeet Grover",
+      "position": "Senior Partner & Managing Director at The Boston Consulting Group (BCG) | Board Member | Investor",
+      "employee_id": "Bos_050",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Development",
+        "Financial Analysis",
+        "Leadership",
+        "Investment Strategies",
+        "Corporate Governance",
+        "Market Research",
+        "Project Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Gerri Elliott",
+      "position": "",
+      "employee_id": "Bos_051",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Project Management",
+        "Sales Strategy",
+        "Market Analysis",
+        "Team Management",
+        "Negotiation",
+        "Customer Relationship Management",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "John Knapp",
+      "position": "Managing Director and Senior Partner at Boston Consulting Group",
+      "employee_id": "Bos_052",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Development",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Leadership",
+        "Client Relationship Management",
+        "Operational Efficiency",
+        "Competitive Analysis"
+      ]
+    },
+    {
+      "name": "Jack G.",
+      "position": "",
+      "employee_id": "Bos_053",
+      "skills": []
+    },
+    {
+      "name": "Lindsay Harris",
+      "position": "",
+      "employee_id": "Bos_054",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Strategic Planning",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management",
+        "Negotiation",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Taylor C. Robertson",
+      "position": "Associate at Boston Consulting Group",
+      "employee_id": "Bos_055",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Strategic Planning",
+        "Management Consulting",
+        "Market Research",
+        "Business Analytics",
+        "Excel",
+        "PowerPoint",
+        "Project Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Andy Kaufmann",
+      "position": "Principal at Boston Consulting Group (BCG)",
+      "employee_id": "Bos_056",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Analysis",
+        "Financial Modeling",
+        "Market Research",
+        "Project Management",
+        "Data Analysis",
+        "Risk Management",
+        "Client Relationship Management",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Mike Matson",
+      "position": "",
+      "employee_id": "Bos_057",
+      "skills": []
+    },
+    {
+      "name": "Anurag Yadav",
+      "position": "",
+      "employee_id": "Bos_058",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Analysis",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Microsoft Office",
+        "Budgeting",
+        "Risk Management",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Nadine Moore",
+      "position": "",
+      "employee_id": "Bos_059",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Microsoft Office Suite",
+        "Data Analysis",
+        "Requirements Gathering",
+        "Risk Management",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Neveen F. Awad",
+      "position": "",
+      "employee_id": "Bos_060",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Strategic Planning",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Data Analysis",
+        "Microsoft Office",
+        "Budgeting",
+        "Team Leadership",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Emily (Boone) Redfield",
+      "position": "",
+      "employee_id": "Bos_061",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Microsoft Office",
+        "Strategic Planning",
+        "Client Relations",
+        "Problem Solving",
+        "Communication Skills",
+        "Negotiation",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Elisabeth Powell",
+      "position": "",
+      "employee_id": "Bos_062",
+      "skills": []
+    },
+    {
+      "name": "Jean-Baptiste (JB) Bouquet, PhD",
+      "position": "",
+      "employee_id": "Bos_063",
+      "skills": [
+        "Data Analysis",
+        "Statistical Modeling",
+        "Machine Learning",
+        "Python",
+        "R",
+        "SQL",
+        "Research Design",
+        "Quantitative Analysis",
+        "Scientific Writing",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Stephen D'Angelo",
+      "position": "",
+      "employee_id": "Bos_064",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Microsoft Office",
+        "Data Analysis",
+        "Communication",
+        "Problem Solving",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Christian Schwaerzler",
+      "position": "",
+      "employee_id": "Bos_065",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Process Improvement",
+        "Budgeting",
+        "Risk Management",
+        "Microsoft Office",
+        "Data Analysis",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Christine Barton",
+      "position": "",
+      "employee_id": "Bos_066",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Strategic Planning",
+        "Microsoft Office",
+        "Risk Assessment",
+        "Communication Skills",
+        "Problem Solving",
+        "Negotiation",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Tolu Oyekan",
+      "position": "",
+      "employee_id": "Bos_067",
+      "skills": []
+    },
+    {
+      "name": "Kyle Sharp",
+      "position": "Consultant at Boston Consulting Group (BCG)",
+      "employee_id": "Bos_068",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Strategic Planning",
+        "Business Analytics",
+        "Project Management",
+        "Market Research",
+        "Excel",
+        "PowerPoint",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Leonardo Fascione",
+      "position": "",
+      "employee_id": "Bos_069",
+      "skills": []
+    },
+    {
+      "name": "Palm Larnroongroj",
+      "position": "",
+      "employee_id": "Bos_070",
+      "skills": []
+    },
+    {
+      "name": "Nicki C.",
+      "position": "Administrative Services Leader | Team Builder | Mother of 4 | Marathon Runner | Writer | Boston Consulting Group (BCG)",
+      "employee_id": "Bos_071",
+      "skills": [
+        "Team Building",
+        "Administrative Services",
+        "Project Management",
+        "Leadership",
+        "Communication",
+        "Organizational Skills",
+        "Client Relations",
+        "Strategic Planning",
+        "Writing",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Lauren Day",
+      "position": "",
+      "employee_id": "Bos_072",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Strategic Planning",
+        "Microsoft Office",
+        "Communication",
+        "Problem Solving",
+        "Negotiation",
+        "Time Management",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Sam Juraschka Allen",
+      "position": "",
+      "employee_id": "Bos_073",
+      "skills": []
+    },
+    {
+      "name": "Linda H Behan",
+      "position": "",
+      "employee_id": "Bos_074",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Microsoft Office",
+        "Data Analysis",
+        "Strategic Planning",
+        "Change Management",
+        "Team Leadership",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Casey Buckley, CFA",
+      "position": "Principal at Boston Consulting Group (BCG)",
+      "employee_id": "Bos_075",
+      "skills": [
+        "Financial Analysis",
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Strategy",
+        "Data Analytics",
+        "Market Research",
+        "Project Management",
+        "Excel",
+        "PowerPoint",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Vanessa Lyon",
+      "position": "",
+      "employee_id": "Bos_076",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Strategic Planning",
+        "Microsoft Office",
+        "Data Analysis",
+        "Risk Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Craig Prager",
+      "position": "",
+      "employee_id": "Bos_077",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Strategic Planning",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving",
+        "Negotiation",
+        "Time Management",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Susan Moffet",
+      "position": "",
+      "employee_id": "Bos_078",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Strategic Planning",
+        "Microsoft Office",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Sandeep Chugani",
+      "position": "Managing Director and Senior Partner at Boston Consulting Group (BCG)",
+      "employee_id": "Bos_079",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Development",
+        "Leadership",
+        "Market Analysis",
+        "Financial Analysis",
+        "Project Management",
+        "Operational Efficiency",
+        "Change Management",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Jon Ferris",
+      "position": "",
+      "employee_id": "Bos_080",
+      "skills": []
+    },
+    {
+      "name": "Casey Buckley, CFA",
+      "position": "Principal at Boston Consulting Group (BCG)",
+      "employee_id": "Bos_081",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Business Development",
+        "Project Management",
+        "Market Research",
+        "Data Analysis",
+        "Client Relations",
+        "Leadership",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Sandeep Chugani",
+      "position": "Managing Director and Senior Partner at Boston Consulting Group (BCG)",
+      "employee_id": "Bos_082",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Development",
+        "Leadership",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Operational Efficiency",
+        "Client Relationship Management",
+        "Data-Driven Decision Making"
+      ]
+    },
+    {
+      "name": "Jon Ferris",
+      "position": "",
+      "employee_id": "Bos_083",
+      "skills": []
+    },
+    {
+      "name": "Visheshta (Vishi) C.",
+      "position": "",
+      "employee_id": "Bos_084",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Strategic Planning",
+        "Budget Management",
+        "Stakeholder Communication",
+        "Risk Assessment",
+        "Performance Analysis",
+        "Microsoft Office",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Ben Connolly",
+      "position": "",
+      "employee_id": "Bos_085",
+      "skills": []
+    },
+    {
+      "name": "Eric Jackson",
+      "position": "Talent Acquisition Manager at Boston Consulting Group (BCG)",
+      "employee_id": "Bos_086",
+      "skills": [
+        "Recruitment",
+        "Talent Acquisition",
+        "Applicant Tracking Systems",
+        "Interviewing",
+        "Onboarding",
+        "HR Software",
+        "Employee Relations",
+        "Performance Management",
+        "HR Analytics",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Jonathan Lim",
+      "position": "",
+      "employee_id": "Bos_087",
+      "skills": []
+    },
+    {
+      "name": "Mary Martin",
+      "position": "",
+      "employee_id": "Bos_088",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Strategic Planning",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management",
+        "Negotiation",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Vahid Rashidi, PhD",
+      "position": "Managing Director and Partner at Boston Consulting Group (BCG)",
+      "employee_id": "Bos_089",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Development",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Leadership",
+        "Client Relations",
+        "Data Analytics",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Justine Watt",
+      "position": "Data Professional at Boston Consulting Group (BCG)",
+      "employee_id": "Bos_090",
+      "skills": [
+        "Data Analysis",
+        "Python",
+        "SQL",
+        "R",
+        "Machine Learning",
+        "Statistical Modeling",
+        "Data Visualization",
+        "Big Data",
+        "Excel",
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Andy Levine",
+      "position": "Managing Director and Partner at The Boston Consulting Group | Global lead, Airlines",
+      "employee_id": "Bos_091",
+      "skills": [
+        "Strategic Planning",
+        "Business Development",
+        "Financial Analysis",
+        "Project Management",
+        "Leadership",
+        "Airline Industry Expertise",
+        "Market Research",
+        "Consulting",
+        "Client Relationship Management",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Samuel Farley",
+      "position": "",
+      "employee_id": "Bos_092",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Microsoft Office",
+        "Data Analysis",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Paul-Alexis Kebabtchieff",
+      "position": "",
+      "employee_id": "Bos_093",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Market Analysis",
+        "Sales Strategy",
+        "Customer Relationship Management (CRM)",
+        "Negotiation",
+        "Financial Analysis",
+        "Microsoft Office Suite"
+      ]
+    },
+    {
+      "name": "Shannon Pettiford, M.S., PMP, PMI-ACP, CMS",
+      "position": "",
+      "employee_id": "Bos_094",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Scrum",
+        "Risk Management",
+        "Stakeholder Management",
+        "Microsoft Project",
+        "JIRA",
+        "Confluence",
+        "Process Improvement",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Matt Langione",
+      "position": "",
+      "employee_id": "Bos_095",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Business Strategy",
+        "Market Research",
+        "Financial Modeling",
+        "Risk Management",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Communication Skills",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Maurice Berns",
+      "position": "Managing Director & Senior Partner at Boston Consulting Group l Chair, Center for Energy Impact",
+      "employee_id": "Bos_096",
+      "skills": [
+        "Strategic Planning",
+        "Energy Sector Expertise",
+        "Management Consulting",
+        "Leadership",
+        "Project Management",
+        "Market Analysis",
+        "Business Development",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Stakeholder Engagement"
+      ]
+    },
+    {
+      "name": "Leora Kelman",
+      "position": "",
+      "employee_id": "Bos_097",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Microsoft Office",
+        "Data Analysis",
+        "Risk Management",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Jeff Lindquist",
+      "position": "",
+      "employee_id": "Bos_098",
+      "skills": []
+    },
+    {
+      "name": "Maullin Sapra",
+      "position": "",
+      "employee_id": "Bos_099",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Budgeting",
+        "Strategic Planning",
+        "Microsoft Office",
+        "Risk Assessment",
+        "Vendor Management",
+        "Contract Negotiation",
+        "Process Improvement",
+        "Stakeholder Communication"
+      ]
+    },
+    {
+      "name": "TJ Hu, PhD",
+      "position": "",
+      "employee_id": "Bos_100",
+      "skills": [
+        "Data Analysis",
+        "Machine Learning",
+        "Python",
+        "R",
+        "Statistical Modeling",
+        "Big Data",
+        "SQL",
+        "Research Methodologies",
+        "Predictive Analytics",
+        "Data Visualization"
+      ]
+    }
+  ]
+}

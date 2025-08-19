@@ -1,0 +1,1282 @@
+{
+  "company_name": "Indiabulls Housing Finance",
+  "employees": [
+    {
+      "name": "Sachin Chaudhary",
+      "position": "",
+      "employee_id": "Ind_001",
+      "skills": []
+    },
+    {
+      "name": "Naveen Uppal",
+      "position": "Chief Risk Officer at Indiabulls Housing finance Limited at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_002",
+      "skills": [
+        "Risk Management",
+        "Financial Analysis",
+        "Credit Risk",
+        "Regulatory Compliance",
+        "Financial Modeling",
+        "Enterprise Risk Management",
+        "Stress Testing",
+        "Risk Assessment",
+        "Quantitative Analysis",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Nafees Ahmed",
+      "position": "",
+      "employee_id": "Ind_003",
+      "skills": []
+    },
+    {
+      "name": "Sanjay Gupta",
+      "position": "Head IT - Infrastructure , DC-DR, Network, Wintel, Security, EUS",
+      "employee_id": "Ind_004",
+      "skills": [
+        "IT Infrastructure",
+        "Data Center Management",
+        "Disaster Recovery",
+        "Network Management",
+        "Wintel Administration",
+        "Cybersecurity",
+        "End User Support",
+        "IT Strategy",
+        "System Administration",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "Ramkrishna Singh (He/Him) , IIM Calcutta",
+      "position": "",
+      "employee_id": "Ind_005",
+      "skills": [
+        "Business Strategy",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Leadership",
+        "Data Analysis",
+        "Strategic Planning",
+        "Risk Management",
+        "Business Development",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Hemal Zaveri",
+      "position": "Head Banking, Treasury at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_006",
+      "skills": [
+        "Banking Operations",
+        "Treasury Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Regulatory Compliance",
+        "Cash Flow Management",
+        "Financial Reporting",
+        "Asset Management",
+        "Liquidity Management"
+      ]
+    },
+    {
+      "name": "Chhavi Sharma",
+      "position": "Regional Sales Head @ Indiabulls Housing Finance Ltd | Certified Digital Marketing Master",
+      "employee_id": "Ind_007",
+      "skills": [
+        "Sales Management",
+        "Digital Marketing",
+        "Financial Services",
+        "Leadership",
+        "Market Analysis",
+        "Customer Relationship Management (CRM)",
+        "Strategic Planning",
+        "Team Management",
+        "Negotiation",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "PRATHAM SAKSENA",
+      "position": "National Head - FCU at INDIABULLS HOUSING FINANCE LTD",
+      "employee_id": "Ind_008",
+      "skills": [
+        "Fraud Detection",
+        "Risk Management",
+        "Financial Analysis",
+        "Compliance",
+        "Team Leadership",
+        "Data Analysis",
+        "Investigation",
+        "Report Writing",
+        "Regulatory Knowledge",
+        "Internal Controls"
+      ]
+    },
+    {
+      "name": "Maitri Patel",
+      "position": "",
+      "employee_id": "Ind_009",
+      "skills": []
+    },
+    {
+      "name": "Kuldeep Mittal",
+      "position": "General Manager Finance at Indiabulls Housing Finance Limited",
+      "employee_id": "Ind_010",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Financial Reporting",
+        "Risk Management",
+        "Strategic Planning",
+        "Accounting",
+        "Corporate Finance",
+        "SAP",
+        "Microsoft Excel",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Vineet Gupta",
+      "position": "Zonal Business Manager at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_011",
+      "skills": [
+        "Business Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Research",
+        "Customer Relationship Management (CRM)",
+        "Budgeting",
+        "Performance Metrics",
+        "Mortgage Lending"
+      ]
+    },
+    {
+      "name": "Vishwas J Shetty",
+      "position": "EVP & National Head @ Sammaan Capital Limited (formerly known as Indiabulls Housing Finance) | Corporate Real Estate Loans",
+      "employee_id": "Ind_012",
+      "skills": [
+        "Corporate Real Estate Loans",
+        "Financial Analysis",
+        "Risk Management",
+        "Loan Origination",
+        "Credit Assessment",
+        "Portfolio Management",
+        "Real Estate Financing",
+        "Strategic Planning",
+        "Business Development",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Rajiv Gandhi",
+      "position": "Managing Director & CEO, Sammaan Finserve Ltd.",
+      "employee_id": "Ind_013",
+      "skills": [
+        "Financial Management",
+        "Strategic Planning",
+        "Risk Management",
+        "Leadership",
+        "Business Development",
+        "Corporate Finance",
+        "Investment Strategies",
+        "Regulatory Compliance",
+        "Project Management",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Pooja Behl",
+      "position": "DGM at Indiabulls Housing Ltd",
+      "employee_id": "Ind_014",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Mortgage Lending",
+        "Credit Assessment",
+        "Portfolio Management",
+        "Regulatory Compliance",
+        "Financial Reporting",
+        "Strategic Planning",
+        "Data Analysis",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Aniket Adak",
+      "position": "Indiabulls Housing Finance Ltd at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_015",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Analysis",
+        "Mortgage Lending",
+        "Loan Processing",
+        "Excel",
+        "Financial Reporting",
+        "Data Analysis",
+        "Customer Relationship Management (CRM)",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Mehak Gangwani",
+      "position": "Management Trainee at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_016",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Excel",
+        "Data Analysis",
+        "Mortgage Lending",
+        "Credit Analysis",
+        "Financial Reporting",
+        "Market Research",
+        "Customer Relationship Management (CRM)",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Sunil Malhan",
+      "position": "Senior Vice President-Home Loans,Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_017",
+      "skills": [
+        "Home Loans",
+        "Mortgage Lending",
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Analysis",
+        "Loan Origination",
+        "Portfolio Management",
+        "Real Estate Finance",
+        "Underwriting",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Nihar Patri",
+      "position": "Cluster Business Manager at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_018",
+      "skills": [
+        "Business Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Credit Analysis",
+        "Loan Processing",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Mumukshu Patel",
+      "position": "Collection officer at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_019",
+      "skills": [
+        "Debt Collection",
+        "Customer Relationship Management",
+        "Financial Analysis",
+        "Loan Processing",
+        "Credit Risk Assessment",
+        "Negotiation",
+        "Microsoft Excel",
+        "Data Entry",
+        "Compliance",
+        "Account Management"
+      ]
+    },
+    {
+      "name": "Suganth Samuel",
+      "position": "Dynamic banker with deep expertise in debt capital markets, treasury, relationship management, private equity, SME, retail banking, sales & credit, Known 4 driving growth & strategic alliances, poised 2 lead with vision",
+      "employee_id": "Ind_020",
+      "skills": [
+        "Debt Capital Markets",
+        "Treasury Management",
+        "Relationship Management",
+        "Private Equity",
+        "SME Banking",
+        "Retail Banking",
+        "Sales",
+        "Credit Analysis",
+        "Strategic Alliances",
+        "Growth Strategy"
+      ]
+    },
+    {
+      "name": "Karthik vardhan",
+      "position": "Finance at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_021",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Financial Modeling",
+        "Excel",
+        "Budgeting",
+        "Forecasting",
+        "Accounting",
+        "Data Analysis",
+        "SAP",
+        "Investment Strategies"
+      ]
+    },
+    {
+      "name": "Parth Patel",
+      "position": "Area Technical Manager at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_022",
+      "skills": [
+        "Technical Management",
+        "Housing Finance",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Project Management",
+        "Team Leadership",
+        "Mortgage Lending",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Adron Johns",
+      "position": "Regional Sales Manager : Indiabulls Housing Finance Limited",
+      "employee_id": "Ind_024",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management (CRM)",
+        "Market Analysis",
+        "Financial Services",
+        "Team Leadership",
+        "Negotiation",
+        "Business Development",
+        "Sales Forecasting",
+        "Performance Metrics",
+        "Housing Finance"
+      ]
+    },
+    {
+      "name": "Tharnish Kumar",
+      "position": "",
+      "employee_id": "Ind_025",
+      "skills": []
+    },
+    {
+      "name": "Mukesh Kumar",
+      "position": "Regional Sales Manager at Indiabulls Housing Finance",
+      "employee_id": "Ind_026",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management (CRM)",
+        "Financial Services",
+        "Market Analysis",
+        "Business Development",
+        "Team Leadership",
+        "Negotiation",
+        "Sales Strategy",
+        "Performance Metrics",
+        "Mortgage Lending"
+      ]
+    },
+    {
+      "name": "Palka Bhatia",
+      "position": "Teacher at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_027",
+      "skills": [
+        "Teaching",
+        "Curriculum Development",
+        "Educational Technology",
+        "Classroom Management",
+        "Lesson Planning",
+        "Student Assessment",
+        "Instructional Design",
+        "Communication Skills",
+        "Time Management",
+        "Professional Development"
+      ]
+    },
+    {
+      "name": "Abhijeet Singh",
+      "position": "Regional Sales Manager at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_028",
+      "skills": [
+        "Sales Management",
+        "Financial Services",
+        "Customer Relationship Management (CRM)",
+        "Market Analysis",
+        "Strategic Planning",
+        "Team Leadership",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "sandeep gudipati",
+      "position": "Attended superwhizz",
+      "employee_id": "Ind_029",
+      "skills": [
+        "Mathematics",
+        "Problem Solving",
+        "Analytical Thinking",
+        "Time Management",
+        "Attention to Detail",
+        "Quantitative Analysis",
+        "Critical Thinking",
+        "Exam Preparation",
+        "Educational Guidance",
+        "Academic Tutoring"
+      ]
+    },
+    {
+      "name": "Pankaj Chaudhary",
+      "position": "Senior Operations Officer at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_030",
+      "skills": [
+        "Operations Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Loan Processing",
+        "Customer Relationship Management (CRM)",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Regulatory Compliance",
+        "Team Leadership",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Tanmay Mhaske",
+      "position": "Sales Officer at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_031",
+      "skills": [
+        "Sales Management",
+        "Customer Relationship Management",
+        "Financial Analysis",
+        "Mortgage Lending",
+        "Credit Analysis",
+        "Market Research",
+        "Negotiation",
+        "Lead Generation",
+        "Salesforce",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Vaibbhav Jaain",
+      "position": "Central Operations Head at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_032",
+      "skills": [
+        "Operations Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Process Improvement",
+        "Project Management",
+        "Budgeting",
+        "Compliance",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "shasadhar Sahoo",
+      "position": "Administration Manager at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_033",
+      "skills": [
+        "Office Administration",
+        "Team Management",
+        "Financial Reporting",
+        "Budgeting",
+        "Compliance",
+        "Microsoft Office",
+        "Project Management",
+        "Vendor Management",
+        "Customer Service",
+        "Data Entry"
+      ]
+    },
+    {
+      "name": "Sanchit Gupta",
+      "position": "Internal Audit & Risk at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_034",
+      "skills": [
+        "Internal Audit",
+        "Risk Management",
+        "Financial Analysis",
+        "Compliance",
+        "Regulatory Reporting",
+        "Audit Planning",
+        "Risk Assessment",
+        "Corporate Governance",
+        "Fraud Detection",
+        "Control Testing"
+      ]
+    },
+    {
+      "name": "Karishma Soneji",
+      "position": "Credit Officer at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_035",
+      "skills": [
+        "Credit Analysis",
+        "Risk Assessment",
+        "Financial Reporting",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Regulatory Compliance",
+        "Financial Modeling",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Mortgage Lending"
+      ]
+    },
+    {
+      "name": "Shourya Saksena",
+      "position": "SVP at Indiabulls Housing Finance Ltd.",
+      "employee_id": "Ind_036",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Mortgage Lending",
+        "Credit Analysis",
+        "Portfolio Management",
+        "Regulatory Compliance",
+        "Investment Strategies",
+        "Data Interpretation",
+        "Financial Reporting",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Gaurav Jain",
+      "position": "Senior Program Manager at Indiabulls Housing Finance Limited",
+      "employee_id": "Ind_037",
+      "skills": [
+        "Program Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Project Planning",
+        "Budgeting",
+        "Stakeholder Management",
+        "Microsoft Excel",
+        "Data Analysis",
+        "Reporting",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Tushar Jain",
+      "position": "Technical Officer at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_038",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Mortgage Lending",
+        "Credit Analysis",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Financial Reporting",
+        "Compliance",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Dushyant Batra",
+      "position": "AGM Collections at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_039",
+      "skills": [
+        "Collections Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Debt Recovery",
+        "Credit Risk Management",
+        "Customer Relationship Management (CRM)",
+        "Loan Servicing",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Dhaval Brahmbhatt",
+      "position": "Operations Manager at Indiabulls Housing Finance ltd",
+      "employee_id": "Ind_040",
+      "skills": [
+        "Operations Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Strategic Planning",
+        "Budget Management",
+        "Regulatory Compliance",
+        "Customer Relationship Management (CRM)",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Dhaval Brahmbhatt",
+      "position": "Operations Manager at Indiabulls Housing Finance ltd",
+      "employee_id": "Ind_041",
+      "skills": [
+        "Operations Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Strategic Planning",
+        "Budgeting",
+        "Regulatory Compliance",
+        "Customer Service",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Shivani Raghuvanshi",
+      "position": "Regional Credit Head at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_042",
+      "skills": [
+        "Credit Analysis",
+        "Risk Management",
+        "Financial Modeling",
+        "Loan Underwriting",
+        "Portfolio Management",
+        "Regulatory Compliance",
+        "Mortgage Lending",
+        "Data Analysis",
+        "Excel",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "arti sachan",
+      "position": "Indiabulls at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_043",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Mortgage Lending",
+        "Credit Analysis",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Financial Reporting",
+        "Excel"
+      ]
+    },
+    {
+      "name": "dinkar More",
+      "position": "Sales Executive at INDIABULLS HOUSING FINANCE LIMITED",
+      "employee_id": "Ind_044",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Negotiation",
+        "Financial Services",
+        "Market Analysis",
+        "Lead Generation",
+        "Salesforce",
+        "Communication",
+        "Client Acquisition",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "noordeen khan",
+      "position": "Field Specialist at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_045",
+      "skills": [
+        "Financial Analysis",
+        "Risk Assessment",
+        "Customer Relationship Management",
+        "Loan Processing",
+        "Credit Evaluation",
+        "Market Research",
+        "Data Entry",
+        "Excel",
+        "Report Generation",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Amitha Kulal",
+      "position": "Assistant Credit Manager at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_046",
+      "skills": [
+        "Credit Analysis",
+        "Risk Management",
+        "Financial Reporting",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Microsoft Excel",
+        "Financial Modeling",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Mortgage Lending"
+      ]
+    },
+    {
+      "name": "Jayaraman T",
+      "position": "BUSINESS HEAD",
+      "employee_id": "Ind_047",
+      "skills": [
+        "Business Strategy",
+        "Market Analysis",
+        "Financial Planning",
+        "Team Leadership",
+        "Sales Management",
+        "Project Management",
+        "Customer Relationship Management (CRM)",
+        "Negotiation",
+        "Budgeting",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Vishal Patil",
+      "position": "Assistant General Manager at Indiabulls Housing Finance Ltd.",
+      "employee_id": "Ind_048",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Mortgage Lending",
+        "Credit Analysis",
+        "Portfolio Management",
+        "Financial Reporting",
+        "Regulatory Compliance",
+        "Budgeting",
+        "Strategic Planning",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Srinivas Samala",
+      "position": "--",
+      "employee_id": "Ind_049",
+      "skills": []
+    },
+    {
+      "name": "Ankit Gupta",
+      "position": "Sales at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_050",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Financial Services",
+        "Mortgage Lending",
+        "Market Analysis",
+        "Lead Generation",
+        "Negotiation Skills",
+        "Salesforce",
+        "Data Analysis",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Arjun Ky",
+      "position": "Sr sales officer at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_051",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management (CRM)",
+        "Financial Analysis",
+        "Mortgage Lending",
+        "Market Research",
+        "Negotiation",
+        "Lead Generation",
+        "Sales Forecasting",
+        "Data Analysis",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Madhu Takrani",
+      "position": "branch credit head at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_052",
+      "skills": [
+        "Credit Analysis",
+        "Risk Management",
+        "Financial Modeling",
+        "Loan Processing",
+        "Underwriting",
+        "Regulatory Compliance",
+        "Customer Relationship Management",
+        "Data Analysis",
+        "Mortgage Lending",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Devang Maheta",
+      "position": "Student at Gujarat Technological University",
+      "employee_id": "Ind_053",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "SQL",
+        "Machine Learning",
+        "Data Analysis",
+        "Software Development"
+      ]
+    },
+    {
+      "name": "Harshita Sodha",
+      "position": "Customer Service Representative at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_054",
+      "skills": [
+        "Customer Relationship Management (CRM)",
+        "Communication Skills",
+        "Problem Solving",
+        "Microsoft Office",
+        "Data Entry",
+        "Time Management",
+        "Conflict Resolution",
+        "Financial Services Knowledge",
+        "Call Center Software",
+        "Active Listening"
+      ]
+    },
+    {
+      "name": "vikas singh",
+      "position": "Team Coach at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_055",
+      "skills": [
+        "Team Leadership",
+        "Coaching",
+        "Financial Analysis",
+        "Risk Management",
+        "Mortgage Lending",
+        "Customer Relationship Management (CRM)",
+        "Performance Management",
+        "Training and Development",
+        "Sales Strategy",
+        "Banking Operations"
+      ]
+    },
+    {
+      "name": "Sachin Verma",
+      "position": "Zonal Operations Manager at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_056",
+      "skills": [
+        "Operations Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Project Management",
+        "Budgeting",
+        "Customer Relationship Management (CRM)",
+        "Data Analysis",
+        "Strategic Planning",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Nayana Kapadia",
+      "position": "Regional Credit Manager at INDIABULLS HOUSING FINANCE LIMITED",
+      "employee_id": "Ind_057",
+      "skills": [
+        "Credit Analysis",
+        "Risk Management",
+        "Financial Modeling",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Regulatory Compliance",
+        "Portfolio Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Sanjeev Saklani",
+      "position": "Senior Operations Officer at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_058",
+      "skills": [
+        "Operations Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Process Improvement",
+        "Project Management",
+        "Data Analysis",
+        "Budgeting",
+        "Compliance",
+        "Team Leadership",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Deepak Sachdeva",
+      "position": "Management Trainee at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_059",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Excel",
+        "Data Analysis",
+        "Financial Modeling",
+        "Market Research",
+        "Credit Analysis",
+        "Report Generation",
+        "Presentation Skills",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Pearl Dias",
+      "position": "Assistant Manager at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_060",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Mortgage Lending",
+        "Credit Analysis",
+        "Loan Processing",
+        "Customer Relationship Management (CRM)",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Budgeting",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Mehul Sheth",
+      "position": "Location manager at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_061",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Mortgage Lending",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Research",
+        "Credit Assessment",
+        "Loan Processing",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Ruchita Rane",
+      "position": "customer care executive at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_062",
+      "skills": [
+        "Customer Relationship Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management",
+        "Conflict Resolution",
+        "Salesforce",
+        "Microsoft Office",
+        "Data Entry",
+        "Financial Services",
+        "Client Interaction"
+      ]
+    },
+    {
+      "name": "Mohit Grover",
+      "position": "Customer Care Executive at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_063",
+      "skills": [
+        "Customer Service",
+        "CRM Software",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management",
+        "Financial Services",
+        "Client Relationship Management",
+        "Conflict Resolution",
+        "Data Entry",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Monica monga",
+      "position": "ACH at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_064",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Mortgage Lending",
+        "Credit Assessment",
+        "Loan Processing",
+        "Customer Relationship Management (CRM)",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Financial Reporting",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Karthikeyan Srinivasan",
+      "position": "Branch Credit Head at Indiabulls housing finance limited",
+      "employee_id": "Ind_065",
+      "skills": [
+        "Credit Analysis",
+        "Risk Management",
+        "Financial Modeling",
+        "Loan Underwriting",
+        "Mortgage Lending",
+        "Portfolio Management",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Customer Relationship Management (CRM)",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Donthula Rakesh",
+      "position": "Sales executive at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_066",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management (CRM)",
+        "Financial Services",
+        "Mortgage Lending",
+        "Market Analysis",
+        "Lead Generation",
+        "Negotiation",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Salesforce"
+      ]
+    },
+    {
+      "name": "Atul kshirsagar",
+      "position": "Collection officer at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_067",
+      "skills": [
+        "Debt Collection",
+        "Customer Relationship Management",
+        "Financial Analysis",
+        "Negotiation",
+        "Credit Risk Assessment",
+        "Loan Processing",
+        "Compliance",
+        "Data Entry",
+        "Microsoft Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "Ravneet Khalsa",
+      "position": "Senior Manager at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_068",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Mortgage Lending",
+        "Credit Analysis",
+        "Portfolio Management",
+        "Regulatory Compliance",
+        "Financial Reporting",
+        "Strategic Planning",
+        "Data Analysis",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Jeetendra Raul",
+      "position": "Location manager at Indiabulls Housing Finance Limited",
+      "employee_id": "Ind_069",
+      "skills": [
+        "Location Management",
+        "Financial Analysis",
+        "Customer Relationship Management",
+        "Risk Assessment",
+        "Team Leadership",
+        "Market Research",
+        "Sales Strategy",
+        "Budgeting",
+        "Negotiation",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Deepal Chheda",
+      "position": "Assistant Vice President, Legal at Indiabulls Housing Finance Limited",
+      "employee_id": "Ind_070",
+      "skills": [
+        "Legal Research",
+        "Contract Management",
+        "Regulatory Compliance",
+        "Corporate Law",
+        "Risk Management",
+        "Litigation",
+        "Legal Writing",
+        "Negotiation",
+        "Due Diligence",
+        "Legal Documentation"
+      ]
+    },
+    {
+      "name": "Raghu Vaid",
+      "position": "Location Head at Indiabulls Housing Finance Ltdfi",
+      "employee_id": "Ind_071",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Mortgage Lending",
+        "Credit Analysis",
+        "Portfolio Management",
+        "Regulatory Compliance",
+        "Team Leadership",
+        "Strategic Planning",
+        "Customer Relationship Management (CRM)",
+        "Market Analysis"
+      ]
+    },
+    {
+      "name": "Ibrahim friends",
+      "position": "Manager at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_072",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Mortgage Lending",
+        "Credit Analysis",
+        "Portfolio Management",
+        "Excel",
+        "Financial Reporting",
+        "Budgeting",
+        "Compliance",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Piyushgiri Goswami",
+      "position": "Indiabulls Housing finance Ltd at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_073",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Mortgage Lending",
+        "Credit Analysis",
+        "Loan Origination",
+        "Portfolio Management",
+        "Financial Reporting",
+        "Regulatory Compliance",
+        "Customer Relationship Management (CRM)",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Nitesh Jangid",
+      "position": "",
+      "employee_id": "Ind_074",
+      "skills": []
+    },
+    {
+      "name": "Srinivas Chakravarthi",
+      "position": "Cluster business manager at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_075",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Business Strategy",
+        "Mortgage Lending",
+        "Credit Assessment",
+        "Portfolio Management",
+        "Customer Relationship Management (CRM)",
+        "Market Analysis",
+        "Sales Management",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Asha Tyagi",
+      "position": "Assistant Manager - HR at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_076",
+      "skills": [
+        "Human Resources Management",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "HRIS",
+        "Payroll Management",
+        "Talent Acquisition",
+        "Training and Development",
+        "Compensation and Benefits",
+        "Labor Law Compliance"
+      ]
+    },
+    {
+      "name": "Chiranjit Samanta",
+      "position": "Senior Sales Officer at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_077",
+      "skills": [
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Financial Services",
+        "Mortgage Lending",
+        "Market Analysis",
+        "Lead Generation",
+        "Salesforce",
+        "Negotiation",
+        "Credit Analysis",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Vikas Malhotra",
+      "position": "Regional Business Manager - Credit, Indiabulls Housing Finance Limited",
+      "employee_id": "Ind_078",
+      "skills": [
+        "Credit Analysis",
+        "Risk Management",
+        "Financial Modeling",
+        "Business Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Sales Management",
+        "Customer Relationship Management (CRM)",
+        "Budgeting",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Vijay Patel",
+      "position": "Senior Technical Officer at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_079",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Mortgage Lending",
+        "Credit Assessment",
+        "Data Analysis",
+        "Excel",
+        "SQL",
+        "Financial Reporting",
+        "Regulatory Compliance",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Shashank Kumar",
+      "position": "Management trainee at Indiabulls Housing Finance Ltd",
+      "employee_id": "Ind_080",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Excel",
+        "Financial Modeling",
+        "Data Analysis",
+        "Budgeting",
+        "Report Generation",
+        "Market Research",
+        "Presentation Skills",
+        "Business Strategy"
+      ]
+    }
+  ]
+}

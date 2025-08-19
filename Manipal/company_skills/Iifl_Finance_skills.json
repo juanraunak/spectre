@@ -1,0 +1,1467 @@
+{
+  "company_name": "Iifl Finance",
+  "employees": [
+    {
+      "name": "Pranav Dholakia",
+      "position": "",
+      "employee_id": "Iif_001",
+      "skills": []
+    },
+    {
+      "name": "Preeti Kannan",
+      "position": "President & Chief Human Resources Officer @ IIFL Finance",
+      "employee_id": "Iif_002",
+      "skills": [
+        "Human Resources Management",
+        "Leadership",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Compensation and Benefits",
+        "Organizational Development",
+        "Strategic Planning",
+        "Conflict Resolution",
+        "HR Analytics"
+      ]
+    },
+    {
+      "name": "Kirti Timmanagoudar",
+      "position": "Head Co-lending & Strategic Alliances at IIFL Finance",
+      "employee_id": "Iif_003",
+      "skills": [
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Development",
+        "Partnership Management",
+        "Project Management",
+        "Negotiation",
+        "Market Research",
+        "Data Analysis",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Manav Verma",
+      "position": "",
+      "employee_id": "Iif_004",
+      "skills": []
+    },
+    {
+      "name": "Ronil Bandarkar",
+      "position": "VP Technology at IIFL Finance",
+      "employee_id": "Iif_005",
+      "skills": [
+        "Technology Strategy",
+        "Software Development",
+        "Project Management",
+        "Financial Technology",
+        "Risk Management",
+        "Data Analytics",
+        "Cloud Computing",
+        "Cybersecurity",
+        "IT Infrastructure",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "name": "Rahul Sanklecha",
+      "position": "",
+      "employee_id": "Iif_006",
+      "skills": []
+    },
+    {
+      "name": "CA CS CMA Shivalingam Pillai",
+      "position": "CCO@IIFL | Ex-CFO | Strategic Planning | FP&A | Empathetic leader | Team First | RYT-900 (The Yoga Institute) | Yogic Lifestyle | Marathoner | Walker (110K steps-max) | Making lives better |",
+      "employee_id": "Iif_007",
+      "skills": [
+        "Strategic Planning",
+        "Financial Planning & Analysis (FP&A)",
+        "Empathetic Leadership",
+        "Team Management",
+        "Corporate Finance",
+        "Risk Management",
+        "Budgeting",
+        "Financial Reporting",
+        "Accounting",
+        "Yoga Instruction"
+      ]
+    },
+    {
+      "name": "Manish Mayank",
+      "position": "",
+      "employee_id": "Iif_008",
+      "skills": []
+    },
+    {
+      "name": "Neha Sachdeva (she/her)",
+      "position": "Lead- Learning Technologies & Engagement, IIFL Finance",
+      "employee_id": "Iif_009",
+      "skills": [
+        "Learning Management Systems",
+        "Employee Engagement",
+        "Instructional Design",
+        "E-learning Development",
+        "Content Management Systems",
+        "Project Management",
+        "Data Analysis",
+        "Performance Metrics",
+        "Corporate Training",
+        "Technology Integration"
+      ]
+    },
+    {
+      "name": "Natasha Chander",
+      "position": "",
+      "employee_id": "Iif_010",
+      "skills": []
+    },
+    {
+      "name": "Saikat Banerjee",
+      "position": "National Sales Head - Unsecured Business Loans and LAP @ IIFL Finance",
+      "employee_id": "Iif_011",
+      "skills": [
+        "Sales Strategy",
+        "Business Development",
+        "Unsecured Loans",
+        "Loan Against Property (LAP)",
+        "Financial Analysis",
+        "Market Research",
+        "Client Relationship Management",
+        "Sales Forecasting",
+        "Negotiation",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Shilpa Gadekar",
+      "position": "Deputy General Manager, Marketing- Media Buying & Planning| Strategy & Communications | IIFL Group| Ex-Times Of India| Ex - Indian Expess Group",
+      "employee_id": "Iif_012",
+      "skills": [
+        "Media Buying",
+        "Media Planning",
+        "Marketing Strategy",
+        "Communications",
+        "Advertising",
+        "Digital Marketing",
+        "Brand Management",
+        "Market Research",
+        "Campaign Management",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Ravi Shah",
+      "position": "",
+      "employee_id": "Iif_013",
+      "skills": []
+    },
+    {
+      "name": "Hitesh Sampat",
+      "position": "Head - Fraud Control Unit (FCU) & Risk @ IIFL Finance | Qualified Chartered Accountant",
+      "employee_id": "Iif_014",
+      "skills": [
+        "Fraud Detection",
+        "Risk Management",
+        "Financial Analysis",
+        "Internal Controls",
+        "Audit",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Forensic Accounting",
+        "Risk Assessment",
+        "Fraud Investigation"
+      ]
+    },
+    {
+      "name": "Nandan Gandre",
+      "position": "Head Risk & Application Security at IiFL Group",
+      "employee_id": "Iif_015",
+      "skills": [
+        "Risk Management",
+        "Application Security",
+        "Cybersecurity",
+        "Threat Analysis",
+        "Vulnerability Assessment",
+        "Compliance",
+        "Incident Response",
+        "Security Policies",
+        "Governance",
+        "Financial Risk"
+      ]
+    },
+    {
+      "name": "Aditya Thorhatte",
+      "position": "",
+      "employee_id": "Iif_016",
+      "skills": []
+    },
+    {
+      "name": "Akshata Prabhu",
+      "position": "Associate Vice President at IIFL Finance",
+      "employee_id": "Iif_017",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Financial Modeling",
+        "Credit Analysis",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Ashish Avasthy",
+      "position": "",
+      "employee_id": "Iif_018",
+      "skills": []
+    },
+    {
+      "name": "Deepak D",
+      "position": "Assistant Vice President - L&D IIFL Finance Ltd",
+      "employee_id": "Iif_019",
+      "skills": [
+        "Leadership Development",
+        "Training Program Design",
+        "Financial Services",
+        "Performance Management",
+        "Employee Engagement",
+        "Talent Management",
+        "Organizational Development",
+        "Instructional Design",
+        "Coaching",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Ashmi Shah",
+      "position": "Senior Growth Marketing Manager at IIFL Finance | Growth Strategist & ASO Specialist | Exploring All Things Digital & Martech",
+      "employee_id": "Iif_020",
+      "skills": [
+        "Growth Marketing",
+        "ASO (App Store Optimization)",
+        "Digital Marketing",
+        "Martech",
+        "Marketing Strategy",
+        "SEO",
+        "Data Analysis",
+        "Customer Acquisition",
+        "Content Marketing",
+        "Analytics"
+      ]
+    },
+    {
+      "name": "Govind Modani",
+      "position": "Head Treasury at IIFL",
+      "employee_id": "Iif_021",
+      "skills": [
+        "Treasury Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Liquidity Management",
+        "Capital Markets",
+        "Financial Reporting",
+        "Regulatory Compliance",
+        "Cash Flow Management",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Saurabh Shrivastava",
+      "position": "",
+      "employee_id": "Iif_022",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Risk Assessment",
+        "Market Research",
+        "Excel",
+        "Financial Modeling",
+        "Data Analysis",
+        "Economic Forecasting",
+        "Report Generation"
+      ]
+    },
+    {
+      "name": "Meenal Jain",
+      "position": "Senior Manager at IIFL Finance, Financial Planning & Analysis",
+      "employee_id": "Iif_023",
+      "skills": [
+        "Financial Planning",
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Excel",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Analysis",
+        "Strategic Planning",
+        "Report Generation"
+      ]
+    },
+    {
+      "name": "Sheetal Agarwal",
+      "position": "Published Author | Part of the core team of writers/researchers in the UN SDG Corporate Guidebook (SDGs 4,5) | Business Communication | ESG Communication | Poet",
+      "employee_id": "Iif_024",
+      "skills": [
+        "Writing",
+        "Research",
+        "Business Communication",
+        "ESG Communication",
+        "Sustainable Development Goals (SDGs)",
+        "Corporate Communication",
+        "Content Creation",
+        "Editing",
+        "Poetry",
+        "Publication"
+      ]
+    },
+    {
+      "name": "Neha Pandey",
+      "position": "Zonal HR Manager - IIFL Finance",
+      "employee_id": "Iif_025",
+      "skills": [
+        "HR Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Compensation and Benefits",
+        "Labor Law Compliance",
+        "HRIS (Human Resource Information System)",
+        "Conflict Resolution",
+        "Organizational Development",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Arka Dowari",
+      "position": "Senior Manager - HR Operations at IIFL Finance Ltd",
+      "employee_id": "Iif_026",
+      "skills": [
+        "HR Operations",
+        "Employee Relations",
+        "Talent Management",
+        "Performance Management",
+        "Recruitment",
+        "HRIS",
+        "Payroll Management",
+        "Compliance",
+        "Benefits Administration",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "AMIT SHARMA",
+      "position": "",
+      "employee_id": "Iif_027",
+      "skills": []
+    },
+    {
+      "name": "Maninderpal Singh",
+      "position": "Regional Head at IIFL Finance | Ex- Kotak Mahindra Bank | Ex- Muthoot Fincorp",
+      "employee_id": "Iif_028",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Sales Strategy",
+        "Customer Relationship Management (CRM)",
+        "Business Development",
+        "Market Research",
+        "Budgeting",
+        "Credit Analysis",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Deepan Raje",
+      "position": "Head - HR Tech Transformation & Strategy",
+      "employee_id": "Iif_029",
+      "skills": [
+        "HR Tech Transformation",
+        "Strategy Development",
+        "Change Management",
+        "HR Software Implementation",
+        "Project Management",
+        "Data Analytics",
+        "Process Improvement",
+        "Leadership",
+        "Employee Engagement",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Ronak Mehta",
+      "position": "",
+      "employee_id": "Iif_030",
+      "skills": []
+    },
+    {
+      "name": "ANAM SHAIKH",
+      "position": "Internal Auditor @ IIFL Finance | Certified Fraud Examiner (CFE)",
+      "employee_id": "Iif_031",
+      "skills": [
+        "Internal Auditing",
+        "Fraud Examination",
+        "Risk Management",
+        "Financial Analysis",
+        "Compliance",
+        "Forensic Accounting",
+        "Audit Planning",
+        "Regulatory Reporting",
+        "Data Analysis",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Mukesh Sawant",
+      "position": "Team Lead at IIFL Finance Limited | Ex Travelex | Ex Gia india",
+      "employee_id": "Iif_032",
+      "skills": [
+        "Team Leadership",
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management",
+        "Customer Relationship Management (CRM)",
+        "Microsoft Excel",
+        "Business Strategy",
+        "Data Analysis",
+        "Financial Reporting",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Manish Tiwari",
+      "position": "Zonal Head - HR",
+      "employee_id": "Iif_033",
+      "skills": [
+        "HR Management",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Talent Acquisition",
+        "Compensation and Benefits",
+        "HRIS",
+        "Labor Law Compliance",
+        "Training and Development",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Ronak Parekh",
+      "position": "Assistant Manager - Investor Relations at IIFL Finance Limited",
+      "employee_id": "Iif_034",
+      "skills": [
+        "Investor Relations",
+        "Financial Analysis",
+        "Corporate Finance",
+        "Stakeholder Management",
+        "Financial Reporting",
+        "Market Research",
+        "Excel",
+        "PowerPoint",
+        "Communication Skills",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Darshit Doshi",
+      "position": "Zonal Head (VP) IIFL Finance Ltd. Gold Loans, Gujarat",
+      "employee_id": "Iif_035",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Loan Processing",
+        "Credit Assessment",
+        "Customer Relationship Management (CRM)",
+        "Team Leadership",
+        "Sales Strategy",
+        "Market Analysis",
+        "Portfolio Management",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Shaifali Jain",
+      "position": "Marketing @IIFL Finance | Founder at Eesome Jewelry",
+      "employee_id": "Iif_036",
+      "skills": [
+        "Marketing Strategy",
+        "Brand Management",
+        "Digital Marketing",
+        "Social Media Marketing",
+        "Content Creation",
+        "SEO",
+        "Email Marketing",
+        "Market Research",
+        "E-commerce",
+        "Jewelry Design"
+      ]
+    },
+    {
+      "name": "Janani B",
+      "position": "HR Executive @ IIFL Finance | MBA",
+      "employee_id": "Iif_037",
+      "skills": [
+        "HR Management",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Talent Acquisition",
+        "HRIS",
+        "Payroll Management",
+        "Compliance",
+        "Training and Development",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Sunil Mohan",
+      "position": "",
+      "employee_id": "Iif_038",
+      "skills": []
+    },
+    {
+      "name": "Prerana Gupta",
+      "position": "IIFL finance Gold loan",
+      "employee_id": "Iif_039",
+      "skills": [
+        "Financial Analysis",
+        "Loan Processing",
+        "Risk Assessment",
+        "Customer Service",
+        "Credit Evaluation",
+        "Gold Valuation",
+        "Compliance Management",
+        "Sales Techniques",
+        "Market Research",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Nikhil Kumar",
+      "position": "Human Resource || IIFL Finance Ltd || Ex Arohan financial services Ltd. || Ex Morfeun Communications Pvt Ltd(VIVO)",
+      "employee_id": "Iif_040",
+      "skills": [
+        "Human Resources Management",
+        "Recruitment",
+        "Employee Relations",
+        "Performance Management",
+        "Talent Acquisition",
+        "HR Policies",
+        "Training and Development",
+        "Compensation and Benefits",
+        "Labor Laws",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Amulya Ignatius",
+      "position": "Deputy Vice President- HR @ IIFL Finance",
+      "employee_id": "Iif_041",
+      "skills": [
+        "Human Resources Management",
+        "Talent Acquisition",
+        "Employee Relations",
+        "Performance Management",
+        "HR Analytics",
+        "Compensation and Benefits",
+        "Labor Law Compliance",
+        "Organizational Development",
+        "Succession Planning",
+        "HR Software (e.g., SAP, Workday)"
+      ]
+    },
+    {
+      "name": "Shashank Jain",
+      "position": "Designer@IIFL Finance & IIFL Securities | Product Design | Ex- Designer@HDFC Bank | HFI CUA\u2122 | IIT Hyderabad",
+      "employee_id": "Iif_042",
+      "skills": [
+        "Product Design",
+        "User Experience (UX) Design",
+        "User Interface (UI) Design",
+        "Adobe Creative Suite",
+        "Sketch",
+        "Figma",
+        "Prototyping",
+        "Wireframing",
+        "HFI CUA\u2122 Certification",
+        "Financial Services Design"
+      ]
+    },
+    {
+      "name": "Chinmay Gadekar",
+      "position": "Product and Partnerships - Digital Finance @ IIFL Finance| E-commerce| Media| Fintech - Consumer Loans | Digital Finance - Consumer & Business loans",
+      "employee_id": "Iif_043",
+      "skills": [
+        "Digital Finance",
+        "Consumer Loans",
+        "Business Loans",
+        "E-commerce",
+        "Fintech",
+        "Partnership Management",
+        "Product Management",
+        "Media",
+        "Financial Services",
+        "Consumer Lending"
+      ]
+    },
+    {
+      "name": "Sumika Samantara Mascarenhas",
+      "position": "DGM - Digital Marketing | IIFL Finance and IIFL Capital",
+      "employee_id": "Iif_044",
+      "skills": [
+        "Digital Marketing",
+        "SEO",
+        "SEM",
+        "Content Marketing",
+        "Social Media Marketing",
+        "Google Analytics",
+        "Email Marketing",
+        "PPC Advertising",
+        "Marketing Strategy",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Jigar Patel",
+      "position": "Head - Litigation, IIFL Finance | Disputes | Structured Deals | Real Estate Finance | IBC, SARFAESI, Intl. Arbitration | Ex-Piramal",
+      "employee_id": "Iif_045",
+      "skills": [
+        "Litigation",
+        "Dispute Resolution",
+        "Structured Deals",
+        "Real Estate Finance",
+        "IBC (Insolvency and Bankruptcy Code)",
+        "SARFAESI (Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest)",
+        "International Arbitration",
+        "Finance",
+        "Legal Compliance",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Priyank Vijayvargiy",
+      "position": "",
+      "employee_id": "Iif_046",
+      "skills": [
+        "Financial Analysis",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Risk Assessment",
+        "Market Research",
+        "Excel",
+        "Financial Reporting",
+        "Asset Management",
+        "Economic Forecasting",
+        "Quantitative Analysis"
+      ]
+    },
+    {
+      "name": "VijayaGopal Sundarraj",
+      "position": "Deputy Manager Operations at IIFL Finance",
+      "employee_id": "Iif_048",
+      "skills": [
+        "Operations Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Process Improvement",
+        "Customer Service",
+        "Project Management",
+        "Data Analysis",
+        "Budgeting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Nakul Kulkarni",
+      "position": "",
+      "employee_id": "Iif_049",
+      "skills": []
+    },
+    {
+      "name": "George Whitefield",
+      "position": "Chief Executive Officer at IIFL Finance",
+      "employee_id": "Iif_050",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Corporate Governance",
+        "Business Development",
+        "Investment Strategies",
+        "Regulatory Compliance",
+        "Team Management",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "AMLAN SINGH",
+      "position": "Operations & Service Delivery Leader, Banker @ Heart, Public Speaker",
+      "employee_id": "Iif_051",
+      "skills": [
+        "Operations Management",
+        "Service Delivery",
+        "Banking",
+        "Public Speaking",
+        "Team Leadership",
+        "Customer Service",
+        "Process Improvement",
+        "Project Management",
+        "Risk Management",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Ananta Hazarika",
+      "position": "ZONAL HRBP | IIFL FINANCE | ASSAM, TRIPURA & NORTH BENGAL",
+      "employee_id": "Iif_052",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "HRIS",
+        "Compensation and Benefits",
+        "Labor Law Compliance",
+        "Conflict Resolution",
+        "Organizational Development",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Vikas Mahajan",
+      "position": "Vice President National Head -Credit Risk -Unsecured Lending at IIFL Finance Business Strategist | Credit & Risk Professional | Growth Driver | Leadership | Fintech |",
+      "employee_id": "Iif_053",
+      "skills": [
+        "Credit Risk Management",
+        "Unsecured Lending",
+        "Business Strategy",
+        "Leadership",
+        "Fintech",
+        "Risk Assessment",
+        "Financial Analysis",
+        "Growth Strategy",
+        "Risk Mitigation",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Biju Sebastian",
+      "position": "DGM Offsite Audit IIFL Finance LTD",
+      "employee_id": "Iif_054",
+      "skills": [
+        "Audit Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Compliance Monitoring",
+        "Internal Controls",
+        "Regulatory Reporting",
+        "Data Analysis",
+        "Accounting Software",
+        "Fraud Detection",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Prakhar N.",
+      "position": "IIFL Finance | SPJIMR | MA Economics | Ex-UPSC CSE Aspirant | NMIMS Mumbai | Chartered Wealth Manager",
+      "employee_id": "Iif_055",
+      "skills": [
+        "Financial Analysis",
+        "Wealth Management",
+        "Economics",
+        "Investment Strategies",
+        "Risk Assessment",
+        "Portfolio Management",
+        "Market Research",
+        "Financial Planning",
+        "Regulatory Compliance",
+        "Data Interpretation"
+      ]
+    },
+    {
+      "name": "Ganesh Nair",
+      "position": ".",
+      "employee_id": "Iif_056",
+      "skills": []
+    },
+    {
+      "name": "Kanishka Kalavar",
+      "position": "",
+      "employee_id": "Iif_057",
+      "skills": []
+    },
+    {
+      "name": "Nikhil Prahladka",
+      "position": "Head Accounts and Finance at IIFL Finance Limited 11+ years Experience in Finance and Accounts",
+      "employee_id": "Iif_058",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Financial Reporting",
+        "Budgeting",
+        "Taxation",
+        "Auditing",
+        "Financial Planning",
+        "SAP",
+        "Microsoft Excel",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Aditya Chaturvedi",
+      "position": "AVP Internal Audit at IIFL Finance LTD.",
+      "employee_id": "Iif_059",
+      "skills": [
+        "Internal Audit",
+        "Risk Management",
+        "Financial Analysis",
+        "Compliance",
+        "Audit Planning",
+        "Report Writing",
+        "Regulatory Knowledge",
+        "Fraud Detection",
+        "Data Analysis",
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Sayali K.",
+      "position": "Lead Business Analyst at IIFL Finance",
+      "employee_id": "Iif_060",
+      "skills": [
+        "Business Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Analysis",
+        "SQL",
+        "Excel",
+        "Project Management",
+        "Requirement Gathering",
+        "Stakeholder Management",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Subhajit Roy",
+      "position": "Regional Head Sales IIFL FINANCE",
+      "employee_id": "Iif_061",
+      "skills": [
+        "Sales Strategy",
+        "Financial Analysis",
+        "Customer Relationship Management (CRM)",
+        "Market Research",
+        "Team Leadership",
+        "Negotiation",
+        "Business Development",
+        "Performance Metrics",
+        "Budget Management",
+        "Sales Forecasting"
+      ]
+    },
+    {
+      "name": "Girish Gulabani",
+      "position": "Regional Head - AVP at IIFL Finance || Gujarat and South Rajasthan || MOHO Vertical ||",
+      "employee_id": "Iif_062",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Portfolio Management",
+        "Credit Assessment",
+        "Loan Processing",
+        "Customer Relationship Management (CRM)",
+        "Market Analysis",
+        "Regulatory Compliance",
+        "Business Development",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Ashish More",
+      "position": "Deputy Vice President at IIFL Finance Limited",
+      "employee_id": "Iif_063",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Financial Modeling",
+        "Credit Analysis",
+        "Corporate Finance",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Sandeep K. Rajput",
+      "position": "20+ Years of Legal Excellence | Corporate Governance | Retail Asset & Business Litigation | Passionate Wildlife Enthusiast & Nature Seeker",
+      "employee_id": "Iif_064",
+      "skills": [
+        "Corporate Governance",
+        "Retail Asset Management",
+        "Business Litigation",
+        "Legal Research",
+        "Contract Negotiation",
+        "Compliance",
+        "Risk Assessment",
+        "Legal Writing",
+        "Dispute Resolution",
+        "Regulatory Affairs"
+      ]
+    },
+    {
+      "name": "Ratan kumawat",
+      "position": "Assistant Manager at IIFL Finance",
+      "employee_id": "Iif_065",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Loan Processing",
+        "Customer Relationship Management (CRM)",
+        "Credit Assessment",
+        "Microsoft Excel",
+        "Data Analysis",
+        "Financial Reporting",
+        "Budgeting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Megha K J",
+      "position": "--",
+      "employee_id": "Iif_066",
+      "skills": []
+    },
+    {
+      "name": "Ravi Kumar.C",
+      "position": "Business Office Manager at IIFL Finance",
+      "employee_id": "Iif_067",
+      "skills": [
+        "Financial Analysis",
+        "Budget Management",
+        "Team Leadership",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Risk Management",
+        "Strategic Planning",
+        "Customer Relationship Management (CRM)",
+        "Regulatory Compliance",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Mahesh Gurudu",
+      "position": "",
+      "employee_id": "Iif_068",
+      "skills": []
+    },
+    {
+      "name": "VYSHAK ATHIYEDATH",
+      "position": "Finance job at IIFL Finance",
+      "employee_id": "Iif_069",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Financial Modeling",
+        "Budgeting",
+        "Forecasting",
+        "Microsoft Excel",
+        "Data Analysis",
+        "Accounting",
+        "Investment Analysis",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "RAMESH .",
+      "position": "Software Engineer @IIFL Finance l Graduated from IIITD",
+      "employee_id": "Iif_070",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "SQL",
+        "JavaScript",
+        "Web Development",
+        "API Integration",
+        "Version Control (Git)",
+        "Agile Methodologies",
+        "Financial Software"
+      ]
+    },
+    {
+      "name": "Shiva Hiremath",
+      "position": "Branch Manager at IIFL Finance",
+      "employee_id": "Iif_071",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Budgeting",
+        "Loan Processing",
+        "Compliance",
+        "Microsoft Excel",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "archana yadav",
+      "position": "Iifl finance limited at IIFL Finance",
+      "employee_id": "Iif_072",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Analysis",
+        "Loan Processing",
+        "Customer Relationship Management (CRM)",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Compliance",
+        "Investment Strategies",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "DURGESH MARATHE",
+      "position": "Associate Vice President - IIFL Finance Ltd",
+      "employee_id": "Iif_073",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Market Research",
+        "Data Analysis",
+        "Financial Modeling",
+        "Regulatory Compliance",
+        "Budgeting",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Ganpatsinh Jadeja",
+      "position": "Gold Loan Officer at IIFL Finance",
+      "employee_id": "Iif_074",
+      "skills": [
+        "Loan Processing",
+        "Customer Service",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Credit Evaluation",
+        "Sales",
+        "Banking Operations",
+        "Compliance",
+        "Microsoft Excel",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Abhishek Shirbhate",
+      "position": "DVP - HR Technology Translating the HR Digital Revolution to Everyday Work | Project Management | Lean Six Sigma Green Belt | DLL- Labour Law | MBA | BE(Mechanical)",
+      "employee_id": "Iif_075",
+      "skills": [
+        "HR Technology",
+        "Project Management",
+        "Lean Six Sigma",
+        "Labour Law",
+        "Digital Transformation",
+        "Mechanical Engineering",
+        "Business Administration",
+        "Process Improvement",
+        "Change Management",
+        "Employee Relations"
+      ]
+    },
+    {
+      "name": "prasad gannavarapu",
+      "position": "--",
+      "employee_id": "Iif_076",
+      "skills": []
+    },
+    {
+      "name": "SOU Gata",
+      "position": "Collections Representative at IIFL Finance",
+      "employee_id": "Iif_077",
+      "skills": [
+        "Debt Collection",
+        "Customer Service",
+        "Negotiation",
+        "Financial Analysis",
+        "Credit Risk Assessment",
+        "Account Management",
+        "Communication Skills",
+        "Problem Solving",
+        "Time Management",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Anamitra Sengupta",
+      "position": "Branch Manager at IIFL Finance",
+      "employee_id": "Iif_078",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Branch Operations",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Team Leadership",
+        "Loan Processing",
+        "Compliance Management",
+        "Market Analysis",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "NaliniKant Nayak",
+      "position": "Area Manager at IIFL Finance",
+      "employee_id": "Iif_080",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Sales Management",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Market Analysis",
+        "Credit Analysis",
+        "Business Development",
+        "Strategic Planning",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Hardika Kohli",
+      "position": "Product Manager @IIFL Finance | NMIMS Mumbai | Driving Innovation at the Intersection of Technology and User Experience",
+      "employee_id": "Iif_081",
+      "skills": [
+        "Product Management",
+        "Technology Integration",
+        "User Experience Design",
+        "Innovation Management",
+        "Project Management",
+        "Financial Services",
+        "Market Research",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Aarti Kumawat",
+      "position": "Gold appraiser at IIFL Finance",
+      "employee_id": "Iif_082",
+      "skills": [
+        "Gold Appraisal",
+        "Precious Metals Valuation",
+        "Market Analysis",
+        "Risk Assessment",
+        "Customer Service",
+        "Financial Reporting",
+        "Negotiation",
+        "Inventory Management",
+        "Compliance",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Rishabh Sharma",
+      "position": "Business Analyst | Expertise in SQL, Advanced Excel, Power BI, Python | Data-Driven Solutions & Insights",
+      "employee_id": "Iif_083",
+      "skills": [
+        "SQL",
+        "Advanced Excel",
+        "Power BI",
+        "Python",
+        "Data Analysis",
+        "Data Visualization",
+        "Business Intelligence",
+        "Data-Driven Solutions",
+        "Insights Generation",
+        "Reporting"
+      ]
+    },
+    {
+      "name": "Shantanu Mangalam",
+      "position": "NMIMS Mumbai | IIFL Finance | PwC | TCS",
+      "employee_id": "Iif_084",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Accounting",
+        "Auditing",
+        "Microsoft Excel",
+        "Financial Modeling",
+        "Business Strategy",
+        "Consulting",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Shivani Srivastava",
+      "position": "Digital Marketing | Brand Strategy | Fintech | Event Management",
+      "employee_id": "Iif_085",
+      "skills": [
+        "Digital Marketing",
+        "Brand Strategy",
+        "Fintech",
+        "Event Management",
+        "SEO",
+        "Content Marketing",
+        "Social Media Management",
+        "Email Marketing",
+        "Google Analytics",
+        "PPC Campaigns"
+      ]
+    },
+    {
+      "name": "Akhilesh K P",
+      "position": "Area Audit Manager at IIFL",
+      "employee_id": "Iif_086",
+      "skills": [
+        "Audit Management",
+        "Risk Assessment",
+        "Internal Controls",
+        "Financial Reporting",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Fraud Detection",
+        "Accounting",
+        "SAP",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Subrata Mohanta",
+      "position": "Finance Manager at IIFL Samasta Finance",
+      "employee_id": "Iif_087",
+      "skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Financial Reporting",
+        "Risk Management",
+        "Accounting",
+        "Financial Planning",
+        "Microsoft Excel",
+        "SAP",
+        "Regulatory Compliance",
+        "Taxation"
+      ]
+    },
+    {
+      "name": "Vidhi Patel",
+      "position": "Assistant branch manager at IIFL Finance",
+      "employee_id": "Iif_088",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Customer Relationship Management (CRM)",
+        "Team Leadership",
+        "Sales Strategy",
+        "Loan Processing",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Budgeting",
+        "Branch Operations"
+      ]
+    },
+    {
+      "name": "RAKESH BIRWADKAR",
+      "position": "Iifl finance limited at IIFL (India Infoline Group)",
+      "employee_id": "Iif_090",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Market Research",
+        "Data Analysis",
+        "Financial Modeling",
+        "Excel",
+        "SQL",
+        "Report Generation"
+      ]
+    },
+    {
+      "name": "Biswanath Manik",
+      "position": "Regional Audit Head",
+      "employee_id": "Iif_091",
+      "skills": [
+        "Audit Management",
+        "Risk Assessment",
+        "Internal Controls",
+        "Compliance",
+        "Financial Reporting",
+        "Data Analysis",
+        "Fraud Detection",
+        "Regulatory Knowledge",
+        "Accounting Software",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Meena Odedra",
+      "position": "Branch Manager at IIFL FINANCE",
+      "employee_id": "Iif_092",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Customer Relationship Management (CRM)",
+        "Team Leadership",
+        "Sales Strategy",
+        "Budgeting",
+        "Loan Processing",
+        "Compliance",
+        "Branch Operations",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Srijit Banerjee",
+      "position": "A passionate & Competent HR Professional || An enthusiastic, dedicated, self-driven, focused and result oriented Person || Working as HR Manager - COE at IIFL Finance Ltd. || Ex HR of ABP Group & Spencer's Retail",
+      "employee_id": "Iif_093",
+      "skills": [
+        "HR Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Compensation and Benefits",
+        "HRIS",
+        "Organizational Development",
+        "Labor Law Compliance",
+        "Training and Development",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Prasad Pandhare",
+      "position": "Manager At Iifl Finance Ltd",
+      "employee_id": "Iif_094",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Portfolio Management",
+        "Investment Strategies",
+        "Credit Analysis",
+        "Financial Reporting",
+        "Budgeting",
+        "Team Leadership",
+        "Regulatory Compliance",
+        "Customer Relationship Management"
+      ]
+    },
+    {
+      "name": "Abhishek Shirbhate",
+      "position": "DVP - HR Technology Translating the HR Digital Revolution to Everyday Work | Project Management | Lean Six Sigma Green Belt | DLL- Labour Law | MBA | BE(Mechanical)",
+      "employee_id": "Iif_095",
+      "skills": [
+        "HR Technology",
+        "Project Management",
+        "Lean Six Sigma",
+        "Labour Law",
+        "Digital Transformation",
+        "Mechanical Engineering",
+        "Process Improvement",
+        "Change Management",
+        "Employee Relations",
+        "Business Analysis"
+      ]
+    },
+    {
+      "name": "Utsav Thakar",
+      "position": "Opration Manager at IIFL Finance Company | Corporate Events Expertise",
+      "employee_id": "Iif_096",
+      "skills": [
+        "Operations Management",
+        "Corporate Event Planning",
+        "Financial Services",
+        "Team Leadership",
+        "Project Management",
+        "Budget Management",
+        "Client Relations",
+        "Strategic Planning",
+        "Process Improvement",
+        "Vendor Management"
+      ]
+    },
+    {
+      "name": "ARPITA SIL",
+      "position": "Branch Manager at IIFL Finance",
+      "employee_id": "Iif_097",
+      "skills": [
+        "Financial Management",
+        "Risk Assessment",
+        "Team Leadership",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Branch Operations",
+        "Loan Processing",
+        "Regulatory Compliance",
+        "Budgeting",
+        "Performance Analysis"
+      ]
+    },
+    {
+      "name": "Ameya Mahale",
+      "position": "SDE at IIFL Finance | Mechanical Engineering | IIT Madras",
+      "employee_id": "Iif_098",
+      "skills": [
+        "Software Development",
+        "Mechanical Engineering",
+        "Python",
+        "Java",
+        "C++",
+        "Algorithm Design",
+        "Data Structures",
+        "Problem Solving",
+        "Financial Technology",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Naresh kumar",
+      "position": "IIFL FINANCE LTD BRANCH MANAGER",
+      "employee_id": "Iif_099",
+      "skills": [
+        "Financial Management",
+        "Risk Assessment",
+        "Customer Relationship Management (CRM)",
+        "Branch Operations",
+        "Loan Processing",
+        "Credit Analysis",
+        "Sales Strategy",
+        "Team Leadership",
+        "Regulatory Compliance",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Santosh Amzare",
+      "position": "Regional Training Manager - L&D Department - IIFL Finance Ltd.",
+      "employee_id": "Iif_100",
+      "skills": [
+        "Training and Development",
+        "Learning Management Systems",
+        "Instructional Design",
+        "Performance Management",
+        "Employee Engagement",
+        "Leadership Development",
+        "Talent Management",
+        "Corporate Training",
+        "Training Needs Analysis",
+        "Workshop Facilitation"
+      ]
+    }
+  ]
+}

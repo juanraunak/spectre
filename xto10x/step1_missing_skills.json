@@ -1,0 +1,1586 @@
+[
+  {
+    "employee_name": "Prisha Goel",
+    "role": "SDE-1 @ xto10x | Ex-Intern @ Fidelity & CoffeeBeans | Cisco Campus Ambassador '22 | PES University CSE'25",
+    "current_skills": [
+      "algorithms",
+      "c++",
+      "data structures",
+      "git",
+      "java",
+      "problem solving",
+      "python",
+      "software development",
+      "sql",
+      "web development"
+    ],
+    "missing_skills": [
+      "ci cd",
+      "cloud computing",
+      "distributed systems",
+      "docker",
+      "kubernetes",
+      "linux",
+      "microservices",
+      "networking"
+    ],
+    "competitor_count": 1,
+    "gap_reasoning": "The missing skills such as 'ci cd', 'cloud computing', 'distributed systems', 'docker', 'kubernetes', 'linux', 'microservices', and 'networking' are crucial for modern software development roles, particularly in environments that emphasize scalable, efficient, and reliable systems. Compared to industry standards, Prisha Goel's skill set lacks several key competencies that are commonly possessed by competitors in similar roles, indicating a need for upskilling to remain competitive and proficient in the evolving tech landscape.",
+    "confidence_score": 0.7
+  },
+  {
+    "employee_name": "Deepak kumar Sethi",
+    "role": "🚀 Growth Marketing Strategist | Performance + Retention | D2C | SaaS | Martech | Expert in Paid Media, Funnels, Retention | CRM | Ex-Xto10x, HealthKart, HomeLane",
+    "current_skills": [
+      "crm",
+      "customer retention",
+      "d2c marketing",
+      "growth marketing",
+      "marketing funnels",
+      "martech",
+      "paid media",
+      "performance marketing",
+      "retention strategies",
+      "saas marketing"
+    ],
+    "missing_skills": [
+      "business development",
+      "competitive analysis",
+      "consulting",
+      "customer insights",
+      "data analytics",
+      "financial modeling",
+      "growth strategy",
+      "market analysis",
+      "project management",
+      "strategic planning"
+    ],
+    "competitor_count": 2,
+    "gap_reasoning": "The missing skills such as business development, competitive analysis, customer insights, and data analytics are crucial for a Growth Marketing Strategist to identify market opportunities, understand customer behavior, and optimize marketing strategies effectively. Compared to industry standards, Deepak Kumar Sethi's skill set lacks several strategic and analytical competencies that are commonly possessed by competitors, potentially limiting his ability to drive comprehensive growth initiatives and make data-driven decisions.",
+    "confidence_score": 0.8
+  },
+  {
+    "employee_name": "Deepak Talreja",
+    "role": "Regional Sales Head | Unacademy | Vedantu | Toppr | Core - Xto10X",
+    "current_skills": [
+      "business development",
+      "crm software",
+      "customer relationship management",
+      "market analysis",
+      "negotiation",
+      "performance metrics",
+      "sales forecasting",
+      "sales strategy",
+      "sales training",
+      "team leadership"
+    ],
+    "missing_skills": [
+      "advisory services",
+      "client relationship management",
+      "consulting",
+      "financial analysis",
+      "leadership",
+      "management consulting",
+      "market research",
+      "project management",
+      "risk management",
+      "strategic planning"
+    ],
+    "competitor_count": 2,
+    "gap_reasoning": "The missing skills such as 'advisory services', 'consulting', 'financial analysis', 'management consulting', 'project management', 'risk management', and 'strategic planning' are crucial for a Regional Sales Head role as they enhance the ability to provide comprehensive client solutions, manage complex projects, and develop strategic initiatives that drive business growth. Compared to industry standards, Deepak Talreja's skill set shows gaps in areas that are increasingly important for maintaining competitive advantage and delivering value-added services, as evidenced by the competitor data.",
+    "confidence_score": 0.9
+  },
+  {
+    "employee_name": "Shantanu Jaiswal",
+    "role": "Helping Startups Scale | Customer Success Manager | Ex- Pixis",
+    "current_skills": [
+      "business development",
+      "client relationship management",
+      "crm software",
+      "customer success management",
+      "data analysis",
+      "project management",
+      "salesforce",
+      "startup scaling",
+      "strategic planning",
+      "team leadership"
+    ],
+    "missing_skills": [
+      "performance metrics",
+      "sap software"
+    ],
+    "competitor_count": 5,
+    "gap_reasoning": "The missing skills, 'performance metrics' and 'SAP software,' are crucial for Shantanu Jaiswal's role as they enable effective measurement of customer success and utilization of enterprise resource planning tools, respectively. Compared to industry standards, these gaps indicate a need for enhanced analytical capabilities and familiarity with widely-used enterprise software, which are common among competitors in similar roles.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Aashish Solanky",
+    "role": "Hexaware | IIM Lucknow | xto10x | Cognizant | Unstop Global Rank 29 (2023)",
+    "current_skills": [
+      "business strategy",
+      "client relations",
+      "competitive analysis",
+      "consulting",
+      "data analysis",
+      "leadership",
+      "market research",
+      "process improvement",
+      "project management",
+      "team collaboration"
+    ],
+    "missing_skills": [
+      "corporate finance",
+      "data analytics",
+      "financial analysis",
+      "regulatory compliance",
+      "risk management",
+      "tax planning"
+    ],
+    "competitor_count": 6,
+    "gap_reasoning": "The missing skills of 'corporate finance', 'data analytics', 'financial analysis', 'regulatory compliance', 'risk management', and 'tax planning' are crucial for Aashish Solanky's role as they enhance the ability to make informed financial decisions, ensure regulatory adherence, and manage risks effectively, which are essential for strategic business consulting. Compared to industry standards, these gaps indicate a need for Aashish to develop a more comprehensive financial and regulatory skill set to remain competitive and align with the broader skill universe observed in similar roles.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Chandan Kar",
+    "role": "Business Transformation & Strategy @ Mercer || ex-McKinsey || xto10x",
+    "current_skills": [
+      "business strategy",
+      "change management",
+      "data analysis",
+      "financial modeling",
+      "management consulting",
+      "market research",
+      "operational efficiency",
+      "project management",
+      "stakeholder management",
+      "transformation management"
+    ],
+    "missing_skills": [
+      "business development",
+      "financial analysis",
+      "strategic planning"
+    ],
+    "competitor_count": 17,
+    "gap_reasoning": "The missing skills of business development, financial analysis, and strategic planning are crucial for driving growth, making informed financial decisions, and setting long-term goals, respectively, which are essential for a Business Transformation & Strategy role. Compared to industry standards, Chandan Kar's skill set lacks these key areas, which are commonly found among competitors, indicating a need for development in these strategic and analytical competencies to remain competitive.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Arun Vigneswaran",
+    "role": "Head of People practice @ xto10x | Ex-Flipkart | TISS",
+    "current_skills": [
+      "change management",
+      "compensation and benefits",
+      "employee engagement",
+      "employee relations",
+      "hr analytics",
+      "human resources management",
+      "leadership development",
+      "organizational development",
+      "performance management",
+      "talent acquisition"
+    ],
+    "missing_skills": [
+      "strategic planning",
+      "succession planning",
+      "talent management",
+      "workplace culture"
+    ],
+    "competitor_count": 2,
+    "gap_reasoning": "The missing skills of 'strategic planning', 'succession planning', 'talent management', and 'workplace culture' are crucial for a Head of People practice role as they ensure long-term organizational success, leadership continuity, and a positive work environment. Compared to industry standards, Arun Vigneswaran's skill set lacks these key areas, indicating a gap in strategic and cultural competencies that are commonly possessed by competitors in similar roles.",
+    "confidence_score": 0.8
+  },
+  {
+    "employee_name": "Salmon Shaji",
+    "role": "Customer Success @ Astra Security | Helping Businesses Stay Secure & Succeed",
+    "current_skills": [
+      "account management",
+      "business development",
+      "client relationship management",
+      "customer success management",
+      "cybersecurity",
+      "incident response",
+      "risk assessment",
+      "security solutions",
+      "software proficiency",
+      "technical support"
+    ],
+    "missing_skills": [
+      "ai ml",
+      "cloud computing",
+      "compliance",
+      "consulting",
+      "crm",
+      "customer success",
+      "erp",
+      "human capital management hcm",
+      "information security",
+      "isv",
+      "leadership",
+      "network security",
+      "oracle software",
+      "partner management",
+      "performance metrics",
+      "project management",
+      "sap software",
+      "security audits",
+      "strategic planning",
+      "strategic pursuits",
+      "team building",
+      "tech risk management",
+      "threat analysis",
+      "vulnerability management"
+    ],
+    "competitor_count": 3,
+    "gap_reasoning": "The missing skills such as 'cloud computing', 'compliance', 'information security', 'network security', and 'strategic planning' are crucial for a Customer Success role in the cybersecurity industry as they enhance the ability to provide comprehensive security solutions and strategic guidance to clients. Compared to industry standards, Salmon Shaji's skill set lacks several key competencies that are prevalent among competitors, indicating a need for targeted skill development to remain competitive and effective in the role.",
+    "confidence_score": 0.9
+  },
+  {
+    "employee_name": "Ramya S.",
+    "role": "15+ Years of Strategic Leadership in Scaling Startups across SaaS and Consumer Tech | ex-xto10x, Myntra, Amazon, Ola, BCG | Gold medalist at IIM,Lucknow",
+    "current_skills": [
+      "business strategy",
+      "consumer tech",
+      "market analysis",
+      "operational efficiency",
+      "product development",
+      "project management",
+      "saas",
+      "scaling startups",
+      "strategic leadership",
+      "team building"
+    ],
+    "missing_skills": [
+      "business development",
+      "change management",
+      "financial analysis",
+      "leadership",
+      "management consulting",
+      "strategic planning"
+    ],
+    "competitor_count": 20,
+    "gap_reasoning": "The missing skills of 'business development', 'change management', 'financial analysis', 'leadership', 'management consulting', and 'strategic planning' are crucial for a strategic leadership role as they enhance the ability to drive growth, manage transitions, make informed financial decisions, lead effectively, provide expert advice, and plan long-term strategies. Compared to industry standards, these gaps indicate areas where Ramya S. could further develop to align more closely with the comprehensive skill sets observed in competitors, thereby strengthening her competitive edge in the market.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Deekonda Saikrishna",
+    "role": "Bajaj finserv | MDI Gurgaon | ex- People Consultant- xto10x | BYLP- BYJUS | Cat'18- 99.52%ile | XAT' 18- 99.256% | IIIT",
+    "current_skills": [
+      "business development",
+      "client relations",
+      "consulting",
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "market research",
+      "performance improvement",
+      "project management",
+      "strategic planning"
+    ],
+    "missing_skills": [
+      "client relationship management",
+      "corporate finance",
+      "leadership",
+      "management consulting",
+      "risk management"
+    ],
+    "competitor_count": 11,
+    "gap_reasoning": "The missing skills of client relationship management, corporate finance, leadership, management consulting, and risk management are crucial for enhancing strategic decision-making, financial oversight, and effective team leadership in Deekonda Saikrishna's role. Compared to industry standards, these gaps indicate areas for improvement to align with competitors who possess a broader skill set, potentially impacting competitive advantage and career progression.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Rohith Botu",
+    "role": "Operations Practice @xto10x | Ex-Intern @Flipkart | BITS Pilani'24",
+    "current_skills": [
+      "analytical skills",
+      "business strategy",
+      "data analysis",
+      "excel",
+      "logistics",
+      "operations management",
+      "process improvement",
+      "project management",
+      "sql",
+      "supply chain management"
+    ],
+    "missing_skills": [
+      "budgeting",
+      "business development",
+      "client relations",
+      "corporate finance",
+      "data analytics",
+      "financial analysis",
+      "financial modeling",
+      "leadership",
+      "management consulting",
+      "market analysis",
+      "market research",
+      "regulatory compliance",
+      "risk management",
+      "strategic planning"
+    ],
+    "competitor_count": 6,
+    "gap_reasoning": "The missing skills such as 'budgeting', 'business development', 'client relations', 'corporate finance', 'financial analysis', 'leadership', 'management consulting', 'market analysis', 'market research', 'regulatory compliance', 'risk management', and 'strategic planning' are crucial for a comprehensive operations role as they enhance financial acumen, strategic decision-making, and client engagement, which are essential for driving business growth and operational efficiency. Compared to industry standards, Rohith Botu's profile shows significant gaps in financial and strategic competencies, which are commonly possessed by competitors in similar roles, indicating a need for skill development to remain competitive.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Srayon Datta",
+    "role": "Scaling Blackbaud's Customer support engine in India | xto10x | UNV | Presidency University",
+    "current_skills": [
+      "communication skills",
+      "crm software",
+      "customer support",
+      "data analysis",
+      "problem solving",
+      "process improvement",
+      "project management",
+      "scaling operations",
+      "team management",
+      "technical support"
+    ],
+    "missing_skills": [
+      "business development",
+      "client relations",
+      "customer service management",
+      "delivery management",
+      "enterprise software",
+      "executive leadership",
+      "sap software",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 1,
+    "gap_reasoning": "The missing skills such as 'business development', 'client relations', and 'strategic planning' are crucial for scaling operations and enhancing customer support, as they enable effective market expansion, improved customer engagement, and long-term strategic growth. Compared to industry standards, Srayon Datta's profile shows a gap in executive and strategic capabilities, which are essential for leadership roles in competitive environments, as evidenced by the competitor's skill set.",
+    "confidence_score": 0.7
+  },
+  {
+    "employee_name": "Praneeth Gummalla",
+    "role": "SDE-1 @xto10x | IIT BHU '23",
+    "current_skills": [
+      "algorithms",
+      "c++",
+      "data structures",
+      "git",
+      "java",
+      "problem solving",
+      "python",
+      "software development",
+      "sql",
+      "web development"
+    ],
+    "missing_skills": [
+      "ci cd",
+      "cloud computing",
+      "distributed systems",
+      "docker",
+      "kubernetes",
+      "linux",
+      "microservices",
+      "networking"
+    ],
+    "competitor_count": 1,
+    "gap_reasoning": "The missing skills such as CI/CD, cloud computing, distributed systems, Docker, Kubernetes, Linux, microservices, and networking are crucial for modern software development roles, particularly in environments that emphasize scalable, efficient, and automated deployment processes. Compared to industry standards, Praneeth Gummalla's skill set lacks several key competencies that are commonly possessed by competitors in similar roles, indicating a need for upskilling to remain competitive and proficient in current technological trends.",
+    "confidence_score": 0.7
+  },
+  {
+    "employee_name": "Saurabh Aul",
+    "role": "xto10x | ex-Paytm | FMS Delhi",
+    "current_skills": [
+      "business strategy",
+      "data analytics",
+      "digital payments",
+      "financial analysis",
+      "market research",
+      "product management",
+      "project management",
+      "stakeholder management",
+      "startup ecosystem",
+      "team leadership"
+    ],
+    "missing_skills": [
+      "accounting software",
+      "auditing",
+      "compliance",
+      "data interpretation",
+      "excel",
+      "report generation",
+      "risk assessment",
+      "taxation"
+    ],
+    "competitor_count": 1,
+    "gap_reasoning": "The missing skills such as 'accounting software', 'auditing', 'compliance', 'data interpretation', 'excel', 'report generation', 'risk assessment', and 'taxation' are crucial for ensuring accurate financial management, regulatory adherence, and effective data handling in business strategy roles. Compared to industry standards, Saurabh Aul's profile lacks several key competencies that competitors possess, potentially limiting his effectiveness in comprehensive financial oversight and regulatory compliance.",
+    "confidence_score": 0.7
+  },
+  {
+    "employee_name": "Tuhina Panda",
+    "role": "Talent Development, Product Development and Customer Success",
+    "current_skills": [
+      "customer relationship management crm",
+      "customer success",
+      "market research",
+      "performance analysis",
+      "product development",
+      "product lifecycle management",
+      "project management",
+      "talent development",
+      "team leadership",
+      "training and development"
+    ],
+    "missing_skills": [
+      "business development",
+      "product management",
+      "strategic planning"
+    ],
+    "competitor_count": 8,
+    "gap_reasoning": "The missing skills—business development, product management, and strategic planning—are crucial for Tuhina Panda's role as they enhance the ability to drive growth, manage product portfolios effectively, and align organizational goals with market opportunities. Compared to industry standards, these gaps indicate a need for broader strategic capabilities and a more comprehensive approach to product and market expansion, as evidenced by competitors possessing these skills.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Rishhi Mehra",
+    "role": "Connecting Talent with Opportunity",
+    "current_skills": [
+      "applicant tracking systems",
+      "candidate sourcing",
+      "employee relations",
+      "human resources management",
+      "interviewing",
+      "job posting",
+      "networking",
+      "onboarding",
+      "recruitment",
+      "talent acquisition"
+    ],
+    "missing_skills": [
+      "employee onboarding",
+      "employer branding",
+      "hr analytics",
+      "hr software",
+      "performance management",
+      "recruitment strategies",
+      "strategic planning",
+      "workforce planning"
+    ],
+    "competitor_count": 4,
+    "gap_reasoning": "The missing skills such as 'employee onboarding', 'employer branding', 'hr analytics', 'hr software', 'performance management', 'recruitment strategies', 'strategic planning', and 'workforce planning' are crucial for enhancing the efficiency and strategic impact of talent acquisition processes. Compared to industry standards, Rishhi Mehra's skill set lacks several competencies that are commonly possessed by competitors, indicating a need for development in areas that support comprehensive HR management and strategic workforce planning.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Tejasvee Srikantan",
+    "role": "Engineering | Walmart | xto10x | Flipkart",
+    "current_skills": [
+      "agile methodologies",
+      "cloud computing",
+      "data analysis",
+      "e commerce",
+      "java",
+      "product management",
+      "project management",
+      "python",
+      "retail technology",
+      "software development"
+    ],
+    "missing_skills": [
+      "devops",
+      "distributed systems",
+      "kubernetes",
+      "microservices architecture"
+    ],
+    "competitor_count": 2,
+    "gap_reasoning": "The missing skills—DevOps, distributed systems, Kubernetes, and microservices architecture—are crucial for modern engineering roles as they enhance system scalability, reliability, and efficient deployment processes. Compared to industry standards, Tejasvee Srikantan's skill set lacks these advanced competencies, which are increasingly essential for competitive performance and innovation in the tech sector.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Nikhil Tyagi",
+    "role": "Helping companies in their journey to scale from x to 10x! Talk to me about P&L Transformation, CX/Growth strategy, People & Culture or Leadership Coaching programs",
+    "current_skills": [
+      "business scaling",
+      "change management",
+      "cx strategy",
+      "growth strategy",
+      "leadership coaching",
+      "organizational development",
+      "p l transformation",
+      "people culture",
+      "performance improvement",
+      "strategic planning"
+    ],
+    "missing_skills": [
+      "advisory services",
+      "ai integration",
+      "business development",
+      "business process optimization",
+      "digital strategy",
+      "energy sector expertise",
+      "enterprise transformation",
+      "financial analysis",
+      "fortune 500 consulting",
+      "government advisory",
+      "human integration",
+      "policy analysis",
+      "project management",
+      "public sector consulting",
+      "regulatory compliance",
+      "risk assessment",
+      "sap s 4hana",
+      "stakeholder engagement",
+      "technology implementation"
+    ],
+    "competitor_count": 2,
+    "gap_reasoning": "The missing skills such as 'advisory services', 'business development', 'digital strategy', and 'financial analysis' are crucial for Nikhil Tyagi's role as they enhance the ability to provide comprehensive scaling solutions, integrate advanced technologies, and optimize business processes. Compared to industry standards, these gaps indicate a need for broader expertise in areas critical for driving enterprise transformation and maintaining competitive advantage in consulting services.",
+    "confidence_score": 0.8
+  },
+  {
+    "employee_name": "Tanushree Kanathe",
+    "role": "Customer Success Manager | SaaS Expert | Client Retention & Growth Specialist",
+    "current_skills": [
+      "account management",
+      "client growth strategies",
+      "client retention strategies",
+      "communication skills",
+      "customer relationship management",
+      "customer success metrics",
+      "data analysis",
+      "project management",
+      "saas solutions",
+      "salesforce"
+    ],
+    "missing_skills": [
+      "ai ml",
+      "business strategy",
+      "cloud computing",
+      "consulting",
+      "crm",
+      "customer success",
+      "erp",
+      "excel",
+      "financial analysis",
+      "isv",
+      "oracle software",
+      "partner management",
+      "powerpoint",
+      "report writing",
+      "risk management",
+      "stakeholder management",
+      "strategic pursuits"
+    ],
+    "competitor_count": 2,
+    "gap_reasoning": "The missing skills such as 'business strategy', 'cloud computing', 'financial analysis', and 'stakeholder management' are crucial for a Customer Success Manager to drive strategic client growth, leverage cloud-based SaaS solutions, and manage financial aspects effectively. Compared to industry standards, Tanushree Kanathe's skill set lacks several key competencies that competitors possess, indicating a need for upskilling to remain competitive and enhance overall performance in the role.",
+    "confidence_score": 0.81
+  },
+  {
+    "employee_name": "Rahul Jagannathan",
+    "role": "People Practice at xto10x | Leadership roles in startups | ICF Credentialed Coach | Hogan Certified | Music Hobbyist",
+    "current_skills": [
+      "coaching",
+      "employee engagement",
+      "hogan assessment",
+      "icf coaching",
+      "leadership",
+      "organizational development",
+      "people practice",
+      "performance management",
+      "startups",
+      "talent management"
+    ],
+    "missing_skills": [
+      "applicant tracking systems",
+      "employee relations",
+      "hr analytics",
+      "hr software",
+      "interviewing",
+      "onboarding",
+      "recruitment",
+      "strategic planning",
+      "talent acquisition"
+    ],
+    "competitor_count": 2,
+    "gap_reasoning": "The missing skills such as 'applicant tracking systems', 'employee relations', 'hr analytics', 'hr software', 'interviewing', 'onboarding', 'recruitment', 'strategic planning', and 'talent acquisition' are crucial for a comprehensive People Practice role, as they enable effective management of the entire employee lifecycle and strategic HR planning. Compared to industry standards, Rahul Jagannathan's profile lacks several key competencies that are commonly possessed by competitors in similar roles, indicating potential areas for development to enhance his competitive edge and overall effectiveness in HR management.",
+    "confidence_score": 0.8
+  },
+  {
+    "employee_name": "Sneha Rao",
+    "role": "Talent development I Coach (ICF - ACC)",
+    "current_skills": [
+      "career counseling",
+      "coaching",
+      "conflict resolution",
+      "employee engagement",
+      "icf competencies",
+      "leadership training",
+      "mentoring",
+      "performance management",
+      "talent development",
+      "workshop facilitation"
+    ],
+    "missing_skills": [
+      "ai implementation",
+      "artificial intelligence",
+      "corporate training",
+      "employee development",
+      "learning development",
+      "performance coaching",
+      "professional coaching",
+      "sap",
+      "training programs"
+    ],
+    "competitor_count": 3,
+    "gap_reasoning": "The missing skills such as 'ai implementation', 'artificial intelligence', 'corporate training', 'employee development', 'learning development', 'performance coaching', 'professional coaching', 'sap', and 'training programs' are crucial for Sneha Rao's role as they enhance the ability to leverage technology, deliver comprehensive training solutions, and align with evolving industry standards. Compared to competitors, Sneha's skill set lacks these advanced and specialized competencies, indicating a gap that could impact her competitive edge and effectiveness in talent development.",
+    "confidence_score": 0.9
+  },
+  {
+    "employee_name": "Preeti Sheokand",
+    "role": "Designing for AI | CUX Designer | Enterprise UX Designer",
+    "current_skills": [
+      "ai design",
+      "customer experience cux design",
+      "design thinking",
+      "enterprise ux",
+      "interaction design",
+      "prototyping",
+      "usability testing",
+      "user experience ux design",
+      "user research",
+      "wireframing"
+    ],
+    "missing_skills": [
+      "adobe xd",
+      "figma",
+      "information architecture",
+      "sketch",
+      "ui ux design",
+      "user experience design"
+    ],
+    "competitor_count": 1,
+    "gap_reasoning": "The missing skills—Adobe XD, Figma, information architecture, Sketch, UI/UX design, and user experience design—are crucial for Preeti Sheokand's role as they are essential tools and methodologies widely used in the industry for creating and managing design projects efficiently. Compared to industry standards, Preeti's skill set lacks some key competencies that are prevalent among competitors, indicating a need for upskilling to remain competitive and versatile in the field.",
+    "confidence_score": 0.7
+  },
+  {
+    "employee_name": "Kejal Shah",
+    "role": "Capability Building at xto10x | ex-The Souled Store | ex-Teach For India",
+    "current_skills": [
+      "capability building",
+      "educational program design",
+      "leadership development",
+      "organizational development",
+      "performance improvement",
+      "project management",
+      "stakeholder engagement",
+      "strategic planning",
+      "team management",
+      "training and development"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "business process management",
+      "change management",
+      "consulting",
+      "data analysis",
+      "data analytics",
+      "human capital management",
+      "intelligent automation",
+      "machine learning",
+      "natural language processing",
+      "predictive analytics",
+      "python",
+      "r",
+      "robotic process automation rpa",
+      "software development"
+    ],
+    "competitor_count": 3,
+    "gap_reasoning": "The missing skills such as 'data analysis', 'machine learning', and 'predictive analytics' are crucial for enhancing data-driven decision-making and leveraging technology to optimize capability building and organizational development. Compared to industry standards, Kejal Shah's profile lacks several advanced technical competencies that are increasingly essential for staying competitive and driving innovation in similar roles.",
+    "confidence_score": 0.94
+  },
+  {
+    "employee_name": "Abhishek Deshmukh",
+    "role": "Vice President Corporate Strategy at InMobi Group",
+    "current_skills": [
+      "business development",
+      "competitive intelligence",
+      "corporate strategy",
+      "data driven decision making",
+      "financial analysis",
+      "industry research",
+      "leadership",
+      "market analysis",
+      "project management",
+      "strategic planning"
+    ],
+    "missing_skills": [],
+    "competitor_count": 10,
+    "gap_reasoning": "Found 0 high-priority skill gaps based on 10 competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Pallavi Bhagavatula",
+    "role": "Brand and Marketing at xto10x",
+    "current_skills": [
+      "analytics",
+      "brand strategy",
+      "content creation",
+      "customer engagement",
+      "digital marketing",
+      "email marketing",
+      "market research",
+      "marketing campaigns",
+      "seo",
+      "social media marketing"
+    ],
+    "missing_skills": [
+      "advertising",
+      "brand management",
+      "budget management",
+      "content marketing",
+      "crm software",
+      "marketing strategy",
+      "operational efficiency",
+      "performance metrics",
+      "ppc advertising",
+      "process improvement",
+      "project management",
+      "resource allocation",
+      "risk assessment",
+      "social media management",
+      "stakeholder communication",
+      "strategic planning",
+      "team leadership"
+    ],
+    "competitor_count": 3,
+    "gap_reasoning": "The missing skills identified for Pallavi Bhagavatula, such as 'advertising', 'brand management', 'budget management', 'content marketing', 'crm software', 'marketing strategy', 'operational efficiency', 'performance metrics', 'ppc advertising', 'process improvement', 'project management', 'resource allocation', 'risk assessment', 'social media management', 'stakeholder communication', 'strategic planning', and 'team leadership', are crucial for a comprehensive brand and marketing role as they enhance strategic planning, execution, and measurement of marketing efforts. Compared to industry standards, Pallavi's skill set lacks several key competencies that are prevalent among competitors, indicating a need for development in areas that drive efficiency, strategic oversight, and advanced marketing techniques.",
+    "confidence_score": 0.92
+  },
+  {
+    "employee_name": "Tanmay A.",
+    "role": "Product @ xto10x | Helping startups scale smarter",
+    "current_skills": [
+      "agile methodologies",
+      "business development",
+      "data driven decision making",
+      "market analysis",
+      "product management",
+      "product strategy",
+      "project management",
+      "startup scaling",
+      "strategic planning",
+      "user experience ux design"
+    ],
+    "missing_skills": [
+      "business strategy",
+      "change management",
+      "data analysis",
+      "process improvement",
+      "stakeholder management"
+    ],
+    "competitor_count": 7,
+    "gap_reasoning": "The missing skills—business strategy, change management, data analysis, process improvement, and stakeholder management—are crucial for Tanmay A.'s role in product management and startup scaling as they enhance strategic decision-making, adaptability, and operational efficiency. Compared to industry standards, these gaps indicate areas where Tanmay could improve to align more closely with competitors who possess a broader skill set, potentially increasing his effectiveness and competitive edge in the market.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Tanveer Ahmed",
+    "role": "Operations Excellence@xto10x | MIT SCM | Flipkart | IIT Bhubaneswar | E-commerce Supply Chain | Design | Product | Operations",
+    "current_skills": [
+      "data analysis",
+      "e commerce",
+      "inventory management",
+      "lean six sigma",
+      "logistics",
+      "operations management",
+      "process improvement",
+      "product design",
+      "project management",
+      "supply chain management"
+    ],
+    "missing_skills": [
+      "budgeting",
+      "business development",
+      "corporate finance",
+      "financial modeling",
+      "leadership",
+      "market analysis",
+      "risk management",
+      "strategic planning"
+    ],
+    "competitor_count": 2,
+    "gap_reasoning": "The missing skills such as 'budgeting', 'business development', 'corporate finance', 'financial modeling', 'leadership', 'market analysis', 'risk management', and 'strategic planning' are crucial for a comprehensive understanding of the financial and strategic aspects of operations, enabling better decision-making and leadership in driving business growth. Compared to industry standards, Tanveer Ahmed's profile shows a gap in these critical areas, which are commonly possessed by competitors in similar roles, indicating a need for skill enhancement to remain competitive and effective in the field.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Ankit Hetamsaria",
+    "role": "xto10x | Ex-Founder Bambinos.live | Cure.fit | Flipkart",
+    "current_skills": [
+      "business development",
+      "e commerce",
+      "entrepreneurship",
+      "health and wellness industry",
+      "market research",
+      "operations management",
+      "product management",
+      "start up strategy",
+      "strategic planning",
+      "team leadership"
+    ],
+    "missing_skills": [
+      "accounting software",
+      "auditing",
+      "business strategy",
+      "compliance",
+      "data interpretation",
+      "excel",
+      "financial analysis",
+      "report generation",
+      "risk assessment",
+      "taxation"
+    ],
+    "competitor_count": 2,
+    "gap_reasoning": "The missing skills such as 'financial analysis', 'business strategy', and 'compliance' are crucial for comprehensive business oversight and strategic decision-making, which are essential for leadership roles in dynamic industries like e-commerce and health and wellness. Compared to industry standards, Ankit Hetamsaria's profile shows a gap in financial and compliance-related competencies, which are commonly possessed by competitors and are vital for ensuring robust financial health and regulatory adherence in competitive markets.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Bikashjyoti Das",
+    "role": "Summer Intern @xto10x | IIM L PGP '26 | Ex- L&T | NIT Silchar'22",
+    "current_skills": [
+      "autocad",
+      "construction management",
+      "data analysis",
+      "engineering design",
+      "excel",
+      "problem solving",
+      "project management",
+      "research",
+      "team collaboration",
+      "technical writing"
+    ],
+    "missing_skills": [
+      "business intelligence",
+      "financial modeling",
+      "powerpoint",
+      "report writing",
+      "risk management",
+      "sql",
+      "technology consulting"
+    ],
+    "competitor_count": 1,
+    "gap_reasoning": "The missing skills such as business intelligence, financial modeling, and SQL are crucial for enhancing data-driven decision-making and financial analysis capabilities, which are essential for strategic project management and technology consulting roles. Compared to industry standards, Bikashjyoti Das lacks several key competencies that competitors possess, indicating a need for skill development in areas critical for comprehensive project oversight and advanced technical consulting.",
+    "confidence_score": 0.7
+  },
+  {
+    "employee_name": "Dr. Prajyot M.",
+    "role": "VC@Campus Fund | Growth Consulting@xto10x | MBBS | IIM Lucknow | Tata Trusts Scholar | UPSC CSE Interview'22",
+    "current_skills": [
+      "business development",
+      "data analysis",
+      "growth consulting",
+      "healthcare management",
+      "investment analysis",
+      "leadership",
+      "market research",
+      "project management",
+      "public speaking",
+      "strategic planning"
+    ],
+    "missing_skills": [
+      "competitive analysis",
+      "consulting",
+      "customer insights",
+      "data analytics",
+      "financial modeling",
+      "growth strategy",
+      "market analysis"
+    ],
+    "competitor_count": 1,
+    "gap_reasoning": "The missing skills—competitive analysis, consulting, customer insights, data analytics, financial modeling, growth strategy, and market analysis—are crucial for Dr. Prajyot M.'s role in VC and growth consulting as they enhance decision-making, strategic planning, and market positioning. Compared to industry standards, these gaps indicate areas for development to align with competitors who possess a more comprehensive skill set, potentially improving competitive edge and effectiveness in the role.",
+    "confidence_score": 0.7
+  },
+  {
+    "employee_name": "Neha Sharma",
+    "role": "Chartered Accountant | Fin & Compliance Manager at Flash.co | x- xto10x Technologies | x- Infosys | x- Capgemini",
+    "current_skills": [
+      "auditing",
+      "budgeting",
+      "compliance management",
+      "excel",
+      "financial analysis",
+      "financial reporting",
+      "regulatory compliance",
+      "risk management",
+      "sap",
+      "taxation"
+    ],
+    "missing_skills": [
+      "audit management",
+      "client relationship management",
+      "compliance",
+      "data analysis",
+      "project management",
+      "risk assessment"
+    ],
+    "competitor_count": 6,
+    "gap_reasoning": "Neha Sharma's missing skills in audit management, client relationship management, compliance, data analysis, project management, and risk assessment are crucial for enhancing her effectiveness in overseeing comprehensive financial audits, fostering client relations, ensuring regulatory adherence, analyzing financial data, managing projects, and assessing risks. Compared to industry standards, these gaps indicate areas for development to align with competitors who possess a broader skill set, thereby potentially improving her strategic impact and operational efficiency in her role.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Ankit Agarwal",
+    "role": "Chief of Staff at Wakefit",
+    "current_skills": [
+      "business development",
+      "communication",
+      "leadership",
+      "market analysis",
+      "operations management",
+      "problem solving",
+      "process improvement",
+      "project management",
+      "strategic planning",
+      "team coordination"
+    ],
+    "missing_skills": [
+      "change management",
+      "consulting",
+      "enterprise software",
+      "it strategy",
+      "oracle cloud",
+      "stakeholder engagement"
+    ],
+    "competitor_count": 3,
+    "gap_reasoning": "The missing skills such as 'change management', 'consulting', 'enterprise software', 'IT strategy', 'Oracle Cloud', and 'stakeholder engagement' are crucial for a Chief of Staff role as they enable effective adaptation to organizational changes, strategic IT alignment, and robust stakeholder relationships, which are essential for driving business growth and innovation. Compared to industry standards, Ankit Agarwal's skill set lacks these key competencies, indicating a gap that could impact his ability to perform at par with competitors in similar roles.",
+    "confidence_score": 0.9
+  },
+  {
+    "employee_name": "Mann Baraiya",
+    "role": "Engineering @ Nightfall AI | xto10x | Juspay",
+    "current_skills": [
+      "algorithms",
+      "api development",
+      "artificial intelligence",
+      "cloud computing",
+      "data structures",
+      "java",
+      "javascript",
+      "machine learning",
+      "python",
+      "software engineering"
+    ],
+    "missing_skills": [
+      "ai development",
+      "big data",
+      "business intelligence",
+      "data engineering",
+      "data visualization",
+      "project management",
+      "sql"
+    ],
+    "competitor_count": 1,
+    "gap_reasoning": "The missing skills such as 'ai development', 'big data', 'business intelligence', 'data engineering', 'data visualization', 'project management', and 'sql' are crucial for enhancing the employee's ability to handle complex data-driven projects, optimize AI solutions, and manage projects efficiently. Compared to industry standards, Mann Baraiya's current skill set lacks several key competencies that are prevalent among competitors, indicating a need for targeted skill development to remain competitive in the engineering role at Nightfall AI, xto10x, and Juspay.",
+    "confidence_score": 0.7
+  },
+  {
+    "employee_name": "Ashwath S.",
+    "role": "Growth Catalyst @ xto10x",
+    "current_skills": [
+      "business development",
+      "competitive analysis",
+      "customer acquisition",
+      "data analytics",
+      "digital marketing",
+      "growth strategy",
+      "market analysis",
+      "performance metrics",
+      "product management",
+      "sales optimization"
+    ],
+    "missing_skills": [
+      "consulting",
+      "customer insights",
+      "financial modeling",
+      "project management",
+      "strategic planning"
+    ],
+    "competitor_count": 1,
+    "gap_reasoning": "The missing skills of consulting, customer insights, financial modeling, project management, and strategic planning are crucial for a Growth Catalyst role as they enhance the ability to provide comprehensive business solutions, understand customer behavior deeply, manage financial aspects effectively, oversee projects efficiently, and devise long-term strategies. Compared to industry standards, Ashwath S. lacks key competencies that are prevalent among competitors, potentially limiting his effectiveness in driving holistic growth and strategic initiatives.",
+    "confidence_score": 0.7
+  },
+  {
+    "employee_name": "Khyati Shah",
+    "role": "Services at xto10x",
+    "current_skills": [
+      "client relations",
+      "communication skills",
+      "customer service",
+      "microsoft office",
+      "problem solving",
+      "process improvement",
+      "project management",
+      "service delivery",
+      "team collaboration",
+      "time management"
+    ],
+    "missing_skills": [
+      "business strategy",
+      "consulting",
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "market research",
+      "powerpoint",
+      "presentation skills",
+      "risk management",
+      "stakeholder management"
+    ],
+    "competitor_count": 6,
+    "gap_reasoning": "The missing skills such as 'business strategy', 'consulting', 'data analysis', 'financial analysis', 'market research', 'presentation skills', and 'stakeholder management' are crucial for enhancing strategic decision-making, providing comprehensive client solutions, and effectively communicating insights, which are essential for excelling in a services role at xto10x. Compared to industry standards, Khyati Shah's skill set lacks several key competencies that are prevalent among competitors, indicating a need for targeted skill development to remain competitive and meet industry expectations.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Smriti Pillai",
+    "role": "SDE-1 at xto10x | Ex - Exotel",
+    "current_skills": [
+      "agile methodologies",
+      "api integration",
+      "java",
+      "javascript",
+      "microservices",
+      "problem solving",
+      "python",
+      "software development",
+      "sql",
+      "version control git"
+    ],
+    "missing_skills": [
+      "ci cd",
+      "cloud computing",
+      "distributed systems",
+      "docker",
+      "kubernetes",
+      "linux",
+      "networking"
+    ],
+    "competitor_count": 1,
+    "gap_reasoning": "The missing skills such as CI/CD, cloud computing, distributed systems, Docker, Kubernetes, Linux, and networking are crucial for an SDE-1 role as they enhance the ability to deploy, manage, and scale applications efficiently in modern software environments. Compared to industry standards, Smriti Pillai's skill set lacks several key competencies that are commonly possessed by competitors, indicating a need for upskilling to remain competitive and proficient in the evolving tech landscape.",
+    "confidence_score": 0.7
+  },
+  {
+    "employee_name": "Gaurav Choudhary",
+    "role": "Co-founder at Onya | Product Leader at xto10x | Ex Myntra | Ex OLA | IIT Kanpur",
+    "current_skills": [
+      "data driven decision making",
+      "e commerce",
+      "leadership",
+      "market analysis",
+      "product management",
+      "project management",
+      "startup development",
+      "strategic planning",
+      "team building",
+      "transportation technology"
+    ],
+    "missing_skills": [
+      "financial analysis"
+    ],
+    "competitor_count": 10,
+    "gap_reasoning": "The missing skill of 'financial analysis' is crucial for Gaurav Choudhary's role as it enhances the ability to make informed financial decisions, assess business viability, and optimize resource allocation, which are essential for strategic planning and product management. Compared to industry standards, this gap indicates a significant area for improvement, as financial analysis is a common competency among competitors, highlighting its importance in maintaining competitive advantage and ensuring comprehensive business acumen.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Mansi Purviya",
+    "role": "Summer intern @xto10x | IIM Lucknow'26 | IEHE'23",
+    "current_skills": [
+      "analytical thinking",
+      "business strategy",
+      "communication skills",
+      "data analysis",
+      "excel",
+      "market research",
+      "presentation skills",
+      "problem solving",
+      "project management",
+      "team collaboration"
+    ],
+    "missing_skills": [
+      "business intelligence",
+      "financial modeling",
+      "powerpoint",
+      "report writing",
+      "risk management",
+      "sql",
+      "technology consulting"
+    ],
+    "competitor_count": 1,
+    "gap_reasoning": "The missing skills such as business intelligence, financial modeling, SQL, and technology consulting are crucial for enhancing data-driven decision-making, financial planning, and leveraging technology solutions, which are essential for strategic business roles. Compared to industry standards, Mansi Purviya's skill gaps indicate a need for technical proficiency and advanced analytical capabilities to match the competencies of competitors in similar roles.",
+    "confidence_score": 0.7
+  },
+  {
+    "employee_name": "Varun Malik",
+    "role": "Building xto10x | ex-KPMG | XLRI",
+    "current_skills": [
+      "business strategy",
+      "data analytics",
+      "excel",
+      "financial analysis",
+      "leadership",
+      "management consulting",
+      "market research",
+      "powerpoint",
+      "presentation skills",
+      "project management"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analysis",
+      "data visualization",
+      "design thinking",
+      "machine learning",
+      "predictive analytics",
+      "python",
+      "r"
+    ],
+    "competitor_count": 1,
+    "gap_reasoning": "The missing skills such as artificial intelligence, machine learning, predictive analytics, and programming languages like Python and R are crucial for enhancing data-driven decision-making and leveraging advanced technologies in business strategy and market research. Compared to industry standards, Varun Malik's skill set lacks these critical competencies, which are increasingly essential for staying competitive and driving innovation in management consulting and strategic roles.",
+    "confidence_score": 0.7
+  },
+  {
+    "employee_name": "Moidin Afsan",
+    "role": "Growth@xto10x | XLRI '22 | RVCE '19",
+    "current_skills": [
+      "business development",
+      "competitive analysis",
+      "customer acquisition",
+      "data analysis",
+      "excel",
+      "growth strategy",
+      "market research",
+      "performance metrics",
+      "project management",
+      "sales strategy"
+    ],
+    "missing_skills": [
+      "consulting",
+      "customer insights",
+      "data analytics",
+      "financial modeling",
+      "market analysis",
+      "strategic planning"
+    ],
+    "competitor_count": 1,
+    "gap_reasoning": "The missing skills—consulting, customer insights, data analytics, financial modeling, market analysis, and strategic planning—are crucial for Moidin Afsan's role in growth strategy as they enhance decision-making, optimize financial performance, and deepen market understanding. Compared to industry standards, these gaps indicate areas for development to align with competitors who possess a broader skill set, potentially improving competitive edge and strategic execution.",
+    "confidence_score": 0.7
+  },
+  {
+    "employee_name": "Pawan Raghuveer",
+    "role": "Operations Excellence at xto10x",
+    "current_skills": [
+      "business analytics",
+      "change management",
+      "data analysis",
+      "lean six sigma",
+      "operational efficiency",
+      "performance metrics",
+      "process improvement",
+      "project management",
+      "quality assurance",
+      "workflow optimization"
+    ],
+    "missing_skills": [
+      "advisory services",
+      "business development",
+      "financial analysis",
+      "risk management",
+      "strategic planning"
+    ],
+    "competitor_count": 5,
+    "gap_reasoning": "The missing skills—advisory services, business development, financial analysis, risk management, and strategic planning—are crucial for Operations Excellence roles as they enhance decision-making, drive growth, and ensure comprehensive risk mitigation and strategic alignment. Compared to industry standards, Pawan Raghuveer's skill set lacks these critical areas, indicating a need for development to match the broader competencies observed in competitors, thereby improving competitive positioning and operational impact.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Dipika Singh",
+    "role": "Engineering and Digital Technology | Executive Search & Leadership Advisory | Driving Strategic Talent Solutions",
+    "current_skills": [
+      "digital technology",
+      "engineering management",
+      "executive search",
+      "leadership advisory",
+      "organizational development",
+      "project management",
+      "stakeholder engagement",
+      "strategic talent solutions",
+      "talent acquisition",
+      "technology strategy"
+    ],
+    "missing_skills": [
+      "business strategy",
+      "consulting",
+      "data analytics",
+      "digital transformation",
+      "financial analysis",
+      "risk management",
+      "strategic planning"
+    ],
+    "competitor_count": 8,
+    "gap_reasoning": "The missing skills such as 'business strategy', 'consulting', 'data analytics', 'digital transformation', 'financial analysis', 'risk management', and 'strategic planning' are crucial for Dipika Singh's role as they enhance her ability to drive comprehensive strategic talent solutions and align technology initiatives with broader business objectives. Compared to industry standards, these gaps indicate a need for broader business acumen and analytical capabilities, which are increasingly essential in competitive executive search and leadership advisory roles.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Sumegh Garg",
+    "role": "Product Management | Machine Learning | Deep Learning | NLP | Generative AI",
+    "current_skills": [
+      "ai ethics",
+      "algorithm development",
+      "data analysis",
+      "deep learning",
+      "generative ai",
+      "machine learning",
+      "model evaluation",
+      "natural language processing",
+      "product management",
+      "python"
+    ],
+    "missing_skills": [
+      "agile methodologies",
+      "project management",
+      "sql",
+      "stakeholder management"
+    ],
+    "competitor_count": 4,
+    "gap_reasoning": "The missing skills in agile methodologies, project management, SQL, and stakeholder management are crucial for Sumegh Garg's role in product management and AI, as they enhance efficiency in project execution, data handling, and collaboration with stakeholders. Compared to industry standards, these gaps indicate areas for improvement to align with competitors who possess a broader skill set, potentially impacting Sumegh's ability to lead projects and manage cross-functional teams effectively.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Mahathi Gopalakrishnan",
+    "role": "Prev. McKinsey, xto10x",
+    "current_skills": [
+      "business development",
+      "client relations",
+      "data analysis",
+      "financial modeling",
+      "leadership",
+      "management consulting",
+      "market research",
+      "performance improvement",
+      "project management",
+      "strategic planning"
+    ],
+    "missing_skills": [
+      "business strategy",
+      "consulting",
+      "data analytics",
+      "financial analysis",
+      "risk management"
+    ],
+    "competitor_count": 23,
+    "gap_reasoning": "The missing skills—business strategy, consulting, data analytics, financial analysis, and risk management—are crucial for Mahathi Gopalakrishnan's role as they enhance decision-making, optimize client solutions, and ensure comprehensive financial oversight. Compared to industry standards, these gaps indicate a need for further development in strategic and analytical competencies, which are prevalent among competitors and essential for maintaining a competitive edge in management consulting and business development.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Rhythm Bhaskar",
+    "role": "Brand Marketing @xto10x | Consumer Insights | Psychologist",
+    "current_skills": [
+      "advertising",
+      "brand marketing",
+      "campaign management",
+      "consumer insights",
+      "content creation",
+      "data analysis",
+      "digital marketing",
+      "market research",
+      "psychology",
+      "social media strategy"
+    ],
+    "missing_skills": [
+      "business strategy",
+      "consulting",
+      "financial analysis",
+      "leadership",
+      "presentation skills",
+      "project management",
+      "risk management",
+      "stakeholder management"
+    ],
+    "competitor_count": 4,
+    "gap_reasoning": "The missing skills such as business strategy, consulting, financial analysis, leadership, presentation skills, project management, and stakeholder management are crucial for a Brand Marketing role as they enhance strategic decision-making, effective communication, and leadership capabilities, which are essential for driving successful marketing campaigns and managing cross-functional teams. Compared to industry standards, Rhythm Bhaskar's skill set lacks several key competencies that competitors possess, indicating a need for development in areas that support broader business acumen and leadership to stay competitive in the field.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Sri Sowmya Guddati",
+    "role": "Customer Success Manager @xto10x | BITS Pilani",
+    "current_skills": [
+      "account management",
+      "business development",
+      "client retention strategies",
+      "communication skills",
+      "customer relationship management",
+      "data analysis",
+      "problem solving",
+      "project management",
+      "salesforce",
+      "team collaboration"
+    ],
+    "missing_skills": [
+      "business analysis",
+      "business strategy",
+      "client relationship management",
+      "consulting",
+      "excel",
+      "financial analysis",
+      "powerpoint",
+      "risk management",
+      "stakeholder management",
+      "strategic planning"
+    ],
+    "competitor_count": 11,
+    "gap_reasoning": "The missing skills such as 'business analysis', 'business strategy', 'client relationship management', and 'strategic planning' are crucial for a Customer Success Manager to effectively align customer needs with business goals, drive strategic initiatives, and manage high-value client relationships. Compared to industry standards, Sri Sowmya Guddati's skill set lacks several key competencies that are prevalent among competitors, indicating a need for targeted skill development to remain competitive in the field.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Vinay Kenguva",
+    "role": "Software Developer @Xto10X | Leetcode : 1000+ problems | Ex Lendingkrt, Chqbook | Java, SpringBoot | FinTech | IIIT Guwahati '23",
+    "current_skills": [
+      "api development",
+      "backend development",
+      "database management",
+      "fintech",
+      "java",
+      "leetcode",
+      "microservices",
+      "problem solving",
+      "software development",
+      "springboot"
+    ],
+    "missing_skills": [
+      "algorithms",
+      "backup and recovery",
+      "cloud computing",
+      "data migration",
+      "data structures",
+      "data warehousing",
+      "debugging",
+      "linux",
+      "oracle database",
+      "performance tuning",
+      "pl sql",
+      "python",
+      "shell scripting",
+      "sql",
+      "system design",
+      "version control"
+    ],
+    "competitor_count": 2,
+    "gap_reasoning": "The missing skills such as algorithms, data structures, system design, and cloud computing are crucial for a software developer role as they enhance problem-solving capabilities, scalability, and efficiency in software solutions. Compared to industry standards, Vinay Kenguva's profile lacks several key competencies that are commonly possessed by competitors, indicating a need for skill enhancement to remain competitive in the fintech sector.",
+    "confidence_score": 0.81
+  },
+  {
+    "employee_name": "Bhavesh Parvatkar",
+    "role": "SDE 2 at xto10x",
+    "current_skills": [
+      "agile methodologies",
+      "aws",
+      "docker",
+      "java",
+      "javascript",
+      "microservices",
+      "node.js",
+      "python",
+      "react",
+      "sql"
+    ],
+    "missing_skills": [
+      "ci cd",
+      "cloud computing",
+      "distributed systems",
+      "kubernetes",
+      "linux",
+      "networking"
+    ],
+    "competitor_count": 1,
+    "gap_reasoning": "The missing skills such as CI/CD, cloud computing, distributed systems, Kubernetes, Linux, and networking are crucial for an SDE 2 role as they enhance the ability to deploy, manage, and scale applications efficiently in modern software environments. Compared to industry standards, Bhavesh Parvatkar's skill set lacks several key competencies that are commonly possessed by competitors, indicating a need for targeted skill development to remain competitive in the field.",
+    "confidence_score": 0.7
+  },
+  {
+    "employee_name": "Bhanu Pathak",
+    "role": "Ex-CBO, Tata Neu | Built India’s Boldest Digital Commerce Bets | xto10x | Udaan Founding Team | Flipkart | P&G, J&J | India + GCC",
+    "current_skills": [
+      "business development",
+      "digital commerce",
+      "e commerce strategy",
+      "market expansion",
+      "operations management",
+      "product management",
+      "project management",
+      "sales strategy",
+      "strategic planning",
+      "team leadership"
+    ],
+    "missing_skills": [
+      "accounting software",
+      "auditing",
+      "business strategy",
+      "compliance",
+      "data interpretation",
+      "excel",
+      "financial analysis",
+      "report generation",
+      "risk assessment",
+      "taxation"
+    ],
+    "competitor_count": 1,
+    "gap_reasoning": "The missing skills such as 'financial analysis', 'risk assessment', and 'compliance' are crucial for strategic decision-making and ensuring regulatory adherence in high-level business roles. Compared to industry standards, Bhanu Pathak's profile lacks key financial and analytical competencies that are commonly possessed by competitors, potentially limiting his effectiveness in comprehensive business strategy and financial oversight.",
+    "confidence_score": 0.7
+  },
+  {
+    "employee_name": "Raghavan Vallinayagam",
+    "role": "Director - HR | Scaling high-impact orgs | Data-led, AI-enabled people strategy, Capability, Succession | APAC | EMEA | NA",
+    "current_skills": [
+      "ai in hr",
+      "apac market expertise",
+      "capability development",
+      "data analysis",
+      "emea market expertise",
+      "hr strategy",
+      "na market expertise",
+      "organizational scaling",
+      "people analytics",
+      "succession planning"
+    ],
+    "missing_skills": [
+      "business development",
+      "business strategy",
+      "change management",
+      "client relations",
+      "consulting",
+      "corporate finance",
+      "data analytics",
+      "financial analysis",
+      "leadership",
+      "project management",
+      "regulatory compliance",
+      "risk management",
+      "strategic planning"
+    ],
+    "competitor_count": 13,
+    "gap_reasoning": "The missing skills such as 'business development', 'business strategy', 'change management', and 'client relations' are crucial for a Director of HR to drive organizational growth, navigate transformations, and maintain strong stakeholder relationships. Compared to industry standards, Raghavan Vallinayagam's profile shows gaps in strategic and financial competencies, which are commonly possessed by competitors in similar roles, indicating areas for potential upskilling to remain competitive.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Pragnya Kotaru",
+    "role": "Growth & Revenue, xto10x",
+    "current_skills": [
+      "business strategy",
+      "competitive analysis",
+      "crm software",
+      "customer acquisition",
+      "data analytics",
+      "financial planning",
+      "market analysis",
+      "performance metrics",
+      "revenue growth",
+      "sales forecasting"
+    ],
+    "missing_skills": [
+      "banking",
+      "business development",
+      "client relationship management",
+      "financial analysis",
+      "financial services consulting",
+      "market research",
+      "project management",
+      "regulatory compliance",
+      "risk management",
+      "strategic planning"
+    ],
+    "competitor_count": 5,
+    "gap_reasoning": "The missing skills such as 'business development', 'client relationship management', 'financial analysis', and 'strategic planning' are crucial for driving growth and revenue, as they enable effective market penetration, client retention, and informed financial decision-making. Compared to industry standards, Pragnya Kotaru's skill set shows significant gaps in areas critical for comprehensive growth strategies and financial oversight, which are well-covered by competitors in similar roles.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Blesson P Jacob",
+    "role": "Org & People Consulting",
+    "current_skills": [
+      "change management",
+      "employee engagement",
+      "hr analytics",
+      "hr technology",
+      "leadership development",
+      "organizational development",
+      "performance management",
+      "succession planning",
+      "talent management",
+      "workforce planning"
+    ],
+    "missing_skills": [
+      "project management"
+    ],
+    "competitor_count": 12,
+    "gap_reasoning": "The missing skill of 'project management' is crucial for the role of Org & People Consulting as it ensures effective planning, execution, and completion of HR initiatives, which are essential for driving organizational change and development. Compared to industry standards, Blesson P Jacob's skill set is robust, but incorporating 'project management' would align more closely with the broader competencies observed in competitors, enhancing overall effectiveness and competitiveness in the field.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Himanshu Kanwar",
+    "role": "GM - Growth and Marketing practice at xto10x",
+    "current_skills": [
+      "brand management",
+      "content marketing",
+      "customer acquisition",
+      "data driven decision making",
+      "digital marketing",
+      "growth strategy",
+      "market research",
+      "marketing analytics",
+      "performance marketing",
+      "seo"
+    ],
+    "missing_skills": [
+      "business development",
+      "client relationship management",
+      "financial analysis",
+      "leadership",
+      "management consulting",
+      "operational efficiency",
+      "project management",
+      "strategic planning"
+    ],
+    "competitor_count": 12,
+    "gap_reasoning": "The missing skills such as business development, client relationship management, financial analysis, leadership, management consulting, operational efficiency, project management, and strategic planning are crucial for a GM in Growth and Marketing to drive comprehensive business growth, manage client relations effectively, and ensure strategic alignment and operational excellence. Compared to industry standards, Himanshu Kanwar's skill set lacks several key competencies that are commonly found among competitors, indicating potential areas for development to enhance competitive positioning and overall effectiveness in the role.",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Ankit Gupta",
+    "role": "Growth Leader @ xto10x, ex-Flipkart | BITS Pilani & IIM Alum",
+    "current_skills": [
+      "business development",
+      "customer acquisition",
+      "data analytics",
+      "e commerce",
+      "growth strategy",
+      "leadership",
+      "market analysis",
+      "product management",
+      "project management",
+      "strategic planning"
+    ],
+    "missing_skills": [],
+    "competitor_count": 6,
+    "gap_reasoning": "Found 0 high-priority skill gaps based on 6 competitors",
+    "confidence_score": 0.95
+  },
+  {
+    "employee_name": "Pranjali Manjarekar",
+    "role": "Strategic Initiatives at xto10x",
+    "current_skills": [
+      "business development",
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "market research",
+      "performance metrics",
+      "process improvement",
+      "project management",
+      "stakeholder management",
+      "strategic planning"
+    ],
+    "missing_skills": [
+      "data analytics",
+      "leadership",
+      "management consulting",
+      "risk management"
+    ],
+    "competitor_count": 8,
+    "gap_reasoning": "The missing skills of 'data analytics', 'leadership', 'management consulting', and 'risk management' are crucial for Pranjali Manjarekar's role in Strategic Initiatives as they enhance decision-making, team guidance, strategic advisory, and risk mitigation capabilities. Compared to industry standards, these gaps indicate a need for development in areas that are commonly prioritized by competitors, suggesting that acquiring these skills could significantly improve her competitive edge and effectiveness in her role.",
+    "confidence_score": 0.95
+  }
+]

@@ -1,0 +1,4051 @@
+[
+  {
+    "manipal_employee": "Puja Abhishek Singh",
+    "role": "",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Anuj Arora",
+    "role": "CFO Manipal Fintech",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Ankur Mathur",
+    "role": "Head HR in Manipal Fintech Pvt. Ltd. (The Manipal Group Company) | HR Partnering | HR Strategy | People Management | IIM Lucknow |",
+    "missing_skills": [
+      "change management",
+      "conflict resolution",
+      "data analytics",
+      "employee engagement",
+      "project management"
+    ],
+    "skill_importance": {
+      "change management": "Critical",
+      "conflict resolution": "Important",
+      "data analytics": "Critical",
+      "employee engagement": "Important",
+      "project management": "Important"
+    },
+    "gap_reasoning": {
+      "change management": "Deepan Raje (iifl finance) has expertise in Change Management, which is crucial for leading HR Tech Transformation and Strategy.",
+      "conflict resolution": "Amit Vatsa (icici bank) possesses Conflict Resolution skills, essential for managing employee relations and maintaining a harmonious work environment.",
+      "data analytics": "Deepan Raje (iifl finance) has Data Analytics skills, vital for HR Tech Transformation and Strategy, enabling data-driven decision-making.",
+      "employee engagement": "Deepan Raje (iifl finance) focuses on Employee Engagement, important for maintaining high morale and productivity.",
+      "project management": "Deepan Raje (iifl finance) has Project Management skills, necessary for overseeing HR Tech Transformation projects effectively."
+    },
+    "overall_assessment": "Ankur Mathur's profile lacks several critical and important skills compared to competitors, particularly in areas essential for HR transformation and strategic initiatives.",
+    "recommendations": [
+      "Enhance skills in Change Management and Data Analytics to align with industry standards.",
+      "Develop Conflict Resolution and Employee Engagement capabilities to improve workplace harmony and productivity.",
+      "Acquire Project Management skills to effectively manage HR-related projects."
+    ],
+    "competitor_count": 2,
+    "competitor_companies": [
+      "icici bank",
+      "iifl finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 2,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Shivam Gupta",
+    "role": "Business Strategy | CEO's Office | Manipal Fintech",
+    "missing_skills": [
+      "business development",
+      "corporate finance",
+      "decision making",
+      "regulatory compliance",
+      "risk management"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "corporate finance": "Important",
+      "decision making": "Important",
+      "regulatory compliance": "Critical",
+      "risk management": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Competitors like Himadar Maddipatla (ICICI Bank) and George Whitefield (IIFL Finance) emphasize Business Development as a key skill, which is essential for driving growth and expanding market presence.",
+      "corporate finance": "Corporate Finance is highlighted by Kailash Baheti (Magma Fincorp) and Himadar Maddipatla (ICICI Bank), indicating its importance in managing financial strategies and ensuring fiscal health.",
+      "decision making": "Decision Making is crucial as demonstrated by George Whitefield (IIFL Finance), reflecting the need for effective leadership and strategic choices.",
+      "regulatory compliance": "Regulatory Compliance is critical, as seen in the profiles of Himadar Maddipatla (ICICI Bank) and George Whitefield (IIFL Finance), ensuring adherence to laws and regulations which is vital for operational integrity.",
+      "risk management": "Risk Management is a critical skill for financial stability and is emphasized by Himadar Maddipatla (ICICI Bank) and George Whitefield (IIFL Finance)."
+    },
+    "overall_assessment": "Shivam Gupta's profile lacks several critical skills that are prominently featured in competitor profiles, which are essential for comprehensive business strategy and operational success in the financial sector.",
+    "recommendations": [
+      "Focus on developing Business Development skills to drive growth.",
+      "Enhance knowledge in Corporate Finance to manage financial strategies effectively.",
+      "Improve Decision Making capabilities for better leadership and strategic choices.",
+      "Gain expertise in Regulatory Compliance to ensure adherence to laws and regulations.",
+      "Strengthen Risk Management skills to maintain financial stability."
+    ],
+    "competitor_count": 4,
+    "competitor_companies": [
+      "icici bank",
+      "iifl finance",
+      "magma fincorp",
+      "muthoot finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 4,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Gaurav Srivastava",
+    "role": "Chief Sales Officer at Manipal Fintech- Gold Loans",
+    "missing_skills": [
+      "excel"
+    ],
+    "skill_importance": {
+      "excel": "Important"
+    },
+    "gap_reasoning": {
+      "excel": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "1 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 2,
+    "competitor_companies": [
+      "manappuram finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 2,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Mukesh Bhatia",
+    "role": "Manipal Fintech (The Manipal Group)",
+    "missing_skills": [
+      "agile methodologies",
+      "business strategy",
+      "customer relationship management",
+      "excel",
+      "financial reporting",
+      "financial software",
+      "leadership",
+      "problem solving",
+      "process improvement",
+      "software development",
+      "stakeholder management",
+      "system architecture",
+      "team collaboration",
+      "team leadership",
+      "technical documentation"
+    ],
+    "skill_importance": {
+      "agile methodologies": "Important",
+      "business strategy": "Important",
+      "customer relationship management": "Important",
+      "excel": "Important",
+      "financial reporting": "Important",
+      "financial software": "Important",
+      "leadership": "Important",
+      "problem solving": "Important",
+      "process improvement": "Important",
+      "software development": "Important",
+      "stakeholder management": "Important",
+      "system architecture": "Important",
+      "team collaboration": "Important",
+      "team leadership": "Important",
+      "technical documentation": "Important"
+    },
+    "gap_reasoning": {
+      "agile methodologies": "Common among matched competitors; absent for this profile.",
+      "business strategy": "Common among matched competitors; absent for this profile.",
+      "customer relationship management": "Common among matched competitors; absent for this profile.",
+      "excel": "Common among matched competitors; absent for this profile.",
+      "financial reporting": "Common among matched competitors; absent for this profile.",
+      "financial software": "Common among matched competitors; absent for this profile.",
+      "leadership": "Common among matched competitors; absent for this profile.",
+      "problem solving": "Common among matched competitors; absent for this profile.",
+      "process improvement": "Common among matched competitors; absent for this profile.",
+      "software development": "Common among matched competitors; absent for this profile.",
+      "stakeholder management": "Common among matched competitors; absent for this profile.",
+      "system architecture": "Common among matched competitors; absent for this profile.",
+      "team collaboration": "Common among matched competitors; absent for this profile.",
+      "team leadership": "Common among matched competitors; absent for this profile.",
+      "technical documentation": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "15 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 2,
+    "competitor_companies": [
+      "iifl finance",
+      "manappuram finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 2,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Allan Fernandes",
+    "role": "IIM B | Ex PwC | Building the future of FinTech",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "Allan Fernandes lacks several critical and important skills that are present in competitor profiles, particularly in areas related to auditing, compliance, and risk assessment.",
+    "recommendations": [
+      "Focus on developing Auditing and Compliance skills.",
+      "Enhance knowledge in Internal Controls and Accounting.",
+      "Consider training in Taxation and Risk Assessment.",
+      "Improve Report Writing and SAP skills for better overall competency."
+    ],
+    "competitor_count": 1,
+    "competitor_companies": [
+      "muthoot finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 1,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Rahul Virmani",
+    "role": "Vice President & National Sales Head in Manipal Fintech Private Limited (A Manipal Group Company)",
+    "missing_skills": [
+      "revenue generation"
+    ],
+    "skill_importance": {
+      "revenue generation": "Important"
+    },
+    "gap_reasoning": {
+      "revenue generation": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "1 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 13,
+    "competitor_companies": [
+      "bajaj finserv",
+      "capital first",
+      "hdfc bank",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 13,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Amit Gupta",
+    "role": "",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "HARIOM .",
+    "role": "Asst. Marketing Manager | SEO Strategist | Growth Marketing | Organic Marketing |",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "Hariom's profile lacks several critical and important skills compared to competitors, particularly in CRM, Email Marketing, Marketing Strategy, Market Research, and Digital Marketing. These gaps could hinder his effectiveness in a competitive marketing role.",
+    "recommendations": [
+      "Focus on acquiring CRM skills through relevant courses or certifications.",
+      "Enhance Email Marketing capabilities by practicing and learning industry best practices.",
+      "Develop a comprehensive understanding of Marketing Strategy through advanced training.",
+      "Conduct Market Research to gain insights into customer behavior and market trends.",
+      "Strengthen Digital Marketing skills by staying updated with the latest tools and techniques."
+    ],
+    "competitor_count": 10,
+    "competitor_companies": [
+      "capital first",
+      "iifl finance",
+      "magma fincorp",
+      "manappuram finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 10,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Manish Dhoundiyal",
+    "role": "Sr. Trainer at Manipal Fintech",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Salman Ahmed",
+    "role": "Manager at Manipal Fintech Pvt. Ltd. (The Manipal Group) |Driving Sales & Strategy | Tele Sales | Fintech | InsureTech | Customer Support | BFSI |Financial Planning |Mutual Funds |",
+    "missing_skills": [
+      "business development",
+      "market analysis",
+      "team leadership",
+      "negotiation",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "market analysis": "Important",
+      "team leadership": "Critical",
+      "negotiation": "Important",
+      "strategic planning": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Competitors such as Akash Chopra (ICICI Bank) and Rajiv Gandhi (Indiabulls Housing Finance) emphasize business development, which is crucial for driving growth and expanding market reach.",
+      "market analysis": "Market analysis is highlighted by competitors like Akash Chopra (ICICI Bank) and Rajiv Gandhi (Indiabulls Housing Finance), indicating its importance in understanding market trends and making informed decisions.",
+      "team leadership": "Team leadership is a key skill for managing and motivating teams, as seen in profiles like Akash Chopra (ICICI Bank) and Sharad Dixit (Magma Fincorp).",
+      "negotiation": "Negotiation skills are essential for closing deals and managing client relationships, as demonstrated by Akash Chopra (ICICI Bank) and Sharad Dixit (Magma Fincorp).",
+      "strategic planning": "Strategic planning is critical for long-term success and is emphasized by Rajiv Gandhi (Indiabulls Housing Finance) and Vinit Ranjan (Manappuram Finance)."
+    },
+    "overall_assessment": "Salman Ahmed's profile lacks several critical and important skills that are prevalent among competitors in similar roles. Addressing these gaps will enhance his capability to drive growth, lead teams, and make strategic decisions.",
+    "recommendations": [
+      "Focus on developing business development skills to drive growth and expand market reach.",
+      "Enhance market analysis capabilities to better understand market trends and make informed decisions.",
+      "Improve team leadership skills to effectively manage and motivate teams.",
+      "Develop negotiation skills to close deals and manage client relationships more effectively.",
+      "Strengthen strategic planning abilities to ensure long-term success and competitiveness."
+    ],
+    "competitor_count": 6,
+    "competitor_companies": [
+      "icici bank",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 6,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Tarun Singh",
+    "role": "senior sales officer at Reliance Retail",
+    "missing_skills": [
+      "business development",
+      "financial analysis",
+      "financial services",
+      "performance metrics",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "financial analysis": "Important",
+      "financial services": "Important",
+      "performance metrics": "Nice-to-have",
+      "strategic planning": "Critical"
+    },
+    "gap_reasoning": {
+      "business development": "Competitors like Manjunath BR (Bajaj Finserv) and Rajeev Malhotra (Bajaj Finserv) have strong business development skills, essential for driving sales and market expansion.",
+      "financial analysis": "Competitors such as Manjunath BR (Bajaj Finserv) and Arjun Ky (Indiabulls Housing Finance) possess financial analysis skills, crucial for understanding market trends and making informed decisions.",
+      "financial services": "Competitors including Akash Chopra (ICICI Bank) and Sumit Singh (Magma Fincorp) have expertise in financial services, important for providing comprehensive solutions to clients.",
+      "performance metrics": "Competitors like Manjunath BR (Bajaj Finserv) and Sumit Singh (Magma Fincorp) use performance metrics to measure success and optimize strategies.",
+      "strategic planning": "Competitors such as Gaurav Arora (ICICI Bank) and Amitabh Bose (Muthoot Finance) excel in strategic planning, vital for long-term business growth and competitive advantage."
+    },
+    "overall_assessment": "Tarun Singh's profile lacks critical skills in business development and strategic planning, which are essential for senior sales roles in the competitive fintech market. Additionally, important skills like financial analysis and financial services are missing, which could hinder his ability to make informed decisions and provide comprehensive client solutions. Performance metrics, while nice-to-have, would enhance his ability to measure and optimize sales strategies.",
+    "recommendations": [
+      "Develop expertise in business development to drive market expansion and sales growth.",
+      "Enhance skills in strategic planning to contribute to long-term business success.",
+      "Gain knowledge in financial analysis to make informed decisions based on market trends.",
+      "Acquire experience in financial services to offer comprehensive solutions to clients.",
+      "Learn to utilize performance metrics to measure success and optimize sales strategies."
+    ],
+    "competitor_count": 14,
+    "competitor_companies": [
+      "bajaj finserv",
+      "icici bank",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 14,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Akkama S.",
+    "role": "Manager - Human Resource at Manipal Fintech Pvt. Ltd. (The Manipal Group)",
+    "missing_skills": [
+      "training and development"
+    ],
+    "skill_importance": {
+      "training and development": "Important"
+    },
+    "gap_reasoning": {
+      "training and development": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "1 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 14,
+    "competitor_companies": [
+      "bajaj finserv",
+      "capital first",
+      "icici bank",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 14,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Sateesh Pandhu",
+    "role": "Manipal at Manipal Fintech",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Yati Singal",
+    "role": "",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Purnima R.",
+    "role": "Software developer- Corporate actions, Ref data, Post Trade Compliance",
+    "missing_skills": [
+      "financial software",
+      "version control"
+    ],
+    "skill_importance": {
+      "financial software": "Critical",
+      "version control": "Important"
+    },
+    "gap_reasoning": {
+      "financial software": "Competitors RAMESH . (IIFL Finance) and khushboo khosla taneja (Shriram City Union Finance) both possess this skill, indicating its necessity in the financial sector for software engineers.",
+      "version control": "Competitors RAMESH . (IIFL Finance), Himmat Singh (Magma Fincorp), and khushboo khosla taneja (Shriram City Union Finance) all have version control skills, specifically Git, which is essential for collaborative software development and maintaining code integrity."
+    },
+    "overall_assessment": "Purnima R. has a strong skill set in software development and financial services but lacks critical skills in financial software and version control, which are commonly found among competitors in similar roles.",
+    "recommendations": [
+      "Purnima R. should prioritize gaining proficiency in financial software to align with industry standards.",
+      "Purnima R. should also develop skills in version control systems like Git to enhance collaboration and code management."
+    ],
+    "competitor_count": 3,
+    "competitor_companies": [
+      "iifl finance",
+      "magma fincorp",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 3,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Palash Srivastava",
+    "role": "",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Sufiyan .",
+    "role": "Manipal fintech",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Amrit ViRk",
+    "role": "Assistant Manager Central Operations",
+    "missing_skills": [
+      "budgeting",
+      "credit assessment",
+      "data entry",
+      "financial reporting",
+      "loan processing",
+      "risk assessment"
+    ],
+    "skill_importance": {
+      "budgeting": "Important",
+      "credit assessment": "Important",
+      "data entry": "Important",
+      "financial reporting": "Important",
+      "loan processing": "Important",
+      "risk assessment": "Important"
+    },
+    "gap_reasoning": {
+      "budgeting": "Common among matched competitors; absent for this profile.",
+      "credit assessment": "Common among matched competitors; absent for this profile.",
+      "data entry": "Common among matched competitors; absent for this profile.",
+      "financial reporting": "Common among matched competitors; absent for this profile.",
+      "loan processing": "Common among matched competitors; absent for this profile.",
+      "risk assessment": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "6 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 7,
+    "competitor_companies": [
+      "icici bank",
+      "iifl finance",
+      "magma fincorp",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 7,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "ABHISHEK KUMAR BAJAJ",
+    "role": "Regional Head",
+    "missing_skills": [
+      "business development",
+      "business strategy",
+      "risk assessment"
+    ],
+    "skill_importance": {
+      "business development": "Important",
+      "business strategy": "Important",
+      "risk assessment": "Important"
+    },
+    "gap_reasoning": {
+      "business development": "Common among matched competitors; absent for this profile.",
+      "business strategy": "Common among matched competitors; absent for this profile.",
+      "risk assessment": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "3 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 20,
+    "competitor_companies": [
+      "bajaj finserv",
+      "hdfc bank",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 20,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Abhinav Malhotra",
+    "role": "Android | Kotlin | Jetpack Compose | CMP | MVVM | MVI | Coroutine | Flow",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Himanshu .",
+    "role": "Product Manager - Digital Lending at The Manipal Group (Manipal Fintech) | Prod-Man | Certified Product Manager |",
+    "missing_skills": [
+      "data analysis",
+      "digital product development",
+      "financial analysis",
+      "consumer lending",
+      "budget management"
+    ],
+    "skill_importance": {
+      "data analysis": "Critical",
+      "digital product development": "Important",
+      "financial analysis": "Important",
+      "consumer lending": "Nice-to-have",
+      "budget management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "data analysis": "Prerna Kapoor (Bajaj Finserv) and Deepak Dugar (Magma Fincorp) both possess data analysis skills, which are essential for making informed decisions based on market trends and user behavior.",
+      "digital product development": "Sayani Mukherjee (Bajaj Finserv) has digital product development skills, highlighting the importance of creating and managing digital products in the fintech space.",
+      "financial analysis": "Maheshwar Subramani (Magma Fincorp) and Shamili CM Palackal (Muthoot Finance) have financial analysis skills, which are crucial for assessing the financial viability of products and strategies.",
+      "consumer lending": "Chinmay Gadekar (IIFL Finance) has consumer lending skills, which are beneficial for understanding and managing consumer loan products.",
+      "budget management": "Deepak Dugar (Magma Fincorp) has budget management skills, which are useful for overseeing financial resources and ensuring cost-effective operations."
+    },
+    "overall_assessment": "Himanshu's profile is strong in product management and related areas but lacks some critical skills such as data analysis and digital product development, which are essential for a competitive edge in the fintech industry.",
+    "recommendations": [
+      "Enhance data analysis skills through specialized courses or certifications.",
+      "Gain experience in digital product development by participating in relevant projects or training programs.",
+      "Develop financial analysis capabilities to better assess product viability and strategic decisions.",
+      "Consider gaining knowledge in consumer lending to broaden expertise in loan products.",
+      "Improve budget management skills to ensure effective financial oversight and resource allocation."
+    ],
+    "competitor_count": 7,
+    "competitor_companies": [
+      "bajaj finserv",
+      "iifl finance",
+      "magma fincorp",
+      "muthoot finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 7,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Tushar Kulkarni",
+    "role": "Student at Devi Ahilya Vishwavidyalaya (DAVV), Indore",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "Tushar Kulkarni's profile lacks several critical and important skills compared to competitors, particularly in programming languages, web development, and advanced statistical methods.",
+    "recommendations": [
+      "Enhance proficiency in Java and C++ to match software development capabilities.",
+      "Develop skills in CSS, HTML, and JavaScript for web development.",
+      "Improve understanding of Probability Theory, SPSS, Statistical Modeling, and Statistics to strengthen data analysis and research capabilities."
+    ],
+    "competitor_count": 2,
+    "competitor_companies": [
+      "indiabulls housing finance",
+      "muthoot finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 2,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Rajesh Agrawal",
+    "role": "Regional Head at Manipal Fintech Private Limited",
+    "missing_skills": [
+      "accounting",
+      "budgeting",
+      "business strategy",
+      "credit analysis",
+      "customer relationship management",
+      "data analysis",
+      "excel",
+      "financial reporting",
+      "forecasting",
+      "negotiation",
+      "performance metrics",
+      "sales strategy"
+    ],
+    "skill_importance": {
+      "accounting": "Important",
+      "budgeting": "Important",
+      "business strategy": "Important",
+      "credit analysis": "Important",
+      "customer relationship management": "Important",
+      "data analysis": "Important",
+      "excel": "Important",
+      "financial reporting": "Important",
+      "forecasting": "Important",
+      "negotiation": "Important",
+      "performance metrics": "Important",
+      "sales strategy": "Important"
+    },
+    "gap_reasoning": {
+      "accounting": "Common among matched competitors; absent for this profile.",
+      "budgeting": "Common among matched competitors; absent for this profile.",
+      "business strategy": "Common among matched competitors; absent for this profile.",
+      "credit analysis": "Common among matched competitors; absent for this profile.",
+      "customer relationship management": "Common among matched competitors; absent for this profile.",
+      "data analysis": "Common among matched competitors; absent for this profile.",
+      "excel": "Common among matched competitors; absent for this profile.",
+      "financial reporting": "Common among matched competitors; absent for this profile.",
+      "forecasting": "Common among matched competitors; absent for this profile.",
+      "negotiation": "Common among matched competitors; absent for this profile.",
+      "performance metrics": "Common among matched competitors; absent for this profile.",
+      "sales strategy": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "12 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 17,
+    "competitor_companies": [
+      "bajaj finserv",
+      "hdfc bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 17,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Sahil Arora",
+    "role": "Manager at Manipal Fintech",
+    "missing_skills": [
+      "accounting",
+      "administration",
+      "banking operations",
+      "branch operations",
+      "budget management",
+      "business development",
+      "business strategy",
+      "client relationship management",
+      "communication skills",
+      "compensation and benefits",
+      "compliance",
+      "conflict resolution",
+      "credit analysis",
+      "credit assessment",
+      "customer relationship management",
+      "customer relationship management  crm",
+      "data interpretation",
+      "employee relations",
+      "financial management",
+      "financial planning",
+      "financial reporting",
+      "financial services",
+      "forecasting",
+      "hris  human resource information system",
+      "human resources management",
+      "insurance management",
+      "investment strategies",
+      "labor law compliance",
+      "leadership",
+      "loan processing",
+      "location management",
+      "market analysis",
+      "market research",
+      "microsoft excel",
+      "microsoft office",
+      "mortgage lending",
+      "negotiation",
+      "operational efficiency",
+      "operations management",
+      "organizational development",
+      "performance management",
+      "performance monitoring",
+      "portfolio management",
+      "process improvement",
+      "regulatory compliance",
+      "risk assessment",
+      "sales management",
+      "sales strategy",
+      "sap",
+      "talent acquisition",
+      "taxation",
+      "team management",
+      "training and development",
+      "variance analysis",
+      "wealth management"
+    ],
+    "skill_importance": {
+      "accounting": "Important",
+      "administration": "Important",
+      "banking operations": "Important",
+      "branch operations": "Important",
+      "budget management": "Important",
+      "business development": "Important",
+      "business strategy": "Important",
+      "client relationship management": "Important",
+      "communication skills": "Important",
+      "compensation and benefits": "Important",
+      "compliance": "Important",
+      "conflict resolution": "Important",
+      "credit analysis": "Important",
+      "credit assessment": "Important",
+      "customer relationship management": "Important",
+      "customer relationship management  crm": "Important",
+      "data interpretation": "Important",
+      "employee relations": "Important",
+      "financial management": "Important",
+      "financial planning": "Important",
+      "financial reporting": "Important",
+      "financial services": "Important",
+      "forecasting": "Important",
+      "hris  human resource information system": "Important",
+      "human resources management": "Important",
+      "insurance management": "Important",
+      "investment strategies": "Important",
+      "labor law compliance": "Important",
+      "leadership": "Important",
+      "loan processing": "Important",
+      "location management": "Important",
+      "market analysis": "Important",
+      "market research": "Important",
+      "microsoft excel": "Important",
+      "microsoft office": "Important",
+      "mortgage lending": "Important",
+      "negotiation": "Important",
+      "operational efficiency": "Important",
+      "operations management": "Important",
+      "organizational development": "Important",
+      "performance management": "Important",
+      "performance monitoring": "Important",
+      "portfolio management": "Important",
+      "process improvement": "Important",
+      "regulatory compliance": "Important",
+      "risk assessment": "Important",
+      "sales management": "Important",
+      "sales strategy": "Important",
+      "sap": "Important",
+      "talent acquisition": "Important",
+      "taxation": "Important",
+      "team management": "Important",
+      "training and development": "Important",
+      "variance analysis": "Important",
+      "wealth management": "Important"
+    },
+    "gap_reasoning": {
+      "accounting": "Common among matched competitors; absent for this profile.",
+      "administration": "Common among matched competitors; absent for this profile.",
+      "banking operations": "Common among matched competitors; absent for this profile.",
+      "branch operations": "Common among matched competitors; absent for this profile.",
+      "budget management": "Common among matched competitors; absent for this profile.",
+      "business development": "Common among matched competitors; absent for this profile.",
+      "business strategy": "Common among matched competitors; absent for this profile.",
+      "client relationship management": "Common among matched competitors; absent for this profile.",
+      "communication skills": "Common among matched competitors; absent for this profile.",
+      "compensation and benefits": "Common among matched competitors; absent for this profile.",
+      "compliance": "Common among matched competitors; absent for this profile.",
+      "conflict resolution": "Common among matched competitors; absent for this profile.",
+      "credit analysis": "Common among matched competitors; absent for this profile.",
+      "credit assessment": "Common among matched competitors; absent for this profile.",
+      "customer relationship management": "Common among matched competitors; absent for this profile.",
+      "customer relationship management  crm": "Common among matched competitors; absent for this profile.",
+      "data interpretation": "Common among matched competitors; absent for this profile.",
+      "employee relations": "Common among matched competitors; absent for this profile.",
+      "financial management": "Common among matched competitors; absent for this profile.",
+      "financial planning": "Common among matched competitors; absent for this profile.",
+      "financial reporting": "Common among matched competitors; absent for this profile.",
+      "financial services": "Common among matched competitors; absent for this profile.",
+      "forecasting": "Common among matched competitors; absent for this profile.",
+      "hris  human resource information system": "Common among matched competitors; absent for this profile.",
+      "human resources management": "Common among matched competitors; absent for this profile.",
+      "insurance management": "Common among matched competitors; absent for this profile.",
+      "investment strategies": "Common among matched competitors; absent for this profile.",
+      "labor law compliance": "Common among matched competitors; absent for this profile.",
+      "leadership": "Common among matched competitors; absent for this profile.",
+      "loan processing": "Common among matched competitors; absent for this profile.",
+      "location management": "Common among matched competitors; absent for this profile.",
+      "market analysis": "Common among matched competitors; absent for this profile.",
+      "market research": "Common among matched competitors; absent for this profile.",
+      "microsoft excel": "Common among matched competitors; absent for this profile.",
+      "microsoft office": "Common among matched competitors; absent for this profile.",
+      "mortgage lending": "Common among matched competitors; absent for this profile.",
+      "negotiation": "Common among matched competitors; absent for this profile.",
+      "operational efficiency": "Common among matched competitors; absent for this profile.",
+      "operations management": "Common among matched competitors; absent for this profile.",
+      "organizational development": "Common among matched competitors; absent for this profile.",
+      "performance management": "Common among matched competitors; absent for this profile.",
+      "performance monitoring": "Common among matched competitors; absent for this profile.",
+      "portfolio management": "Common among matched competitors; absent for this profile.",
+      "process improvement": "Common among matched competitors; absent for this profile.",
+      "regulatory compliance": "Common among matched competitors; absent for this profile.",
+      "risk assessment": "Common among matched competitors; absent for this profile.",
+      "sales management": "Common among matched competitors; absent for this profile.",
+      "sales strategy": "Common among matched competitors; absent for this profile.",
+      "sap": "Common among matched competitors; absent for this profile.",
+      "talent acquisition": "Common among matched competitors; absent for this profile.",
+      "taxation": "Common among matched competitors; absent for this profile.",
+      "team management": "Common among matched competitors; absent for this profile.",
+      "training and development": "Common among matched competitors; absent for this profile.",
+      "variance analysis": "Common among matched competitors; absent for this profile.",
+      "wealth management": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "55 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 26,
+    "competitor_companies": [
+      "bajaj finserv",
+      "capital first",
+      "hdfc bank",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 26,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Sanskruti Sinha",
+    "role": "HR",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Atul Shukla",
+    "role": "Gold Loan | Manipal Fintech ( The Manipal Group ) | BFSI Growth Strategist | 14+ Yrs in Retail Lending & Sales | Ex- IndiaGold | Ex-HDFC",
+    "missing_skills": [
+      "compliance",
+      "compliance management",
+      "credit evaluation",
+      "customer service",
+      "financial analysis",
+      "gold valuation",
+      "loan processing",
+      "negotiation",
+      "risk assessment",
+      "sales strategy"
+    ],
+    "skill_importance": {
+      "compliance": "Important",
+      "compliance management": "Important",
+      "credit evaluation": "Important",
+      "customer service": "Important",
+      "financial analysis": "Important",
+      "gold valuation": "Important",
+      "loan processing": "Important",
+      "negotiation": "Important",
+      "risk assessment": "Important",
+      "sales strategy": "Important"
+    },
+    "gap_reasoning": {
+      "compliance": "Common among matched competitors; absent for this profile.",
+      "compliance management": "Common among matched competitors; absent for this profile.",
+      "credit evaluation": "Common among matched competitors; absent for this profile.",
+      "customer service": "Common among matched competitors; absent for this profile.",
+      "financial analysis": "Common among matched competitors; absent for this profile.",
+      "gold valuation": "Common among matched competitors; absent for this profile.",
+      "loan processing": "Common among matched competitors; absent for this profile.",
+      "negotiation": "Common among matched competitors; absent for this profile.",
+      "risk assessment": "Common among matched competitors; absent for this profile.",
+      "sales strategy": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "10 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 4,
+    "competitor_companies": [
+      "iifl finance",
+      "manappuram finance",
+      "muthoot finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 4,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "THE FUTURE Raj",
+    "role": "Manipal Fintech at Manipal Fintech",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Sumit verma",
+    "role": "Sr. UI/UX Designer",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "Sumit Verma's profile is strong in core UI/UX design skills but lacks several critical and important skills that are prevalent among competitors in the industry.",
+    "recommendations": [
+      "Acquire proficiency in Adobe Creative Suite to align with industry standards.",
+      "Develop skills in Design Thinking to enhance problem-solving capabilities.",
+      "Gain experience in Product Design to broaden design scope.",
+      "Engage in User Research to better understand user needs and improve design outcomes.",
+      "Consider learning Visual Design to enhance the aesthetic quality of UI designs."
+    ],
+    "competitor_count": 2,
+    "competitor_companies": [
+      "bajaj finserv"
+    ],
+    "evidence_flags": {
+      "competitors_included": 2,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "MEHAK SRIVASTAVA",
+    "role": "Manipal FinTech- Head of Marketing & Branding",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "Mehak Srivastava's profile is strong in marketing and branding but lacks critical skills in CRM and Data Analysis, which are essential for comprehensive customer management and informed decision-making. Adding Sales Strategy and SEM would further enhance her profile.",
+    "recommendations": [
+      "Focus on acquiring CRM and Customer Relationship Management skills to improve customer interaction and satisfaction.",
+      "Develop Data Analysis capabilities to make data-driven marketing decisions.",
+      "Consider learning Sales Strategy to align marketing efforts with sales objectives.",
+      "Enhance SEM knowledge to optimize digital marketing campaigns."
+    ],
+    "competitor_count": 3,
+    "competitor_companies": [
+      "icici bank",
+      "manappuram finance",
+      "muthoot finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 3,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Saurabh Matholiya",
+    "role": "",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Manish Baghel",
+    "role": "Tha Manipal Group",
+    "missing_skills": [
+      "banking operations",
+      "business development",
+      "compliance",
+      "customer relationship management",
+      "financial analysis",
+      "risk assessment",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "banking operations": "Critical",
+      "business development": "Important",
+      "compliance": "Critical",
+      "customer relationship management": "Critical",
+      "financial analysis": "Critical",
+      "risk assessment": "Critical",
+      "strategic planning": "Important",
+      "team leadership": "Important"
+    },
+    "gap_reasoning": {
+      "banking operations": "Sandipan Ray at ICICI Bank has this skill, indicating its importance in the industry.",
+      "business development": "Sandipan Ray at ICICI Bank has this skill, showing its relevance for growth roles.",
+      "compliance": "Regulatory compliance is essential in finance, as evidenced by Sandipan Ray's profile.",
+      "customer relationship management": "CRM is crucial for maintaining client relations, highlighted by Sandipan Ray's skills.",
+      "financial analysis": "Key for financial decision-making, as seen in Sandipan Ray's profile.",
+      "risk assessment": "Critical for identifying and mitigating risks, a skill Sandipan Ray possesses.",
+      "strategic planning": "Important for long-term success, as demonstrated by Sandipan Ray.",
+      "team leadership": "Vital for managing teams effectively, a skill Sandipan Ray has."
+    },
+    "overall_assessment": "Manish Baghel lacks several critical skills that are essential for his role at Manipal Fintech. These skills are commonly found in competitors and are crucial for success in the financial sector.",
+    "recommendations": [
+      "Manish should focus on acquiring skills in banking operations, compliance, customer relationship management, financial analysis, and risk assessment as these are critical for his role.",
+      "Additionally, developing skills in business development, strategic planning, and team leadership will enhance his effectiveness and career growth."
+    ],
+    "competitor_count": 1,
+    "competitor_companies": [
+      "icici bank"
+    ],
+    "evidence_flags": {
+      "competitors_included": 1,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Roshan Baliar Singh",
+    "role": "Regional Head",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "Roshan Baliar Singh has a strong profile with essential skills like Leadership, Strategic Planning, and Sales Management. However, there are critical gaps in Financial Analysis and Risk Management, which are vital for a Regional Head role in the finance sector. Additionally, enhancing skills in Team Leadership, Sales Strategy, and Budgeting would align his profile more closely with top competitors.",
+    "recommendations": [
+      "Develop expertise in Financial Analysis through advanced courses or certifications.",
+      "Gain practical experience in Risk Management by taking on projects that involve financial risk assessment.",
+      "Focus on acquiring Team Leadership skills through leadership training programs.",
+      "Enhance knowledge in Sales Strategy by studying market trends and sales techniques.",
+      "Improve Budgeting skills by managing budgets in various projects and seeking mentorship from experienced professionals."
+    ],
+    "competitor_count": 25,
+    "competitor_companies": [
+      "bajaj finserv",
+      "capital first",
+      "hdfc bank",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 25,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Devendra Singh",
+    "role": "MANIPAL FINTECH CLUSTER HEAD",
+    "missing_skills": [
+      "financial management",
+      "sales strategy"
+    ],
+    "skill_importance": {
+      "financial management": "Critical",
+      "sales strategy": "Important"
+    },
+    "gap_reasoning": {
+      "financial management": "Financial management is a critical skill observed in multiple competitor profiles such as Raja Prabu (Manappuram Finance) and Darshak Shah (Muthoot Finance). This skill is essential for overseeing financial operations and ensuring fiscal health.",
+      "sales strategy": "Sales strategy is important for driving business growth and is present in profiles like Vijith P (Magma Fincorp) and Joshpar Saleem (Manappuram Finance). This skill helps in developing effective sales plans and achieving revenue targets."
+    },
+    "overall_assessment": "Devendra Singh's profile lacks critical and important skills that are prevalent among competitors in similar roles. Addressing these gaps could enhance his effectiveness in the role and align his skill set with industry standards.",
+    "recommendations": [
+      "Devendra Singh should focus on developing financial management skills to better oversee financial operations and ensure fiscal health.",
+      "Improving sales strategy capabilities will help in driving business growth and achieving revenue targets."
+    ],
+    "competitor_count": 22,
+    "competitor_companies": [
+      "bajaj finserv",
+      "hdfc bank",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 22,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Puneet Sharma",
+    "role": "DVP - Software Development at Manipal Fontech Services Pvt. Ltd.",
+    "missing_skills": [
+      "amazon web services aws",
+      "analytics",
+      "banking operations",
+      "budgeting",
+      "business development",
+      "business intelligence",
+      "compensation and benefits",
+      "compliance",
+      "corporate finance",
+      "credit analysis",
+      "credit management",
+      "data analysis",
+      "data architecture",
+      "data engineering",
+      "e commerce",
+      "employee relations",
+      "excel",
+      "financial analysis",
+      "financial modeling",
+      "financial reporting",
+      "forecasting",
+      "hr analytics",
+      "hr software e.g. sap workday",
+      "human resource management",
+      "investment management",
+      "investment strategies",
+      "machine learning",
+      "organizational development",
+      "performance management",
+      "portfolio management",
+      "risk assessment",
+      "shipping",
+      "statistics",
+      "strategic planning",
+      "succession planning",
+      "talent acquisition"
+    ],
+    "skill_importance": {
+      "amazon web services aws": "Important",
+      "analytics": "Important",
+      "banking operations": "Important",
+      "budgeting": "Important",
+      "business development": "Important",
+      "business intelligence": "Important",
+      "compensation and benefits": "Important",
+      "compliance": "Important",
+      "corporate finance": "Important",
+      "credit analysis": "Important",
+      "credit management": "Important",
+      "data analysis": "Important",
+      "data architecture": "Important",
+      "data engineering": "Important",
+      "e commerce": "Important",
+      "employee relations": "Important",
+      "excel": "Important",
+      "financial analysis": "Important",
+      "financial modeling": "Important",
+      "financial reporting": "Important",
+      "forecasting": "Important",
+      "hr analytics": "Important",
+      "hr software e.g. sap workday": "Important",
+      "human resource management": "Important",
+      "investment management": "Important",
+      "investment strategies": "Important",
+      "machine learning": "Important",
+      "organizational development": "Important",
+      "performance management": "Important",
+      "portfolio management": "Important",
+      "risk assessment": "Important",
+      "shipping": "Important",
+      "statistics": "Important",
+      "strategic planning": "Important",
+      "succession planning": "Important",
+      "talent acquisition": "Important"
+    },
+    "gap_reasoning": {
+      "amazon web services aws": "Common among matched competitors; absent for this profile.",
+      "analytics": "Common among matched competitors; absent for this profile.",
+      "banking operations": "Common among matched competitors; absent for this profile.",
+      "budgeting": "Common among matched competitors; absent for this profile.",
+      "business development": "Common among matched competitors; absent for this profile.",
+      "business intelligence": "Common among matched competitors; absent for this profile.",
+      "compensation and benefits": "Common among matched competitors; absent for this profile.",
+      "compliance": "Common among matched competitors; absent for this profile.",
+      "corporate finance": "Common among matched competitors; absent for this profile.",
+      "credit analysis": "Common among matched competitors; absent for this profile.",
+      "credit management": "Common among matched competitors; absent for this profile.",
+      "data analysis": "Common among matched competitors; absent for this profile.",
+      "data architecture": "Common among matched competitors; absent for this profile.",
+      "data engineering": "Common among matched competitors; absent for this profile.",
+      "e commerce": "Common among matched competitors; absent for this profile.",
+      "employee relations": "Common among matched competitors; absent for this profile.",
+      "excel": "Common among matched competitors; absent for this profile.",
+      "financial analysis": "Common among matched competitors; absent for this profile.",
+      "financial modeling": "Common among matched competitors; absent for this profile.",
+      "financial reporting": "Common among matched competitors; absent for this profile.",
+      "forecasting": "Common among matched competitors; absent for this profile.",
+      "hr analytics": "Common among matched competitors; absent for this profile.",
+      "hr software e.g. sap workday": "Common among matched competitors; absent for this profile.",
+      "human resource management": "Common among matched competitors; absent for this profile.",
+      "investment management": "Common among matched competitors; absent for this profile.",
+      "investment strategies": "Common among matched competitors; absent for this profile.",
+      "machine learning": "Common among matched competitors; absent for this profile.",
+      "organizational development": "Common among matched competitors; absent for this profile.",
+      "performance management": "Common among matched competitors; absent for this profile.",
+      "portfolio management": "Common among matched competitors; absent for this profile.",
+      "risk assessment": "Common among matched competitors; absent for this profile.",
+      "shipping": "Common among matched competitors; absent for this profile.",
+      "statistics": "Common among matched competitors; absent for this profile.",
+      "strategic planning": "Common among matched competitors; absent for this profile.",
+      "succession planning": "Common among matched competitors; absent for this profile.",
+      "talent acquisition": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "36 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 6,
+    "competitor_companies": [
+      "bajaj finserv",
+      "hdfc bank",
+      "iifl finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 6,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Nagendra singh",
+    "role": "Areal Head -Manipal FinTech Services Private Limited",
+    "missing_skills": [
+      "budgeting",
+      "compliance",
+      "excel",
+      "operations management",
+      "performance management",
+      "sales strategy"
+    ],
+    "skill_importance": {
+      "budgeting": "Critical",
+      "compliance": "Important",
+      "excel": "Important",
+      "operations management": "Critical",
+      "performance management": "Important",
+      "sales strategy": "Critical"
+    },
+    "gap_reasoning": {
+      "budgeting": "Budgeting is a critical skill observed in competitors like Gurvinder Singh Lamba (Bajaj Finserv) and Nivedita Choudhary (HDFC Bank). It is essential for financial planning and resource allocation.",
+      "compliance": "Compliance is important for adhering to regulatory standards, as seen in Darshit Doshi (IIFL Finance) and Upendra Choudhary (Magma Fincorp).",
+      "excel": "Excel proficiency is important for data analysis and reporting, highlighted by Nivedita Choudhary (HDFC Bank) and Vamsi Kiran (Magma Fincorp).",
+      "operations management": "Operations management is critical for ensuring efficient business processes, noted in Upendra Choudhary (Magma Fincorp) and Arsil Vahora (Manappuram Finance).",
+      "performance management": "Performance management is important for tracking and improving team performance, as seen in Vamsi Kiran (Magma Fincorp) and Vijay Phulsounadr (Shriram City Union Finance).",
+      "sales strategy": "Sales strategy is critical for driving business growth, evident in Darshit Doshi (IIFL Finance) and Rayapati Manohar (Shriram City Union Finance)."
+    },
+    "overall_assessment": "Nagendra Singh's profile lacks several critical and important skills compared to competitors, which may impact his effectiveness in strategic roles within the financial sector.",
+    "recommendations": [
+      "Nagendra Singh should prioritize developing budgeting, operations management, and sales strategy skills to align with industry standards and enhance his strategic capabilities.",
+      "Improving compliance, excel, and performance management skills will further strengthen his profile and operational efficiency."
+    ],
+    "competitor_count": 12,
+    "competitor_companies": [
+      "bajaj finserv",
+      "hdfc bank",
+      "iifl finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 12,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Rozi Bisht",
+    "role": "",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "GAURAV AGRAWAL",
+    "role": "Sales Manager",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "GAURAV AGRAWAL's profile is strong in sales-related skills but lacks Team Leadership, which is critical for a Sales Manager role to effectively manage and motivate a sales team, ensuring alignment with organizational goals.",
+    "recommendations": [
+      "GAURAV AGRAWAL should focus on developing and demonstrating Team Leadership skills through relevant training, certifications, or by taking on leadership responsibilities in current or future roles."
+    ],
+    "competitor_count": 19,
+    "competitor_companies": [
+      "bajaj finserv",
+      "capital first",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 19,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Alokit Nath Mishra",
+    "role": "Assistant Manager MIS",
+    "missing_skills": [
+      "budgeting",
+      "compliance"
+    ],
+    "skill_importance": {
+      "budgeting": "Critical",
+      "compliance": "Important"
+    },
+    "gap_reasoning": {
+      "budgeting": "Budgeting is a critical skill observed in competitors such as Ratan Kumawat (IIFL Finance), Pearl Dias (Indiabulls Housing Finance), Suryakanta Mishra (Magma Fincorp), Shivam Garg (Muthoot Finance), Neeti Ahuja (Muthoot Finance), and Deepak Prakash (Shriram City Union Finance). This skill is essential for financial planning and resource allocation.",
+      "compliance": "Compliance is an important skill noted in competitors like Ratan Kumawat (IIFL Finance), Pearl Dias (Indiabulls Housing Finance), Suryakanta Mishra (Magma Fincorp), Neeti Ahuja (Muthoot Finance), and Deepak Prakash (Shriram City Union Finance). This skill ensures adherence to regulations and standards, which is vital for risk management and operational integrity."
+    },
+    "overall_assessment": "Alokit Nath Mishra is missing two key skills: budgeting and compliance. These skills are prevalent among competitors and are essential for effective financial management and regulatory adherence.",
+    "recommendations": [
+      "Alokit Nath Mishra should pursue training or certification in budgeting to enhance financial planning capabilities.",
+      "Alokit Nath Mishra should gain knowledge in compliance to ensure regulatory adherence and improve risk management."
+    ],
+    "competitor_count": 8,
+    "competitor_companies": [
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 8,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Aishwary Sinha",
+    "role": "Product Designer at Manipal Fintech | Product Thinker | ex-BuyUcoin",
+    "missing_skills": [
+      "hfi cua certification",
+      "interaction design",
+      "visual design"
+    ],
+    "skill_importance": {
+      "hfi cua certification": "Critical",
+      "interaction design": "Important",
+      "visual design": "Important"
+    },
+    "gap_reasoning": {
+      "hfi cua certification": "Shashank Jain from IIFL Finance has the HFI CUA™ Certification, which is a recognized credential in usability analysis and design, making it a critical skill for enhancing credibility and expertise in product design.",
+      "interaction design": "Prerna Bajaj from Bajaj Finserv possesses Interaction Design skills, which are essential for creating intuitive and engaging user experiences, thus making it an important skill for a Product Designer.",
+      "visual design": "Prerna Bajaj also has Visual Design skills, which are crucial for the aesthetic aspect of product design, ensuring the product is visually appealing and user-friendly."
+    },
+    "overall_assessment": "Aishwary Sinha is missing critical and important skills that are present in competitors, which could impact his competitiveness in the field of product design within the fintech industry.",
+    "recommendations": [
+      "Obtain HFI CUA™ Certification to enhance usability expertise and credibility.",
+      "Develop skills in Interaction Design to improve user engagement and experience.",
+      "Enhance Visual Design capabilities to ensure the product is aesthetically pleasing and user-friendly."
+    ],
+    "competitor_count": 2,
+    "competitor_companies": [
+      "bajaj finserv",
+      "iifl finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 2,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Badal Sona",
+    "role": "Quality Analyst Engineer Software Automation Test Engineer | Automation - Selenium | Manual Test Engineer | API Testing | QA Engineer",
+    "missing_skills": [
+      "agile methodologies",
+      "db testing",
+      "excel",
+      "mobile app testing",
+      "pl sql",
+      "postman",
+      "swagger"
+    ],
+    "skill_importance": {
+      "agile methodologies": "Important",
+      "db testing": "Important",
+      "excel": "Important",
+      "mobile app testing": "Important",
+      "pl sql": "Important",
+      "postman": "Important",
+      "swagger": "Important"
+    },
+    "gap_reasoning": {
+      "agile methodologies": "Common among matched competitors; absent for this profile.",
+      "db testing": "Common among matched competitors; absent for this profile.",
+      "excel": "Common among matched competitors; absent for this profile.",
+      "mobile app testing": "Common among matched competitors; absent for this profile.",
+      "pl sql": "Common among matched competitors; absent for this profile.",
+      "postman": "Common among matched competitors; absent for this profile.",
+      "swagger": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "7 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 2,
+    "competitor_companies": [
+      "manappuram finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 2,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Nikhil Khandelwal",
+    "role": "Regional Head Sales at Manipal Fintech services private limited",
+    "missing_skills": [
+      "budgeting",
+      "data analysis",
+      "excel",
+      "financial analysis",
+      "financial reporting",
+      "forecasting",
+      "sales strategy",
+      "strategic planning"
+    ],
+    "skill_importance": {
+      "budgeting": "Important",
+      "data analysis": "Important",
+      "excel": "Important",
+      "financial analysis": "Important",
+      "financial reporting": "Important",
+      "forecasting": "Important",
+      "sales strategy": "Important",
+      "strategic planning": "Important"
+    },
+    "gap_reasoning": {
+      "budgeting": "Common among matched competitors; absent for this profile.",
+      "data analysis": "Common among matched competitors; absent for this profile.",
+      "excel": "Common among matched competitors; absent for this profile.",
+      "financial analysis": "Common among matched competitors; absent for this profile.",
+      "financial reporting": "Common among matched competitors; absent for this profile.",
+      "forecasting": "Common among matched competitors; absent for this profile.",
+      "sales strategy": "Common among matched competitors; absent for this profile.",
+      "strategic planning": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "8 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 17,
+    "competitor_companies": [
+      "bajaj finserv",
+      "capital first",
+      "hdfc bank",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 17,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "sanjiv kumar - Regional Manager - Manipal fintech",
+    "role": "",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Chhandamita D",
+    "role": "L&D and OD lead with 19 Years in BFSI/Fintech/(RealEstate in UAE) -expertise of LXP/LMS, Training Project Management, Sales & Sales Quality in B2C and B2B.",
+    "missing_skills": [
+      "compensation and benefits",
+      "content management systems",
+      "data analysis",
+      "e learning development",
+      "employee engagement",
+      "employee relations",
+      "hr analytics",
+      "human resource management",
+      "instructional design",
+      "performance management",
+      "succession planning",
+      "talent acquisition",
+      "technology integration"
+    ],
+    "skill_importance": {
+      "compensation and benefits": "Important",
+      "content management systems": "Nice-to-have",
+      "data analysis": "Critical",
+      "e learning development": "Important",
+      "employee engagement": "Critical",
+      "employee relations": "Important",
+      "hr analytics": "Critical",
+      "human resource management": "Critical",
+      "instructional design": "Important",
+      "performance management": "Critical",
+      "succession planning": "Important",
+      "talent acquisition": "Critical",
+      "technology integration": "Important"
+    },
+    "gap_reasoning": {
+      "compensation and benefits": "Dipti Saraf (Bajaj Finserv) includes Compensation and Benefits, indicating its relevance in HR roles.",
+      "content management systems": "Neha Sachdeva (IIFL Finance) lists Content Management Systems, useful for managing learning content.",
+      "data analysis": "Neha Sachdeva (IIFL Finance) highlights Data Analysis, crucial for HR analytics and performance metrics.",
+      "e learning development": "Neha Sachdeva (IIFL Finance) includes E-learning Development, essential for modern L&D strategies.",
+      "employee engagement": "Neha Sachdeva (IIFL Finance) emphasizes Employee Engagement, vital for maintaining workforce motivation.",
+      "employee relations": "Dipti Saraf (Bajaj Finserv) lists Employee Relations, important for managing workforce dynamics.",
+      "hr analytics": "Dipti Saraf (Bajaj Finserv) includes HR Analytics, critical for data-driven HR decision-making.",
+      "human resource management": "Dipti Saraf (Bajaj Finserv) highlights Human Resource Management, foundational for HR roles.",
+      "instructional design": "Neha Sachdeva (IIFL Finance) lists Instructional Design, important for creating effective training programs.",
+      "performance management": "Dipti Saraf (Bajaj Finserv) includes Performance Management, crucial for assessing and improving employee performance.",
+      "succession planning": "Dipti Saraf (Bajaj Finserv) lists Succession Planning, important for ensuring leadership continuity.",
+      "talent acquisition": "Dipti Saraf (Bajaj Finserv) highlights Talent Acquisition, critical for recruiting the right talent.",
+      "technology integration": "Neha Sachdeva (IIFL Finance) includes Technology Integration, important for leveraging tech in HR processes."
+    },
+    "overall_assessment": "Chhandamita D's profile lacks several critical HR skills that are present in competitor profiles, indicating gaps in areas such as data-driven decision-making, employee management, and modern HR practices.",
+    "recommendations": [
+      "Focus on developing skills in HR Analytics and Data Analysis to enhance data-driven decision-making.",
+      "Improve expertise in Employee Engagement and Relations to better manage workforce dynamics.",
+      "Gain knowledge in Human Resource Management and Talent Acquisition to strengthen foundational HR capabilities.",
+      "Consider training in Performance Management and Succession Planning to ensure effective employee assessment and leadership continuity."
+    ],
+    "competitor_count": 2,
+    "competitor_companies": [
+      "bajaj finserv",
+      "iifl finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 2,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Sandeep Yadav",
+    "role": "Relationship officer at Manipal Fintech",
+    "missing_skills": [
+      "account management",
+      "business development"
+    ],
+    "skill_importance": {
+      "account management": "Critical",
+      "business development": "Important"
+    },
+    "gap_reasoning": {
+      "account management": "Account Management is crucial for maintaining and growing client relationships, as evidenced by Ramasamy Subramanian (Magma Fincorp) and Apurva Chavan (Muthoot Finance).",
+      "business development": "Business Development is important for expanding market reach and driving sales, highlighted by Sumit Singh and Giriraj Sharma (both from Magma Fincorp)."
+    },
+    "overall_assessment": "Sandeep Yadav's profile lacks critical skills in Account Management and important skills in Business Development compared to competitors in similar roles.",
+    "recommendations": [
+      "Enhance skills in Account Management through targeted training or mentorship.",
+      "Develop Business Development capabilities by engaging in strategic sales initiatives and market expansion projects."
+    ],
+    "competitor_count": 7,
+    "competitor_companies": [
+      "capital first",
+      "icici bank",
+      "magma fincorp",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 7,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Rahul Gupta",
+    "role": "",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Sylvester Domingo",
+    "role": "Digital Transformation , CX, Process Excellence, Audit & Compliance",
+    "missing_skills": [
+      "customer relationship management",
+      "cybersecurity",
+      "risk assessment",
+      "strategic planning",
+      "technology integration"
+    ],
+    "skill_importance": {
+      "customer relationship management": "Critical",
+      "cybersecurity": "Important",
+      "risk assessment": "Important",
+      "strategic planning": "Critical",
+      "technology integration": "Important"
+    },
+    "gap_reasoning": {
+      "customer relationship management": "Competitor Zubin Kika (HDFC Bank) demonstrates CRM expertise, essential for enhancing customer interactions and satisfaction.",
+      "cybersecurity": "Zubin Kika (HDFC Bank) highlights cybersecurity, crucial for protecting digital assets and maintaining customer trust.",
+      "risk assessment": "Dr. Amarjit S Kapoor (Bajaj Finserv) showcases risk management, vital for identifying and mitigating potential threats.",
+      "strategic planning": "Zubin Kika (HDFC Bank) emphasizes strategic planning, necessary for long-term business growth and competitive positioning.",
+      "technology integration": "Dr. Amarjit S Kapoor (Bajaj Finserv) includes technology integration, important for seamless digital transformation and operational efficiency."
+    },
+    "overall_assessment": "Sylvester Domingo's profile at Manipal Fintech lacks several critical and important skills compared to competitors in the digital banking and financial services sector.",
+    "recommendations": [
+      "Focus on acquiring CRM and strategic planning skills to align with industry standards.",
+      "Enhance knowledge in cybersecurity, risk assessment, and technology integration to strengthen digital transformation capabilities."
+    ],
+    "competitor_count": 3,
+    "competitor_companies": [
+      "bajaj finserv",
+      "hdfc bank"
+    ],
+    "evidence_flags": {
+      "competitors_included": 3,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "muvva Gopinadh",
+    "role": "associate in Manipal Fintech services pvt LTD",
+    "missing_skills": [
+      "accounting",
+      "budgeting",
+      "business development",
+      "client communication",
+      "contract management",
+      "credit analysis",
+      "customer relationship management",
+      "data analysis",
+      "financial modeling",
+      "financial services",
+      "funds management",
+      "investment strategies",
+      "market analysis",
+      "report generation",
+      "strategic planning",
+      "treasury management"
+    ],
+    "skill_importance": {
+      "accounting": "Important",
+      "budgeting": "Important",
+      "business development": "Critical",
+      "client communication": "Critical",
+      "contract management": "Important",
+      "credit analysis": "Critical",
+      "customer relationship management": "Critical",
+      "data analysis": "Important",
+      "financial modeling": "Important",
+      "financial services": "Critical",
+      "funds management": "Important",
+      "investment strategies": "Important",
+      "market analysis": "Important",
+      "report generation": "Nice-to-have",
+      "strategic planning": "Important",
+      "treasury management": "Important"
+    },
+    "gap_reasoning": {
+      "accounting": "Janardhan Srinivas (Magma Fincorp) possesses accounting skills, which are essential for financial accuracy.",
+      "budgeting": "Janardhan Srinivas (Magma Fincorp) also has budgeting skills, necessary for financial planning.",
+      "business development": "Vishesh Bansal (ICICI Bank) has business development skills, crucial for growth strategies.",
+      "client communication": "Gina Crespo (Capital First) excels in client communication, vital for customer interactions.",
+      "contract management": "Gina Crespo (Capital First) has contract management skills, important for legal agreements.",
+      "credit analysis": "Janardhan Srinivas (Magma Fincorp) is skilled in credit analysis, critical for assessing creditworthiness.",
+      "customer relationship management": "Gina Crespo (Capital First) has customer relationship management skills, essential for maintaining client relations.",
+      "data analysis": "Vishesh Bansal (ICICI Bank) and Janardhan Srinivas (Magma Fincorp) both have data analysis skills, important for insights.",
+      "financial modeling": "Arun Raghavendran (ICICI Bank) and Janardhan Srinivas (Magma Fincorp) are proficient in financial modeling, necessary for projections.",
+      "financial services": "Vishesh Bansal (ICICI Bank) has financial services skills, critical for industry knowledge.",
+      "funds management": "Arun Raghavendran (ICICI Bank) is skilled in funds management, important for asset handling.",
+      "investment strategies": "Arun Raghavendran (ICICI Bank) and Janardhan Srinivas (Magma Fincorp) have investment strategies skills, necessary for portfolio management.",
+      "market analysis": "Gina Crespo (Capital First) has market analysis skills, important for market insights.",
+      "report generation": "Janardhan Srinivas (Magma Fincorp) is skilled in report generation, nice-to-have for documentation.",
+      "strategic planning": "Vishesh Bansal (ICICI Bank) has strategic planning skills, important for long-term goals.",
+      "treasury management": "Arun Raghavendran (ICICI Bank) is proficient in treasury management, important for liquidity management."
+    },
+    "overall_assessment": "Muvva Gopinadh's profile lacks several critical and important skills compared to competitors, particularly in business development, client communication, credit analysis, customer relationship management, and financial services.",
+    "recommendations": [
+      "Focus on developing business development and client communication skills to enhance growth and customer interactions.",
+      "Gain expertise in credit analysis and customer relationship management to improve client assessment and retention.",
+      "Acquire knowledge in financial services to stay competitive in the industry."
+    ],
+    "competitor_count": 4,
+    "competitor_companies": [
+      "capital first",
+      "icici bank",
+      "magma fincorp"
+    ],
+    "evidence_flags": {
+      "competitors_included": 4,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Saurabh Jha",
+    "role": "Human Resources Professional | Driving People & Process Excellence | Passionate About Building Engaged, Productive Workforces",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "Saurabh Jha's profile lacks several critical and important skills compared to competitors, which may impact his effectiveness in the HR role at Manipal Fintech.",
+    "recommendations": [
+      "Focus on developing skills in Compensation and Benefits and Employee Relations to align with industry standards.",
+      "Consider training or certification in Organizational Development and Recruitment to enhance HR capabilities.",
+      "Gain knowledge in Compliance and Strategic Planning to improve strategic HR management.",
+      "Develop familiarity with Succession Planning, HR Policies, and Payroll Management to round out HR expertise."
+    ],
+    "competitor_count": 10,
+    "competitor_companies": [
+      "bajaj finserv",
+      "capital first",
+      "iifl finance",
+      "magma fincorp",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 10,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Saurabh Jha",
+    "role": "Human Resources Professional | Driving People & Process Excellence | Passionate About Building Engaged, Productive Workforces",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "Saurabh Jha's profile lacks several critical and important HR skills compared to competitors, which may impact his effectiveness in comprehensive HR management.",
+    "recommendations": [
+      "Focus on developing skills in Compensation and Benefits and Employee Relations as they are critical for HR roles.",
+      "Enhance knowledge in Organizational Development, Recruitment, Compliance, and Strategic Planning to align with industry standards.",
+      "Consider gaining experience in Succession Planning, HR Policies, and Payroll Management to cover all aspects of HR functions."
+    ],
+    "competitor_count": 10,
+    "competitor_companies": [
+      "bajaj finserv",
+      "capital first",
+      "iifl finance",
+      "magma fincorp",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 10,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Aditya Paswan",
+    "role": "Bachelor of Commerce with 1 year Experience",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Vikas Saini",
+    "role": "Project coordinator at Manipal Business Solutions | Fintech & Banking | Financial Inclusion | Rural Extension Branches | Cross Sell-Asset & Liabilities Products | eGovernance | ex NBFC",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Pramud Naidu",
+    "role": "Regional Head Gold loans at Manipal Fintech",
+    "missing_skills": [
+      "banking operations",
+      "business development",
+      "operational management",
+      "sales strategy",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "banking operations": "Important",
+      "business development": "Important",
+      "operational management": "Important",
+      "sales strategy": "Important",
+      "team leadership": "Important"
+    },
+    "gap_reasoning": {
+      "banking operations": "Common among matched competitors; absent for this profile.",
+      "business development": "Common among matched competitors; absent for this profile.",
+      "operational management": "Common among matched competitors; absent for this profile.",
+      "sales strategy": "Common among matched competitors; absent for this profile.",
+      "team leadership": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "5 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 19,
+    "competitor_companies": [
+      "bajaj finserv",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 19,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Ravi Jadhav",
+    "role": "Manipal Fintech | Regional Head",
+    "missing_skills": [
+      "accounting",
+      "banking operations",
+      "budgeting",
+      "business strategy",
+      "credit analysis",
+      "excel",
+      "forecasting",
+      "marketing strategy",
+      "negotiation",
+      "performance management",
+      "portfolio management",
+      "revenue forecasting",
+      "sales strategy"
+    ],
+    "skill_importance": {
+      "accounting": "Important",
+      "banking operations": "Important",
+      "budgeting": "Important",
+      "business strategy": "Important",
+      "credit analysis": "Important",
+      "excel": "Important",
+      "forecasting": "Important",
+      "marketing strategy": "Important",
+      "negotiation": "Important",
+      "performance management": "Important",
+      "portfolio management": "Important",
+      "revenue forecasting": "Important",
+      "sales strategy": "Important"
+    },
+    "gap_reasoning": {
+      "accounting": "Common among matched competitors; absent for this profile.",
+      "banking operations": "Common among matched competitors; absent for this profile.",
+      "budgeting": "Common among matched competitors; absent for this profile.",
+      "business strategy": "Common among matched competitors; absent for this profile.",
+      "credit analysis": "Common among matched competitors; absent for this profile.",
+      "excel": "Common among matched competitors; absent for this profile.",
+      "forecasting": "Common among matched competitors; absent for this profile.",
+      "marketing strategy": "Common among matched competitors; absent for this profile.",
+      "negotiation": "Common among matched competitors; absent for this profile.",
+      "performance management": "Common among matched competitors; absent for this profile.",
+      "portfolio management": "Common among matched competitors; absent for this profile.",
+      "revenue forecasting": "Common among matched competitors; absent for this profile.",
+      "sales strategy": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "13 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 20,
+    "competitor_companies": [
+      "bajaj finserv",
+      "hdfc bank",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 20,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "akshay jain",
+    "role": "Regional Head at Manipal Fintech",
+    "missing_skills": [
+      "budgeting",
+      "data analysis",
+      "sales strategy",
+      "negotiation",
+      "investment strategies"
+    ],
+    "skill_importance": {
+      "budgeting": "Critical",
+      "data analysis": "Important",
+      "sales strategy": "Important",
+      "negotiation": "Nice-to-have",
+      "investment strategies": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "budgeting": "Budgeting is a critical skill missing from Akshay Jain's profile. Competitors like Manjunath BR (Bajaj Finserv) and Manesh Mohanan (Manappuram Finance) possess this skill, indicating its importance in regional management roles.",
+      "data analysis": "Data Analysis is important for making informed decisions. Competitors such as Tejas Sharma (Bajaj Finserv) and Monika Joshi (Capital First) have this skill, highlighting its relevance.",
+      "sales strategy": "Sales Strategy is important for driving revenue and managing sales teams. Competitors like Manjunath BR (Bajaj Finserv) and Maninderpal Singh (IIFL Finance) have this skill, showing its necessity in regional head roles.",
+      "negotiation": "Negotiation is a nice-to-have skill that can enhance business development and client interactions. Competitors like Tejas Sharma (Bajaj Finserv) and Mukesh Kumar (Indiabulls Housing Finance) possess this skill.",
+      "investment strategies": "Investment Strategies is a nice-to-have skill that can aid in financial planning and growth. Competitors like BHANUSHRI DWIVEDI (Capital First) have this skill, indicating its potential value."
+    },
+    "overall_assessment": "Akshay Jain's profile is strong in areas like Financial Analysis, Risk Management, and Strategic Planning. However, there are critical gaps in Budgeting and important gaps in Data Analysis and Sales Strategy. Addressing these gaps will enhance his competitiveness against peers in similar roles.",
+    "recommendations": [
+      "Akshay Jain should focus on developing Budgeting skills through relevant courses or practical experience.",
+      "Improving Data Analysis capabilities will aid in better decision-making and strategic planning.",
+      "Gaining expertise in Sales Strategy will help in driving revenue and managing sales teams effectively.",
+      "Consider enhancing Negotiation skills to improve business development and client interactions.",
+      "Learning about Investment Strategies could provide additional value in financial planning and growth."
+    ],
+    "competitor_count": 23,
+    "competitor_companies": [
+      "bajaj finserv",
+      "capital first",
+      "hdfc bank",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 23,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Nandkishor Bhoi",
+    "role": "Sales Executive at Manipal Fintech",
+    "missing_skills": [
+      "business development",
+      "data analysis",
+      "salesforce",
+      "excel"
+    ],
+    "skill_importance": {
+      "business development": "Critical",
+      "data analysis": "Important",
+      "salesforce": "Important",
+      "excel": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "business development": "Several competitors such as Ankita Mote (Capital First) and Anagh Sengupta (Magma Fincorp) possess business development skills, which are crucial for expanding market reach and driving sales growth.",
+      "data analysis": "Competitors like Donthula Rakesh (Indiabulls Housing Finance) and Sreenath Mn (Manappuram Finance) have data analysis skills, which are essential for making informed decisions based on market trends and customer data.",
+      "salesforce": "Competitors including Jaspreet Singh (Capital First) and Donthula Rakesh (Indiabulls Housing Finance) have proficiency in Salesforce, a key CRM tool for managing customer relationships and sales processes efficiently.",
+      "excel": "Competitors such as Bhavik Patel (Muthoot Finance) and Sujay Keskar (Shriram City Union Finance) have advanced Excel skills, which are useful for data management and financial analysis."
+    },
+    "overall_assessment": "Nandkishor Bhoi's profile is strong in sales-related skills but lacks critical competencies in business development and data analysis, as well as important tools like Salesforce and Excel, which are prevalent among competitors.",
+    "recommendations": [
+      "Enhance business development skills through targeted training or mentorship.",
+      "Develop data analysis capabilities to leverage market and customer insights.",
+      "Gain proficiency in Salesforce to improve CRM efficiency.",
+      "Improve Excel skills for better data management and financial analysis."
+    ],
+    "competitor_count": 12,
+    "competitor_companies": [
+      "capital first",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 12,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "ANIL SEN",
+    "role": "Relationship Executive Gold Loan at Manipal Fintech Pvt Ltd",
+    "missing_skills": [
+      "account management",
+      "client communication",
+      "credit risk assessment",
+      "customer service",
+      "data management",
+      "sales"
+    ],
+    "skill_importance": {
+      "account management": "Important",
+      "client communication": "Important",
+      "credit risk assessment": "Important",
+      "customer service": "Important",
+      "data management": "Important",
+      "sales": "Important"
+    },
+    "gap_reasoning": {
+      "account management": "Common among matched competitors; absent for this profile.",
+      "client communication": "Common among matched competitors; absent for this profile.",
+      "credit risk assessment": "Common among matched competitors; absent for this profile.",
+      "customer service": "Common among matched competitors; absent for this profile.",
+      "data management": "Common among matched competitors; absent for this profile.",
+      "sales": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "6 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 5,
+    "competitor_companies": [
+      "iifl finance",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 5,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Pallavi Jain",
+    "role": "Recruitment Specialist / Corporate HR / Talent Acquisition / Head Hunting / Human Resource",
+    "missing_skills": [
+      "compensation and benefits",
+      "conflict resolution",
+      "employee engagement",
+      "employee relations",
+      "hr analytics",
+      "hr policies",
+      "hr tech transformation",
+      "labor laws",
+      "organizational development",
+      "payroll management",
+      "performance management",
+      "strategy development",
+      "training and development"
+    ],
+    "skill_importance": {
+      "compensation and benefits": "Critical",
+      "conflict resolution": "Important",
+      "employee engagement": "Critical",
+      "employee relations": "Critical",
+      "hr analytics": "Important",
+      "hr policies": "Important",
+      "hr tech transformation": "Important",
+      "labor laws": "Critical",
+      "organizational development": "Important",
+      "payroll management": "Critical",
+      "performance management": "Critical",
+      "strategy development": "Important",
+      "training and development": "Important"
+    },
+    "gap_reasoning": {
+      "compensation and benefits": "Pooja Gurbani (HDFC Bank) and Asha Tyagi (Indiabulls Housing Finance) both possess this skill, indicating its necessity in the industry.",
+      "conflict resolution": "Pooja Gurbani (HDFC Bank) highlights the importance of managing workplace disputes effectively.",
+      "employee engagement": "Deepan Raje (IIFL Finance) and Pooja Gurbani (HDFC Bank) emphasize this skill, crucial for maintaining a motivated workforce.",
+      "employee relations": "Pooja Gurbani (HDFC Bank) and Asha Tyagi (Indiabulls Housing Finance) show the importance of maintaining positive employee relations.",
+      "hr analytics": "Pooja Gurbani (HDFC Bank) and Deepan Raje (IIFL Finance) demonstrate the growing need for data-driven HR decisions.",
+      "hr policies": "Pooja Gurbani (HDFC Bank) underscores the importance of having structured HR policies.",
+      "hr tech transformation": "Deepan Raje (IIFL Finance) indicates the industry's shift towards technology-driven HR processes.",
+      "labor laws": "Pooja Gurbani (HDFC Bank) and Asha Tyagi (Indiabulls Housing Finance) highlight the necessity of compliance with labor laws.",
+      "organizational development": "Deepan Raje (IIFL Finance) shows the importance of developing organizational structures and processes.",
+      "payroll management": "Asha Tyagi (Indiabulls Housing Finance) indicates the critical nature of managing payroll efficiently.",
+      "performance management": "Pooja Gurbani (HDFC Bank) and Asha Tyagi (Indiabulls Housing Finance) stress the importance of managing employee performance.",
+      "strategy development": "Deepan Raje (IIFL Finance) highlights the need for strategic planning in HR.",
+      "training and development": "Asha Tyagi (Indiabulls Housing Finance) shows the importance of continuous employee development."
+    },
+    "overall_assessment": "Pallavi Jain's profile lacks several critical and important skills that are prevalent among competitors in the industry, particularly in areas such as compensation and benefits, employee engagement, employee relations, labor laws, payroll management, and performance management.",
+    "recommendations": [
+      "Focus on developing skills in compensation and benefits, employee engagement, employee relations, labor laws, payroll management, and performance management to align with industry standards.",
+      "Consider training or certification programs to gain expertise in HR analytics, HR policies, HR tech transformation, organizational development, strategy development, and training and development."
+    ],
+    "competitor_count": 3,
+    "competitor_companies": [
+      "hdfc bank",
+      "iifl finance",
+      "indiabulls housing finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 3,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Pushpendra dangi",
+    "role": "Cluster Head at Manipal Fintech-Gold Loan",
+    "missing_skills": [
+      "strategic planning",
+      "budgeting",
+      "business development",
+      "data analysis",
+      "operational management"
+    ],
+    "skill_importance": {
+      "strategic planning": "Critical",
+      "budgeting": "Important",
+      "business development": "Important",
+      "data analysis": "Nice-to-have",
+      "operational management": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "strategic planning": "Pushpendra Dangi lacks strategic planning, which is crucial for high-level decision-making and aligning operations with long-term goals. Competitors like Chintan Sanan (Bajaj Finserv) and Adam Stern (Capital First) possess this skill.",
+      "budgeting": "Budgeting is essential for financial control and resource allocation. Competitors such as Rajneesh Gupta (ICICI Bank) and Jayaraman T (Indiabulls Housing Finance) have demonstrated proficiency in this area.",
+      "business development": "Business development is vital for growth and market expansion. Competitors like Gaurav Arora (ICICI Bank) and Sandipan Ray (ICICI Bank) have strong capabilities in this domain.",
+      "data analysis": "Data analysis aids in informed decision-making and performance optimization. Competitors like N. Srinivasan (HDFC Bank) and Biswanath Manik (IIFL Finance) exhibit strong data analysis skills.",
+      "operational management": "Operational management ensures efficient day-to-day operations. Competitors such as Vaibbhav Jaain (Indiabulls Housing Finance) and Vijith P (Magma Fincorp) excel in this area."
+    },
+    "overall_assessment": "Pushpendra Dangi's profile is strong in core financial and leadership skills but lacks strategic planning, budgeting, and business development, which are critical for a Cluster Head role. Enhancing these areas will align his skills with industry standards and improve competitive positioning.",
+    "recommendations": [
+      "Focus on developing strategic planning skills through advanced training or mentorship.",
+      "Gain experience in budgeting by taking on projects that require financial oversight.",
+      "Engage in business development activities to understand market expansion strategies.",
+      "Improve data analysis capabilities through specialized courses or software training.",
+      "Enhance operational management skills by overseeing more complex operational tasks."
+    ],
+    "competitor_count": 24,
+    "competitor_companies": [
+      "bajaj finserv",
+      "capital first",
+      "hdfc bank",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 24,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Sajeesh ko",
+    "role": "10+ year Experience in GOLD LOAN Industry (Kerala)",
+    "missing_skills": [
+      "business strategy",
+      "data analysis",
+      "fraud detection",
+      "gold loans",
+      "internal auditing",
+      "investigative techniques",
+      "operational efficiency",
+      "report writing",
+      "retail banking",
+      "sales strategy",
+      "team leadership",
+      "vigilance"
+    ],
+    "skill_importance": {
+      "business strategy": "Important",
+      "data analysis": "Important",
+      "fraud detection": "Important",
+      "gold loans": "Important",
+      "internal auditing": "Important",
+      "investigative techniques": "Important",
+      "operational efficiency": "Important",
+      "report writing": "Important",
+      "retail banking": "Important",
+      "sales strategy": "Important",
+      "team leadership": "Important",
+      "vigilance": "Important"
+    },
+    "gap_reasoning": {
+      "business strategy": "Common among matched competitors; absent for this profile.",
+      "data analysis": "Common among matched competitors; absent for this profile.",
+      "fraud detection": "Common among matched competitors; absent for this profile.",
+      "gold loans": "Common among matched competitors; absent for this profile.",
+      "internal auditing": "Common among matched competitors; absent for this profile.",
+      "investigative techniques": "Common among matched competitors; absent for this profile.",
+      "operational efficiency": "Common among matched competitors; absent for this profile.",
+      "report writing": "Common among matched competitors; absent for this profile.",
+      "retail banking": "Common among matched competitors; absent for this profile.",
+      "sales strategy": "Common among matched competitors; absent for this profile.",
+      "team leadership": "Common among matched competitors; absent for this profile.",
+      "vigilance": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "12 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 3,
+    "competitor_companies": [
+      "iifl finance",
+      "manappuram finance",
+      "muthoot finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 3,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Adarsh Tiwari",
+    "role": "Gold loan",
+    "missing_skills": [
+      "customer service",
+      "microsoft office",
+      "sales strategy"
+    ],
+    "skill_importance": {
+      "customer service": "Critical",
+      "microsoft office": "Important",
+      "sales strategy": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "customer service": "Customer service is critical as it is consistently present in competitor profiles (Prerana Gupta, Ganpatsinh Jadeja, Dharmesh Dumaniya, Suraj Mahto). It ensures effective handling of client interactions and satisfaction.",
+      "microsoft office": "Microsoft Office is important for administrative and operational efficiency, noted in competitor profiles (Prerana Gupta, Ganpatsinh Jadeja, Suraj Mahto). It aids in documentation and data management.",
+      "sales strategy": "Sales strategy is nice-to-have for enhancing sales techniques and market positioning, though less frequently mentioned directly in competitor profiles."
+    },
+    "overall_assessment": "Adarsh Tiwari's profile is strong in core financial and analytical skills but lacks critical customer service and important Microsoft Office skills, which are essential for operational efficiency and client satisfaction in the gold loan sector.",
+    "recommendations": [
+      "Enhance customer service skills through training programs focused on client interaction and satisfaction.",
+      "Improve proficiency in Microsoft Office to streamline documentation and data management processes.",
+      "Consider developing a sales strategy to complement existing sales techniques and improve market positioning."
+    ],
+    "competitor_count": 4,
+    "competitor_companies": [
+      "iifl finance",
+      "manappuram finance",
+      "muthoot finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 4,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Vaishali Bhat",
+    "role": "Senior Manager, Digital Alliance Partnership & Telesales Strategy",
+    "missing_skills": [
+      "content marketing",
+      "data analysis",
+      "decision making",
+      "digital marketing",
+      "financial management"
+    ],
+    "skill_importance": {
+      "content marketing": "Important",
+      "data analysis": "Important",
+      "decision making": "Important",
+      "digital marketing": "Important",
+      "financial management": "Important"
+    },
+    "gap_reasoning": {
+      "content marketing": "Common among matched competitors; absent for this profile.",
+      "data analysis": "Common among matched competitors; absent for this profile.",
+      "decision making": "Common among matched competitors; absent for this profile.",
+      "digital marketing": "Common among matched competitors; absent for this profile.",
+      "financial management": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "5 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 6,
+    "competitor_companies": [
+      "bajaj finserv",
+      "capital first",
+      "hdfc bank",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "muthoot finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 6,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Girish Kini",
+    "role": "Chief Executive Officer",
+    "missing_skills": [
+      "financial analysis",
+      "investment strategies",
+      "regulatory compliance",
+      "team management"
+    ],
+    "skill_importance": {
+      "financial analysis": "Important",
+      "investment strategies": "Important",
+      "regulatory compliance": "Important",
+      "team management": "Important"
+    },
+    "gap_reasoning": {
+      "financial analysis": "Common among matched competitors; absent for this profile.",
+      "investment strategies": "Common among matched competitors; absent for this profile.",
+      "regulatory compliance": "Common among matched competitors; absent for this profile.",
+      "team management": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "4 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 1,
+    "competitor_companies": [
+      "iifl finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 1,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Priyal Jadon",
+    "role": "Manipal Fintech || SDE || Flutter Developer || Android Developer",
+    "missing_skills": [
+      "algorithm design",
+      "c++",
+      "data structures",
+      "financial technology",
+      "python",
+      "software development"
+    ],
+    "skill_importance": {
+      "algorithm design": "Critical",
+      "c++": "Important",
+      "data structures": "Critical",
+      "financial technology": "Important",
+      "python": "Important",
+      "software development": "Critical"
+    },
+    "gap_reasoning": {
+      "algorithm design": "Algorithm design is essential for problem-solving and optimizing code, which is crucial for an SDE role. Ameya Mahale (IIFL Finance) has this skill.",
+      "c++": "C++ is a fundamental programming language that supports complex software development tasks. Ameya Mahale (IIFL Finance) has proficiency in C++.",
+      "data structures": "Understanding data structures is vital for efficient data management and manipulation, a core requirement for software development. Ameya Mahale (IIFL Finance) lists this skill.",
+      "financial technology": "Knowledge of financial technology is important for working in a fintech company like Manipal Fintech. Ameya Mahale (IIFL Finance) has experience in this area.",
+      "python": "Python is a versatile language used in various applications, including software development and data analysis. Ameya Mahale (IIFL Finance) is skilled in Python.",
+      "software development": "Software development is a fundamental skill for an SDE role, encompassing the entire lifecycle of software creation. Ameya Mahale (IIFL Finance) has this skill."
+    },
+    "overall_assessment": "Priyal Jadon has a strong foundation in mobile app development but lacks several critical skills that are essential for a well-rounded SDE role in fintech.",
+    "recommendations": [
+      "Priyal should focus on acquiring skills in algorithm design, data structures, and software development to enhance problem-solving capabilities.",
+      "Learning Python and C++ will broaden Priyal's programming language proficiency.",
+      "Gaining knowledge in financial technology will align Priyal's expertise with the fintech industry requirements."
+    ],
+    "competitor_count": 1,
+    "competitor_companies": [
+      "iifl finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 1,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Kshitiz Agrawal",
+    "role": "Lead Full Stack Developer | Junior Solution Architect | Java • Spring Boot • React • System Design • Microservices",
+    "missing_skills": [
+      "strategic business architecture",
+      "product management",
+      "martech",
+      "generative ai",
+      "aem adobe experience manager",
+      "marketing strategy",
+      "financial analysis",
+      "business strategy",
+      "customer experience management"
+    ],
+    "skill_importance": {
+      "strategic business architecture": "Critical",
+      "product management": "Critical",
+      "martech": "Important",
+      "generative ai": "Important",
+      "aem adobe experience manager": "Nice-to-have",
+      "marketing strategy": "Important",
+      "financial analysis": "Important",
+      "business strategy": "Critical",
+      "customer experience management": "Important"
+    },
+    "gap_reasoning": {
+      "strategic business architecture": "Anushree Patankar at Bajaj Finserv highlights the importance of strategic business architecture for high-level planning and execution.",
+      "product management": "Product management is crucial for overseeing product lifecycle, as evidenced by Anushree Patankar's role at Bajaj Finserv.",
+      "martech": "MarTech is increasingly relevant for integrating marketing and technology, as seen in Anushree Patankar's skill set.",
+      "generative ai": "Generative AI is a growing field with significant impact on innovation, highlighted by Anushree Patankar's expertise.",
+      "aem adobe experience manager": "AEM is a specialized tool for content management, noted in Anushree Patankar's profile.",
+      "marketing strategy": "Marketing strategy is essential for market positioning and growth, emphasized by Anushree Patankar's background.",
+      "financial analysis": "Financial analysis is key for making informed business decisions, as shown in Anushree Patankar's skills.",
+      "business strategy": "Business strategy is critical for overall company direction and competitive advantage, as demonstrated by Anushree Patankar.",
+      "customer experience management": "Customer experience management is vital for maintaining customer satisfaction and loyalty, highlighted by Anushree Patankar."
+    },
+    "overall_assessment": "Kshitiz Agrawal's profile lacks several critical and important skills that are present in competitor profiles, particularly those related to strategic business architecture, product management, and business strategy. These gaps could hinder his ability to perform at a strategic level within the company.",
+    "recommendations": [
+      "Focus on developing skills in strategic business architecture and product management to align with competitor profiles.",
+      "Enhance knowledge in MarTech and generative AI to stay competitive in the evolving tech landscape.",
+      "Consider gaining expertise in AEM Adobe Experience Manager for specialized content management capabilities.",
+      "Strengthen understanding of marketing strategy and financial analysis to improve overall business acumen.",
+      "Develop skills in customer experience management to ensure high levels of customer satisfaction and loyalty."
+    ],
+    "competitor_count": 1,
+    "competitor_companies": [
+      "bajaj finserv"
+    ],
+    "evidence_flags": {
+      "competitors_included": 1,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Rahul Kumar",
+    "role": "Manager-Manipal Fintech",
+    "missing_skills": [
+      "accounting",
+      "business development",
+      "communication",
+      "compliance",
+      "credit analysis",
+      "customer relationship management",
+      "data interpretation",
+      "financial management",
+      "loan processing",
+      "market analysis",
+      "performance management",
+      "portfolio management",
+      "sales strategy",
+      "sales techniques"
+    ],
+    "skill_importance": {
+      "accounting": "Important",
+      "business development": "Important",
+      "communication": "Important",
+      "compliance": "Important",
+      "credit analysis": "Important",
+      "customer relationship management": "Important",
+      "data interpretation": "Important",
+      "financial management": "Important",
+      "loan processing": "Important",
+      "market analysis": "Important",
+      "performance management": "Important",
+      "portfolio management": "Important",
+      "sales strategy": "Important",
+      "sales techniques": "Important"
+    },
+    "gap_reasoning": {
+      "accounting": "Common among matched competitors; absent for this profile.",
+      "business development": "Common among matched competitors; absent for this profile.",
+      "communication": "Common among matched competitors; absent for this profile.",
+      "compliance": "Common among matched competitors; absent for this profile.",
+      "credit analysis": "Common among matched competitors; absent for this profile.",
+      "customer relationship management": "Common among matched competitors; absent for this profile.",
+      "data interpretation": "Common among matched competitors; absent for this profile.",
+      "financial management": "Common among matched competitors; absent for this profile.",
+      "loan processing": "Common among matched competitors; absent for this profile.",
+      "market analysis": "Common among matched competitors; absent for this profile.",
+      "performance management": "Common among matched competitors; absent for this profile.",
+      "portfolio management": "Common among matched competitors; absent for this profile.",
+      "sales strategy": "Common among matched competitors; absent for this profile.",
+      "sales techniques": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "14 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 25,
+    "competitor_companies": [
+      "bajaj finserv",
+      "capital first",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 25,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Karan Chadha",
+    "role": "Assistant Manager at The Manipal Group AML Banking Operations/Financial Crime/Risk Management Specialist",
+    "missing_skills": [
+      "administration",
+      "budgeting",
+      "business development",
+      "compensation and benefits",
+      "conflict resolution",
+      "credit analysis",
+      "data entry",
+      "data interpretation",
+      "employee relations",
+      "financial analysis",
+      "hris",
+      "human resource management",
+      "insurance management",
+      "loan processing",
+      "market analysis",
+      "marketing strategy",
+      "mortgage lending",
+      "negotiation",
+      "operational efficiency",
+      "operational management",
+      "performance management",
+      "performance monitoring",
+      "recruitment",
+      "revenue forecasting",
+      "sales techniques",
+      "salesforce",
+      "strategic planning",
+      "talent acquisition",
+      "team leadership",
+      "training and development"
+    ],
+    "skill_importance": {
+      "administration": "Important",
+      "budgeting": "Important",
+      "business development": "Important",
+      "compensation and benefits": "Important",
+      "conflict resolution": "Important",
+      "credit analysis": "Important",
+      "data entry": "Important",
+      "data interpretation": "Important",
+      "employee relations": "Important",
+      "financial analysis": "Important",
+      "hris": "Important",
+      "human resource management": "Important",
+      "insurance management": "Important",
+      "loan processing": "Important",
+      "market analysis": "Important",
+      "marketing strategy": "Important",
+      "mortgage lending": "Important",
+      "negotiation": "Important",
+      "operational efficiency": "Important",
+      "operational management": "Important",
+      "performance management": "Important",
+      "performance monitoring": "Important",
+      "recruitment": "Important",
+      "revenue forecasting": "Important",
+      "sales techniques": "Important",
+      "salesforce": "Important",
+      "strategic planning": "Important",
+      "talent acquisition": "Important",
+      "team leadership": "Important",
+      "training and development": "Important"
+    },
+    "gap_reasoning": {
+      "administration": "Common among matched competitors; absent for this profile.",
+      "budgeting": "Common among matched competitors; absent for this profile.",
+      "business development": "Common among matched competitors; absent for this profile.",
+      "compensation and benefits": "Common among matched competitors; absent for this profile.",
+      "conflict resolution": "Common among matched competitors; absent for this profile.",
+      "credit analysis": "Common among matched competitors; absent for this profile.",
+      "data entry": "Common among matched competitors; absent for this profile.",
+      "data interpretation": "Common among matched competitors; absent for this profile.",
+      "employee relations": "Common among matched competitors; absent for this profile.",
+      "financial analysis": "Common among matched competitors; absent for this profile.",
+      "hris": "Common among matched competitors; absent for this profile.",
+      "human resource management": "Common among matched competitors; absent for this profile.",
+      "insurance management": "Common among matched competitors; absent for this profile.",
+      "loan processing": "Common among matched competitors; absent for this profile.",
+      "market analysis": "Common among matched competitors; absent for this profile.",
+      "marketing strategy": "Common among matched competitors; absent for this profile.",
+      "mortgage lending": "Common among matched competitors; absent for this profile.",
+      "negotiation": "Common among matched competitors; absent for this profile.",
+      "operational efficiency": "Common among matched competitors; absent for this profile.",
+      "operational management": "Common among matched competitors; absent for this profile.",
+      "performance management": "Common among matched competitors; absent for this profile.",
+      "performance monitoring": "Common among matched competitors; absent for this profile.",
+      "recruitment": "Common among matched competitors; absent for this profile.",
+      "revenue forecasting": "Common among matched competitors; absent for this profile.",
+      "sales techniques": "Common among matched competitors; absent for this profile.",
+      "salesforce": "Common among matched competitors; absent for this profile.",
+      "strategic planning": "Common among matched competitors; absent for this profile.",
+      "talent acquisition": "Common among matched competitors; absent for this profile.",
+      "team leadership": "Common among matched competitors; absent for this profile.",
+      "training and development": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "30 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 12,
+    "competitor_companies": [
+      "bajaj finserv",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 12,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Hari Prasad",
+    "role": "Area Head - Manipal Fintech -Gold Loan Mysore",
+    "missing_skills": [
+      "accounting",
+      "administration",
+      "budgeting",
+      "business development",
+      "data analysis",
+      "excel",
+      "financial management",
+      "forecasting",
+      "market analysis",
+      "market strategy",
+      "marketing strategy",
+      "mortgage lending",
+      "negotiation",
+      "operational efficiency",
+      "operational management",
+      "performance management",
+      "revenue forecasting",
+      "sales strategy",
+      "strategic planning",
+      "variance analysis"
+    ],
+    "skill_importance": {
+      "accounting": "Important",
+      "administration": "Important",
+      "budgeting": "Important",
+      "business development": "Important",
+      "data analysis": "Important",
+      "excel": "Important",
+      "financial management": "Important",
+      "forecasting": "Important",
+      "market analysis": "Important",
+      "market strategy": "Important",
+      "marketing strategy": "Important",
+      "mortgage lending": "Important",
+      "negotiation": "Important",
+      "operational efficiency": "Important",
+      "operational management": "Important",
+      "performance management": "Important",
+      "revenue forecasting": "Important",
+      "sales strategy": "Important",
+      "strategic planning": "Important",
+      "variance analysis": "Important"
+    },
+    "gap_reasoning": {
+      "accounting": "Common among matched competitors; absent for this profile.",
+      "administration": "Common among matched competitors; absent for this profile.",
+      "budgeting": "Common among matched competitors; absent for this profile.",
+      "business development": "Common among matched competitors; absent for this profile.",
+      "data analysis": "Common among matched competitors; absent for this profile.",
+      "excel": "Common among matched competitors; absent for this profile.",
+      "financial management": "Common among matched competitors; absent for this profile.",
+      "forecasting": "Common among matched competitors; absent for this profile.",
+      "market analysis": "Common among matched competitors; absent for this profile.",
+      "market strategy": "Common among matched competitors; absent for this profile.",
+      "marketing strategy": "Common among matched competitors; absent for this profile.",
+      "mortgage lending": "Common among matched competitors; absent for this profile.",
+      "negotiation": "Common among matched competitors; absent for this profile.",
+      "operational efficiency": "Common among matched competitors; absent for this profile.",
+      "operational management": "Common among matched competitors; absent for this profile.",
+      "performance management": "Common among matched competitors; absent for this profile.",
+      "revenue forecasting": "Common among matched competitors; absent for this profile.",
+      "sales strategy": "Common among matched competitors; absent for this profile.",
+      "strategic planning": "Common among matched competitors; absent for this profile.",
+      "variance analysis": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "20 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 18,
+    "competitor_companies": [
+      "bajaj finserv",
+      "capital first",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 18,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Jyotika Satija",
+    "role": "",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Ajit Kumar",
+    "role": "\"A Decade of Transformative Training Experiences\"| Elevating Teams and Driving Excellence in Sales, Soft Skills, and Customer Care | Expertise Across Diverse Industries -Banking, Finance, Telecom,Travel, and Insurance |",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Prasanna Kumari",
+    "role": "Manipal Technologies Limited",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "George Manachery",
+    "role": "Key Account Manager-BFSI+ FINTECH",
+    "missing_skills": [
+      "team leadership",
+      "data analysis",
+      "lead generation",
+      "business strategy"
+    ],
+    "skill_importance": {
+      "team leadership": "Critical",
+      "data analysis": "Important",
+      "lead generation": "Important",
+      "business strategy": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "team leadership": "Competitors such as Tejasri Bhaskar (Bajaj Finserv), Tejas Sharma (Bajaj Finserv), Rajeev Malhotra (Bajaj Finserv), Vikas Malhotra (Indiabulls Housing Finance), Adron Johns (Indiabulls Housing Finance), Sumit Singh (Magma Fincorp), Giriraj Sharma (Magma Fincorp), Anagh Sengupta (Magma Fincorp), Vinit Ranjan (Manappuram Finance) all possess team leadership skills, indicating its critical importance in similar roles.",
+      "data analysis": "Competitors like Tejas Sharma (Bajaj Finserv), MONIKA JOSHI (Capital First), Nayana Kapadia (Indiabulls Housing Finance), Kumaran C (Shriram City Union Finance) have data analysis skills, highlighting its importance for informed decision-making and performance monitoring.",
+      "lead generation": "MONIKA JOSHI (Capital First) and Anagh Sengupta (Magma Fincorp) have lead generation skills, which are important for driving sales and expanding market reach.",
+      "business strategy": "Vikas Malhotra (Indiabulls Housing Finance) has business strategy skills, which are nice-to-have for strategic planning and long-term growth."
+    },
+    "overall_assessment": "George Manachery's profile is strong in account management, BFSI expertise, and client relationship management but lacks critical team leadership skills and important data analysis and lead generation skills compared to competitors.",
+    "recommendations": [
+      "Enhance team leadership skills through leadership training programs.",
+      "Develop data analysis capabilities with relevant courses and tools.",
+      "Focus on lead generation techniques to drive sales growth.",
+      "Consider gaining business strategy insights for strategic planning."
+    ],
+    "competitor_count": 13,
+    "competitor_companies": [
+      "bajaj finserv",
+      "capital first",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 13,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Gokul Dev Gupta",
+    "role": "Digital Marketing I Marketing Strategy I Brand Development",
+    "missing_skills": [
+      "brand strategy",
+      "business growth strategies",
+      "campaign management",
+      "content marketing",
+      "copywriting",
+      "crm",
+      "data analysis",
+      "digital advertising",
+      "event management",
+      "marketing analytics",
+      "performance marketing",
+      "sem"
+    ],
+    "skill_importance": {
+      "brand strategy": "Important",
+      "business growth strategies": "Important",
+      "campaign management": "Important",
+      "content marketing": "Important",
+      "copywriting": "Important",
+      "crm": "Important",
+      "data analysis": "Important",
+      "digital advertising": "Important",
+      "event management": "Important",
+      "marketing analytics": "Important",
+      "performance marketing": "Important",
+      "sem": "Important"
+    },
+    "gap_reasoning": {
+      "brand strategy": "Common among matched competitors; absent for this profile.",
+      "business growth strategies": "Common among matched competitors; absent for this profile.",
+      "campaign management": "Common among matched competitors; absent for this profile.",
+      "content marketing": "Common among matched competitors; absent for this profile.",
+      "copywriting": "Common among matched competitors; absent for this profile.",
+      "crm": "Common among matched competitors; absent for this profile.",
+      "data analysis": "Common among matched competitors; absent for this profile.",
+      "digital advertising": "Common among matched competitors; absent for this profile.",
+      "event management": "Common among matched competitors; absent for this profile.",
+      "marketing analytics": "Common among matched competitors; absent for this profile.",
+      "performance marketing": "Common among matched competitors; absent for this profile.",
+      "sem": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "12 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 7,
+    "competitor_companies": [
+      "bajaj finserv",
+      "iifl finance",
+      "magma fincorp",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 7,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Prachi Modi",
+    "role": "Key Accounts Manager| Corporate Relations |Business Development | Banking | Financial Services | BFSI | Fintech",
+    "missing_skills": [
+      "corporate finance"
+    ],
+    "skill_importance": {
+      "corporate finance": "Important"
+    },
+    "gap_reasoning": {
+      "corporate finance": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "1 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 1,
+    "competitor_companies": [
+      "icici bank"
+    ],
+    "evidence_flags": {
+      "competitors_included": 1,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Mahima Singh Chauhan",
+    "role": "Product Manager || Rupyy || Cardekho || Ex Manipal Group || Ex Utkarsh Sf Bank",
+    "missing_skills": [
+      "budgeting",
+      "business strategy",
+      "customer relationship management",
+      "digital product development",
+      "e commerce",
+      "etfs",
+      "healthtech",
+      "index funds",
+      "innovation management",
+      "insurtech",
+      "investment strategies",
+      "passive mutual funds",
+      "pmo",
+      "technology integration"
+    ],
+    "skill_importance": {
+      "budgeting": "Important",
+      "business strategy": "Important",
+      "customer relationship management": "Important",
+      "digital product development": "Important",
+      "e commerce": "Important",
+      "etfs": "Important",
+      "healthtech": "Important",
+      "index funds": "Important",
+      "innovation management": "Important",
+      "insurtech": "Important",
+      "investment strategies": "Important",
+      "passive mutual funds": "Important",
+      "pmo": "Important",
+      "technology integration": "Important"
+    },
+    "gap_reasoning": {
+      "budgeting": "Common among matched competitors; absent for this profile.",
+      "business strategy": "Common among matched competitors; absent for this profile.",
+      "customer relationship management": "Common among matched competitors; absent for this profile.",
+      "digital product development": "Common among matched competitors; absent for this profile.",
+      "e commerce": "Common among matched competitors; absent for this profile.",
+      "etfs": "Common among matched competitors; absent for this profile.",
+      "healthtech": "Common among matched competitors; absent for this profile.",
+      "index funds": "Common among matched competitors; absent for this profile.",
+      "innovation management": "Common among matched competitors; absent for this profile.",
+      "insurtech": "Common among matched competitors; absent for this profile.",
+      "investment strategies": "Common among matched competitors; absent for this profile.",
+      "passive mutual funds": "Common among matched competitors; absent for this profile.",
+      "pmo": "Common among matched competitors; absent for this profile.",
+      "technology integration": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "14 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 4,
+    "competitor_companies": [
+      "bajaj finserv",
+      "iifl finance",
+      "magma fincorp"
+    ],
+    "evidence_flags": {
+      "competitors_included": 4,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Balram Sharma",
+    "role": "QA Manager at Sahibandhu Fintech Services Pvt Ltd.",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "Balram Sharma's profile lacks several critical and important skills that are essential for a QA Manager role in the financial sector, as evidenced by the competitor profile from ICICI Bank.",
+    "recommendations": [
+      "Focus on developing compliance knowledge through relevant certifications or training.",
+      "Enhance customer relationship management skills by attending workshops or courses.",
+      "Improve financial analysis capabilities by gaining experience or taking specialized courses.",
+      "Develop operational management skills through practical experience or training.",
+      "Strengthen strategic planning abilities by participating in strategic projects or training.",
+      "Enhance team leadership skills through leadership development programs or mentoring."
+    ],
+    "competitor_count": 2,
+    "competitor_companies": [
+      "icici bank"
+    ],
+    "evidence_flags": {
+      "competitors_included": 2,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Sanjil Sharma",
+    "role": "Data Scientist",
+    "missing_skills": [
+      "healthcare analytics",
+      "predictive analytics",
+      "statistical modeling"
+    ],
+    "skill_importance": {
+      "healthcare analytics": "Important",
+      "predictive analytics": "Critical",
+      "statistical modeling": "Important"
+    },
+    "gap_reasoning": {
+      "healthcare analytics": "Archit Raj from Bajaj Finserv Health has healthcare analytics, which is crucial for roles in health-related fintech.",
+      "predictive analytics": "Predictive analytics is critical as it is a common skill among competitors like Archit Raj, enhancing data-driven decision-making.",
+      "statistical modeling": "Statistical modeling is important for advanced data analysis and is possessed by competitors such as Archit Raj."
+    },
+    "overall_assessment": "Sanjil Sharma lacks critical and important skills that are prevalent among competitors, potentially limiting his effectiveness in data-driven roles within the fintech industry.",
+    "recommendations": [
+      "Acquire predictive analytics skills to enhance data-driven decision-making.",
+      "Develop healthcare analytics expertise to align with industry trends in health-related fintech.",
+      "Improve statistical modeling capabilities for advanced data analysis."
+    ],
+    "competitor_count": 1,
+    "competitor_companies": [
+      "bajaj finserv"
+    ],
+    "evidence_flags": {
+      "competitors_included": 1,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Shivi Gautam",
+    "role": "Generating revenue with Alliances |Cobranded Credit Card portfolio management| Strategic Partnership Specialist with 14+ work ex",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Niranjan Bhat",
+    "role": "Chartered Accountant | Finance Leader | 14+ Yrs in Finance, Accounting, Treasury & Taxation | Expert in FP&A, Fin. Reporting, MIS, Treasury & Compliance | Mining, IT, FinTech Industry | Strategic Growth.",
+    "missing_skills": [
+      "budgeting",
+      "audit management",
+      "credit analysis",
+      "risk assessment",
+      "portfolio management",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "budgeting": "Critical",
+      "audit management": "Important",
+      "credit analysis": "Important",
+      "risk assessment": "Important",
+      "portfolio management": "Important",
+      "team leadership": "Nice-to-have"
+    },
+    "gap_reasoning": {
+      "budgeting": "Budgeting is a critical skill for financial planning and analysis, as evidenced by Nikhil Prahladka (iifl finance) and Kuldeep Mittal (indiabulls housing finance).",
+      "audit management": "Audit management is important for compliance and internal controls, highlighted by Biswanath Manik (iifl finance).",
+      "credit analysis": "Credit analysis is essential for roles in finance companies, demonstrated by Nayana Kapadia and Shivani Raghuvanshi (indiabulls housing finance).",
+      "risk assessment": "Risk assessment is crucial for managing financial risks, as shown by Biswanath Manik (iifl finance) and Eapen Alexander Muthoot (muthoot finance).",
+      "portfolio management": "Portfolio management is important for overseeing financial assets, noted by Nayana Kapadia (indiabulls housing finance) and Sundararajan Srinivasan (shriram city union finance).",
+      "team leadership": "Team leadership is a nice-to-have skill for managing teams effectively, as seen in Eapen Alexander Muthoot (muthoot finance) and Phani Babu Vemuri (shriram city union finance)."
+    },
+    "overall_assessment": "Niranjan Bhat has a strong profile with expertise in FP&A, financial reporting, MIS, treasury management, compliance, taxation, accounting, and strategic growth. However, he lacks several important skills that are commonly found in competitors' profiles, particularly in budgeting, audit management, credit analysis, risk assessment, and portfolio management.",
+    "recommendations": [
+      "Develop budgeting skills to enhance financial planning capabilities.",
+      "Gain experience in audit management to strengthen compliance and internal controls.",
+      "Acquire credit analysis skills to better assess financial risks and opportunities.",
+      "Improve risk assessment abilities to effectively manage financial risks.",
+      "Learn portfolio management to oversee and optimize financial assets.",
+      "Consider team leadership training to enhance management and leadership capabilities."
+    ],
+    "competitor_count": 17,
+    "competitor_companies": [
+      "iifl finance",
+      "indiabulls housing finance",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 17,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Niranjan Bhat",
+    "role": "Chartered Accountant | Finance Leader | 14+ Yrs in Finance, Accounting, Treasury & Taxation | Expert in FP&A, Fin. Reporting, MIS, Treasury & Compliance | Mining, IT, FinTech Industry | Strategic Growth.",
+    "missing_skills": [
+      "accounting software",
+      "audit management",
+      "auditing",
+      "budgeting",
+      "corporate governance",
+      "credit analysis",
+      "credit management",
+      "customer relationship management",
+      "excel",
+      "financial management",
+      "forecasting",
+      "internal controls",
+      "investment strategies",
+      "loan processing",
+      "loan underwriting",
+      "mortgage lending",
+      "negotiation",
+      "operational management",
+      "portfolio management",
+      "quickbooks",
+      "regulatory knowledge",
+      "risk assessment",
+      "sap",
+      "stakeholder management",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "accounting software": "Important",
+      "audit management": "Important",
+      "auditing": "Important",
+      "budgeting": "Important",
+      "corporate governance": "Important",
+      "credit analysis": "Important",
+      "credit management": "Important",
+      "customer relationship management": "Important",
+      "excel": "Important",
+      "financial management": "Important",
+      "forecasting": "Important",
+      "internal controls": "Important",
+      "investment strategies": "Important",
+      "loan processing": "Important",
+      "loan underwriting": "Important",
+      "mortgage lending": "Important",
+      "negotiation": "Important",
+      "operational management": "Important",
+      "portfolio management": "Important",
+      "quickbooks": "Important",
+      "regulatory knowledge": "Important",
+      "risk assessment": "Important",
+      "sap": "Important",
+      "stakeholder management": "Important",
+      "team leadership": "Important"
+    },
+    "gap_reasoning": {
+      "accounting software": "Common among matched competitors; absent for this profile.",
+      "audit management": "Common among matched competitors; absent for this profile.",
+      "auditing": "Common among matched competitors; absent for this profile.",
+      "budgeting": "Common among matched competitors; absent for this profile.",
+      "corporate governance": "Common among matched competitors; absent for this profile.",
+      "credit analysis": "Common among matched competitors; absent for this profile.",
+      "credit management": "Common among matched competitors; absent for this profile.",
+      "customer relationship management": "Common among matched competitors; absent for this profile.",
+      "excel": "Common among matched competitors; absent for this profile.",
+      "financial management": "Common among matched competitors; absent for this profile.",
+      "forecasting": "Common among matched competitors; absent for this profile.",
+      "internal controls": "Common among matched competitors; absent for this profile.",
+      "investment strategies": "Common among matched competitors; absent for this profile.",
+      "loan processing": "Common among matched competitors; absent for this profile.",
+      "loan underwriting": "Common among matched competitors; absent for this profile.",
+      "mortgage lending": "Common among matched competitors; absent for this profile.",
+      "negotiation": "Common among matched competitors; absent for this profile.",
+      "operational management": "Common among matched competitors; absent for this profile.",
+      "portfolio management": "Common among matched competitors; absent for this profile.",
+      "quickbooks": "Common among matched competitors; absent for this profile.",
+      "regulatory knowledge": "Common among matched competitors; absent for this profile.",
+      "risk assessment": "Common among matched competitors; absent for this profile.",
+      "sap": "Common among matched competitors; absent for this profile.",
+      "stakeholder management": "Common among matched competitors; absent for this profile.",
+      "team leadership": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "25 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 17,
+    "competitor_companies": [
+      "iifl finance",
+      "indiabulls housing finance",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 17,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Tapendra Sharma",
+    "role": "business",
+    "missing_skills": [
+      "budgeting",
+      "business analysis",
+      "business management",
+      "content creation",
+      "credit analysis",
+      "crm",
+      "data driven solutions",
+      "data interpretation",
+      "email marketing",
+      "excel",
+      "financial analysis",
+      "financial modeling",
+      "financial reporting",
+      "google analytics",
+      "insights generation",
+      "lead generation",
+      "loan processing",
+      "mortgage lending",
+      "operational efficiency",
+      "operations management",
+      "portfolio management",
+      "python",
+      "report generation",
+      "requirement gathering",
+      "risk assessment",
+      "sales strategy",
+      "seo",
+      "social media management",
+      "stakeholder management",
+      "strategic planning",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "budgeting": "Important",
+      "business analysis": "Important",
+      "business management": "Important",
+      "content creation": "Important",
+      "credit analysis": "Important",
+      "crm": "Important",
+      "data driven solutions": "Important",
+      "data interpretation": "Important",
+      "email marketing": "Important",
+      "excel": "Important",
+      "financial analysis": "Important",
+      "financial modeling": "Important",
+      "financial reporting": "Important",
+      "google analytics": "Important",
+      "insights generation": "Important",
+      "lead generation": "Important",
+      "loan processing": "Important",
+      "mortgage lending": "Important",
+      "operational efficiency": "Important",
+      "operations management": "Important",
+      "portfolio management": "Important",
+      "python": "Important",
+      "report generation": "Important",
+      "requirement gathering": "Important",
+      "risk assessment": "Important",
+      "sales strategy": "Important",
+      "seo": "Important",
+      "social media management": "Important",
+      "stakeholder management": "Important",
+      "strategic planning": "Important",
+      "team leadership": "Important"
+    },
+    "gap_reasoning": {
+      "budgeting": "Common among matched competitors; absent for this profile.",
+      "business analysis": "Common among matched competitors; absent for this profile.",
+      "business management": "Common among matched competitors; absent for this profile.",
+      "content creation": "Common among matched competitors; absent for this profile.",
+      "credit analysis": "Common among matched competitors; absent for this profile.",
+      "crm": "Common among matched competitors; absent for this profile.",
+      "data driven solutions": "Common among matched competitors; absent for this profile.",
+      "data interpretation": "Common among matched competitors; absent for this profile.",
+      "email marketing": "Common among matched competitors; absent for this profile.",
+      "excel": "Common among matched competitors; absent for this profile.",
+      "financial analysis": "Common among matched competitors; absent for this profile.",
+      "financial modeling": "Common among matched competitors; absent for this profile.",
+      "financial reporting": "Common among matched competitors; absent for this profile.",
+      "google analytics": "Common among matched competitors; absent for this profile.",
+      "insights generation": "Common among matched competitors; absent for this profile.",
+      "lead generation": "Common among matched competitors; absent for this profile.",
+      "loan processing": "Common among matched competitors; absent for this profile.",
+      "mortgage lending": "Common among matched competitors; absent for this profile.",
+      "operational efficiency": "Common among matched competitors; absent for this profile.",
+      "operations management": "Common among matched competitors; absent for this profile.",
+      "portfolio management": "Common among matched competitors; absent for this profile.",
+      "python": "Common among matched competitors; absent for this profile.",
+      "report generation": "Common among matched competitors; absent for this profile.",
+      "requirement gathering": "Common among matched competitors; absent for this profile.",
+      "risk assessment": "Common among matched competitors; absent for this profile.",
+      "sales strategy": "Common among matched competitors; absent for this profile.",
+      "seo": "Common among matched competitors; absent for this profile.",
+      "social media management": "Common among matched competitors; absent for this profile.",
+      "stakeholder management": "Common among matched competitors; absent for this profile.",
+      "strategic planning": "Common among matched competitors; absent for this profile.",
+      "team leadership": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "31 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 14,
+    "competitor_companies": [
+      "capital first",
+      "iifl finance",
+      "indiabulls housing finance",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 14,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Rohit Naidu",
+    "role": "Area Head",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "Rohit Naidu's profile is strong in leadership, strategic planning, and customer relationship management. However, the absence of Financial Management is a significant gap compared to competitors in similar positions within the industry.",
+    "recommendations": [
+      "Rohit Naidu should prioritize developing Financial Management skills through targeted training or professional development programs to enhance his effectiveness and competitiveness in his role."
+    ],
+    "competitor_count": 19,
+    "competitor_companies": [
+      "bajaj finserv",
+      "capital first",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 19,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Manoj Kumar",
+    "role": "Assistant General Manager at Manipal Technologies Limited",
+    "missing_skills": [
+      "performance management",
+      "sales strategy"
+    ],
+    "skill_importance": {
+      "performance management": "Important",
+      "sales strategy": "Important"
+    },
+    "gap_reasoning": {
+      "performance management": "Common among matched competitors; absent for this profile.",
+      "sales strategy": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "2 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 16,
+    "competitor_companies": [
+      "bajaj finserv",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 16,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Arpit Kansal",
+    "role": "Data Analytics",
+    "missing_skills": [
+      "financial modeling",
+      "financial reporting",
+      "market analysis",
+      "operational management",
+      "operations management",
+      "report generation",
+      "risk assessment",
+      "stakeholder management"
+    ],
+    "skill_importance": {
+      "financial modeling": "Important",
+      "financial reporting": "Important",
+      "market analysis": "Important",
+      "operational management": "Important",
+      "operations management": "Important",
+      "report generation": "Important",
+      "risk assessment": "Important",
+      "stakeholder management": "Important"
+    },
+    "gap_reasoning": {
+      "financial modeling": "Common among matched competitors; absent for this profile.",
+      "financial reporting": "Common among matched competitors; absent for this profile.",
+      "market analysis": "Common among matched competitors; absent for this profile.",
+      "operational management": "Common among matched competitors; absent for this profile.",
+      "operations management": "Common among matched competitors; absent for this profile.",
+      "report generation": "Common among matched competitors; absent for this profile.",
+      "risk assessment": "Common among matched competitors; absent for this profile.",
+      "stakeholder management": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "8 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 3,
+    "competitor_companies": [
+      "magma fincorp",
+      "manappuram finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 3,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Jaya Shrivastava",
+    "role": "Data Analyst | Power BI| 6+ Years of QA & Banking Experience |",
+    "missing_skills": [
+      "financial modeling",
+      "machine learning",
+      "market analysis",
+      "operational management",
+      "operations management",
+      "python",
+      "r",
+      "report generation",
+      "risk assessment",
+      "stakeholder management",
+      "statistics"
+    ],
+    "skill_importance": {
+      "financial modeling": "Important",
+      "machine learning": "Important",
+      "market analysis": "Important",
+      "operational management": "Important",
+      "operations management": "Important",
+      "python": "Important",
+      "r": "Important",
+      "report generation": "Important",
+      "risk assessment": "Important",
+      "stakeholder management": "Important",
+      "statistics": "Important"
+    },
+    "gap_reasoning": {
+      "financial modeling": "Common among matched competitors; absent for this profile.",
+      "machine learning": "Common among matched competitors; absent for this profile.",
+      "market analysis": "Common among matched competitors; absent for this profile.",
+      "operational management": "Common among matched competitors; absent for this profile.",
+      "operations management": "Common among matched competitors; absent for this profile.",
+      "python": "Common among matched competitors; absent for this profile.",
+      "r": "Common among matched competitors; absent for this profile.",
+      "report generation": "Common among matched competitors; absent for this profile.",
+      "risk assessment": "Common among matched competitors; absent for this profile.",
+      "stakeholder management": "Common among matched competitors; absent for this profile.",
+      "statistics": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "11 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 3,
+    "competitor_companies": [
+      "magma fincorp",
+      "manappuram finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 3,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Bhaktinath Jha",
+    "role": "MANIPAL FINTEC Sales Manager.",
+    "missing_skills": [
+      "communication",
+      "data analysis",
+      "performance management",
+      "revenue generation"
+    ],
+    "skill_importance": {
+      "communication": "Critical",
+      "data analysis": "Important",
+      "performance management": "Important",
+      "revenue generation": "Critical"
+    },
+    "gap_reasoning": {
+      "communication": "Maruthi A H (Manappuram Finance) has communication skills which are essential for effective sales management and team coordination.",
+      "data analysis": "Monika Joshi (Capital First) and other competitors possess data analysis skills, crucial for market analysis and sales forecasting.",
+      "performance management": "Sumit Singh (Magma Fincorp) and Vijay Phulsounadr (Shriram City Union Finance) have performance management skills, vital for tracking and improving team performance.",
+      "revenue generation": "Akash Chopra (ICICI Bank) and Abhijeet Singh (Indiabulls Housing Finance) have revenue generation skills, key for driving sales and business growth."
+    },
+    "overall_assessment": "Bhaktinath Jha's profile lacks critical skills in communication and revenue generation, which are essential for a Sales Manager role. Additionally, important skills such as data analysis and performance management are missing, which are necessary for effective market analysis and team performance tracking.",
+    "recommendations": [
+      "Enhance communication skills through training and practice.",
+      "Develop data analysis capabilities using relevant software and tools.",
+      "Learn performance management techniques to better track and improve team performance.",
+      "Focus on revenue generation strategies to drive business growth."
+    ],
+    "competitor_count": 11,
+    "competitor_companies": [
+      "capital first",
+      "icici bank",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 11,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Rizwan ahmad",
+    "role": "Sr.Executive Helpdesk at Manipal Technologies Ltd. (formerly Manipal Press Ltd.)",
+    "missing_skills": [
+      "budgeting",
+      "business strategy",
+      "compliance",
+      "credit analysis",
+      "customer relationship management",
+      "data analysis",
+      "data entry",
+      "data management",
+      "debt recovery",
+      "excel",
+      "financial analysis",
+      "financial reporting",
+      "loan processing"
+    ],
+    "skill_importance": {
+      "budgeting": "Important",
+      "business strategy": "Important",
+      "compliance": "Important",
+      "credit analysis": "Important",
+      "customer relationship management": "Important",
+      "data analysis": "Important",
+      "data entry": "Important",
+      "data management": "Important",
+      "debt recovery": "Important",
+      "excel": "Important",
+      "financial analysis": "Important",
+      "financial reporting": "Important",
+      "loan processing": "Important"
+    },
+    "gap_reasoning": {
+      "budgeting": "Common among matched competitors; absent for this profile.",
+      "business strategy": "Common among matched competitors; absent for this profile.",
+      "compliance": "Common among matched competitors; absent for this profile.",
+      "credit analysis": "Common among matched competitors; absent for this profile.",
+      "customer relationship management": "Common among matched competitors; absent for this profile.",
+      "data analysis": "Common among matched competitors; absent for this profile.",
+      "data entry": "Common among matched competitors; absent for this profile.",
+      "data management": "Common among matched competitors; absent for this profile.",
+      "debt recovery": "Common among matched competitors; absent for this profile.",
+      "excel": "Common among matched competitors; absent for this profile.",
+      "financial analysis": "Common among matched competitors; absent for this profile.",
+      "financial reporting": "Common among matched competitors; absent for this profile.",
+      "loan processing": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "13 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 10,
+    "competitor_companies": [
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 10,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "RAGHAVENDRA RAO SANNAYYA",
+    "role": "President at Primacy Industries Limited, The Manipal Group",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "Raghavendra Rao Sannayya's profile lacks several critical and important skills compared to competitors in similar roles, particularly in areas of compliance, regulatory affairs, risk assessment, and corporate governance.",
+    "recommendations": [
+      "Enhance skills in Corporate Governance, Compliance, Regulatory Affairs, and Risk Assessment to align with industry standards.",
+      "Develop expertise in Portfolio Management, Investment Strategies, Trust Administration, Mortgage Lending, Loan Origination Systems, Corporate Finance, Legal Advisory, and Financial Reporting to strengthen financial leadership capabilities.",
+      "Consider gaining knowledge in Board Meeting Coordination, Company Law, and Wealth Management to add value in leadership and client management."
+    ],
+    "competitor_count": 4,
+    "competitor_companies": [
+      "capital first",
+      "icici bank",
+      "manappuram finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 4,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Aniket Yadav",
+    "role": "--",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Sunil Jakhar",
+    "role": "Business Analyst | 12+ Years of experience| SAS - Python - SQL | Fintech & Credit card Professional| Marketing Analytics | Sales Analytics|Collection Analytics | Transaction Monitoring | Fraud Analytics",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "Sunil Jakhar's profile is strong in technical skills and specific analytics domains but lacks several critical and important skills necessary for a comprehensive Business Analyst role.",
+    "recommendations": [
+      "Sunil Jakhar should highlight his experience in Business Analysis and Data Analysis explicitly.",
+      "He should consider adding Excel and Financial Modeling to his skill set.",
+      "Incorporating Requirement Gathering and Risk Assessment will strengthen his profile.",
+      "Mentioning Stakeholder Management can be beneficial for broader role applicability."
+    ],
+    "competitor_count": 1,
+    "competitor_companies": [
+      "iifl finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 1,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Gauri Jaiswal",
+    "role": "HR Professional",
+    "missing_skills": [
+      "compensation and benefits",
+      "conflict resolution",
+      "organizational development",
+      "human resource management"
+    ],
+    "skill_importance": {
+      "compensation and benefits": "Critical",
+      "conflict resolution": "Important",
+      "organizational development": "Important",
+      "human resource management": "Critical"
+    },
+    "gap_reasoning": {
+      "compensation and benefits": "This skill is present in profiles from Bajaj Finserv (Mrunali Mishra), ICICI Bank (Vivian Varghese), and Muthoot Finance (Misariya V A), indicating its critical role in HR management.",
+      "conflict resolution": "Competitors like Mrunali Mishra (Bajaj Finserv) and Neha Pandey (IIFL Finance) have this skill, highlighting its importance in maintaining workplace harmony.",
+      "organizational development": "This skill is noted in profiles from Bajaj Finserv (Mrunali Mishra) and IIFL Finance (Neha Pandey), suggesting its relevance in strategic HR roles.",
+      "human resource management": "A core HR skill found in profiles from Capital First (Emily Ockenga) and ICICI Bank (Vivian Varghese), essential for comprehensive HR management."
+    },
+    "overall_assessment": "Gauri Jaiswal's profile is strong but lacks some critical and important skills compared to competitors, which may impact her effectiveness in strategic HR roles.",
+    "recommendations": [
+      "Enhance skills in Compensation and Benefits through targeted training or certification.",
+      "Develop Conflict Resolution abilities via workshops or practical experience.",
+      "Gain knowledge in Organizational Development through courses or mentorship.",
+      "Strengthen Human Resource Management expertise by pursuing advanced HR qualifications."
+    ],
+    "competitor_count": 10,
+    "competitor_companies": [
+      "bajaj finserv",
+      "capital first",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 10,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Senthilrajan Ganesan",
+    "role": "HR Head South",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "Senthilrajan Ganesan's profile lacks several critical and important skills compared to competitors, particularly in HR Analytics, Training and Development, and Leadership, which are essential for effective HR management and organizational growth.",
+    "recommendations": [
+      "Focus on acquiring HR Analytics skills through specialized training or certification.",
+      "Enhance Training and Development capabilities by attending workshops or courses.",
+      "Develop Leadership skills through mentorship programs or leadership training.",
+      "Consider gaining experience in Recruitment to improve talent acquisition strategies.",
+      "Stay updated on Compliance regulations to ensure adherence to legal standards.",
+      "Explore opportunities to understand Business Development for strategic growth."
+    ],
+    "competitor_count": 9,
+    "competitor_companies": [
+      "bajaj finserv",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 9,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Shourabha Gupta",
+    "role": "Actively looking for a change | .Net Core| MVC | SQL",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "T.R.Nagendra Rao",
+    "role": "EVP & Chief Growth Officer.",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "T.R.Nagendra Rao's profile is strong in strategic and leadership skills but lacks Operational Management, which is critical for comprehensive oversight in his role as EVP & Chief Growth Officer at Manipal Technologies Limited.",
+    "recommendations": [
+      "Develop expertise in Operational Management through targeted training or practical experience to align with industry standards and competitor profiles."
+    ],
+    "competitor_count": 2,
+    "competitor_companies": [
+      "magma fincorp",
+      "muthoot finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 2,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Vinod Kulkarni",
+    "role": "E-commerce Executive | Chief of Staff | Business Restructuring | Data Analytics | CPG | Engineering R&D",
+    "missing_skills": [
+      "campaign management",
+      "data entry",
+      "digital advertising",
+      "digital marketing",
+      "email marketing",
+      "financial analysis",
+      "financial reporting",
+      "google analytics",
+      "loan processing",
+      "marketing strategy",
+      "microsoft office",
+      "seo",
+      "social media management"
+    ],
+    "skill_importance": {
+      "campaign management": "Important",
+      "data entry": "Important",
+      "digital advertising": "Important",
+      "digital marketing": "Important",
+      "email marketing": "Important",
+      "financial analysis": "Important",
+      "financial reporting": "Important",
+      "google analytics": "Important",
+      "loan processing": "Important",
+      "marketing strategy": "Important",
+      "microsoft office": "Important",
+      "seo": "Important",
+      "social media management": "Important"
+    },
+    "gap_reasoning": {
+      "campaign management": "Common among matched competitors; absent for this profile.",
+      "data entry": "Common among matched competitors; absent for this profile.",
+      "digital advertising": "Common among matched competitors; absent for this profile.",
+      "digital marketing": "Common among matched competitors; absent for this profile.",
+      "email marketing": "Common among matched competitors; absent for this profile.",
+      "financial analysis": "Common among matched competitors; absent for this profile.",
+      "financial reporting": "Common among matched competitors; absent for this profile.",
+      "google analytics": "Common among matched competitors; absent for this profile.",
+      "loan processing": "Common among matched competitors; absent for this profile.",
+      "marketing strategy": "Common among matched competitors; absent for this profile.",
+      "microsoft office": "Common among matched competitors; absent for this profile.",
+      "seo": "Common among matched competitors; absent for this profile.",
+      "social media management": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "13 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 4,
+    "competitor_companies": [
+      "magma fincorp",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 4,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "Mahesh Rotti",
+    "role": "Sales And Marketing Specialist at Jio",
+    "missing_skills": [
+      "content creation",
+      "data analysis",
+      "email marketing",
+      "marketing campaigns",
+      "salesforce"
+    ],
+    "skill_importance": {
+      "content creation": "Important",
+      "data analysis": "Important",
+      "email marketing": "Important",
+      "marketing campaigns": "Important",
+      "salesforce": "Important"
+    },
+    "gap_reasoning": {
+      "content creation": "Common among matched competitors; absent for this profile.",
+      "data analysis": "Common among matched competitors; absent for this profile.",
+      "email marketing": "Common among matched competitors; absent for this profile.",
+      "marketing campaigns": "Common among matched competitors; absent for this profile.",
+      "salesforce": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "5 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 5,
+    "competitor_companies": [
+      "capital first",
+      "magma fincorp",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 5,
+      "used_gpt": true
+    }
+  },
+  {
+    "manipal_employee": "SUJITH KULAL",
+    "role": "PLANNING & SCHEDULING | SAP HANA | SAP PP | MIS | PRODUCTION | TAT & MONITORING | |R&D | FORECASTING| TROUBLE SHOOTING | FINTECH | DOMESTIC & EXPORT | PVC , METAL , LED , STICKER , CARD TECHNOLOGY|",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "arumugam mathavan",
+    "role": "--",
+    "missing_skills": [],
+    "skill_importance": {},
+    "gap_reasoning": {},
+    "overall_assessment": "No competitor-only skills found (given current matches).",
+    "recommendations": [],
+    "competitor_count": 0,
+    "competitor_companies": [],
+    "evidence_flags": {
+      "competitors_included": 0,
+      "used_gpt": false
+    }
+  },
+  {
+    "manipal_employee": "Pramod Naidu",
+    "role": "Regional Head Sales Manipal Fintech",
+    "missing_skills": [
+      "accounting",
+      "budgeting",
+      "excel",
+      "financial analysis",
+      "financial reporting",
+      "forecasting",
+      "marketing strategy",
+      "negotiation",
+      "team leadership"
+    ],
+    "skill_importance": {
+      "accounting": "Important",
+      "budgeting": "Important",
+      "excel": "Important",
+      "financial analysis": "Important",
+      "financial reporting": "Important",
+      "forecasting": "Important",
+      "marketing strategy": "Important",
+      "negotiation": "Important",
+      "team leadership": "Important"
+    },
+    "gap_reasoning": {
+      "accounting": "Common among matched competitors; absent for this profile.",
+      "budgeting": "Common among matched competitors; absent for this profile.",
+      "excel": "Common among matched competitors; absent for this profile.",
+      "financial analysis": "Common among matched competitors; absent for this profile.",
+      "financial reporting": "Common among matched competitors; absent for this profile.",
+      "forecasting": "Common among matched competitors; absent for this profile.",
+      "marketing strategy": "Common among matched competitors; absent for this profile.",
+      "negotiation": "Common among matched competitors; absent for this profile.",
+      "team leadership": "Common among matched competitors; absent for this profile."
+    },
+    "overall_assessment": "9 gaps based on matched competitors.",
+    "recommendations": [
+      "Address top-3 gaps with targeted learning."
+    ],
+    "competitor_count": 17,
+    "competitor_companies": [
+      "bajaj finserv",
+      "capital first",
+      "hdfc bank",
+      "icici bank",
+      "iifl finance",
+      "indiabulls housing finance",
+      "magma fincorp",
+      "manappuram finance",
+      "muthoot finance",
+      "shriram city union finance"
+    ],
+    "evidence_flags": {
+      "competitors_included": 17,
+      "used_gpt": true
+    }
+  }
+]

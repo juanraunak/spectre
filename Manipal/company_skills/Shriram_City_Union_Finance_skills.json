@@ -1,0 +1,981 @@
+{
+  "company_name": "Shriram City Union Finance",
+  "employees": [
+    {
+      "name": "Firoz Shaikh",
+      "position": "Division Manager at Shriram City Union Finance Limited",
+      "employee_id": "Shr_001",
+      "skills": [
+        "Financial Management",
+        "Risk Assessment",
+        "Credit Analysis",
+        "Loan Processing",
+        "Customer Relationship Management (CRM)",
+        "Business Strategy",
+        "Market Analysis",
+        "Team Leadership",
+        "Regulatory Compliance",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Sandhya Srikanth",
+      "position": "Head Information Systems at Shriram City Union Finance",
+      "employee_id": "Shr_002",
+      "skills": [
+        "Information Systems Management",
+        "IT Strategy",
+        "Project Management",
+        "Systems Integration",
+        "Database Management",
+        "Cybersecurity",
+        "Enterprise Architecture",
+        "Software Development",
+        "Data Analytics",
+        "Financial Technology"
+      ]
+    },
+    {
+      "name": "Jasmine Shethia",
+      "position": "Manager - Administration at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_003",
+      "skills": [
+        "Office Administration",
+        "Team Management",
+        "Financial Reporting",
+        "Budgeting",
+        "Microsoft Office",
+        "Project Management",
+        "Customer Service",
+        "Compliance",
+        "Scheduling",
+        "Data Entry"
+      ]
+    },
+    {
+      "name": "rohit Na",
+      "position": "Assistant recovery manager at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_004",
+      "skills": [
+        "Risk Management",
+        "Debt Recovery",
+        "Financial Analysis",
+        "Customer Relationship Management (CRM)",
+        "Negotiation",
+        "Credit Assessment",
+        "Microsoft Excel",
+        "Loan Processing",
+        "Compliance",
+        "Data Management"
+      ]
+    },
+    {
+      "name": "Akanksha Sharma",
+      "position": "Manager specializing in Financial Planning at Shriram City Union Finance Limited",
+      "employee_id": "Shr_005",
+      "skills": [
+        "Financial Planning",
+        "Budgeting",
+        "Risk Management",
+        "Financial Analysis",
+        "Investment Strategies",
+        "Forecasting",
+        "Excel",
+        "Financial Reporting",
+        "Portfolio Management",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Pradeep Desai",
+      "position": "HR Head at Shriram City Union Finance",
+      "employee_id": "Shr_006",
+      "skills": [
+        "HR Management",
+        "Employee Relations",
+        "Recruitment",
+        "Talent Acquisition",
+        "Performance Management",
+        "Compensation and Benefits",
+        "HRIS (Human Resource Information System)",
+        "Labor Laws",
+        "Conflict Resolution",
+        "Organizational Development"
+      ]
+    },
+    {
+      "name": "Dheeraj Kumar Srivastava",
+      "position": "Senior Vice President & Head - Collections at Vertelo India",
+      "employee_id": "Shr_007",
+      "skills": [
+        "Debt Collection",
+        "Risk Management",
+        "Financial Analysis",
+        "Team Leadership",
+        "Customer Relationship Management (CRM)",
+        "Data Analysis",
+        "Credit Management",
+        "Negotiation",
+        "Performance Metrics",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Jai Ponde",
+      "position": "Vice President - Investor Relations at Shriram City Union Finance Ltd.",
+      "employee_id": "Shr_008",
+      "skills": [
+        "Investor Relations",
+        "Financial Analysis",
+        "Corporate Finance",
+        "Stakeholder Management",
+        "Financial Reporting",
+        "Equity Research",
+        "Market Analysis",
+        "Strategic Planning",
+        "Communication Skills",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "SUSHANTH PUTHRAN",
+      "position": "Executive Assistant at Shriram City Union Finance Limited",
+      "employee_id": "Shr_009",
+      "skills": [
+        "Microsoft Office",
+        "Calendar Management",
+        "Email Management",
+        "Document Preparation",
+        "Data Entry",
+        "Financial Reporting",
+        "Customer Service",
+        "Time Management",
+        "Communication Skills",
+        "Organizational Skills"
+      ]
+    },
+    {
+      "name": "Hemanth Kumar n",
+      "position": "HR & MARKETING PROFESSIONAL",
+      "employee_id": "Shr_010",
+      "skills": [
+        "Human Resources Management",
+        "Recruitment",
+        "Employee Relations",
+        "Marketing Strategy",
+        "Social Media Marketing",
+        "Content Creation",
+        "Market Research",
+        "Performance Management",
+        "HR Software",
+        "Talent Acquisition"
+      ]
+    },
+    {
+      "name": "Srikanth Nalla",
+      "position": "Shriram city union finance ltd at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_011",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Financial Reporting",
+        "Data Entry",
+        "Microsoft Excel",
+        "Accounting",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "Rajarajan vedanayagam",
+      "position": "Asst general manager at shriram city union finance",
+      "employee_id": "Shr_012",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Analysis",
+        "Loan Processing",
+        "Portfolio Management",
+        "Customer Relationship Management (CRM)",
+        "Budgeting",
+        "Regulatory Compliance",
+        "Financial Reporting",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Phani Babu Vemuri",
+      "position": "Deputy General Manager at Shriram Finance Limited",
+      "employee_id": "Shr_013",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Management",
+        "Portfolio Management",
+        "Budgeting",
+        "Forecasting",
+        "Regulatory Compliance",
+        "Team Leadership",
+        "Strategic Planning",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Megha Mali",
+      "position": "SHRIRAM CITY UNION FINANCE LTD",
+      "employee_id": "Shr_014",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Data Analysis",
+        "Budgeting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Sripathi Rangineni",
+      "position": "Sr.Manager,Shriram CIty Union Finance Ltd,Chennai",
+      "employee_id": "Shr_015",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Budgeting",
+        "Team Leadership",
+        "Strategic Planning",
+        "Credit Management",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Regulatory Compliance",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Agnew Chacko",
+      "position": "Sr. Vice President at Shriram City Union Finance Limited",
+      "employee_id": "Shr_016",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Credit Management",
+        "Portfolio Management",
+        "Regulatory Compliance",
+        "Budgeting",
+        "Forecasting",
+        "Financial Reporting",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Arul Mozhi",
+      "position": "PRODUCT EXECUTIVE SHRIRAM CITY UNION FINANCE TIRUCHY",
+      "employee_id": "Shr_017",
+      "skills": [
+        "Product Management",
+        "Financial Analysis",
+        "Market Research",
+        "Customer Relationship Management (CRM)",
+        "Data Analysis",
+        "Business Strategy",
+        "Project Management",
+        "Sales Forecasting",
+        "Excel",
+        "Communication Skills"
+      ]
+    },
+    {
+      "name": "sujay keskar",
+      "position": "Executive at SHRIRAM CITY UNION FINANCE LTD",
+      "employee_id": "Shr_018",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Loan Processing",
+        "Customer Relationship Management (CRM)",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Regulatory Compliance",
+        "Data Management",
+        "Business Strategy"
+      ]
+    },
+    {
+      "name": "SOMASUNDARAM CHANDRASEKARAN",
+      "position": "scuf at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_019",
+      "skills": [
+        "Financial Analysis",
+        "Credit Risk Assessment",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Financial Reporting",
+        "Data Entry",
+        "Microsoft Excel",
+        "Banking Operations",
+        "Compliance Management",
+        "Debt Recovery"
+      ]
+    },
+    {
+      "name": "RAJESH TIWARI",
+      "position": "Senior. Vice President at SHRIRAM CITY UNION FINANCE LTD.",
+      "employee_id": "Shr_020",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Leadership",
+        "Budgeting",
+        "Financial Reporting",
+        "Credit Analysis",
+        "Investment Management",
+        "Business Development",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Srinivasarao Bhrugumalla",
+      "position": "Senior Vice President(Accounts) at Shriram Finance Ltd.",
+      "employee_id": "Shr_021",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Budgeting",
+        "Financial Reporting",
+        "Taxation",
+        "Auditing",
+        "Compliance",
+        "Risk Management",
+        "SAP",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Manjula L",
+      "position": "--",
+      "employee_id": "Shr_022",
+      "skills": []
+    },
+    {
+      "name": "kalyan pothineni",
+      "position": "Marketing Executive at shriram city union finance",
+      "employee_id": "Shr_023",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Social Media Management",
+        "Email Marketing",
+        "Market Research",
+        "Analytics",
+        "CRM Software",
+        "Advertising"
+      ]
+    },
+    {
+      "name": "Revathi Hariharan",
+      "position": "Senior Manager - HR at Shriram City Union Finance Limited",
+      "employee_id": "Shr_024",
+      "skills": [
+        "HR Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "Compensation and Benefits",
+        "HRIS",
+        "Labor Law Compliance",
+        "Organizational Development",
+        "Conflict Resolution",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Suresh Subramaniam",
+      "position": "ASST.GENERAL MANAGER, SHRIRAM CITY UNION FINANCE LTD",
+      "employee_id": "Shr_025",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Analysis",
+        "Loan Processing",
+        "Portfolio Management",
+        "Regulatory Compliance",
+        "Customer Relationship Management (CRM)",
+        "Financial Reporting",
+        "Budgeting",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "v. shivakrishna",
+      "position": "Marketing Executive at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_026",
+      "skills": [
+        "Digital Marketing",
+        "SEO",
+        "Content Creation",
+        "Social Media Management",
+        "Email Marketing",
+        "Marketing Analytics",
+        "Google Analytics",
+        "CRM Software",
+        "Market Research",
+        "Campaign Management"
+      ]
+    },
+    {
+      "name": "BALAJI KOTTAWAR",
+      "position": "SR EXECUTIVE at SHRIRAM CITY UNION FINANCE LTD",
+      "employee_id": "Shr_027",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Data Analysis",
+        "Regulatory Compliance",
+        "Debt Recovery"
+      ]
+    },
+    {
+      "name": "NITIN INGLE",
+      "position": "--",
+      "employee_id": "Shr_028",
+      "skills": []
+    },
+    {
+      "name": "Dolly Rana",
+      "position": "Executive at Shriram city union finance ltd",
+      "employee_id": "Shr_029",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Compliance",
+        "Data Entry",
+        "Banking Operations"
+      ]
+    },
+    {
+      "name": "Prafulla Mohanty",
+      "position": "Chief Internal Auditor at Shriram City Union Finance Limited",
+      "employee_id": "Shr_030",
+      "skills": [
+        "Internal Auditing",
+        "Risk Management",
+        "Financial Analysis",
+        "Compliance",
+        "Fraud Detection",
+        "Corporate Governance",
+        "Regulatory Reporting",
+        "Audit Planning",
+        "Data Analytics",
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Rayapati Manohar",
+      "position": "Regional Manager at Shriram City Union Finance Ltd",
+      "employee_id": "Shr_031",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Sales Strategy",
+        "Customer Relationship Management (CRM)",
+        "Budgeting",
+        "Market Research",
+        "Credit Analysis",
+        "Portfolio Management",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Deepak Prakash",
+      "position": "Asst manager at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_032",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Budgeting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Suresh Kumar",
+      "position": "Credit Officer at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_033",
+      "skills": [
+        "Credit Analysis",
+        "Risk Management",
+        "Financial Reporting",
+        "Loan Processing",
+        "Customer Relationship Management (CRM)",
+        "Financial Regulations Compliance",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Accounting Software",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "khushboo khosla taneja",
+      "position": "Software Engineer at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_034",
+      "skills": [
+        "Java",
+        "SQL",
+        "Software Development",
+        "Financial Software",
+        "Problem Solving",
+        "System Design",
+        "API Integration",
+        "Debugging",
+        "Version Control",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "kodali durgababu",
+      "position": "Recovery Officer at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_035",
+      "skills": [
+        "Risk Management",
+        "Debt Recovery",
+        "Customer Service",
+        "Financial Analysis",
+        "Negotiation",
+        "Credit Assessment",
+        "Compliance",
+        "Conflict Resolution",
+        "Report Generation",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Prashant patil Patil",
+      "position": "Business Development Manager at Shriram city union finance ltd",
+      "employee_id": "Shr_036",
+      "skills": [
+        "Business Development",
+        "Sales Strategy",
+        "Market Analysis",
+        "Client Relationship Management",
+        "Financial Services",
+        "Negotiation",
+        "CRM Software",
+        "Lead Generation",
+        "Strategic Planning",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Sadu Naveen Kumar",
+      "position": "Marketing executive",
+      "employee_id": "Shr_037",
+      "skills": [
+        "SEO",
+        "Content Marketing",
+        "Social Media Marketing",
+        "Google Analytics",
+        "Email Marketing",
+        "PPC Advertising",
+        "Market Research",
+        "CRM Software",
+        "Copywriting",
+        "Digital Advertising"
+      ]
+    },
+    {
+      "name": "Gouse Mohiddin Jilani",
+      "position": "Joint Managing Director at Shriram Finance Limited | In the Finance Industry for over 30+ Years",
+      "employee_id": "Shr_038",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Budgeting",
+        "Strategic Planning",
+        "Investment Management",
+        "Corporate Finance",
+        "Regulatory Compliance",
+        "Financial Reporting",
+        "Leadership",
+        "Team Management"
+      ]
+    },
+    {
+      "name": "Malathi Sekar",
+      "position": "Lawyer at shriram city union finance ltd",
+      "employee_id": "Shr_039",
+      "skills": [
+        "Legal Research",
+        "Contract Law",
+        "Corporate Law",
+        "Compliance",
+        "Litigation",
+        "Legal Writing",
+        "Risk Management",
+        "Financial Regulations",
+        "Client Consultation",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Vaibhav Deokar",
+      "position": "finance at shriram city union finance ltd",
+      "employee_id": "Shr_040",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Budgeting",
+        "Financial Reporting",
+        "Risk Management",
+        "Microsoft Excel",
+        "Financial Modeling",
+        "Investment Analysis",
+        "Credit Analysis",
+        "SAP"
+      ]
+    },
+    {
+      "name": "Santhosh narayanan",
+      "position": "credit underwriter Mortgage Business Loan and Housing loan KYC Shriram City Union financial limited",
+      "employee_id": "Shr_041",
+      "skills": [
+        "Credit Underwriting",
+        "Mortgage Loans",
+        "Business Loans",
+        "Housing Loans",
+        "KYC Compliance",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Loan Processing",
+        "Customer Due Diligence",
+        "Financial Regulations"
+      ]
+    },
+    {
+      "name": "VIJAY PHULSOUNADR",
+      "position": "Regional Manager at SHRIRAM CITY UNION FINANCE LTD",
+      "employee_id": "Shr_042",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Customer Relationship Management (CRM)",
+        "Sales Strategy",
+        "Budgeting",
+        "Market Research",
+        "Business Development",
+        "Performance Management",
+        "Credit Analysis"
+      ]
+    },
+    {
+      "name": "srikanth masula",
+      "position": "accountant at shriram city union finance ltd",
+      "employee_id": "Shr_043",
+      "skills": [
+        "Financial Reporting",
+        "Tax Preparation",
+        "Account Reconciliation",
+        "Budgeting",
+        "Excel",
+        "QuickBooks",
+        "Financial Analysis",
+        "Auditing",
+        "Payroll Management",
+        "General Ledger Accounting"
+      ]
+    },
+    {
+      "name": "Kumaran C",
+      "position": "Relationship Manager at Shriram City Union Finance ltd",
+      "employee_id": "Shr_044",
+      "skills": [
+        "Customer Relationship Management",
+        "Financial Analysis",
+        "Sales Strategy",
+        "Credit Risk Assessment",
+        "Loan Processing",
+        "Market Research",
+        "Negotiation",
+        "Portfolio Management",
+        "Client Communication",
+        "Data Management"
+      ]
+    },
+    {
+      "name": "SHRUTHI KEERTHI",
+      "position": "AM at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_045",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Analysis",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Data Analysis",
+        "Regulatory Compliance",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "Atul Bhintade",
+      "position": "Branch Manager at Shriram city union finance ltd.",
+      "employee_id": "Shr_046",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Branch Operations",
+        "Customer Relationship Management",
+        "Loan Processing",
+        "Credit Assessment",
+        "Team Leadership",
+        "Sales Strategy",
+        "Budgeting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "TRUSHAL PALEKAR",
+      "position": "Senior System Officer at Shriram City Union Finance Ltd",
+      "employee_id": "Shr_047",
+      "skills": [
+        "System Administration",
+        "Network Security",
+        "Database Management",
+        "IT Infrastructure",
+        "Technical Support",
+        "Software Installation",
+        "Troubleshooting",
+        "Project Management",
+        "Cybersecurity",
+        "Windows Server"
+      ]
+    },
+    {
+      "name": "MANISH GAUTAM",
+      "position": "at Shriram city union Finance Ltd",
+      "employee_id": "Shr_048",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Data Entry",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Compliance",
+        "Banking Operations"
+      ]
+    },
+    {
+      "name": "joson joseph",
+      "position": "Business Development Manager at Shriram City Union Finance Limited",
+      "employee_id": "Shr_049",
+      "skills": [
+        "Business Development",
+        "Sales Strategy",
+        "Market Analysis",
+        "Customer Relationship Management (CRM)",
+        "Financial Analysis",
+        "Negotiation",
+        "Project Management",
+        "Lead Generation",
+        "Data Interpretation",
+        "Microsoft Office Suite"
+      ]
+    },
+    {
+      "name": "Vasanthi Palani",
+      "position": "SHRIRAM GROUP at SHRIRAM CITY UNION FINANCE LTD",
+      "employee_id": "Shr_050",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Credit Assessment",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Data Analysis",
+        "Financial Reporting",
+        "Microsoft Excel",
+        "Budgeting",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Palukuri Vijay Bhaskar",
+      "position": "Finance Intern at Shriram city Union finance ltd",
+      "employee_id": "Shr_051",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Microsoft Excel",
+        "Financial Reporting",
+        "Budgeting",
+        "Data Entry",
+        "Financial Planning",
+        "Investment Analysis",
+        "Risk Assessment",
+        "SAP"
+      ]
+    },
+    {
+      "name": "Sneha Ahire",
+      "position": "SYSTEM EXECUTIVE at SHRIRAM CITY UNION FINANCE LTD",
+      "employee_id": "Shr_052",
+      "skills": [
+        "System Administration",
+        "IT Support",
+        "Network Management",
+        "Database Management",
+        "Technical Troubleshooting",
+        "Software Installation",
+        "User Support",
+        "System Monitoring",
+        "Security Management",
+        "Financial Software"
+      ]
+    },
+    {
+      "name": "Sunil Mankar",
+      "position": "Sales And Marketing Specialist at Shriram City Union Finance Limited",
+      "employee_id": "Shr_053",
+      "skills": [
+        "Sales Strategy",
+        "Marketing Strategy",
+        "Customer Relationship Management",
+        "Market Research",
+        "Lead Generation",
+        "Digital Marketing",
+        "Salesforce",
+        "Negotiation",
+        "Data Analysis",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "SUNDARARAJAN SRINIVASAN",
+      "position": "Sr General Manager Shriram Finance Limited",
+      "employee_id": "Shr_054",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Budgeting",
+        "Team Leadership",
+        "Regulatory Compliance",
+        "Credit Analysis",
+        "Portfolio Management",
+        "Financial Reporting",
+        "Investment Strategies"
+      ]
+    },
+    {
+      "name": "Sameeruddin Sayed",
+      "position": "Executive Trainee at Shriram City Union Finance Ltd",
+      "employee_id": "Shr_055",
+      "skills": [
+        "Financial Analysis",
+        "Credit Assessment",
+        "Customer Relationship Management",
+        "Loan Processing",
+        "Risk Assessment",
+        "Microsoft Excel",
+        "Data Entry",
+        "Financial Reporting",
+        "Compliance",
+        "Customer Service"
+      ]
+    },
+    {
+      "name": "Dnyaneshwar Gore",
+      "position": "--",
+      "employee_id": "Shr_056",
+      "skills": []
+    },
+    {
+      "name": "Sonali Dubey",
+      "position": "Human Resources Manager at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_057",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Recruitment",
+        "Performance Management",
+        "HRIS",
+        "Payroll Management",
+        "Talent Acquisition",
+        "Compliance",
+        "Training and Development",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Murugappan Vellayappan",
+      "position": "--",
+      "employee_id": "Shr_058",
+      "skills": []
+    },
+    {
+      "name": "Govind Singh",
+      "position": "Salesperson at SHRIRAM CITY UNION FINANCE",
+      "employee_id": "Shr_059",
+      "skills": [
+        "Sales Strategies",
+        "Customer Relationship Management (CRM)",
+        "Financial Services",
+        "Negotiation",
+        "Market Analysis",
+        "Lead Generation",
+        "Account Management",
+        "Microsoft Office",
+        "Communication Skills",
+        "Product Knowledge"
+      ]
+    },
+    {
+      "name": "Pravin Parkhe",
+      "position": "Deputy Credit Manager at Shriram Finance Ltd",
+      "employee_id": "Shr_060",
+      "skills": [
+        "Credit Analysis",
+        "Risk Management",
+        "Financial Modeling",
+        "Loan Processing",
+        "Customer Relationship Management",
+        "Financial Reporting",
+        "Budgeting",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Microsoft Excel"
+      ]
+    }
+  ]
+}

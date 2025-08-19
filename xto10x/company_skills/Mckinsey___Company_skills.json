@@ -1,0 +1,1705 @@
+{
+  "company_name": "Mckinsey   Company",
+  "employees": [
+    {
+      "name": "Bob Sternfels",
+      "position": "Global Managing Partner at McKinsey & Company",
+      "employee_id": "Mck_001",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Development",
+        "Leadership",
+        "Financial Analysis",
+        "Operational Efficiency",
+        "Client Relationship Management",
+        "Market Research",
+        "Organizational Design",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Sudeep Doshi",
+      "position": "",
+      "employee_id": "Mck_002",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Financial Analysis",
+        "Project Management",
+        "Data Analysis",
+        "Market Research",
+        "Problem Solving",
+        "Client Relations",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Bill Wiseman",
+      "position": "",
+      "employee_id": "Mck_003",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Financial Modeling",
+        "Market Research",
+        "Project Management",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "David Bodarky",
+      "position": "",
+      "employee_id": "Mck_004",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Data Analysis",
+        "Presentation Skills",
+        "Client Relations",
+        "Problem Solving",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Matthew Higginson",
+      "position": "",
+      "employee_id": "Mck_005",
+      "skills": [
+        "Strategic Planning",
+        "Business Analysis",
+        "Project Management",
+        "Consulting",
+        "Data Analysis",
+        "Market Research",
+        "Financial Modeling",
+        "Risk Management",
+        "Microsoft Excel",
+        "PowerPoint"
+      ]
+    },
+    {
+      "name": "Scott Blackburn",
+      "position": "Senior Partner, McKinsey & Company",
+      "employee_id": "Mck_006",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Development",
+        "Financial Analysis",
+        "Market Research",
+        "Leadership",
+        "Project Management",
+        "Client Relations",
+        "Problem Solving",
+        "Data Interpretation"
+      ]
+    },
+    {
+      "name": "Carolyn Pierce",
+      "position": "",
+      "employee_id": "Mck_007",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Modeling",
+        "Risk Management",
+        "Business Strategy",
+        "Market Research",
+        "Presentation Skills",
+        "Client Relations",
+        "Report Writing"
+      ]
+    },
+    {
+      "name": "Vijay Sarathy",
+      "position": "Partner, McKinsey & Company. Supporting senior chemical executives gain conviction behind their most strategic decisions",
+      "employee_id": "Mck_008",
+      "skills": [
+        "Strategic Decision Making",
+        "Chemical Industry Expertise",
+        "Executive Consulting",
+        "Business Strategy",
+        "Market Analysis",
+        "Leadership",
+        "Project Management",
+        "Client Relationship Management",
+        "Data Interpretation",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Carolyn Dewar",
+      "position": "",
+      "employee_id": "Mck_009",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Market Research",
+        "Project Management",
+        "Client Relationship Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Leadership",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Andre Dua",
+      "position": "",
+      "employee_id": "Mck_010",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Market Research",
+        "Project Management",
+        "Financial Analysis",
+        "Data Analytics",
+        "Problem Solving",
+        "Leadership",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Syed Alam",
+      "position": "",
+      "employee_id": "Mck_011",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "SQL",
+        "PowerPoint",
+        "Business Strategy",
+        "Market Research",
+        "Project Management",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Mark Patel",
+      "position": "",
+      "employee_id": "Mck_012",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Modeling",
+        "Risk Management",
+        "Business Strategy",
+        "Consulting",
+        "Presentation Skills",
+        "Market Research",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Jacky Wright",
+      "position": "",
+      "employee_id": "Mck_013",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Consulting",
+        "Business Strategy",
+        "Financial Modeling",
+        "Risk Management",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Market Research",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Lucia Rahilly",
+      "position": "Global Editorial Director & Deputy Publisher at McKinsey & Company",
+      "employee_id": "Mck_014",
+      "skills": [
+        "Content Strategy",
+        "Editorial Management",
+        "Publishing",
+        "Digital Media",
+        "SEO",
+        "Copywriting",
+        "Project Management",
+        "Team Leadership",
+        "Market Research",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Quentin George",
+      "position": "",
+      "employee_id": "Mck_015",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Consulting",
+        "Business Strategy",
+        "Financial Modeling",
+        "Risk Assessment",
+        "Market Research",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Daniella Seiler",
+      "position": "Executive Editor at McKinsey & Company",
+      "employee_id": "Mck_016",
+      "skills": [
+        "Editing",
+        "Content Strategy",
+        "Project Management",
+        "Copywriting",
+        "SEO",
+        "Digital Marketing",
+        "Team Leadership",
+        "Market Research",
+        "Analytics",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Stephon Harris",
+      "position": "",
+      "employee_id": "Mck_017",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Consulting",
+        "Strategic Planning",
+        "Client Relations",
+        "Market Research",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Cait Murphy",
+      "position": "Senior Editor at McKinsey & Company",
+      "employee_id": "Mck_018",
+      "skills": [
+        "Editing",
+        "Content Strategy",
+        "Copywriting",
+        "Project Management",
+        "SEO",
+        "Adobe Creative Suite",
+        "Content Management Systems",
+        "Market Research",
+        "Communication",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Laura Corb",
+      "position": "",
+      "employee_id": "Mck_019",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Business Strategy",
+        "Market Research",
+        "Project Management",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Heather Stefanski",
+      "position": "",
+      "employee_id": "Mck_020",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Strategic Planning",
+        "Consulting",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Jennifer Rosen, M.Ed.",
+      "position": "Professional Development at McKinsey & Company",
+      "employee_id": "Mck_021",
+      "skills": [
+        "Professional Development",
+        "Training and Facilitation",
+        "Leadership Development",
+        "Organizational Development",
+        "Change Management",
+        "Talent Management",
+        "Performance Improvement",
+        "Coaching",
+        "Consulting",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Rohin Bhasin",
+      "position": "",
+      "employee_id": "Mck_022",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Data Analysis",
+        "Financial Modeling",
+        "Market Research",
+        "Project Management",
+        "Excel",
+        "PowerPoint",
+        "Client Relations",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Kate Siegel",
+      "position": "Partner at McKinsey & Company",
+      "employee_id": "Mck_023",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Financial Modeling",
+        "Market Research",
+        "Project Management",
+        "Data Analysis",
+        "Leadership",
+        "Client Relationship Management",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Andrew Baransky",
+      "position": "McKinsey & Company | MBA NYU Stern",
+      "employee_id": "Mck_024",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Financial Modeling",
+        "Market Research",
+        "Data Analysis",
+        "Project Management",
+        "Excel",
+        "PowerPoint",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Isabelle Schuhmann",
+      "position": "",
+      "employee_id": "Mck_025",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Project Management",
+        "Financial Analysis",
+        "Market Research",
+        "Data Interpretation",
+        "Client Relations",
+        "Problem Solving",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Suzy Deering",
+      "position": "",
+      "employee_id": "Mck_026",
+      "skills": [
+        "Marketing Strategy",
+        "Digital Marketing",
+        "Brand Management",
+        "Market Research",
+        "Customer Insights",
+        "Advertising Campaigns",
+        "Social Media Marketing",
+        "Content Creation",
+        "SEO",
+        "Analytics"
+      ]
+    },
+    {
+      "name": "Laurel Moglen",
+      "position": "",
+      "employee_id": "Mck_027",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Business Strategy",
+        "Financial Modeling",
+        "Risk Management",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Market Research",
+        "Consulting",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Vanessa Strong",
+      "position": "Operations Manager at McKinsey & Company",
+      "employee_id": "Mck_028",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Process Improvement",
+        "Supply Chain Management",
+        "Operational Strategy",
+        "Microsoft Excel",
+        "SAP",
+        "Lean Six Sigma",
+        "Business Analytics",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Elliot Cravitz",
+      "position": "",
+      "employee_id": "Mck_029",
+      "skills": [
+        "Strategic Planning",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Business Development",
+        "Market Research",
+        "Project Management",
+        "Consulting",
+        "Excel",
+        "PowerPoint"
+      ]
+    },
+    {
+      "name": "Wendy Stratman Miller",
+      "position": "Partner, North American Chief People Officer, McKinsey & Company",
+      "employee_id": "Mck_030",
+      "skills": [
+        "Human Resources Management",
+        "Talent Acquisition",
+        "Leadership Development",
+        "Organizational Strategy",
+        "Employee Engagement",
+        "Performance Management",
+        "Change Management",
+        "Diversity and Inclusion",
+        "HR Analytics",
+        "Succession Planning"
+      ]
+    },
+    {
+      "name": "Anthony Esposito",
+      "position": "Chief Information Security Officer at McKinsey & Company",
+      "employee_id": "Mck_031",
+      "skills": [
+        "Cybersecurity",
+        "Risk Management",
+        "Information Security",
+        "Incident Response",
+        "Network Security",
+        "Compliance",
+        "Security Architecture",
+        "Threat Intelligence",
+        "Vulnerability Assessment",
+        "Governance"
+      ]
+    },
+    {
+      "name": "Scott Parris",
+      "position": "",
+      "employee_id": "Mck_032",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Market Research",
+        "Financial Analysis",
+        "Project Management",
+        "Client Relations",
+        "Problem Solving",
+        "Data Interpretation",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Marc Singer",
+      "position": "Senior Partner Emeritus at McKinsey & Company, Board Member, Advisor, and Investor",
+      "employee_id": "Mck_033",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Development",
+        "Corporate Finance",
+        "Leadership",
+        "Market Analysis",
+        "Investment Strategies",
+        "Board Governance",
+        "Operational Efficiency",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Kristen Lauria",
+      "position": "",
+      "employee_id": "Mck_034",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Consulting",
+        "Business Strategy",
+        "Financial Modeling",
+        "Market Research",
+        "Excel",
+        "PowerPoint",
+        "Client Relations",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Vik Krishnan",
+      "position": "",
+      "employee_id": "Mck_035",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Project Management",
+        "Financial Analysis",
+        "Market Research",
+        "Data Interpretation",
+        "Client Relations",
+        "Problem Solving",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Vikram Iyer",
+      "position": "",
+      "employee_id": "Mck_036",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Data Analysis",
+        "Financial Modeling",
+        "Market Research",
+        "Project Management",
+        "Excel",
+        "PowerPoint",
+        "Client Relations",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Michael Borruso",
+      "position": "Director of Audience Development & Innovation at McKinsey & Company",
+      "employee_id": "Mck_037",
+      "skills": [
+        "Audience Development",
+        "Innovation Management",
+        "Data Analytics",
+        "Market Research",
+        "Digital Marketing",
+        "SEO",
+        "Content Strategy",
+        "Customer Insights",
+        "Project Management",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Jonathan Gordon",
+      "position": "Partner at McKinsey & Company",
+      "employee_id": "Mck_038",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Financial Modeling",
+        "Market Research",
+        "Project Management",
+        "Leadership",
+        "Client Relations",
+        "Problem Solving",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Daniel Trujillo",
+      "position": "",
+      "employee_id": "Mck_039",
+      "skills": [
+        "Project Management",
+        "Strategic Planning",
+        "Business Analysis",
+        "Consulting",
+        "Data Analytics",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Market Research",
+        "Financial Analysis",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Megha Sinha",
+      "position": "",
+      "employee_id": "Mck_040",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Python",
+        "Business Strategy",
+        "Market Research",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Evelyn Kay",
+      "position": "Business Analyst at McKinsey & Company | Industrial Engineer and Artist",
+      "employee_id": "Mck_041",
+      "skills": [
+        "Data Analysis",
+        "Business Strategy",
+        "Financial Modeling",
+        "Project Management",
+        "Process Improvement",
+        "SQL",
+        "Excel",
+        "Market Research",
+        "Industrial Engineering",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Catherine Rogers Camphor",
+      "position": "Compliance Administrator at McKinsey & Company",
+      "employee_id": "Mck_042",
+      "skills": [
+        "Risk Management",
+        "Regulatory Compliance",
+        "Policy Development",
+        "Audit Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Report Writing",
+        "Legal Research",
+        "Process Improvement",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Greg Graves",
+      "position": "",
+      "employee_id": "Mck_043",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Consulting",
+        "Business Strategy",
+        "Financial Modeling",
+        "Excel",
+        "PowerPoint",
+        "Market Research",
+        "Risk Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Lareina Yee",
+      "position": "",
+      "employee_id": "Mck_044",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Analysis",
+        "Project Management",
+        "Market Research",
+        "Data Analysis",
+        "Financial Modeling",
+        "Leadership",
+        "Operational Efficiency",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Enno de Boer",
+      "position": "",
+      "employee_id": "Mck_045",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Analysis",
+        "Project Management",
+        "Operational Efficiency",
+        "Market Research",
+        "Financial Analysis",
+        "Leadership",
+        "Client Relations",
+        "Performance Improvement"
+      ]
+    },
+    {
+      "name": "Alexis Krivkovich",
+      "position": "",
+      "employee_id": "Mck_046",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Market Research",
+        "Financial Modeling",
+        "Data Analysis",
+        "Project Management",
+        "Client Relations",
+        "Problem Solving",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Charlie Lewis",
+      "position": "",
+      "employee_id": "Mck_047",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Consulting",
+        "Strategic Planning",
+        "Data Analysis",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Stakeholder Management",
+        "Market Research",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "David G. Knott",
+      "position": "Senior Partner at McKinsey & Company",
+      "employee_id": "Mck_048",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Development",
+        "Market Analysis",
+        "Financial Analysis",
+        "Leadership",
+        "Project Management",
+        "Client Relations",
+        "Operational Improvement",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Erik R.",
+      "position": "",
+      "employee_id": "Mck_049",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Tableau",
+        "Business Strategy",
+        "Market Research",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Saurabh Aggarwal",
+      "position": "",
+      "employee_id": "Mck_050",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Data Analysis",
+        "Client Relations",
+        "Presentation Skills",
+        "Problem Solving",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Sarah Dunn",
+      "position": "",
+      "employee_id": "Mck_051",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Business Strategy",
+        "Financial Modeling",
+        "Risk Management",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Market Research",
+        "Consulting",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Robert Tas",
+      "position": "",
+      "employee_id": "Mck_052",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Project Management",
+        "Market Research",
+        "Client Relations",
+        "Excel",
+        "PowerPoint"
+      ]
+    },
+    {
+      "name": "Osato Dixon",
+      "position": "Creative Expert at McKinsey & Company",
+      "employee_id": "Mck_053",
+      "skills": [
+        "Creative Strategy",
+        "Market Research",
+        "Brand Development",
+        "Adobe Creative Suite",
+        "Project Management",
+        "Digital Marketing",
+        "Content Creation",
+        "Graphic Design",
+        "Client Relations",
+        "Social Media Management"
+      ]
+    },
+    {
+      "name": "Brian Kint",
+      "position": "Associate General Counsel at McKinsey & Company",
+      "employee_id": "Mck_054",
+      "skills": [
+        "Legal Research",
+        "Contract Negotiation",
+        "Corporate Governance",
+        "Regulatory Compliance",
+        "Risk Management",
+        "Intellectual Property Law",
+        "Litigation",
+        "Mergers and Acquisitions",
+        "Employment Law",
+        "Legal Writing"
+      ]
+    },
+    {
+      "name": "Madison Wise",
+      "position": "Learning Specialist at McKinsey & Company",
+      "employee_id": "Mck_055",
+      "skills": [
+        "Learning Management Systems",
+        "Instructional Design",
+        "Curriculum Development",
+        "E-learning",
+        "Training Needs Analysis",
+        "Performance Improvement",
+        "Educational Technology",
+        "Project Management",
+        "Data Analysis",
+        "Microsoft Office Suite"
+      ]
+    },
+    {
+      "name": "Danielle (Ringwood) Burr",
+      "position": "Partner, Global Head of Public Affairs, McKinsey & Company",
+      "employee_id": "Mck_056",
+      "skills": [
+        "Public Affairs",
+        "Strategic Communication",
+        "Policy Analysis",
+        "Stakeholder Engagement",
+        "Crisis Management",
+        "Government Relations",
+        "Media Relations",
+        "Corporate Strategy",
+        "Regulatory Affairs",
+        "Advocacy"
+      ]
+    },
+    {
+      "name": "Rick Tetzeli",
+      "position": "Editorial Director of the McKinsey Quarterly at McKinsey & Company",
+      "employee_id": "Mck_057",
+      "skills": [
+        "Editorial Management",
+        "Content Strategy",
+        "Publishing",
+        "Journalism",
+        "Market Research",
+        "Copywriting",
+        "SEO",
+        "Digital Media",
+        "Project Management",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Gretchen Berlin",
+      "position": "",
+      "employee_id": "Mck_058",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Data Analysis",
+        "Client Relations",
+        "Presentation Skills",
+        "Problem Solving",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Debbie Dennig",
+      "position": "Professional Development Coordinator at McKinsey & Company",
+      "employee_id": "Mck_059",
+      "skills": [
+        "Professional Development",
+        "Training Coordination",
+        "Leadership Development",
+        "Talent Management",
+        "Program Management",
+        "Employee Engagement",
+        "Performance Management",
+        "Organizational Development",
+        "HR Software",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Ryan Kelly",
+      "position": "",
+      "employee_id": "Mck_060",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Strategic Planning",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Microsoft Excel",
+        "PowerPoint",
+        "SQL",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Thomas Kolaja",
+      "position": "Senior Partner at McKinsey & Company, leader in the McKinsey Transformation practice in manufacturing industries",
+      "employee_id": "Mck_061",
+      "skills": [
+        "Transformation Strategy",
+        "Manufacturing Industry Expertise",
+        "Operational Improvement",
+        "Change Management",
+        "Lean Manufacturing",
+        "Six Sigma",
+        "Supply Chain Optimization",
+        "Performance Metrics",
+        "Process Engineering",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Ahmed Nizam",
+      "position": "",
+      "employee_id": "Mck_062",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "PowerPoint",
+        "Business Strategy",
+        "Market Research",
+        "Consulting",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Katy Mclaughlin",
+      "position": "Executive Editor at McKinsey & Company",
+      "employee_id": "Mck_063",
+      "skills": [
+        "Editing",
+        "Content Strategy",
+        "Project Management",
+        "Copywriting",
+        "SEO",
+        "Team Leadership",
+        "Market Research",
+        "Publishing",
+        "Digital Media",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Kelsey Robinson",
+      "position": "",
+      "employee_id": "Mck_064",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "Financial Modeling",
+        "Risk Management",
+        "Business Strategy",
+        "Market Research",
+        "Presentation Skills",
+        "Client Relations",
+        "Report Writing"
+      ]
+    },
+    {
+      "name": "David Feber",
+      "position": "",
+      "employee_id": "Mck_065",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Market Analysis",
+        "Financial Analysis",
+        "Project Management",
+        "Data Analytics",
+        "Client Relations",
+        "Problem Solving",
+        "Leadership",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Ingrid Mill\u00e1n",
+      "position": "Partner at McKinsey & Company",
+      "employee_id": "Mck_066",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Development",
+        "Market Analysis",
+        "Financial Analysis",
+        "Project Management",
+        "Leadership",
+        "Client Relations",
+        "Operational Efficiency",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Bill Gregg",
+      "position": "Associate Partner at McKinsey & Company",
+      "employee_id": "Mck_067",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Project Management",
+        "Financial Analysis",
+        "Market Research",
+        "Leadership",
+        "Client Relations",
+        "Data Interpretation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Kevin Laczkowski",
+      "position": "Senior Partner and Managing Partner, Midwest, McKinsey & Company",
+      "employee_id": "Mck_068",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Development",
+        "Leadership",
+        "Market Analysis",
+        "Financial Analysis",
+        "Operational Efficiency",
+        "Client Relationship Management",
+        "Project Management",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Philipp Kampshoff",
+      "position": "Senior Partner, Global Co-leader of McKinsey's Automotive & Assembly Practice, Co-Founder McKinsey Center For Future Mobility",
+      "employee_id": "Mck_069",
+      "skills": [
+        "Automotive Industry Expertise",
+        "Strategic Planning",
+        "Business Development",
+        "Leadership",
+        "Market Analysis",
+        "Project Management",
+        "Consulting",
+        "Mobility Solutions",
+        "Innovation Management",
+        "Global Operations"
+      ]
+    },
+    {
+      "name": "Emily Field",
+      "position": "",
+      "employee_id": "Mck_070",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Financial Analysis",
+        "Project Management",
+        "Client Relations",
+        "Market Research",
+        "Presentation Skills",
+        "Data Interpretation",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Scott Deardorff",
+      "position": "",
+      "employee_id": "Mck_071",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Strategic Planning",
+        "Client Relations",
+        "Data Analysis",
+        "Microsoft Office",
+        "Market Research",
+        "Consulting",
+        "Problem Solving",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Stefano Redaelli",
+      "position": "Senior Partner at McKinsey & Company",
+      "employee_id": "Mck_072",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Leadership",
+        "Project Management",
+        "Financial Analysis",
+        "Market Research",
+        "Operational Improvement",
+        "Client Relationship Management",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "David Pralong",
+      "position": "Senior Partner of McKinsey & Company | North America Leader and Global Co-Leader of McKinsey Transformation (MT)",
+      "employee_id": "Mck_073",
+      "skills": [
+        "Management Consulting",
+        "Business Transformation",
+        "Leadership Development",
+        "Strategic Planning",
+        "Change Management",
+        "Operational Improvement",
+        "Performance Metrics",
+        "Organizational Design",
+        "Client Relationship Management",
+        "Industry Analysis"
+      ]
+    },
+    {
+      "name": "Sandy Gosling",
+      "position": "Partner, Supply Chain and Digital Transformation at McKinsey & Company",
+      "employee_id": "Mck_074",
+      "skills": [
+        "Supply Chain Management",
+        "Digital Transformation",
+        "Data Analytics",
+        "Enterprise Resource Planning (ERP)",
+        "Process Optimization",
+        "Change Management",
+        "Project Management",
+        "Business Strategy",
+        "Lean Six Sigma",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Del Ross",
+      "position": "",
+      "employee_id": "Mck_075",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Business Strategy",
+        "Consulting",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "PowerPoint",
+        "Market Research",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Tiffany Burns",
+      "position": "",
+      "employee_id": "Mck_076",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Consulting",
+        "Strategic Planning",
+        "Client Relations",
+        "Market Research",
+        "Data Analysis",
+        "Presentation Skills",
+        "Microsoft Office",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Wendy Zhu, PhD",
+      "position": "",
+      "employee_id": "Mck_077",
+      "skills": [
+        "Data Analysis",
+        "Statistical Modeling",
+        "Machine Learning",
+        "Python",
+        "R",
+        "SQL",
+        "Research Methodologies",
+        "Quantitative Analysis",
+        "Big Data",
+        "Predictive Analytics"
+      ]
+    },
+    {
+      "name": "Carlos Ingles",
+      "position": "",
+      "employee_id": "Mck_078",
+      "skills": [
+        "Project Management",
+        "Strategic Planning",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Change Management",
+        "Risk Assessment",
+        "Microsoft Office Suite",
+        "Budgeting",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Greg O'Brien",
+      "position": "",
+      "employee_id": "Mck_079",
+      "skills": [
+        "Project Management",
+        "Consulting",
+        "Business Strategy",
+        "Data Analysis",
+        "Financial Modeling",
+        "Market Research",
+        "Client Relations",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Tiago Moura",
+      "position": "Specialist chez McKinsey & Company",
+      "employee_id": "Mck_080",
+      "skills": [
+        "Data Analysis",
+        "Management Consulting",
+        "Business Strategy",
+        "Financial Modeling",
+        "Market Research",
+        "Project Management",
+        "Risk Management",
+        "Excel",
+        "PowerPoint",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Mekala Krishnan",
+      "position": "",
+      "employee_id": "Mck_081",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "SQL",
+        "PowerPoint",
+        "Project Management",
+        "Business Strategy",
+        "Market Research",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Jeff Rudnicki",
+      "position": "",
+      "employee_id": "Mck_082",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Business Strategy",
+        "Market Research",
+        "Project Management",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Victoria Bough",
+      "position": "Customer Experience Expert, Business Builder, McKinsey & Company Partner",
+      "employee_id": "Mck_083",
+      "skills": [
+        "Customer Experience Management",
+        "Business Development",
+        "Strategic Planning",
+        "Consulting",
+        "Market Research",
+        "Project Management",
+        "Data Analysis",
+        "Client Relationship Management",
+        "Leadership",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Sebastian HOFFMANN",
+      "position": "",
+      "employee_id": "Mck_084",
+      "skills": [
+        "Business Strategy",
+        "Management Consulting",
+        "Data Analysis",
+        "Financial Modeling",
+        "Market Research",
+        "Project Management",
+        "Excel",
+        "PowerPoint",
+        "Stakeholder Management",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Kelly Ungerman",
+      "position": "",
+      "employee_id": "Mck_085",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Market Research",
+        "Project Management",
+        "Client Relations",
+        "Data Analysis",
+        "Financial Modeling",
+        "Leadership",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Cole Wirpel",
+      "position": "Associate Partner at McKinsey & Company",
+      "employee_id": "Mck_086",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Business Analysis",
+        "Financial Modeling",
+        "Project Management",
+        "Data Analysis",
+        "Market Research",
+        "Performance Improvement",
+        "Change Management",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Mary Kate Whelan",
+      "position": "Engagement Manager at McKinsey & Company",
+      "employee_id": "Mck_087",
+      "skills": [
+        "Project Management",
+        "Client Relationship Management",
+        "Business Strategy",
+        "Data Analysis",
+        "Financial Modeling",
+        "Market Research",
+        "Presentation Skills",
+        "Consulting",
+        "Stakeholder Management",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Pam Keller",
+      "position": "Client Capabilities Specialist at McKinsey & Company",
+      "employee_id": "Mck_088",
+      "skills": [
+        "Client Relationship Management",
+        "Data Analysis",
+        "Market Research",
+        "Presentation Skills",
+        "Project Management",
+        "CRM Software",
+        "Business Strategy",
+        "Excel",
+        "PowerPoint",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Sean Brown",
+      "position": "",
+      "employee_id": "Mck_089",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Client Relationship Management",
+        "Data Interpretation",
+        "Presentation Skills",
+        "Problem Solving",
+        "Industry Benchmarking"
+      ]
+    },
+    {
+      "name": "Shelley Stewart III",
+      "position": "",
+      "employee_id": "Mck_090",
+      "skills": [
+        "Strategic Planning",
+        "Business Analysis",
+        "Project Management",
+        "Consulting",
+        "Market Research",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Presentation Skills",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Craig Macdonald",
+      "position": "",
+      "employee_id": "Mck_091",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Strategic Planning",
+        "Microsoft Office",
+        "Data Analysis",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Risk Assessment",
+        "Budget Management",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Alex Cosmas",
+      "position": "",
+      "employee_id": "Mck_092",
+      "skills": [
+        "Management Consulting",
+        "Business Strategy",
+        "Data Analysis",
+        "Financial Modeling",
+        "Market Research",
+        "Project Management",
+        "Excel",
+        "PowerPoint",
+        "Client Relations",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Lindsay Firger",
+      "position": "",
+      "employee_id": "Mck_093",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Project Management",
+        "Business Strategy",
+        "Market Research",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Madeleine Thomas",
+      "position": "Senior Recruiter at McKinsey & Company",
+      "employee_id": "Mck_094",
+      "skills": [
+        "Talent Acquisition",
+        "Applicant Tracking Systems",
+        "Recruitment Marketing",
+        "Interviewing",
+        "Employee Onboarding",
+        "HR Analytics",
+        "LinkedIn Recruiter",
+        "Candidate Sourcing",
+        "Workforce Planning",
+        "HR Software"
+      ]
+    },
+    {
+      "name": "Terrence Hackett",
+      "position": "McKinsey & Company - Associate Director - Learning Design",
+      "employee_id": "Mck_095",
+      "skills": [
+        "Learning Design",
+        "Instructional Design",
+        "Curriculum Development",
+        "Project Management",
+        "E-learning Development",
+        "Training Needs Analysis",
+        "Educational Technology",
+        "Content Development",
+        "Stakeholder Management",
+        "Performance Improvement"
+      ]
+    },
+    {
+      "name": "Michael Chui",
+      "position": "",
+      "employee_id": "Mck_096",
+      "skills": [
+        "Data Analysis",
+        "Business Strategy",
+        "Management Consulting",
+        "Market Research",
+        "Financial Modeling",
+        "Project Management",
+        "Excel",
+        "PowerPoint",
+        "Stakeholder Management",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Amit Shah, M.D.",
+      "position": "",
+      "employee_id": "Mck_097",
+      "skills": [
+        "Medical Diagnosis",
+        "Patient Care",
+        "Clinical Research",
+        "Healthcare Management",
+        "Medical Imaging",
+        "Electronic Health Records (EHR)",
+        "Medical Education",
+        "Pharmacology",
+        "Surgical Procedures",
+        "Public Health"
+      ]
+    },
+    {
+      "name": "Justin Clemons",
+      "position": "",
+      "employee_id": "Mck_098",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Consulting",
+        "Business Strategy",
+        "Microsoft Excel",
+        "Financial Modeling",
+        "Market Research",
+        "Presentation Skills",
+        "Client Relations",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Kerry Grimes",
+      "position": "",
+      "employee_id": "Mck_099",
+      "skills": [
+        "Project Management",
+        "Strategic Planning",
+        "Business Analysis",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Change Management",
+        "Microsoft Office Suite",
+        "Data Analysis",
+        "Risk Management",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Ruchi Gupta",
+      "position": "",
+      "employee_id": "Mck_100",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Business Strategy",
+        "Market Research",
+        "Consulting",
+        "Project Management"
+      ]
+    }
+  ]
+}

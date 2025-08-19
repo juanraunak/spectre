@@ -1,0 +1,1671 @@
+{
+  "company_name": "Pwc Advisory Services",
+  "employees": [
+    {
+      "name": "David Kantrowitz",
+      "position": "Senior Manager at PwC Advisory Services",
+      "employee_id": "Pwc_001",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management",
+        "Business Strategy",
+        "Data Analytics",
+        "Consulting",
+        "Leadership",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Chris Beiswenger",
+      "position": "Partner/Principal, US Advisory Quality Leader, PwC Advisory Services",
+      "employee_id": "Pwc_002",
+      "skills": [
+        "Risk Management",
+        "Quality Assurance",
+        "Advisory Services",
+        "Business Strategy",
+        "Financial Analysis",
+        "Project Management",
+        "Regulatory Compliance",
+        "Data Analytics",
+        "Leadership",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Alexandra Webb",
+      "position": "Director at PwC - Advisory Services | Customer Transformation | Insurance",
+      "employee_id": "Pwc_003",
+      "skills": [
+        "Customer Transformation",
+        "Insurance Advisory",
+        "Project Management",
+        "Strategic Planning",
+        "Risk Management",
+        "Business Development",
+        "Change Management",
+        "Stakeholder Engagement",
+        "Financial Analysis",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Harish Sethuraman",
+      "position": "Managing Director | Commercial Tech & Innovation - PwC Advisory Services",
+      "employee_id": "Pwc_004",
+      "skills": [
+        "Commercial Technology",
+        "Innovation Management",
+        "Business Strategy",
+        "Project Management",
+        "Data Analytics",
+        "Digital Transformation",
+        "Risk Management",
+        "Financial Analysis",
+        "Consulting",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Anthony Scott Greco",
+      "position": "Managing Director, Pharmaceutical & Life Sciences Advisory Services at PwC",
+      "employee_id": "Pwc_005",
+      "skills": [
+        "Pharmaceutical Industry Knowledge",
+        "Life Sciences Expertise",
+        "Regulatory Compliance",
+        "Strategic Planning",
+        "Project Management",
+        "Business Development",
+        "Risk Assessment",
+        "Market Analysis",
+        "Client Relationship Management",
+        "Advisory Services"
+      ]
+    },
+    {
+      "name": "Peter Groft",
+      "position": "Manager - PwC Advisory Services",
+      "employee_id": "Pwc_006",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Consulting",
+        "Project Management",
+        "Business Strategy",
+        "Data Analysis",
+        "Client Relationship Management",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Malavika Nelvagal",
+      "position": "PwC, Advisory Services",
+      "employee_id": "Pwc_007",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Business Strategy",
+        "Data Analysis",
+        "Project Management",
+        "Consulting",
+        "Excel",
+        "PowerPoint",
+        "Market Research",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Zaid Dadabhoy",
+      "position": "Manager at PwC Advisory Services",
+      "employee_id": "Pwc_008",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management",
+        "Business Strategy",
+        "Data Analysis",
+        "Consulting",
+        "Client Relationship Management",
+        "Process Improvement",
+        "Microsoft Excel",
+        "PowerPoint"
+      ]
+    },
+    {
+      "name": "Kheng Tek Chan",
+      "position": "Partner, PwC - Advisory Services",
+      "employee_id": "Pwc_009",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Business Strategy",
+        "Consulting",
+        "Project Management",
+        "Data Analytics",
+        "Corporate Finance",
+        "Regulatory Compliance",
+        "Performance Improvement",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Sumit Malani",
+      "position": "Senior Associate at PwC Advisory Services LLC",
+      "employee_id": "Pwc_010",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "Business Strategy",
+        "Project Management",
+        "Consulting",
+        "Client Relations",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Weicheng Bai",
+      "position": "Senior Data Enablement Analyst at General Motors Insurance",
+      "employee_id": "Pwc_011",
+      "skills": [
+        "Data Analysis",
+        "SQL",
+        "Python",
+        "Data Visualization",
+        "Machine Learning",
+        "Business Intelligence",
+        "Excel",
+        "R",
+        "Data Warehousing",
+        "ETL"
+      ]
+    },
+    {
+      "name": "Nageswara Rao Chilukuri",
+      "position": "Senior Manager PwC Advisory -SAP S/4 HANA (MM/WM/LE & Ariba)",
+      "employee_id": "Pwc_013",
+      "skills": [
+        "SAP S/4 HANA",
+        "MM (Materials Management)",
+        "WM (Warehouse Management)",
+        "LE (Logistics Execution)",
+        "Ariba",
+        "Advisory Services",
+        "Project Management",
+        "Business Process Optimization",
+        "Supply Chain Management",
+        "ERP Implementation"
+      ]
+    },
+    {
+      "name": "Rajasekhar Gottipati",
+      "position": "Manager at PwC Advisory Services LLC",
+      "employee_id": "Pwc_014",
+      "skills": [
+        "Project Management",
+        "Risk Management",
+        "Financial Analysis",
+        "Business Strategy",
+        "Data Analysis",
+        "Consulting",
+        "Client Relationship Management",
+        "Process Improvement",
+        "Microsoft Excel",
+        "PowerPoint"
+      ]
+    },
+    {
+      "name": "Vladimil R.",
+      "position": "Deals Senior Manager at PwC",
+      "employee_id": "Pwc_015",
+      "skills": [
+        "Financial Analysis",
+        "Mergers and Acquisitions",
+        "Due Diligence",
+        "Valuation",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "PowerPoint",
+        "Business Strategy",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Juneen Belknap Kirk",
+      "position": "SVP, Customer Experience, Marketing & Commercial Expansion",
+      "employee_id": "Pwc_016",
+      "skills": [
+        "Customer Experience Management",
+        "Marketing Strategy",
+        "Commercial Expansion",
+        "Data Analytics",
+        "CRM Software",
+        "Market Research",
+        "Digital Marketing",
+        "Project Management",
+        "Business Development",
+        "Sales Strategy"
+      ]
+    },
+    {
+      "name": "Marie-Chantal Dr\u00e9au, CPA\u2022IFA, MBA, CFE, CFF",
+      "position": "Partner at PwC Advisory Services - Forensic, Disputes and Crisis Management Services",
+      "employee_id": "Pwc_017",
+      "skills": [
+        "Forensic Accounting",
+        "Dispute Resolution",
+        "Crisis Management",
+        "Fraud Examination",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Litigation Support",
+        "Internal Controls",
+        "Compliance Auditing",
+        "Business Valuation"
+      ]
+    },
+    {
+      "name": "Marty Quint",
+      "position": "Government Accounting & Compliance Leader at GM Defense",
+      "employee_id": "Pwc_018",
+      "skills": [
+        "Government Accounting",
+        "Compliance Management",
+        "Financial Reporting",
+        "Audit Management",
+        "Risk Assessment",
+        "Regulatory Compliance",
+        "Internal Controls",
+        "Budgeting",
+        "Cost Analysis",
+        "SAP"
+      ]
+    },
+    {
+      "name": "Jennifer Walker-Crawford",
+      "position": "Senior Associate at PwC | Wharton MBA | CPA (IL)",
+      "employee_id": "Pwc_019",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Taxation",
+        "Auditing",
+        "Excel",
+        "Financial Reporting",
+        "Business Strategy",
+        "GAAP",
+        "Consulting",
+        "Client Management"
+      ]
+    },
+    {
+      "name": "Elmo Hildebrand",
+      "position": "Part of a community of solvers combining human ingenuity, experience and technology innovation to deliver sustained outcomes and build trust.",
+      "employee_id": "Pwc_020",
+      "skills": [
+        "Problem Solving",
+        "Technology Innovation",
+        "Project Management",
+        "Data Analysis",
+        "Trust Building",
+        "Outcome Delivery",
+        "Experience Management",
+        "Community Engagement",
+        "Solution Development",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Sujoy Choudhuri",
+      "position": "",
+      "employee_id": "Pwc_021",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "Financial Reporting",
+        "Accounting",
+        "Auditing",
+        "Business Strategy",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Howard Gold",
+      "position": "Partner/Principal -- Ernst & Young, LLP -- Transaction Advisory Services -- Transaction Tax",
+      "employee_id": "Pwc_022",
+      "skills": [
+        "Transaction Tax",
+        "Mergers and Acquisitions",
+        "Due Diligence",
+        "Tax Advisory",
+        "Financial Analysis",
+        "Corporate Finance",
+        "Tax Planning",
+        "Valuation",
+        "Regulatory Compliance",
+        "Tax Structuring"
+      ]
+    },
+    {
+      "name": "Yasmin N.",
+      "position": "Senior Technology Project Manager with over 20 years of experience in Treasury, Energy Trading and Risk Management Technology working for one of the Big 4 consulting firms",
+      "employee_id": "Pwc_023",
+      "skills": [
+        "Project Management",
+        "Treasury Management",
+        "Energy Trading Systems",
+        "Risk Management",
+        "Technology Strategy",
+        "Big 4 Consulting Experience",
+        "Stakeholder Management",
+        "Software Implementation",
+        "Process Improvement",
+        "Business Analysis"
+      ]
+    },
+    {
+      "name": "Alyssa Potvin",
+      "position": "Advisory Intern @ PwC | Senior at Boston College studying Finance & Philosophy | Driven by Data, Guided by Ethics",
+      "employee_id": "Pwc_024",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Ethical Decision Making",
+        "Business Analytics",
+        "Financial Reporting",
+        "Research"
+      ]
+    },
+    {
+      "name": "Karthikeyan Gajendran",
+      "position": "Manager - Advisory at PwC",
+      "employee_id": "Pwc_025",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Business Strategy",
+        "Project Management",
+        "Data Analysis",
+        "Consulting",
+        "Stakeholder Management",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Tom Kavanaugh",
+      "position": "Tom Kavanaugh, Partner in the Strategy Practice at PwC",
+      "employee_id": "Pwc_026",
+      "skills": [
+        "Strategic Planning",
+        "Business Strategy",
+        "Management Consulting",
+        "Financial Analysis",
+        "Market Research",
+        "Project Management",
+        "Data Analytics",
+        "Leadership",
+        "Client Relations",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Brian Fox",
+      "position": "Principal/Partner",
+      "employee_id": "Pwc_027",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Business Strategy",
+        "Project Management",
+        "Leadership",
+        "Client Relations",
+        "Data Analysis",
+        "Accounting",
+        "Consulting",
+        "Corporate Finance"
+      ]
+    },
+    {
+      "name": "Devon Snyder",
+      "position": "Principal at PwC",
+      "employee_id": "Pwc_028",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Business Development",
+        "Project Management",
+        "Client Relationship Management",
+        "Data Analytics",
+        "Corporate Finance",
+        "Leadership",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Tennille Palmer",
+      "position": "Executive Director of Customer Loyalty & Retention",
+      "employee_id": "Pwc_029",
+      "skills": [
+        "Customer Relationship Management",
+        "Data Analysis",
+        "Customer Retention Strategies",
+        "Salesforce",
+        "Marketing Automation",
+        "Business Intelligence",
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Alex Rubbo",
+      "position": "Senior Manager at Bain & Company",
+      "employee_id": "Pwc_030",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Financial Analysis",
+        "Project Management",
+        "Business Development",
+        "Market Research",
+        "Client Relationship Management",
+        "Data Analytics",
+        "Performance Improvement",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Lieven Adams",
+      "position": "External / Independent Senior Deals Advisor, excited to help you out with any deal, creating value... feeding opportunities !",
+      "employee_id": "Pwc_031",
+      "skills": [
+        "Deal Advisory",
+        "Value Creation",
+        "Opportunity Identification",
+        "Financial Analysis",
+        "Mergers and Acquisitions",
+        "Due Diligence",
+        "Negotiation",
+        "Strategic Planning",
+        "Business Valuation",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Charles Jelicks",
+      "position": "Senior Manager Professional Services at Box",
+      "employee_id": "Pwc_032",
+      "skills": [
+        "Project Management",
+        "Client Relations",
+        "Business Strategy",
+        "Team Leadership",
+        "Consulting",
+        "Process Improvement",
+        "Change Management",
+        "Stakeholder Management",
+        "Service Delivery",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Gunraj Singh",
+      "position": "Manager, Strategy Consulting at PwC US Advisory",
+      "employee_id": "Pwc_033",
+      "skills": [
+        "Strategic Planning",
+        "Business Analysis",
+        "Management Consulting",
+        "Financial Analysis",
+        "Project Management",
+        "Data Analytics",
+        "Market Research",
+        "Excel",
+        "PowerPoint",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Pierre Kilian",
+      "position": "Chartered Accountant delivering financial and legal consulting projects.",
+      "employee_id": "Pwc_034",
+      "skills": [
+        "Financial Analysis",
+        "Legal Consulting",
+        "Tax Planning",
+        "Audit Management",
+        "Financial Reporting",
+        "Compliance",
+        "Budgeting",
+        "Financial Modeling",
+        "Risk Assessment",
+        "Accounting Software"
+      ]
+    },
+    {
+      "name": "Matthew Wilden",
+      "position": "Partner/Principal - Cyber, Data, & Technology Risk",
+      "employee_id": "Pwc_035",
+      "skills": [
+        "Cybersecurity",
+        "Data Privacy",
+        "Technology Risk Management",
+        "Information Security",
+        "Risk Assessment",
+        "Compliance",
+        "Incident Response",
+        "Threat Intelligence",
+        "Governance",
+        "Regulatory Knowledge"
+      ]
+    },
+    {
+      "name": "David  R Groner",
+      "position": "Talent Acquisition - Sr. Consultant at Takeda",
+      "employee_id": "Pwc_036",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment Strategies",
+        "Applicant Tracking Systems",
+        "HR Analytics",
+        "Employee Onboarding",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Workforce Planning",
+        "HR Software",
+        "Employer Branding"
+      ]
+    },
+    {
+      "name": "Tina Schwind",
+      "position": "Senior Manager - Financial Services Consulting, PwC Luxembourg",
+      "employee_id": "Pwc_037",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Consulting",
+        "Financial Modeling",
+        "Business Strategy",
+        "Project Management",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Client Relationship Management",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Josh Rattan",
+      "position": "",
+      "employee_id": "Pwc_038",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Audit",
+        "Tax Advisory",
+        "Excel",
+        "Data Analysis",
+        "Accounting",
+        "Business Strategy",
+        "Compliance",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Cole Krupa",
+      "position": "Senior Associate (Technology Consulting) at PwC",
+      "employee_id": "Pwc_039",
+      "skills": [
+        "Technology Consulting",
+        "Project Management",
+        "Data Analysis",
+        "Cloud Computing",
+        "Cybersecurity",
+        "IT Strategy",
+        "Business Intelligence",
+        "Digital Transformation",
+        "Software Development",
+        "Systems Integration"
+      ]
+    },
+    {
+      "name": "Muhammad Zeshan akram",
+      "position": "",
+      "employee_id": "Pwc_040",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Audit",
+        "Tax Advisory",
+        "Compliance",
+        "Data Analysis",
+        "Excel",
+        "Accounting",
+        "Business Strategy",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Rajesh Ahuja",
+      "position": "Managing Director at PwC",
+      "employee_id": "Pwc_041",
+      "skills": [
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Business Development",
+        "Leadership",
+        "Corporate Finance",
+        "Project Management",
+        "Consulting",
+        "Market Analysis",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Henning Swanepoel",
+      "position": "Director @ PwC Africa Advisory | Sales Strategy",
+      "employee_id": "Pwc_042",
+      "skills": [
+        "Sales Strategy",
+        "Business Development",
+        "Management Consulting",
+        "Market Analysis",
+        "Client Relationship Management",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Project Management",
+        "Leadership",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Cole Krupa",
+      "position": "Senior Associate (Technology Consulting) at PwC",
+      "employee_id": "Pwc_043",
+      "skills": [
+        "Technology Consulting",
+        "Project Management",
+        "Data Analysis",
+        "Cloud Computing",
+        "Cybersecurity",
+        "IT Strategy",
+        "Business Intelligence",
+        "Digital Transformation",
+        "System Integration",
+        "Software Development"
+      ]
+    },
+    {
+      "name": "Kaitlynn Riely Copinger",
+      "position": "Marketing & Communications for Non-Profits and Mission-Driven Businesses",
+      "employee_id": "Pwc_044",
+      "skills": [
+        "Marketing Strategy",
+        "Communications Planning",
+        "Content Creation",
+        "Social Media Management",
+        "Public Relations",
+        "Brand Management",
+        "Email Marketing",
+        "SEO",
+        "Analytics",
+        "Non-Profit Marketing"
+      ]
+    },
+    {
+      "name": "TK (Touseef) Khowaja",
+      "position": "",
+      "employee_id": "Pwc_045",
+      "skills": [
+        "Financial Analysis",
+        "Auditing",
+        "Risk Management",
+        "Taxation",
+        "Accounting",
+        "Excel",
+        "Data Analysis",
+        "Compliance",
+        "Business Strategy",
+        "SAP"
+      ]
+    },
+    {
+      "name": "Pablo M.",
+      "position": "Engagement Director at MuleSoft",
+      "employee_id": "Pwc_046",
+      "skills": [
+        "MuleSoft",
+        "API Management",
+        "Integration Architecture",
+        "Cloud Computing",
+        "Salesforce",
+        "Enterprise Software",
+        "Project Management",
+        "Stakeholder Engagement",
+        "Solution Design",
+        "Technical Leadership"
+      ]
+    },
+    {
+      "name": "Sikander Naim",
+      "position": "Associate Director Talent Acquisition",
+      "employee_id": "Pwc_047",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment Strategies",
+        "Applicant Tracking Systems",
+        "HR Analytics",
+        "Employee Onboarding",
+        "Interviewing",
+        "Candidate Sourcing",
+        "Employer Branding",
+        "Workforce Planning",
+        "HR Software"
+      ]
+    },
+    {
+      "name": "Christophe Jacobs",
+      "position": "Senior Manager @ PwC Advisory Services - Global Fund Distribution",
+      "employee_id": "Pwc_048",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Global Fund Distribution",
+        "Project Management",
+        "Strategic Planning",
+        "Regulatory Compliance",
+        "Business Development",
+        "Client Relationship Management",
+        "Market Research",
+        "Data Analytics"
+      ]
+    },
+    {
+      "name": "Kar Ven Wai",
+      "position": "Technical Director - Investor and Lender Advisory Services",
+      "employee_id": "Pwc_049",
+      "skills": [
+        "Financial Modeling",
+        "Risk Management",
+        "Investor Relations",
+        "Lender Advisory",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "Market Analysis",
+        "Valuation",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Rudi Binedell",
+      "position": "Partner / Director at PwC",
+      "employee_id": "Pwc_050",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Auditing",
+        "Tax Planning",
+        "Corporate Finance",
+        "Business Strategy",
+        "Regulatory Compliance",
+        "Project Management",
+        "Data Analytics",
+        "Accounting"
+      ]
+    },
+    {
+      "name": "Christophe Jacobs",
+      "position": "Senior Manager @ PwC Advisory Services - Global Fund Distribution",
+      "employee_id": "Pwc_051",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Global Fund Distribution",
+        "Project Management",
+        "Strategic Planning",
+        "Regulatory Compliance",
+        "Client Relationship Management",
+        "Business Development",
+        "Market Analysis",
+        "Performance Reporting"
+      ]
+    },
+    {
+      "name": "Pablo M.",
+      "position": "Engagement Director at MuleSoft",
+      "employee_id": "Pwc_052",
+      "skills": [
+        "Salesforce",
+        "MuleSoft",
+        "API Management",
+        "Integration Architecture",
+        "Cloud Computing",
+        "Enterprise Software",
+        "Project Management",
+        "Business Analysis",
+        "Client Engagement",
+        "Solution Design"
+      ]
+    },
+    {
+      "name": "Marc-Philip Ferzan",
+      "position": "Senior Managing Director at FTI Consulting",
+      "employee_id": "Pwc_053",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Business Development",
+        "Project Management",
+        "Corporate Finance",
+        "Restructuring",
+        "Mergers and Acquisitions",
+        "Management Consulting",
+        "Data Analytics"
+      ]
+    },
+    {
+      "name": "Kar Ven Wai",
+      "position": "Technical Director - Investor and Lender Advisory Services",
+      "employee_id": "Pwc_054",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Investor Relations",
+        "Lender Advisory",
+        "Data Analysis",
+        "Financial Modeling",
+        "Project Management",
+        "Strategic Planning",
+        "Business Development",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Sikander Naim",
+      "position": "Associate Director Talent Acquisition",
+      "employee_id": "Pwc_055",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment Strategies",
+        "Applicant Tracking Systems",
+        "HR Analytics",
+        "Interviewing",
+        "Onboarding",
+        "Employee Relations",
+        "Performance Management",
+        "HR Compliance",
+        "Workforce Planning"
+      ]
+    },
+    {
+      "name": "Brian Dearth",
+      "position": "",
+      "employee_id": "Pwc_056",
+      "skills": [
+        "Financial Analysis",
+        "Audit",
+        "Taxation",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "Accounting",
+        "Compliance",
+        "Business Strategy",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Benno Lijesen",
+      "position": "Consulting Associate at PwC",
+      "employee_id": "Pwc_057",
+      "skills": [
+        "Financial Analysis",
+        "Consulting",
+        "Business Strategy",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "Project Management",
+        "Market Research",
+        "Presentation Skills",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Karn Malik",
+      "position": "",
+      "employee_id": "Pwc_058",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "Accounting",
+        "Auditing",
+        "Taxation",
+        "Business Strategy",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Kevin Maraj",
+      "position": "Director at PwC",
+      "employee_id": "Pwc_059",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Leadership",
+        "Project Management",
+        "Business Development",
+        "Client Relations",
+        "Consulting",
+        "Corporate Finance",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Noemie Tilghman",
+      "position": "",
+      "employee_id": "Pwc_060",
+      "skills": [
+        "Financial Analysis",
+        "Auditing",
+        "Taxation",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "Accounting",
+        "Business Strategy",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Hilda Mahama, CPA",
+      "position": "Aviation and Aerospace- FCCA (UK), MBA",
+      "employee_id": "Pwc_061",
+      "skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Aviation Management",
+        "Aerospace Industry Knowledge",
+        "Financial Reporting",
+        "Taxation",
+        "Audit",
+        "Business Strategy",
+        "Regulatory Compliance",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Tamara Moravia-Israel",
+      "position": "International Tax and Global Tax Controversy at PwC",
+      "employee_id": "Pwc_062",
+      "skills": [
+        "International Taxation",
+        "Global Tax Controversy",
+        "Tax Compliance",
+        "Transfer Pricing",
+        "Tax Planning",
+        "Regulatory Knowledge",
+        "Cross-Border Transactions",
+        "Tax Dispute Resolution",
+        "Financial Reporting",
+        "Corporate Tax"
+      ]
+    },
+    {
+      "name": "Sneham Banerjee",
+      "position": "Management Professional - Product Management and Business Transformation",
+      "employee_id": "Pwc_063",
+      "skills": [
+        "Product Management",
+        "Business Transformation",
+        "Project Management",
+        "Agile Methodologies",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Change Management",
+        "Market Analysis",
+        "Strategic Planning",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Brian Snarzyk",
+      "position": "Retired Principal at PricewaterhouseCoopers",
+      "employee_id": "Pwc_064",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Auditing",
+        "Tax Advisory",
+        "Compliance",
+        "Business Strategy",
+        "Corporate Finance",
+        "Project Management",
+        "Regulatory Reporting",
+        "Client Relations"
+      ]
+    },
+    {
+      "name": "Josh Knipp, CPCU",
+      "position": "",
+      "employee_id": "Pwc_065",
+      "skills": [
+        "Risk Management",
+        "Insurance",
+        "Financial Analysis",
+        "Compliance",
+        "Underwriting",
+        "Claims Management",
+        "Policy Development",
+        "Data Analysis",
+        "Regulatory Knowledge",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Octavio Arellano",
+      "position": "Business Developer; Project Promotion and Evaluation; Strategic Planning",
+      "employee_id": "Pwc_066",
+      "skills": [
+        "Business Development",
+        "Project Management",
+        "Strategic Planning",
+        "Market Analysis",
+        "Financial Evaluation",
+        "Stakeholder Management",
+        "Data Analysis",
+        "Microsoft Excel",
+        "CRM Software",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Ping Jim Tan",
+      "position": "",
+      "employee_id": "Pwc_067",
+      "skills": [
+        "Financial Analysis",
+        "Auditing",
+        "Taxation",
+        "Accounting",
+        "Risk Management",
+        "Excel",
+        "Data Analysis",
+        "Business Intelligence",
+        "Compliance",
+        "SAP"
+      ]
+    },
+    {
+      "name": "Annemarie Loftus Hitti",
+      "position": "Innovative Supply Chain Leader",
+      "employee_id": "Pwc_068",
+      "skills": [
+        "Supply Chain Management",
+        "Logistics",
+        "Inventory Management",
+        "Procurement",
+        "SAP",
+        "ERP Systems",
+        "Data Analysis",
+        "Vendor Management",
+        "Process Improvement",
+        "Forecasting"
+      ]
+    },
+    {
+      "name": "Santosh K. Kutty",
+      "position": "",
+      "employee_id": "Pwc_069",
+      "skills": [
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Business Intelligence",
+        "Project Management",
+        "Consulting",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Jason Caine",
+      "position": "",
+      "employee_id": "Pwc_070",
+      "skills": [
+        "Financial Analysis",
+        "Auditing",
+        "Taxation",
+        "Risk Assessment",
+        "Excel",
+        "Accounting Software",
+        "Data Interpretation",
+        "Compliance",
+        "Business Strategy",
+        "Report Generation"
+      ]
+    },
+    {
+      "name": "Srikanth R",
+      "position": "Senior Manager | PwC | Deals",
+      "employee_id": "Pwc_071",
+      "skills": [
+        "Financial Analysis",
+        "Mergers and Acquisitions",
+        "Due Diligence",
+        "Valuation",
+        "Corporate Finance",
+        "Strategic Planning",
+        "Risk Assessment",
+        "Excel",
+        "PowerPoint",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Pavel Jankech",
+      "position": "Director at PwC, Advisory Services, Forensic Technology Solutions",
+      "employee_id": "Pwc_072",
+      "skills": [
+        "Forensic Analysis",
+        "Data Analytics",
+        "Fraud Detection",
+        "Risk Assessment",
+        "Cybersecurity",
+        "Digital Forensics",
+        "SQL",
+        "Python",
+        "Project Management",
+        "Compliance"
+      ]
+    },
+    {
+      "name": "Natalie Drieghe",
+      "position": "Senior Manager Advisory | PwC BE | Working in a great environment with an excellent support team",
+      "employee_id": "Pwc_073",
+      "skills": [
+        "Management Consulting",
+        "Advisory Services",
+        "Strategic Planning",
+        "Project Management",
+        "Risk Assessment",
+        "Financial Analysis",
+        "Business Development",
+        "Client Relationship Management",
+        "Team Leadership",
+        "Performance Improvement"
+      ]
+    },
+    {
+      "name": "Joe Deegan",
+      "position": "Managing Director at Alvarez & Marsal",
+      "employee_id": "Pwc_074",
+      "skills": [
+        "Financial Analysis",
+        "Strategic Planning",
+        "Business Development",
+        "Risk Management",
+        "Project Management",
+        "Leadership",
+        "Change Management",
+        "Performance Improvement",
+        "Corporate Finance",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Ege Erdem",
+      "position": "Manager | PwC Advisory Services",
+      "employee_id": "Pwc_075",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Business Strategy",
+        "Project Management",
+        "Data Analysis",
+        "Consulting",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Client Relationship Management",
+        "Market Research"
+      ]
+    },
+    {
+      "name": "Arnaud RACO, GFR",
+      "position": "",
+      "employee_id": "Pwc_076",
+      "skills": [
+        "Financial Analysis",
+        "Audit",
+        "Tax Advisory",
+        "Risk Management",
+        "Compliance",
+        "Accounting",
+        "Excel",
+        "SAP",
+        "Data Analytics",
+        "Business Strategy"
+      ]
+    },
+    {
+      "name": "Katerina Halasek Dosedelova",
+      "position": "Forensic services Director at PwC / Corporate investigations | Fraud Prevention & Detection | Compliance | Forensic Accounting | Dispute & Litigation support incl. M&A related reviews",
+      "employee_id": "Pwc_077",
+      "skills": [
+        "Corporate Investigations",
+        "Fraud Prevention",
+        "Fraud Detection",
+        "Compliance",
+        "Forensic Accounting",
+        "Dispute Resolution",
+        "Litigation Support",
+        "M&A Reviews",
+        "Risk Management",
+        "Financial Analysis"
+      ]
+    },
+    {
+      "name": "Shaoni Rakshit",
+      "position": "Jill of All Trades, Mastering Brand & Marketing Strategy.",
+      "employee_id": "Pwc_078",
+      "skills": [
+        "Brand Strategy",
+        "Marketing Strategy",
+        "Market Research",
+        "Digital Marketing",
+        "Content Creation",
+        "Social Media Management",
+        "SEO",
+        "PPC Advertising",
+        "Analytics",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Kim Hong Chua",
+      "position": "Transactions Partner at PricewaterhouseCoopers LLP",
+      "employee_id": "Pwc_079",
+      "skills": [
+        "Financial Analysis",
+        "Transaction Advisory",
+        "Due Diligence",
+        "Mergers and Acquisitions",
+        "Valuation",
+        "Risk Assessment",
+        "Corporate Finance",
+        "Financial Reporting",
+        "Strategic Planning",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Neal Ransome",
+      "position": "Experienced Non Executive Director, Chairman and Audit Committee Chairman with listed company and investment trust credentials",
+      "employee_id": "Pwc_080",
+      "skills": [
+        "Corporate Governance",
+        "Financial Auditing",
+        "Investment Management",
+        "Risk Assessment",
+        "Board Leadership",
+        "Regulatory Compliance",
+        "Financial Reporting",
+        "Strategic Planning",
+        "Stakeholder Engagement",
+        "Internal Controls"
+      ]
+    },
+    {
+      "name": "Carolyn M. Duncan",
+      "position": "",
+      "employee_id": "Pwc_082",
+      "skills": [
+        "Financial Analysis",
+        "Auditing",
+        "Tax Planning",
+        "Risk Management",
+        "Accounting",
+        "Excel",
+        "SAP",
+        "Compliance",
+        "Business Strategy",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Evaristo Scarsanela Junior",
+      "position": "Audio + Technology = Life",
+      "employee_id": "Pwc_083",
+      "skills": [
+        "Audio Engineering",
+        "Sound Design",
+        "Music Production",
+        "Digital Signal Processing",
+        "Pro Tools",
+        "Ableton Live",
+        "Logic Pro",
+        "Audio Mixing",
+        "Acoustic Analysis",
+        "Audio Editing"
+      ]
+    },
+    {
+      "name": "\u25ab\ufe0fJan \u25ab\ufe0fDe Meyer",
+      "position": "Enterprise Security Architect - Security Advisor - Facilitator",
+      "employee_id": "Pwc_084",
+      "skills": [
+        "Enterprise Security Architecture",
+        "Security Advisory",
+        "Risk Management",
+        "Cybersecurity",
+        "Network Security",
+        "Incident Response",
+        "Security Policies",
+        "Threat Analysis",
+        "Compliance",
+        "Security Audits"
+      ]
+    },
+    {
+      "name": "Deep Ghumman",
+      "position": "",
+      "employee_id": "Pwc_085",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "Accounting",
+        "Audit",
+        "Taxation",
+        "Business Strategy",
+        "Financial Reporting"
+      ]
+    },
+    {
+      "name": "Shu Min Lee",
+      "position": "",
+      "employee_id": "Pwc_086",
+      "skills": [
+        "Financial Analysis",
+        "Audit",
+        "Tax Compliance",
+        "Risk Assessment",
+        "Excel",
+        "PowerPoint",
+        "Data Analytics",
+        "Accounting",
+        "Client Management",
+        "Regulatory Reporting"
+      ]
+    },
+    {
+      "name": "Michael Zeoli",
+      "position": "",
+      "employee_id": "Pwc_087",
+      "skills": [
+        "Financial Analysis",
+        "Auditing",
+        "Taxation",
+        "Accounting",
+        "Excel",
+        "Data Analysis",
+        "Risk Management",
+        "SAP",
+        "Compliance",
+        "Business Strategy"
+      ]
+    },
+    {
+      "name": "Werner Erasmus",
+      "position": "",
+      "employee_id": "Pwc_088",
+      "skills": [
+        "Financial Analysis",
+        "Auditing",
+        "Tax Planning",
+        "Risk Management",
+        "Accounting",
+        "Excel",
+        "SAP",
+        "Data Analysis",
+        "Compliance",
+        "Business Strategy"
+      ]
+    },
+    {
+      "name": "Tim Boehm",
+      "position": "Consulting executive focused on strategy, IT leadership and IT operations. SCORE Mentor to small business; Non-profit advisor; Founder Canter Advisory Group; PSU masters; Retired Principal - Deloitte Consulting .",
+      "employee_id": "Pwc_089",
+      "skills": [
+        "Strategy Development",
+        "IT Leadership",
+        "IT Operations",
+        "Business Mentoring",
+        "Non-profit Advisory",
+        "Consulting",
+        "Project Management",
+        "Business Strategy",
+        "Organizational Leadership",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Paul Legler",
+      "position": "Professional Associate Director at Guidehouse Federal LLP",
+      "employee_id": "Pwc_090",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Consulting",
+        "Strategic Planning",
+        "Business Development",
+        "Client Relations",
+        "Process Improvement",
+        "Government Contracting"
+      ]
+    },
+    {
+      "name": "Prashanth Ajjampur",
+      "position": "",
+      "employee_id": "Pwc_091",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analysis",
+        "Excel",
+        "PowerPoint",
+        "Accounting",
+        "Auditing",
+        "Taxation",
+        "Business Strategy",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Asanda Christopher Miya",
+      "position": "CIPM | Privacy Program Manager at Meta",
+      "employee_id": "Pwc_092",
+      "skills": [
+        "Privacy Management",
+        "Data Protection",
+        "Risk Assessment",
+        "Compliance",
+        "Regulatory Knowledge",
+        "Program Management",
+        "Information Security",
+        "Incident Response",
+        "Audit",
+        "Policy Development"
+      ]
+    },
+    {
+      "name": "Chris Thomas",
+      "position": "US Hybrid Cloud Infrastructure Leader at Deloitte",
+      "employee_id": "Pwc_093",
+      "skills": [
+        "Cloud Computing",
+        "Hybrid Cloud Infrastructure",
+        "AWS",
+        "Azure",
+        "Google Cloud Platform",
+        "Virtualization",
+        "Network Security",
+        "Infrastructure Management",
+        "DevOps",
+        "IT Strategy"
+      ]
+    },
+    {
+      "name": "Kim Case",
+      "position": "",
+      "employee_id": "Pwc_094",
+      "skills": [
+        "Financial Analysis",
+        "Audit",
+        "Tax Compliance",
+        "Risk Management",
+        "Excel",
+        "Accounting",
+        "Financial Reporting",
+        "Business Strategy",
+        "Data Analysis",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Krishnakant (KK) Dave",
+      "position": "",
+      "employee_id": "Pwc_095",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Data Analytics",
+        "Excel",
+        "PowerPoint",
+        "SQL",
+        "Business Intelligence",
+        "Project Management",
+        "Accounting",
+        "Consulting"
+      ]
+    },
+    {
+      "name": "Anisa Putri Larasati",
+      "position": "VAT Specialist",
+      "employee_id": "Pwc_096",
+      "skills": [
+        "VAT Compliance",
+        "Tax Planning",
+        "SAP",
+        "Oracle",
+        "Tax Reporting",
+        "Financial Analysis",
+        "Excel",
+        "Regulatory Knowledge",
+        "Audit Support",
+        "Tax Law"
+      ]
+    },
+    {
+      "name": "Chris Dinkel",
+      "position": "Partner at PricewaterhouseCoopers",
+      "employee_id": "Pwc_097",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Tax Advisory",
+        "Audit",
+        "Compliance",
+        "Business Strategy",
+        "Corporate Finance",
+        "Regulatory Reporting",
+        "Project Management",
+        "Client Relationship Management"
+      ]
+    },
+    {
+      "name": "Fred Nsemwa",
+      "position": "Business Leadership |Strategy | Growth Execution | Operations | People Leadership",
+      "employee_id": "Pwc_098",
+      "skills": [
+        "Business Strategy",
+        "Growth Execution",
+        "Operations Management",
+        "People Leadership",
+        "Project Management",
+        "Financial Analysis",
+        "Risk Management",
+        "Process Improvement",
+        "Change Management",
+        "Performance Optimization"
+      ]
+    },
+    {
+      "name": "Adam Thomas",
+      "position": "",
+      "employee_id": "Pwc_099",
+      "skills": [
+        "Financial Analysis",
+        "Auditing",
+        "Taxation",
+        "Risk Management",
+        "Excel",
+        "Data Analysis",
+        "Accounting Software",
+        "Compliance",
+        "Business Strategy",
+        "Corporate Finance"
+      ]
+    },
+    {
+      "name": "Samantha Chui",
+      "position": "",
+      "employee_id": "Pwc_100",
+      "skills": [
+        "Financial Analysis",
+        "Auditing",
+        "Taxation",
+        "Excel",
+        "PowerPoint",
+        "Data Analysis",
+        "Risk Assessment",
+        "Accounting",
+        "Business Strategy",
+        "Compliance"
+      ]
+    }
+  ]
+}

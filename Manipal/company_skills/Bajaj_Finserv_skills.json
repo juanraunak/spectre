@@ -1,0 +1,1068 @@
+{
+  "company_name": "Bajaj Finserv",
+  "employees": [
+    {
+      "name": "Prerna Bajaj",
+      "position": "Product Designer- Dezerv | Prev- Bajaj Finserv Health | BigBasket | NIFT Alumni",
+      "employee_id": "Baj_001",
+      "skills": [
+        "Product Design",
+        "User Experience (UX) Design",
+        "User Interface (UI) Design",
+        "Adobe Creative Suite",
+        "Sketch",
+        "Figma",
+        "Prototyping",
+        "Wireframing",
+        "Interaction Design",
+        "Visual Design"
+      ]
+    },
+    {
+      "name": "Anurag Vohra",
+      "position": "",
+      "employee_id": "Baj_002",
+      "skills": []
+    },
+    {
+      "name": "Purav A Jhaveri, CFA",
+      "position": "",
+      "employee_id": "Baj_003",
+      "skills": [
+        "Financial Analysis",
+        "Investment Management",
+        "Portfolio Management",
+        "Equity Research",
+        "Risk Assessment",
+        "Market Analysis",
+        "Valuation",
+        "Asset Allocation",
+        "Excel",
+        "Bloomberg"
+      ]
+    },
+    {
+      "name": "Royston Netto",
+      "position": "",
+      "employee_id": "Baj_004",
+      "skills": []
+    },
+    {
+      "name": "Mukul Jain",
+      "position": "",
+      "employee_id": "Baj_005",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Prerna Kapoor",
+      "position": "Product Manager @ Lenskart | ex Bajaj Finserv Health | E-commerce | HealthTech | InsurTech |",
+      "employee_id": "Baj_006",
+      "skills": [
+        "Product Management",
+        "E-commerce",
+        "HealthTech",
+        "InsurTech",
+        "Project Management",
+        "Stakeholder Management",
+        "Market Research",
+        "Agile Methodologies",
+        "Data Analysis",
+        "User Experience (UX)"
+      ]
+    },
+    {
+      "name": "Anurag Jain",
+      "position": "",
+      "employee_id": "Baj_007",
+      "skills": []
+    },
+    {
+      "name": "Ramandeep Singh Sahni",
+      "position": "",
+      "employee_id": "Baj_008",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Performance Metrics",
+        "Resource Allocation",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Devang Mody",
+      "position": "Putting Data to use to improve Health Outcomes",
+      "employee_id": "Baj_009",
+      "skills": [
+        "Data Analysis",
+        "Health Informatics",
+        "Statistical Analysis",
+        "Data Visualization",
+        "Machine Learning",
+        "SQL",
+        "Python",
+        "R",
+        "Predictive Analytics",
+        "Public Health"
+      ]
+    },
+    {
+      "name": "Sanjiv Bajaj",
+      "position": "",
+      "employee_id": "Baj_010",
+      "skills": []
+    },
+    {
+      "name": "Tejas Mulay",
+      "position": "",
+      "employee_id": "Baj_011",
+      "skills": []
+    },
+    {
+      "name": "Sachin Sahni",
+      "position": "",
+      "employee_id": "Baj_012",
+      "skills": []
+    },
+    {
+      "name": "Freeda D'souza",
+      "position": "",
+      "employee_id": "Baj_013",
+      "skills": []
+    },
+    {
+      "name": "Megha Saluja",
+      "position": "Senior Lead - Human Resource Partner",
+      "employee_id": "Baj_014",
+      "skills": [
+        "Talent Acquisition",
+        "Employee Relations",
+        "HRIS",
+        "Performance Management",
+        "Compensation and Benefits",
+        "Organizational Development",
+        "Succession Planning",
+        "Labor Law Compliance",
+        "Conflict Resolution",
+        "HR Analytics"
+      ]
+    },
+    {
+      "name": "Prasad Oommen Kurian",
+      "position": "",
+      "employee_id": "Baj_015",
+      "skills": []
+    },
+    {
+      "name": "Siddharth Chaudhary",
+      "position": "at Bajaj Finserv Asset Management",
+      "employee_id": "Baj_016",
+      "skills": [
+        "Financial Analysis",
+        "Asset Management",
+        "Investment Strategies",
+        "Portfolio Management",
+        "Risk Assessment",
+        "Market Research",
+        "Data Analysis",
+        "Excel",
+        "Financial Modeling",
+        "Equity Research"
+      ]
+    },
+    {
+      "name": "Vaibhav Date",
+      "position": "",
+      "employee_id": "Baj_017",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Microsoft Office",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Niranjan Vaidya",
+      "position": "",
+      "employee_id": "Baj_018",
+      "skills": []
+    },
+    {
+      "name": "Sorbh Gupta",
+      "position": "",
+      "employee_id": "Baj_019",
+      "skills": []
+    },
+    {
+      "name": "Pradeep Narayan",
+      "position": "National Head - Information Technology at Bajaj Finserv Passionate Leader having more than 25 Years of experience in the field of IT HRMS | HCM | HRIS | Core Lending | IT Infrastructure | CTO | Implementation",
+      "employee_id": "Baj_020",
+      "skills": [
+        "IT HRMS",
+        "HCM",
+        "HRIS",
+        "Core Lending",
+        "IT Infrastructure",
+        "CTO",
+        "Implementation",
+        "Leadership",
+        "Information Technology",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Ganesh Mohan",
+      "position": "",
+      "employee_id": "Baj_021",
+      "skills": []
+    },
+    {
+      "name": "Sidharath Bansal",
+      "position": "DevOps Engineer @ Bajaj Finserv Health | Toastmaster | Curious",
+      "employee_id": "Baj_022",
+      "skills": [
+        "DevOps",
+        "CI/CD",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "Ansible",
+        "Terraform",
+        "Linux",
+        "Monitoring and Logging"
+      ]
+    },
+    {
+      "name": "Soham Dixit",
+      "position": "Sr. Engineering Manager @ Bajaj Finserv Health | 30 under 30 - Bajaj Finserv | Ex American Express | Hackathons | Solutioning | Creating the impact :)",
+      "employee_id": "Baj_023",
+      "skills": [
+        "Engineering Management",
+        "Solutioning",
+        "Impact Creation",
+        "Hackathons",
+        "Financial Services",
+        "Health Technology",
+        "Team Leadership",
+        "Project Management",
+        "Software Development",
+        "Technical Strategy"
+      ]
+    },
+    {
+      "name": "Mudit Mehrish",
+      "position": "",
+      "employee_id": "Baj_024",
+      "skills": []
+    },
+    {
+      "name": "Praveen Bhatia",
+      "position": "",
+      "employee_id": "Baj_025",
+      "skills": []
+    },
+    {
+      "name": "Rutinder Negi",
+      "position": "",
+      "employee_id": "Baj_026",
+      "skills": []
+    },
+    {
+      "name": "Pravin Patil",
+      "position": "",
+      "employee_id": "Baj_027",
+      "skills": []
+    },
+    {
+      "name": "N Kiran Kumar",
+      "position": "Fin.AI | Prompt to Impact | Challenger & Cheer Leader | Ex Co-Founder | Enterprise Architect | <Hands On/>",
+      "employee_id": "Baj_028",
+      "skills": [
+        "Artificial Intelligence",
+        "Enterprise Architecture",
+        "Fintech",
+        "Prompt Engineering",
+        "Leadership",
+        "Software Development",
+        "Hands-on Technical Skills",
+        "Co-Founder Experience",
+        "Impact Analysis",
+        "Technical Strategy"
+      ]
+    },
+    {
+      "name": "Manjunath BR",
+      "position": "Sr.Regional Manager at Bajaj Finserv",
+      "employee_id": "Baj_029",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Team Leadership",
+        "Sales Strategy",
+        "Customer Relationship Management",
+        "Market Analysis",
+        "Business Development",
+        "Project Management",
+        "Budgeting",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Dipti Saraf",
+      "position": "National Lead - Human Resources at Bajaj Finserv",
+      "employee_id": "Baj_030",
+      "skills": [
+        "Human Resources Management",
+        "Talent Acquisition",
+        "Employee Relations",
+        "Performance Management",
+        "HR Analytics",
+        "Compensation and Benefits",
+        "Labor Law Compliance",
+        "Organizational Development",
+        "Training and Development",
+        "Succession Planning"
+      ]
+    },
+    {
+      "name": "Paritosh Jauhari",
+      "position": "",
+      "employee_id": "Baj_031",
+      "skills": []
+    },
+    {
+      "name": "Dr. Amarjit S Kapoor",
+      "position": "Senior Head - Digital Platforms at Bajaj Finserv",
+      "employee_id": "Baj_032",
+      "skills": [
+        "Digital Platforms",
+        "Project Management",
+        "Financial Services",
+        "Business Strategy",
+        "Technology Integration",
+        "Data Analytics",
+        "Software Development",
+        "Leadership",
+        "Risk Management",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Sathyasiddha Pattanaik",
+      "position": "UX Designer @Bajaj Finserv Health",
+      "employee_id": "Baj_033",
+      "skills": [
+        "User Experience Design",
+        "Wireframing",
+        "Prototyping",
+        "User Research",
+        "Usability Testing",
+        "Interaction Design",
+        "Adobe XD",
+        "Sketch",
+        "Figma",
+        "Design Thinking"
+      ]
+    },
+    {
+      "name": "Swapna Wazalwar",
+      "position": "Senior Lead - CSR Communication at Bajaj Finserv",
+      "employee_id": "Baj_034",
+      "skills": [
+        "Corporate Social Responsibility",
+        "Communication Strategy",
+        "Stakeholder Engagement",
+        "Public Relations",
+        "Content Creation",
+        "Project Management",
+        "Event Planning",
+        "Social Media Management",
+        "Brand Management",
+        "Report Writing"
+      ]
+    },
+    {
+      "name": "Ami Jagani",
+      "position": "Bajaj Finserv | IIM Bangalore | Kearney | ZS",
+      "employee_id": "Baj_035",
+      "skills": [
+        "Financial Analysis",
+        "Strategic Planning",
+        "Consulting",
+        "Project Management",
+        "Business Development",
+        "Market Research",
+        "Data Analytics",
+        "Risk Management",
+        "Client Relations",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Maninder Gill",
+      "position": "",
+      "employee_id": "Baj_036",
+      "skills": []
+    },
+    {
+      "name": "Sabyasachi Mukerji, CFA",
+      "position": "Bajaj Finserv AMC || Buy side Analyst || MBA IIM Ranchi, B.E Jadavpur University",
+      "employee_id": "Baj_037",
+      "skills": [
+        "Financial Analysis",
+        "Investment Research",
+        "Portfolio Management",
+        "Equity Analysis",
+        "Market Trends Analysis",
+        "Risk Assessment",
+        "Valuation Techniques",
+        "Excel",
+        "Bloomberg Terminal",
+        "Financial Modeling"
+      ]
+    },
+    {
+      "name": "Abhishek Prakash",
+      "position": "",
+      "employee_id": "Baj_038",
+      "skills": []
+    },
+    {
+      "name": "Leena Rajan",
+      "position": "National Lead- CSR",
+      "employee_id": "Baj_039",
+      "skills": [
+        "Corporate Social Responsibility",
+        "Project Management",
+        "Stakeholder Engagement",
+        "Sustainability Reporting",
+        "Community Development",
+        "Grant Writing",
+        "Impact Assessment",
+        "Budget Management",
+        "Public Relations",
+        "Event Planning"
+      ]
+    },
+    {
+      "name": "Harish Iyer",
+      "position": "Head - Compliance, Legal & Secretarial at Bajaj Finserv Asset Management Limited",
+      "employee_id": "Baj_040",
+      "skills": [
+        "Compliance Management",
+        "Legal Expertise",
+        "Corporate Governance",
+        "Risk Management",
+        "Regulatory Affairs",
+        "Secretarial Practices",
+        "Financial Regulations",
+        "Audit Management",
+        "Policy Development",
+        "Contract Negotiation"
+      ]
+    },
+    {
+      "name": "Ankit Chugh",
+      "position": "",
+      "employee_id": "Baj_041",
+      "skills": []
+    },
+    {
+      "name": "Nitish Asthana",
+      "position": "",
+      "employee_id": "Baj_042",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Risk Management",
+        "Project Management",
+        "Business Development",
+        "Market Research",
+        "Team Management",
+        "Negotiation",
+        "Budgeting"
+      ]
+    },
+    {
+      "name": "Kajal Rana",
+      "position": "SSE @Valuelabs | Ex-Bajaj Finserv Health | AWS Solutions Architect, Databricks Lakehouse",
+      "employee_id": "Baj_043",
+      "skills": [
+        "AWS Solutions Architect",
+        "Databricks Lakehouse",
+        "Cloud Computing",
+        "Data Engineering",
+        "Big Data",
+        "Software Development",
+        "System Design",
+        "Database Management",
+        "Health Tech",
+        "Financial Services"
+      ]
+    },
+    {
+      "name": "Mangesh Anaokar",
+      "position": "",
+      "employee_id": "Baj_044",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Microsoft Office",
+        "Negotiation",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Archit Raj",
+      "position": "Senior Data Scientist at Bajaj Finserv Health",
+      "employee_id": "Baj_045",
+      "skills": [
+        "Python",
+        "Data Analysis",
+        "Machine Learning",
+        "Statistical Modeling",
+        "SQL",
+        "Big Data",
+        "Data Visualization",
+        "Predictive Analytics",
+        "Healthcare Analytics",
+        "R"
+      ]
+    },
+    {
+      "name": "Rajeev Malhotra",
+      "position": "National Sales Manager@Bajaj Finserv|Ex Vivo|Ex Apple",
+      "employee_id": "Baj_046",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "Customer Relationship Management (CRM)",
+        "Negotiation",
+        "Business Development",
+        "Revenue Growth",
+        "Sales Forecasting",
+        "Financial Services",
+        "Account Management"
+      ]
+    },
+    {
+      "name": "Venkat Raman",
+      "position": "Reputation Architect | Strategic Communications | Building Trust Through Storytelling",
+      "employee_id": "Baj_047",
+      "skills": [
+        "Reputation Management",
+        "Strategic Communications",
+        "Storytelling",
+        "Public Relations",
+        "Crisis Management",
+        "Brand Management",
+        "Media Relations",
+        "Corporate Communications",
+        "Content Creation",
+        "Stakeholder Engagement"
+      ]
+    },
+    {
+      "name": "Saurabh Sharma",
+      "position": "",
+      "employee_id": "Baj_048",
+      "skills": []
+    },
+    {
+      "name": "Shubham Mittal",
+      "position": "DGM- Corporate Social Responsibility at Bajaj Finserv",
+      "employee_id": "Baj_049",
+      "skills": [
+        "Corporate Social Responsibility",
+        "Project Management",
+        "Stakeholder Engagement",
+        "Strategic Planning",
+        "Sustainability Reporting",
+        "Community Development",
+        "Budget Management",
+        "Impact Assessment",
+        "Grant Writing",
+        "Public Relations"
+      ]
+    },
+    {
+      "name": "Anshuman Mishra",
+      "position": "Chief Financial Officer at Bajaj Finserv Direct Limited",
+      "employee_id": "Baj_050",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Financial Modeling",
+        "Budgeting",
+        "Strategic Planning",
+        "Corporate Finance",
+        "Investment Management",
+        "Accounting",
+        "Data Analysis",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Ravinder B.",
+      "position": "Program Manager, Digital Platform @ Bajaj Finserv | PMP, Executive Management Program",
+      "employee_id": "Baj_051",
+      "skills": [
+        "Project Management",
+        "Digital Platforms",
+        "PMP Certification",
+        "Executive Management",
+        "Financial Services",
+        "Program Coordination",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Agile Methodologies",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Prashant Dave",
+      "position": "VP - Data Engineering, IT at Bajaj Finserv with 18+ years in Data Engineering, BI, Analytics, and Data Architecture across BFSI, e-commerce, and shipping. Experienced with Bajaj Finserv, Amazon, Maersk, and HDFC.",
+      "employee_id": "Baj_052",
+      "skills": [
+        "Data Engineering",
+        "Business Intelligence",
+        "Analytics",
+        "Data Architecture",
+        "BFSI",
+        "E-commerce",
+        "Shipping",
+        "Amazon Web Services (AWS)",
+        "SQL",
+        "Python"
+      ]
+    },
+    {
+      "name": "Nitin Neema",
+      "position": "Executive Vice President Operations and Service at Bajaj Finserv",
+      "employee_id": "Baj_053",
+      "skills": [
+        "Operations Management",
+        "Service Management",
+        "Financial Services",
+        "Strategic Planning",
+        "Process Improvement",
+        "Risk Management",
+        "Customer Relationship Management (CRM)",
+        "Project Management",
+        "Leadership",
+        "Data Analysis"
+      ]
+    },
+    {
+      "name": "Tejasri Bhaskar",
+      "position": "Unit Manager | Bajaj Finserv | Insurance Marketplace",
+      "employee_id": "Baj_054",
+      "skills": [
+        "Insurance Management",
+        "Financial Analysis",
+        "Risk Assessment",
+        "Team Leadership",
+        "Customer Relationship Management (CRM)",
+        "Sales Strategy",
+        "Market Research",
+        "Data Interpretation",
+        "Regulatory Compliance",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Manav Mianwal",
+      "position": "",
+      "employee_id": "Baj_055",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Management",
+        "Stakeholder Communication",
+        "Performance Analysis",
+        "Microsoft Office",
+        "Problem Solving",
+        "Decision Making"
+      ]
+    },
+    {
+      "name": "Mrunali Mishra",
+      "position": "Manager - Human Resources at Bajaj Finserv Health",
+      "employee_id": "Baj_056",
+      "skills": [
+        "Human Resources Management",
+        "Employee Relations",
+        "Talent Acquisition",
+        "Performance Management",
+        "HRIS (Human Resource Information System)",
+        "Compensation and Benefits",
+        "Labor Law Compliance",
+        "Organizational Development",
+        "Conflict Resolution",
+        "Training and Development"
+      ]
+    },
+    {
+      "name": "Chintan Sanan",
+      "position": "Business Head at Bajaj Finserv",
+      "employee_id": "Baj_057",
+      "skills": [
+        "Financial Analysis",
+        "Risk Management",
+        "Strategic Planning",
+        "Business Development",
+        "Market Research",
+        "Project Management",
+        "Data Analysis",
+        "Customer Relationship Management (CRM)",
+        "Budgeting",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Sayani Mukherjee",
+      "position": "Chief Manager @ Bajaj Finserv AMC || Product Manager for Passive Mutual Funds || ETFs & Index Funds || PMO || Digital Product Development",
+      "employee_id": "Baj_058",
+      "skills": [
+        "Product Management",
+        "Passive Mutual Funds",
+        "ETFs",
+        "Index Funds",
+        "PMO",
+        "Digital Product Development",
+        "Financial Services",
+        "Investment Strategies",
+        "Market Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Nitin Verma",
+      "position": "",
+      "employee_id": "Baj_059",
+      "skills": []
+    },
+    {
+      "name": "Prasanna Jain",
+      "position": "",
+      "employee_id": "Baj_060",
+      "skills": []
+    },
+    {
+      "name": "Babu Rao P",
+      "position": "",
+      "employee_id": "Baj_061",
+      "skills": []
+    },
+    {
+      "name": "Faraz Khan",
+      "position": "Deputy National Lead - Digital Planning & Acquisition @ Bajaj Finserv | Driving Data-Driven Business Growth",
+      "employee_id": "Baj_062",
+      "skills": [
+        "Digital Marketing",
+        "Data Analysis",
+        "SEO",
+        "SEM",
+        "Google Analytics",
+        "Content Strategy",
+        "Marketing Automation",
+        "CRM",
+        "Business Growth Strategies",
+        "Performance Marketing"
+      ]
+    },
+    {
+      "name": "Natasha Liberatus",
+      "position": "Leading IT Applications @ Bajaj Finserv Asset Management Ltd | Driving IT Strategy | TOGAF 10.0 Certified | NISM 5A Certified",
+      "employee_id": "Baj_063",
+      "skills": [
+        "IT Strategy",
+        "TOGAF 10.0",
+        "NISM 5A",
+        "Asset Management",
+        "Applications Development",
+        "Financial Services",
+        "Enterprise Architecture",
+        "Project Management",
+        "Software Development",
+        "IT Governance"
+      ]
+    },
+    {
+      "name": "Parag Kulkarni",
+      "position": "",
+      "employee_id": "Baj_064",
+      "skills": [
+        "Project Management",
+        "Business Analysis",
+        "Strategic Planning",
+        "Market Research",
+        "Financial Analysis",
+        "Customer Relationship Management",
+        "Sales Strategy",
+        "Budgeting",
+        "Team Leadership",
+        "Negotiation"
+      ]
+    },
+    {
+      "name": "Sreejesh S Nair",
+      "position": "Innovation, Emerging Tech & Gen AI ll Bajaj Finserv ll Ex-Microsoft",
+      "employee_id": "Baj_065",
+      "skills": [
+        "Innovation Management",
+        "Emerging Technologies",
+        "Generative AI",
+        "Microsoft Azure",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Data Analytics",
+        "Cloud Computing",
+        "Software Development",
+        "Technology Strategy"
+      ]
+    },
+    {
+      "name": "Himank Jain",
+      "position": "Senior Data Scientist @Bajaj Finserv Health | Translating complex data into simpler solutions for Healthcare | Problem Solver | Learner",
+      "employee_id": "Baj_066",
+      "skills": [
+        "Data Analysis",
+        "Machine Learning",
+        "Python",
+        "R",
+        "Statistical Modeling",
+        "Healthcare Analytics",
+        "Big Data",
+        "SQL",
+        "Data Visualization",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Ashish Zope",
+      "position": "Senior Data Engineer | Databricks | PySpark | SQL | Delta Lake | Big Data | Cloud | FinTech",
+      "employee_id": "Baj_067",
+      "skills": [
+        "Databricks",
+        "PySpark",
+        "SQL",
+        "Delta Lake",
+        "Big Data",
+        "Cloud",
+        "FinTech",
+        "Data Engineering",
+        "Data Processing",
+        "Data Warehousing"
+      ]
+    },
+    {
+      "name": "Namrath Shetty",
+      "position": "",
+      "employee_id": "Baj_068",
+      "skills": []
+    },
+    {
+      "name": "Supraja Battula",
+      "position": "Lead - Tech and Business Process Re-engineering | GYLP - Bajaj Finserv",
+      "employee_id": "Baj_069",
+      "skills": [
+        "Business Process Re-engineering",
+        "Project Management",
+        "Data Analysis",
+        "Process Improvement",
+        "Financial Services",
+        "Stakeholder Management",
+        "Change Management",
+        "Agile Methodologies",
+        "Business Analysis",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Shubham Gupta",
+      "position": "Pocket FM | Bajaj Finserv | IIM Bangalore | IIT Delhi",
+      "employee_id": "Baj_070",
+      "skills": [
+        "Audio Content Creation",
+        "Financial Services",
+        "Business Strategy",
+        "Data Analysis",
+        "Market Research",
+        "Project Management",
+        "Digital Marketing",
+        "Python",
+        "SQL",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "Aashish Ranjan",
+      "position": "",
+      "employee_id": "Baj_071",
+      "skills": []
+    },
+    {
+      "name": "Gunjan Grover",
+      "position": "",
+      "employee_id": "Baj_072",
+      "skills": []
+    },
+    {
+      "name": "Aditya Bhuyan",
+      "position": "Senior Risk Head - Bajaj Finserv I Ex-Amex I Ex-SBI Card",
+      "employee_id": "Baj_073",
+      "skills": [
+        "Risk Management",
+        "Financial Analysis",
+        "Credit Risk",
+        "Operational Risk",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Financial Modeling",
+        "Risk Assessment",
+        "Portfolio Management",
+        "Fraud Detection"
+      ]
+    },
+    {
+      "name": "Anushree Patankar",
+      "position": "Strategic Business Architect & Product Manager at Bajaj Finserv | MarTech & Gen AI | AEM Business Practitioner | MBA Marketing & Finance- Symbiosis Institute of Business Management",
+      "employee_id": "Baj_074",
+      "skills": [
+        "Strategic Business Architecture",
+        "Product Management",
+        "MarTech",
+        "Generative AI",
+        "AEM (Adobe Experience Manager)",
+        "Marketing Strategy",
+        "Financial Analysis",
+        "Business Strategy",
+        "Project Management",
+        "Customer Experience Management"
+      ]
+    },
+    {
+      "name": "Gurvinder Singh Lamba",
+      "position": "Regional Manager Administration at Bajaj Finserv",
+      "employee_id": "Baj_075",
+      "skills": [
+        "Administration",
+        "Team Management",
+        "Financial Services",
+        "Customer Relationship Management",
+        "Strategic Planning",
+        "Budget Management",
+        "Regulatory Compliance",
+        "Operational Efficiency",
+        "Project Management",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Jay Jain",
+      "position": "Quant | Board of Studies | Prev - Dolat Capital HFT, Bajaj Finserv and Baker Hughes",
+      "employee_id": "Baj_076",
+      "skills": [
+        "Quantitative Analysis",
+        "High-Frequency Trading",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Analysis",
+        "Algorithmic Trading",
+        "Statistical Analysis",
+        "Python",
+        "Machine Learning",
+        "Investment Strategies"
+      ]
+    },
+    {
+      "name": "Dhruv Bisht",
+      "position": "",
+      "employee_id": "Baj_077",
+      "skills": []
+    },
+    {
+      "name": "Manish Pathania",
+      "position": "Deputy CBO- Unsecured Loans - Bajaj Finserv Markets",
+      "employee_id": "Baj_078",
+      "skills": [
+        "Loan Processing",
+        "Risk Assessment",
+        "Credit Analysis",
+        "Financial Modeling",
+        "Customer Relationship Management (CRM)",
+        "Regulatory Compliance",
+        "Data Analysis",
+        "Market Research",
+        "Business Strategy",
+        "Portfolio Management"
+      ]
+    },
+    {
+      "name": "Prasad Deshpande",
+      "position": "",
+      "employee_id": "Baj_079",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Management",
+        "Stakeholder Communication",
+        "Microsoft Office",
+        "Data Analysis",
+        "Process Improvement",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "name": "Tejas Sharma",
+      "position": "Regional Sales Manager @ Bajaj Finserv | MBA-PGDM in Marketing",
+      "employee_id": "Baj_080",
+      "skills": [
+        "Sales Strategy",
+        "Market Analysis",
+        "Customer Relationship Management",
+        "Team Leadership",
+        "Salesforce",
+        "Negotiation",
+        "Business Development",
+        "Marketing Strategy",
+        "Revenue Forecasting",
+        "Data Analysis"
+      ]
+    }
+  ]
+}

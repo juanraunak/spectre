@@ -1,0 +1,1677 @@
+{
+  "company_name": "Xto10X",
+  "employees": [
+    {
+      "name": "Saikiran Krishnamurthy",
+      "position": "",
+      "employee_id": "Xto_001",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "Agile Methodologies",
+        "Java",
+        "Python",
+        "SQL",
+        "System Design",
+        "Cloud Computing",
+        "DevOps",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Neeraj Aggarwal",
+      "position": "",
+      "employee_id": "Xto_002",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Performance Monitoring",
+        "Resource Allocation",
+        "Quality Assurance",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rahul Jagannathan",
+      "position": "People Practice at xto10x | Leadership roles in startups | ICF Credentialed Coach | Hogan Certified | Music Hobbyist",
+      "employee_id": "Xto_003",
+      "skills": [
+        "Leadership",
+        "Coaching",
+        "Talent Management",
+        "Employee Engagement",
+        "Organizational Development",
+        "Hogan Assessment",
+        "Performance Management",
+        "Startups",
+        "People Practice",
+        "ICF Coaching"
+      ]
+    },
+    {
+      "name": "Arun Vigneswaran",
+      "position": "Head of People practice @ xto10x | Ex-Flipkart | TISS",
+      "employee_id": "Xto_004",
+      "skills": [
+        "Human Resources Management",
+        "Talent Acquisition",
+        "Employee Engagement",
+        "Performance Management",
+        "Organizational Development",
+        "Leadership Development",
+        "HR Analytics",
+        "Change Management",
+        "Compensation and Benefits",
+        "Employee Relations"
+      ]
+    },
+    {
+      "name": "Tanveer Ahmed",
+      "position": "Operations Excellence@xto10x | MIT SCM | Flipkart | IIT Bhubaneswar | E-commerce Supply Chain | Design | Product | Operations",
+      "employee_id": "Xto_005",
+      "skills": [
+        "Supply Chain Management",
+        "E-commerce",
+        "Operations Management",
+        "Product Design",
+        "Process Improvement",
+        "Data Analysis",
+        "Project Management",
+        "Logistics",
+        "Inventory Management",
+        "Lean Six Sigma"
+      ]
+    },
+    {
+      "name": "Srinivaas Kartikk Takillapati",
+      "position": "",
+      "employee_id": "Xto_006",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "Agile Methodologies",
+        "Java",
+        "Python",
+        "SQL",
+        "Cloud Computing",
+        "System Architecture",
+        "DevOps",
+        "Technical Leadership"
+      ]
+    },
+    {
+      "name": "Khyati Shah",
+      "position": "Services at xto10x",
+      "employee_id": "Xto_007",
+      "skills": [
+        "Customer Service",
+        "Project Management",
+        "Client Relations",
+        "Service Delivery",
+        "Problem Solving",
+        "Communication Skills",
+        "Team Collaboration",
+        "Process Improvement",
+        "Time Management",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Praveen Nair",
+      "position": "",
+      "employee_id": "Xto_008",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Management",
+        "Stakeholder Communication",
+        "Microsoft Office Suite",
+        "Process Improvement",
+        "Performance Analysis",
+        "Resource Allocation"
+      ]
+    },
+    {
+      "name": "Nikhil Tyagi",
+      "position": "Helping companies in their journey to scale from x to 10x! Talk to me about P&L Transformation, CX/Growth strategy, People & Culture or Leadership Coaching programs",
+      "employee_id": "Xto_009",
+      "skills": [
+        "P&L Transformation",
+        "CX Strategy",
+        "Growth Strategy",
+        "People & Culture",
+        "Leadership Coaching",
+        "Business Scaling",
+        "Organizational Development",
+        "Change Management",
+        "Strategic Planning",
+        "Performance Improvement"
+      ]
+    },
+    {
+      "name": "Vijay Babu T S",
+      "position": "",
+      "employee_id": "Xto_010",
+      "skills": [
+        "Project Management",
+        "Software Development",
+        "Agile Methodologies",
+        "Team Leadership",
+        "Problem Solving",
+        "Technical Documentation",
+        "Quality Assurance",
+        "System Design",
+        "Process Improvement",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "name": "Vijay Babu T S",
+      "position": "",
+      "employee_id": "Xto_011",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "Agile Methodologies",
+        "Java",
+        "C++",
+        "SQL",
+        "System Design",
+        "Troubleshooting",
+        "Version Control",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "name": "Ankit Gupta",
+      "position": "Growth Leader @ xto10x, ex-Flipkart | BITS Pilani & IIM Alum",
+      "employee_id": "Xto_012",
+      "skills": [
+        "Growth Strategy",
+        "Market Analysis",
+        "Business Development",
+        "Data Analytics",
+        "E-commerce",
+        "Leadership",
+        "Project Management",
+        "Customer Acquisition",
+        "Product Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Pawan Raghuveer",
+      "position": "Operations Excellence at xto10x",
+      "employee_id": "Xto_013",
+      "skills": [
+        "Process Improvement",
+        "Operational Efficiency",
+        "Data Analysis",
+        "Project Management",
+        "Lean Six Sigma",
+        "Performance Metrics",
+        "Workflow Optimization",
+        "Business Analytics",
+        "Change Management",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "name": "Himanshu Kanwar",
+      "position": "GM - Growth and Marketing practice at xto10x",
+      "employee_id": "Xto_014",
+      "skills": [
+        "Growth Strategy",
+        "Marketing Analytics",
+        "Digital Marketing",
+        "Customer Acquisition",
+        "Brand Management",
+        "SEO",
+        "Content Marketing",
+        "Performance Marketing",
+        "Market Research",
+        "Data-driven Decision Making"
+      ]
+    },
+    {
+      "name": "Gaurav Choudhary",
+      "position": "Co-founder at Onya | Product Leader at xto10x | Ex Myntra | Ex OLA | IIT Kanpur",
+      "employee_id": "Xto_015",
+      "skills": [
+        "Product Management",
+        "Leadership",
+        "Startup Development",
+        "E-commerce",
+        "Transportation Technology",
+        "Strategic Planning",
+        "Team Building",
+        "Market Analysis",
+        "Project Management",
+        "Data-Driven Decision Making"
+      ]
+    },
+    {
+      "name": "Bhaveek Jain",
+      "position": "Tech @xto10x | Fullstack Developer - React(Nextjs)",
+      "employee_id": "Xto_016",
+      "skills": [
+        "React",
+        "Next.js",
+        "Fullstack Development",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "REST APIs",
+        "Git",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "Kunal Shah",
+      "position": "xto10x Technologies | Urban Ladder | IIM Indore",
+      "employee_id": "Xto_017",
+      "skills": [
+        "Business Strategy",
+        "Product Management",
+        "E-commerce",
+        "Market Analysis",
+        "Operations Management",
+        "Leadership",
+        "Team Building",
+        "Project Management",
+        "Customer Experience",
+        "Data Analytics"
+      ]
+    },
+    {
+      "name": "Tanmay A.",
+      "position": "Product @ xto10x | Helping startups scale smarter",
+      "employee_id": "Xto_018",
+      "skills": [
+        "Product Management",
+        "Startup Scaling",
+        "Market Analysis",
+        "Strategic Planning",
+        "Project Management",
+        "Agile Methodologies",
+        "User Experience (UX) Design",
+        "Data-Driven Decision Making",
+        "Business Development",
+        "Product Strategy"
+      ]
+    },
+    {
+      "name": "Avinash Dontamsetty",
+      "position": "Building Shopdeck | xto10x | Credit Suisse",
+      "employee_id": "Xto_019",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "E-commerce Platforms",
+        "Financial Services",
+        "Risk Management",
+        "Data Analysis",
+        "Team Collaboration",
+        "Technical Documentation",
+        "Agile Methodologies",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Ramya S.",
+      "position": "15+ Years of Strategic Leadership in Scaling Startups across SaaS and Consumer Tech | ex-xto10x, Myntra, Amazon, Ola, BCG | Gold medalist at IIM,Lucknow",
+      "employee_id": "Xto_020",
+      "skills": [
+        "Strategic Leadership",
+        "Scaling Startups",
+        "SaaS",
+        "Consumer Tech",
+        "Project Management",
+        "Business Strategy",
+        "Market Analysis",
+        "Team Building",
+        "Operational Efficiency",
+        "Product Development"
+      ]
+    },
+    {
+      "name": "Prateek Dasgupta",
+      "position": "Partnerships, Content, 0-to-1 | xto10x . upGrad . BITS Pilani",
+      "employee_id": "Xto_021",
+      "skills": [
+        "Partnership Management",
+        "Content Strategy",
+        "Business Development",
+        "Project Management",
+        "Market Research",
+        "Strategic Planning",
+        "Digital Marketing",
+        "Team Leadership",
+        "Negotiation",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Rhythm Bhaskar",
+      "position": "Brand Marketing @xto10x | Consumer Insights | Psychologist",
+      "employee_id": "Xto_022",
+      "skills": [
+        "Brand Marketing",
+        "Consumer Insights",
+        "Psychology",
+        "Market Research",
+        "Data Analysis",
+        "Advertising",
+        "Digital Marketing",
+        "Social Media Strategy",
+        "Content Creation",
+        "Campaign Management"
+      ]
+    },
+    {
+      "name": "Ramya S.",
+      "position": "15+ Years of Strategic Leadership in Scaling Startups across SaaS and Consumer Tech | ex-xto10x, Myntra, Amazon, Ola, BCG | Gold medalist at IIM,Lucknow",
+      "employee_id": "Xto_023",
+      "skills": [
+        "Strategic Leadership",
+        "Scaling Startups",
+        "SaaS",
+        "Consumer Tech",
+        "Business Strategy",
+        "Project Management",
+        "Market Analysis",
+        "Team Building",
+        "Product Development",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Naveena Pallavi",
+      "position": "IPO at xto10x | Ex-VC, Citi",
+      "employee_id": "Xto_024",
+      "skills": [
+        "Investment Banking",
+        "Venture Capital",
+        "Financial Analysis",
+        "Market Research",
+        "Strategic Planning",
+        "Portfolio Management",
+        "Risk Assessment",
+        "Corporate Finance",
+        "Business Development",
+        "Mergers and Acquisitions"
+      ]
+    },
+    {
+      "name": "Srayon Datta",
+      "position": "Scaling Blackbaud's Customer support engine in India | xto10x | UNV | Presidency University",
+      "employee_id": "Xto_025",
+      "skills": [
+        "Customer Support",
+        "Scaling Operations",
+        "Technical Support",
+        "Process Improvement",
+        "Team Management",
+        "CRM Software",
+        "Data Analysis",
+        "Project Management",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Rohith Botu",
+      "position": "Operations Practice @xto10x | Ex-Intern @Flipkart | BITS Pilani'24",
+      "employee_id": "Xto_026",
+      "skills": [
+        "Operations Management",
+        "Data Analysis",
+        "Supply Chain Management",
+        "Process Improvement",
+        "Project Management",
+        "Excel",
+        "SQL",
+        "Business Strategy",
+        "Logistics",
+        "Analytical Skills"
+      ]
+    },
+    {
+      "name": "Chandan Kar",
+      "position": "Business Transformation & Strategy @ Mercer || ex-McKinsey || xto10x",
+      "employee_id": "Xto_027",
+      "skills": [
+        "Business Strategy",
+        "Transformation Management",
+        "Data Analysis",
+        "Management Consulting",
+        "Financial Modeling",
+        "Project Management",
+        "Market Research",
+        "Stakeholder Management",
+        "Operational Efficiency",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Ankit Hetamsaria",
+      "position": "xto10x | Ex-Founder Bambinos.live | Cure.fit | Flipkart",
+      "employee_id": "Xto_028",
+      "skills": [
+        "Entrepreneurship",
+        "Business Development",
+        "Product Management",
+        "E-commerce",
+        "Health and Wellness Industry",
+        "Start-up Strategy",
+        "Market Research",
+        "Team Leadership",
+        "Operations Management",
+        "Strategic Planning"
+      ]
+    },
+    {
+      "name": "Ashutosh Gaud",
+      "position": "Senior Product Designer at xto10x | Ex-MoMoney | Ex-Parallelhq",
+      "employee_id": "Xto_029",
+      "skills": [
+        "Product Design",
+        "User Experience (UX) Design",
+        "User Interface (UI) Design",
+        "Wireframing",
+        "Prototyping",
+        "Adobe XD",
+        "Sketch",
+        "Figma",
+        "Interaction Design",
+        "Visual Design"
+      ]
+    },
+    {
+      "name": "Phalguni Aneja",
+      "position": "",
+      "employee_id": "Xto_030",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Microsoft Office",
+        "Problem Solving",
+        "Decision Making",
+        "Time Management"
+      ]
+    },
+    {
+      "name": "Ashutosh Gaud",
+      "position": "Senior Product Designer at xto10x | Ex-MoMoney | Ex-Parallelhq",
+      "employee_id": "Xto_031",
+      "skills": [
+        "Product Design",
+        "User Experience (UX) Design",
+        "User Interface (UI) Design",
+        "Prototyping",
+        "Wireframing",
+        "Adobe Creative Suite",
+        "Sketch",
+        "Figma",
+        "Interaction Design",
+        "Design Thinking"
+      ]
+    },
+    {
+      "name": "Deeksha Verma",
+      "position": "Senior Software Developer @ xto10x | BE in Computer Science",
+      "employee_id": "Xto_032",
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Agile Methodologies",
+        "Microservices",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "name": "Rama Bhat",
+      "position": "",
+      "employee_id": "Xto_033",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Microsoft Office",
+        "Process Improvement",
+        "Performance Analysis",
+        "Resource Allocation"
+      ]
+    },
+    {
+      "name": "Pallavi Bhagavatula",
+      "position": "Brand and Marketing at xto10x",
+      "employee_id": "Xto_034",
+      "skills": [
+        "Brand Strategy",
+        "Marketing Campaigns",
+        "Digital Marketing",
+        "Content Creation",
+        "SEO",
+        "Social Media Marketing",
+        "Market Research",
+        "Analytics",
+        "Email Marketing",
+        "Customer Engagement"
+      ]
+    },
+    {
+      "name": "Hartej Singh",
+      "position": "",
+      "employee_id": "Xto_035",
+      "skills": []
+    },
+    {
+      "name": "Ankit Hetamsaria",
+      "position": "xto10x | Ex-Founder Bambinos.live | Cure.fit | Flipkart",
+      "employee_id": "Xto_036",
+      "skills": [
+        "Entrepreneurship",
+        "Business Development",
+        "Product Management",
+        "E-commerce",
+        "Health and Wellness Industry",
+        "Startup Management",
+        "Strategic Planning",
+        "Market Research",
+        "Team Leadership",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "Phalguni Aneja",
+      "position": "",
+      "employee_id": "Xto_037",
+      "skills": [
+        "Project Management",
+        "Agile Methodologies",
+        "Team Leadership",
+        "Software Development Lifecycle",
+        "Budget Management",
+        "Risk Assessment",
+        "Stakeholder Communication",
+        "Resource Allocation",
+        "Quality Assurance",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Abhishek Kumar",
+      "position": "",
+      "employee_id": "Xto_038",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Web Development",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "Problem Solving",
+        "Debugging"
+      ]
+    },
+    {
+      "name": "T DINESHKUMAR",
+      "position": "SDE III at xto10x Technologies Pvt Ltd",
+      "employee_id": "Xto_039",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "System Design",
+        "Microservices",
+        "API Development",
+        "Cloud Computing",
+        "Agile Methodologies",
+        "Database Management",
+        "Version Control"
+      ]
+    },
+    {
+      "name": "Kejal Shah",
+      "position": "Capability Building at xto10x | ex-The Souled Store | ex-Teach For India",
+      "employee_id": "Xto_040",
+      "skills": [
+        "Capability Building",
+        "Training and Development",
+        "Project Management",
+        "Leadership Development",
+        "Strategic Planning",
+        "Team Management",
+        "Performance Improvement",
+        "Organizational Development",
+        "Stakeholder Engagement",
+        "Educational Program Design"
+      ]
+    },
+    {
+      "name": "Varun Malik",
+      "position": "Building xto10x | ex-KPMG | XLRI",
+      "employee_id": "Xto_041",
+      "skills": [
+        "Business Strategy",
+        "Management Consulting",
+        "Financial Analysis",
+        "Data Analytics",
+        "Project Management",
+        "Market Research",
+        "Leadership",
+        "Excel",
+        "PowerPoint",
+        "Presentation Skills"
+      ]
+    },
+    {
+      "name": "Bhanu Pathak",
+      "position": "Ex-CBO, Tata Neu | Built India\u2019s Boldest Digital Commerce Bets | xto10x | Udaan Founding Team | Flipkart | P&G, J&J | India + GCC",
+      "employee_id": "Xto_042",
+      "skills": [
+        "Digital Commerce",
+        "E-commerce Strategy",
+        "Business Development",
+        "Market Expansion",
+        "Team Leadership",
+        "Project Management",
+        "Strategic Planning",
+        "Product Management",
+        "Operations Management",
+        "Sales Strategy"
+      ]
+    },
+    {
+      "name": "Vinay Kenguva",
+      "position": "Software Developer @Xto10X | Leetcode : 1000+ problems | Ex Lendingkrt, Chqbook | Java, SpringBoot | FinTech | IIIT Guwahati '23",
+      "employee_id": "Xto_043",
+      "skills": [
+        "Java",
+        "SpringBoot",
+        "Leetcode",
+        "Software Development",
+        "FinTech",
+        "Problem Solving",
+        "Backend Development",
+        "API Development",
+        "Microservices",
+        "Database Management"
+      ]
+    },
+    {
+      "name": "CA Hari Prakash",
+      "position": "",
+      "employee_id": "Xto_044",
+      "skills": [
+        "Accounting",
+        "Financial Analysis",
+        "Taxation",
+        "Auditing",
+        "Financial Reporting",
+        "Budgeting",
+        "Compliance",
+        "Excel",
+        "SAP",
+        "Risk Management"
+      ]
+    },
+    {
+      "name": "Pragnya Kotaru",
+      "position": "Growth & Revenue, xto10x",
+      "employee_id": "Xto_045",
+      "skills": [
+        "Revenue Growth",
+        "Business Strategy",
+        "Market Analysis",
+        "Customer Acquisition",
+        "Data Analytics",
+        "Sales Forecasting",
+        "Financial Planning",
+        "CRM Software",
+        "Performance Metrics",
+        "Competitive Analysis"
+      ]
+    },
+    {
+      "name": "Rishhi Mehra",
+      "position": "Connecting Talent with Opportunity",
+      "employee_id": "Xto_046",
+      "skills": [
+        "Talent Acquisition",
+        "Recruitment",
+        "Human Resources Management",
+        "Interviewing",
+        "Applicant Tracking Systems",
+        "Employee Relations",
+        "Onboarding",
+        "Networking",
+        "Job Posting",
+        "Candidate Sourcing"
+      ]
+    },
+    {
+      "name": "Khushbu Sen",
+      "position": "",
+      "employee_id": "Xto_047",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "Agile Methodologies",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Version Control (Git)",
+        "API Development",
+        "Database Management",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Sri Sowmya Guddati",
+      "position": "Customer Success Manager @xto10x | BITS Pilani",
+      "employee_id": "Xto_048",
+      "skills": [
+        "Customer Relationship Management",
+        "Account Management",
+        "Project Management",
+        "Data Analysis",
+        "Salesforce",
+        "Client Retention Strategies",
+        "Business Development",
+        "Communication Skills",
+        "Problem Solving",
+        "Team Collaboration"
+      ]
+    },
+    {
+      "name": "Supriya Maheshwari",
+      "position": "",
+      "employee_id": "Xto_049",
+      "skills": [
+        "Project Management",
+        "Team Leadership",
+        "Strategic Planning",
+        "Budgeting",
+        "Risk Assessment",
+        "Stakeholder Management",
+        "Microsoft Office",
+        "Data Analysis",
+        "Communication Skills",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Saurabh Aul",
+      "position": "xto10x | ex-Paytm | FMS Delhi",
+      "employee_id": "Xto_050",
+      "skills": [
+        "Product Management",
+        "Business Strategy",
+        "Financial Analysis",
+        "Market Research",
+        "Data Analytics",
+        "Project Management",
+        "Stakeholder Management",
+        "Team Leadership",
+        "Digital Payments",
+        "Startup Ecosystem"
+      ]
+    },
+    {
+      "name": "Siddharth M.",
+      "position": "Execution Excellence at xto10x | ex-Deloitte | IIM Lucknow",
+      "employee_id": "Xto_051",
+      "skills": [
+        "Project Management",
+        "Process Improvement",
+        "Data Analysis",
+        "Business Strategy",
+        "Performance Metrics",
+        "Operational Excellence",
+        "Stakeholder Management",
+        "Consulting",
+        "Strategic Planning",
+        "Change Management"
+      ]
+    },
+    {
+      "name": "Bikashjyoti Das",
+      "position": "Summer Intern @xto10x | IIM L PGP '26 | Ex- L&T | NIT Silchar'22",
+      "employee_id": "Xto_052",
+      "skills": [
+        "Project Management",
+        "Data Analysis",
+        "Engineering Design",
+        "Construction Management",
+        "Microsoft Excel",
+        "AutoCAD",
+        "Team Collaboration",
+        "Problem Solving",
+        "Technical Writing",
+        "Research"
+      ]
+    },
+    {
+      "name": "Ashwath S.",
+      "position": "Growth Catalyst @ xto10x",
+      "employee_id": "Xto_053",
+      "skills": [
+        "Growth Strategy",
+        "Market Analysis",
+        "Business Development",
+        "Data Analytics",
+        "Customer Acquisition",
+        "Product Management",
+        "Sales Optimization",
+        "Digital Marketing",
+        "Performance Metrics",
+        "Competitive Analysis"
+      ]
+    },
+    {
+      "name": "Sri Sowmya Guddati",
+      "position": "Customer Success Manager @xto10x | BITS Pilani",
+      "employee_id": "Xto_054",
+      "skills": [
+        "Customer Relationship Management",
+        "Account Management",
+        "Data Analysis",
+        "Project Management",
+        "Salesforce",
+        "Client Communication",
+        "Problem Solving",
+        "Team Collaboration",
+        "Product Knowledge",
+        "Performance Metrics"
+      ]
+    },
+    {
+      "name": "Tejasvee Srikantan",
+      "position": "Engineering | Walmart | xto10x | Flipkart",
+      "employee_id": "Xto_055",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "E-commerce",
+        "Retail Technology",
+        "Agile Methodologies",
+        "Java",
+        "Python",
+        "Data Analysis",
+        "Cloud Computing",
+        "Product Management"
+      ]
+    },
+    {
+      "name": "Vishisht Kedia",
+      "position": "",
+      "employee_id": "Xto_056",
+      "skills": [
+        "Software Development",
+        "Project Management",
+        "Agile Methodologies",
+        "JavaScript",
+        "Python",
+        "SQL",
+        "Cloud Computing",
+        "System Design",
+        "API Integration",
+        "Version Control"
+      ]
+    },
+    {
+      "name": "Surabhi Kedia",
+      "position": "Engineering @Wayfair | xTo10x | Informatica | Backend Developer",
+      "employee_id": "Xto_057",
+      "skills": [
+        "Backend Development",
+        "Java",
+        "SQL",
+        "Python",
+        "API Development",
+        "Microservices",
+        "Cloud Computing",
+        "Data Integration",
+        "Software Engineering",
+        "System Design"
+      ]
+    },
+    {
+      "name": "Luz KIRK",
+      "position": "General at xto10x",
+      "employee_id": "Xto_058",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Business Development",
+        "Project Management",
+        "Team Management",
+        "Market Analysis",
+        "Operational Efficiency",
+        "Financial Analysis",
+        "Decision Making",
+        "Communication"
+      ]
+    },
+    {
+      "name": "Mahathi Gopalakrishnan",
+      "position": "Prev. McKinsey, xto10x",
+      "employee_id": "Xto_059",
+      "skills": [
+        "Management Consulting",
+        "Strategic Planning",
+        "Data Analysis",
+        "Business Development",
+        "Market Research",
+        "Project Management",
+        "Financial Modeling",
+        "Performance Improvement",
+        "Client Relations",
+        "Leadership"
+      ]
+    },
+    {
+      "name": "Sushanth Hegde",
+      "position": "Product Designer 2 @Microsoft | Ex - xto10x, Nuclei | MS HCI @UMD",
+      "employee_id": "Xto_060",
+      "skills": [
+        "Product Design",
+        "User Experience (UX) Design",
+        "Human-Computer Interaction (HCI)",
+        "Prototyping",
+        "Wireframing",
+        "Adobe XD",
+        "Sketch",
+        "Figma",
+        "Usability Testing",
+        "Interaction Design"
+      ]
+    },
+    {
+      "name": "Luz KIRK",
+      "position": "General at xto10x",
+      "employee_id": "Xto_061",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Business Development",
+        "Team Management",
+        "Operational Efficiency",
+        "Financial Analysis",
+        "Market Research",
+        "Decision Making",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Smriti Pillai",
+      "position": "SDE-1 at xto10x | Ex - Exotel",
+      "employee_id": "Xto_062",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "SQL",
+        "Software Development",
+        "API Integration",
+        "Microservices",
+        "Agile Methodologies",
+        "Version Control (Git)",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Manu Sharma",
+      "position": "Engineering @ xto10x | ReactJs, JavaScript, Typescript, Node.js",
+      "employee_id": "Xto_063",
+      "skills": [
+        "ReactJs",
+        "JavaScript",
+        "Typescript",
+        "Node.js",
+        "Web Development",
+        "Frontend Development",
+        "Backend Development",
+        "Software Engineering",
+        "API Development",
+        "Version Control"
+      ]
+    },
+    {
+      "name": "Praneeth Gummalla",
+      "position": "SDE-1 @xto10x | IIT BHU '23",
+      "employee_id": "Xto_064",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "Data Structures",
+        "Algorithms",
+        "Software Development",
+        "Web Development",
+        "SQL",
+        "Git",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Sushanth Hegde",
+      "position": "Product Designer 2 @Microsoft | Ex - xto10x, Nuclei | MS HCI @UMD",
+      "employee_id": "Xto_065",
+      "skills": [
+        "Product Design",
+        "User Experience (UX) Design",
+        "Human-Computer Interaction (HCI)",
+        "Prototyping",
+        "Wireframing",
+        "User Research",
+        "Interaction Design",
+        "Adobe XD",
+        "Sketch",
+        "Figma"
+      ]
+    },
+    {
+      "name": "MUKUL SHARMA",
+      "position": "SDE2 @Egencia Amex GBT | Ex- XTO10X | Ex- HashedIn(Deloitte) | Java | SpringBoot | PHP | Laravel | Python",
+      "employee_id": "Xto_066",
+      "skills": [
+        "Java",
+        "SpringBoot",
+        "PHP",
+        "Laravel",
+        "Python",
+        "Software Development",
+        "Web Development",
+        "Backend Development",
+        "API Development",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "Aashish Solanky",
+      "position": "Hexaware | IIM Lucknow | xto10x | Cognizant | Unstop Global Rank 29 (2023)",
+      "employee_id": "Xto_067",
+      "skills": [
+        "Project Management",
+        "Business Strategy",
+        "Data Analysis",
+        "Consulting",
+        "Leadership",
+        "Market Research",
+        "Competitive Analysis",
+        "Team Collaboration",
+        "Client Relations",
+        "Process Improvement"
+      ]
+    },
+    {
+      "name": "Digvijay Chand Yaduka",
+      "position": "xto10x \u2022 ex-upGrad \u2022 BTech, IIT Bombay \u2022 Cognitive Science, University of Vienna",
+      "employee_id": "Xto_068",
+      "skills": [
+        "Project Management",
+        "Educational Technology",
+        "Cognitive Science",
+        "Data Analysis",
+        "Python",
+        "Machine Learning",
+        "Product Development",
+        "Strategic Planning",
+        "Business Analytics",
+        "Software Development"
+      ]
+    },
+    {
+      "name": "Punit Bhatia",
+      "position": "",
+      "employee_id": "Xto_069",
+      "skills": [
+        "Project Management",
+        "Software Development",
+        "Agile Methodologies",
+        "Team Leadership",
+        "Problem Solving",
+        "Technical Documentation",
+        "Quality Assurance",
+        "System Design",
+        "Stakeholder Management",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "name": "Chaitanya Avatapalli",
+      "position": "Rebuilding the world's trust in its food | Founder's Office at The Whole Truth",
+      "employee_id": "Xto_070",
+      "skills": [
+        "Project Management",
+        "Food Safety",
+        "Quality Assurance",
+        "Supply Chain Management",
+        "Data Analysis",
+        "Stakeholder Management",
+        "Market Research",
+        "Business Strategy",
+        "Product Development",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Bhavesh Parvatkar",
+      "position": "SDE 2 at xto10x",
+      "employee_id": "Xto_071",
+      "skills": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Microservices",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Pranjali Manjarekar",
+      "position": "Strategic Initiatives at xto10x",
+      "employee_id": "Xto_072",
+      "skills": [
+        "Strategic Planning",
+        "Project Management",
+        "Data Analysis",
+        "Business Development",
+        "Market Research",
+        "Financial Analysis",
+        "Process Improvement",
+        "Stakeholder Management",
+        "Performance Metrics",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "name": "Neha Sharma",
+      "position": "Chartered Accountant | Fin & Compliance Manager at Flash.co | x- xto10x Technologies | x- Infosys | x- Capgemini",
+      "employee_id": "Xto_073",
+      "skills": [
+        "Financial Analysis",
+        "Compliance Management",
+        "Taxation",
+        "Auditing",
+        "Financial Reporting",
+        "Risk Management",
+        "Budgeting",
+        "SAP",
+        "Excel",
+        "Regulatory Compliance"
+      ]
+    },
+    {
+      "name": "Shantanu Jaiswal",
+      "position": "Helping Startups Scale | Customer Success Manager | Ex- Pixis",
+      "employee_id": "Xto_074",
+      "skills": [
+        "Customer Success Management",
+        "Startup Scaling",
+        "Project Management",
+        "Client Relationship Management",
+        "Salesforce",
+        "Data Analysis",
+        "Team Leadership",
+        "Strategic Planning",
+        "CRM Software",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Ashu Yadav",
+      "position": "Engineering | StatusNeo | xto10x | Shiprocket | IIIT Jabalpur'21",
+      "employee_id": "Xto_075",
+      "skills": [
+        "Software Engineering",
+        "Product Development",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Agile Methodologies",
+        "System Design",
+        "API Development",
+        "Cloud Computing",
+        "Data Structures"
+      ]
+    },
+    {
+      "name": "Ashish Mishra",
+      "position": "Senior Software Engineer, Full stack developer",
+      "employee_id": "Xto_076",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "SQL",
+        "MongoDB",
+        "RESTful APIs",
+        "Git",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Moidin Afsan",
+      "position": "Growth@xto10x | XLRI '22 | RVCE '19",
+      "employee_id": "Xto_077",
+      "skills": [
+        "Growth Strategy",
+        "Data Analysis",
+        "Market Research",
+        "Business Development",
+        "Project Management",
+        "Customer Acquisition",
+        "Sales Strategy",
+        "Performance Metrics",
+        "Competitive Analysis",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Angad Dubey",
+      "position": "Enigneering at Microsoft | ex- xto10x, Tata Steel | CSE, NIT Jamshedpur | Navodayan",
+      "employee_id": "Xto_078",
+      "skills": [
+        "Software Engineering",
+        "Microsoft Technologies",
+        "C++",
+        "Python",
+        "Java",
+        "Data Structures",
+        "Algorithms",
+        "System Design",
+        "Cloud Computing",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "Prisha Goel",
+      "position": "SDE-1 @ xto10x | Ex-Intern @ Fidelity & CoffeeBeans | Cisco Campus Ambassador '22 | PES University CSE'25",
+      "employee_id": "Xto_079",
+      "skills": [
+        "Software Development",
+        "Java",
+        "Python",
+        "C++",
+        "Data Structures",
+        "Algorithms",
+        "Web Development",
+        "SQL",
+        "Git",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Dr. Prajyot M.",
+      "position": "VC@Campus Fund | Growth Consulting@xto10x | MBBS | IIM Lucknow | Tata Trusts Scholar | UPSC CSE Interview'22",
+      "employee_id": "Xto_080",
+      "skills": [
+        "Growth Consulting",
+        "Healthcare Management",
+        "Strategic Planning",
+        "Investment Analysis",
+        "Market Research",
+        "Project Management",
+        "Data Analysis",
+        "Business Development",
+        "Leadership",
+        "Public Speaking"
+      ]
+    },
+    {
+      "name": "Mansi Purviya",
+      "position": "Summer intern @xto10x | IIM Lucknow'26 | IEHE'23",
+      "employee_id": "Xto_081",
+      "skills": [
+        "Data Analysis",
+        "Market Research",
+        "Microsoft Excel",
+        "Presentation Skills",
+        "Project Management",
+        "Business Strategy",
+        "Communication Skills",
+        "Team Collaboration",
+        "Problem Solving",
+        "Analytical Thinking"
+      ]
+    },
+    {
+      "name": "Kabir M Joshi",
+      "position": "MPhil at Bayes Business School| Previously helping start-ups Scale at xto10x",
+      "employee_id": "Xto_082",
+      "skills": [
+        "Business Strategy",
+        "Start-up Scaling",
+        "Market Analysis",
+        "Financial Modeling",
+        "Risk Management",
+        "Data Analysis",
+        "Project Management",
+        "Entrepreneurship",
+        "Consulting",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "Kavin Shah",
+      "position": "HBS | xto10x | McKinsey",
+      "employee_id": "Xto_083",
+      "skills": [
+        "Strategic Planning",
+        "Management Consulting",
+        "Business Analysis",
+        "Data Analytics",
+        "Project Management",
+        "Market Research",
+        "Financial Modeling",
+        "Leadership",
+        "Problem Solving",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "name": "Blesson P Jacob",
+      "position": "Org & People Consulting",
+      "employee_id": "Xto_084",
+      "skills": [
+        "Organizational Development",
+        "Change Management",
+        "HR Analytics",
+        "Employee Engagement",
+        "Talent Management",
+        "Leadership Development",
+        "Performance Management",
+        "Workforce Planning",
+        "Succession Planning",
+        "HR Technology"
+      ]
+    },
+    {
+      "name": "Mann Baraiya",
+      "position": "Engineering @ Nightfall AI | xto10x | Juspay",
+      "employee_id": "Xto_085",
+      "skills": [
+        "Software Engineering",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Python",
+        "Java",
+        "JavaScript",
+        "API Development",
+        "Cloud Computing",
+        "Data Structures",
+        "Algorithms"
+      ]
+    },
+    {
+      "name": "Dipika Singh",
+      "position": "Engineering and Digital Technology | Executive Search & Leadership Advisory | Driving Strategic Talent Solutions",
+      "employee_id": "Xto_086",
+      "skills": [
+        "Executive Search",
+        "Leadership Advisory",
+        "Strategic Talent Solutions",
+        "Digital Technology",
+        "Engineering Management",
+        "Talent Acquisition",
+        "Organizational Development",
+        "Technology Strategy",
+        "Project Management",
+        "Stakeholder Engagement"
+      ]
+    },
+    {
+      "name": "Abhishek Deshmukh",
+      "position": "Vice President Corporate Strategy at InMobi Group",
+      "employee_id": "Xto_087",
+      "skills": [
+        "Corporate Strategy",
+        "Business Development",
+        "Market Analysis",
+        "Competitive Intelligence",
+        "Strategic Planning",
+        "Financial Analysis",
+        "Leadership",
+        "Project Management",
+        "Data-Driven Decision Making",
+        "Industry Research"
+      ]
+    },
+    {
+      "name": "Deepak kumar Sethi",
+      "position": "\ud83d\ude80 Growth Marketing Strategist | Performance + Retention | D2C | SaaS | Martech | Expert in Paid Media, Funnels, Retention | CRM | Ex-Xto10x, HealthKart, HomeLane",
+      "employee_id": "Xto_088",
+      "skills": [
+        "Growth Marketing",
+        "Performance Marketing",
+        "Retention Strategies",
+        "D2C Marketing",
+        "SaaS Marketing",
+        "Martech",
+        "Paid Media",
+        "Marketing Funnels",
+        "CRM",
+        "Customer Retention"
+      ]
+    },
+    {
+      "name": "Deepak Talreja",
+      "position": "Regional Sales Head | Unacademy | Vedantu | Toppr | Core - Xto10X",
+      "employee_id": "Xto_089",
+      "skills": [
+        "Sales Strategy",
+        "Team Leadership",
+        "Market Analysis",
+        "CRM Software",
+        "Sales Forecasting",
+        "Customer Relationship Management",
+        "Business Development",
+        "Negotiation",
+        "Performance Metrics",
+        "Sales Training"
+      ]
+    },
+    {
+      "name": "Sneha Rao",
+      "position": "Talent development I Coach (ICF - ACC)",
+      "employee_id": "Xto_090",
+      "skills": [
+        "Coaching",
+        "Talent Development",
+        "Leadership Training",
+        "Employee Engagement",
+        "Performance Management",
+        "Career Counseling",
+        "Conflict Resolution",
+        "Workshop Facilitation",
+        "Mentoring",
+        "ICF Competencies"
+      ]
+    },
+    {
+      "name": "Deekonda Saikrishna",
+      "position": "Bajaj finserv | MDI Gurgaon | ex- People Consultant- xto10x | BYLP- BYJUS | Cat'18- 99.52%ile | XAT' 18- 99.256% | IIIT",
+      "employee_id": "Xto_091",
+      "skills": [
+        "Consulting",
+        "Financial Analysis",
+        "Data Analysis",
+        "Project Management",
+        "Client Relations",
+        "Strategic Planning",
+        "Market Research",
+        "Business Development",
+        "Performance Improvement",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Ankit Agarwal",
+      "position": "Chief of Staff at Wakefit",
+      "employee_id": "Xto_093",
+      "skills": [
+        "Leadership",
+        "Strategic Planning",
+        "Project Management",
+        "Business Development",
+        "Operations Management",
+        "Team Coordination",
+        "Process Improvement",
+        "Market Analysis",
+        "Communication",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Sumegh Garg",
+      "position": "Product Management | Machine Learning | Deep Learning | NLP | Generative AI",
+      "employee_id": "Xto_094",
+      "skills": [
+        "Product Management",
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Generative AI",
+        "Python",
+        "Data Analysis",
+        "Algorithm Development",
+        "Model Evaluation",
+        "AI Ethics"
+      ]
+    },
+    {
+      "name": "Plaban J Rajkhowa",
+      "position": "Crafting Seamless User Experiences | React, Next.js, TypeScript Expert | Product Engineer | Ex-Porter, Xto10x, GeekyAnts",
+      "employee_id": "Xto_095",
+      "skills": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "User Experience Design",
+        "Product Engineering",
+        "JavaScript",
+        "Front-End Development",
+        "Web Development",
+        "Software Development",
+        "UI/UX Design"
+      ]
+    },
+    {
+      "name": "Salmon Shaji",
+      "position": "Customer Success @ Astra Security | Helping Businesses Stay Secure & Succeed",
+      "employee_id": "Xto_096",
+      "skills": [
+        "Customer Success Management",
+        "Cybersecurity",
+        "Client Relationship Management",
+        "Security Solutions",
+        "Technical Support",
+        "Incident Response",
+        "Account Management",
+        "Business Development",
+        "Risk Assessment",
+        "Software Proficiency"
+      ]
+    },
+    {
+      "name": "Tuhina Panda",
+      "position": "Talent Development, Product Development and Customer Success",
+      "employee_id": "Xto_097",
+      "skills": [
+        "Talent Development",
+        "Product Development",
+        "Customer Success",
+        "Project Management",
+        "Training and Development",
+        "Product Lifecycle Management",
+        "Customer Relationship Management (CRM)",
+        "Market Research",
+        "Performance Analysis",
+        "Team Leadership"
+      ]
+    },
+    {
+      "name": "Tanushree Kanathe",
+      "position": "Customer Success Manager | SaaS Expert | Client Retention & Growth Specialist",
+      "employee_id": "Xto_098",
+      "skills": [
+        "Customer Relationship Management",
+        "SaaS Solutions",
+        "Client Retention Strategies",
+        "Account Management",
+        "Salesforce",
+        "Data Analysis",
+        "Customer Success Metrics",
+        "Project Management",
+        "Communication Skills",
+        "Client Growth Strategies"
+      ]
+    },
+    {
+      "name": "Preeti Sheokand",
+      "position": "Designing for AI | CUX Designer | Enterprise UX Designer",
+      "employee_id": "Xto_099",
+      "skills": [
+        "AI Design",
+        "User Experience (UX) Design",
+        "Enterprise UX",
+        "Customer Experience (CUX) Design",
+        "Wireframing",
+        "Prototyping",
+        "User Research",
+        "Interaction Design",
+        "Usability Testing",
+        "Design Thinking"
+      ]
+    },
+    {
+      "name": "Raghavan Vallinayagam",
+      "position": "Director - HR | Scaling high-impact orgs | Data-led, AI-enabled people strategy, Capability, Succession | APAC | EMEA | NA",
+      "employee_id": "Xto_100",
+      "skills": [
+        "HR Strategy",
+        "Organizational Scaling",
+        "Data Analysis",
+        "AI in HR",
+        "Capability Development",
+        "Succession Planning",
+        "APAC Market Expertise",
+        "EMEA Market Expertise",
+        "NA Market Expertise",
+        "People Analytics"
+      ]
+    }
+  ]
+}
